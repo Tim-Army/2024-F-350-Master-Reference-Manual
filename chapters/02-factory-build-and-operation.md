@@ -16,7 +16,7 @@ From the window sticker (REF-003). This supersedes the earlier "recorded in proj
 
 - **360-Degree Camera Package** - factory option, $1,150.
 - Rear View Camera (standard).
-- **BLIS (Blind Spot Information System)**.
+- **BLIS (Blind Spot Information System)** - :warning: **fitted, but reported defective.** The 2026 Ford buyback cites Cross Traffic / Blind Spot sensors not operating correctly; no repair is on record. See [chapter 14](14-vehicle-history-and-title.md). Do not rely on BLIS or Cross Traffic Alert until verified.
 - Reverse Sensing System.
 - Pre-Collision Assist with AEB (standard).
 
@@ -31,6 +31,15 @@ From the window sticker (REF-003). This supersedes the earlier "recorded in proj
 - FX4 Off-Road Package with skid plates; Platform Running Boards.
 - Tough Bed spray-in bedliner; cloth 40/console/40 seating; carpet delete.
 - Front license plate bracket; jack; 50-state emissions.
+
+### Known defects of record
+
+From the buyback disclosure (REF-022), not repaired on record:
+
+- Cross Traffic / Blind Spot sensors do not operate correctly.
+- Passenger-side window does not operate correctly.
+
+Full context and a verification list are in [chapter 14](14-vehicle-history-and-title.md).
 
 ### Still unverified
 

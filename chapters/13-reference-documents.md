@@ -38,9 +38,12 @@ Added with the September 2026 import. These were not in the Edition 1.0 catalog.
 | REF-019 | Super Duty Chassis Cab Pro Power Onboard v2 | `2023_CMY_Super_Duty_Chassis_Cab_Pro_Power_Onboard_v2.pdf` | 11 | **Chassis cab** document - not this truck's configuration; retained for reference only |
 | REF-020 | Quick Start Guide with FCC verbiage (11/2024) | `Quickstart_Guide_with_FCC_Verbiage_11_2024.pdf` | 3 | Accessory FCC/regulatory statements |
 | REF-021 | Dealer listing images | 17 files (`*.avif`, `*.webp`) | - | Listing photography; pairs with REF-004 |
+| REF-022 | CARFAX Vehicle History Report, run 2026-09-05 | `CarfaxReport_1FT8W3BNXRED73946.pdf` | 11 | VIN-specific; title, ownership, buyback disclosure, 15 service records. Basis for [chapter 14](14-vehicle-history-and-title.md) |
 
 ## Future source intake
 
 Add the Ford Workshop Manual and wiring excerpts as sourced material becomes available. Record publication date, section, vehicle applicability, and any superseding publication.
 
 Still missing after the September 2026 import: the **Ford Workshop Manual** (the single largest gap - see [Appendix A](appendix-a-workshop-manual-intake.md)), the original dealer advertisement (REF-004), and Motorcraft parts documentation for chapter 3.
+
+**Now a priority given the buyback:** the Ford repair orders from the reacquisition period, and any Field Service Action or recall history by VIN. CARFAX records that Ford took the truck back and why, but not what was attempted or fixed. See [chapter 14](14-vehicle-history-and-title.md).

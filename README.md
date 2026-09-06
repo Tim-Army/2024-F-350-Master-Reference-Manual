@@ -4,6 +4,8 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 
 **Edition 1.0 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
 
+:warning: **Read [chapter 14](chapters/14-vehicle-history-and-title.md) first.** This truck is a Ford manufacturer buyback, reacquired 2026-07-01 over a passenger-window fault and **Cross Traffic / Blind Spot sensors that do not operate correctly**. Neither defect is shown as repaired. Odometer 38,278 mi; bumper-to-bumper warranty expired.
+
 ## Vehicle
 
 | Vehicle | Value |
@@ -15,6 +17,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | Engine | 7.3L DEVCT NA PFI gasoline V8, 10-speed TorqShift |
 | Bed / towing context | 8-foot bed; factory 5th Wheel Hitch Prep Package, Gooseneck Hitch Kit, 360-Degree Camera Package, and BLIS (verified on window sticker) |
 | Axle / GVWR | 4.30 electronic-locking; 11,900 lb GVWR package |
+| Odometer / title | 38,278 mi; manufacturer buyback (see chapter 14) |
 
 ## How to use this manual
 
@@ -48,6 +51,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | 11 | [Troubleshooting](chapters/11-troubleshooting.md) |
 | 12 | [3D-Printed Accessories](chapters/12-3d-printed-accessories.md) |
 | 13 | [Reference Documents](chapters/13-reference-documents.md) |
+| 14 | [Vehicle History & Title](chapters/14-vehicle-history-and-title.md) |
 | A | [Appendix A. Future Workshop Manual Intake](chapters/appendix-a-workshop-manual-intake.md) |
 
 ## Repository layout
@@ -73,3 +77,4 @@ Chapters 3, 6, and much of 5, 7, and 11 are deliberate placeholders. They are po
 | --- | --- | --- |
 | 1.0 | September 2026 | Initial compiled reference; placeholders retained for WSM data |
 | 1.1 | September 2026 | Ford document library imported (REF-013 - REF-021); build data verified from window sticker |
+| 1.2 | September 2026 | CARFAX imported (REF-022); chapter 14 added; manufacturer buyback recorded; service history populated |

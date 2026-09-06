@@ -18,10 +18,15 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 | Exterior / interior | Carbonized Gray / Medium Dark Slate cloth | REF-003 |
 | Equipment package | Preferred Equipment Package 613A | REF-003 |
 | GVWR package | 11,900 lb | REF-003 |
-| Selling dealer | Friendship Ford, West State St., Bristol, Tennessee 37621 | REF-003 |
+| Original selling dealer | Friendship Ford, West State St., Bristol, Tennessee 37621 | REF-003 |
+| Current listing dealer | Northside Ford Lincoln, Effingham, Illinois | REF-022 |
+| Odometer (last reported) | 38,278 mi (2026-08-25) | REF-022 |
+| Title status | Manufacturer buyback; MI title #MI0030735498 | REF-022 |
 | Order reference | KTP-004635 / RD091, unit 004635 | REF-003 |
 
-> **Open discrepancy.** Earlier project notes recorded a dealer archive for *Northside Ford Lincoln, Effingham, Illinois*, while the window sticker shows the vehicle sold to *Friendship Ford, Bristol, Tennessee*. The sticker is the build-time record; the Illinois dealer may be a later resale listing. Reconcile before treating either as the purchase source.
+> **Dealer discrepancy resolved.** Both dealers are genuine and sequential: *Friendship Ford, Bristol, Tennessee* sold the truck new in 2024; *Northside Ford Lincoln, Effingham, Illinois* listed it in August 2026 after Ford reacquired it. See [chapter 14](14-vehicle-history-and-title.md).
+
+> :warning: **This vehicle is a Ford manufacturer buyback** (reacquired 2026-07-01), with two cited defects not shown as repaired. Read [chapter 14](14-vehicle-history-and-title.md) before acting on anything else in this manual.
 
 ## Pricing record (as built)
 
@@ -43,6 +48,8 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 
 The sticker also lists 5 years / 100,000 miles diesel engine coverage; this is boilerplate and does not apply to the 7.3L gasoline configuration.
 
+**At 38,278 miles the bumper-to-bumper coverage has expired.** See [chapter 14](14-vehicle-history-and-title.md) for current warranty position and the effect of the buyback.
+
 ## Scope and confidence
 
 This manual uses four labels:
@@ -58,4 +65,5 @@ This manual uses four labels:
 | --- | --- | --- |
 | 2026-09-06 | | Master reference manual initial edition |
 | 2026-09-06 | | Build sheet and Ford document library imported; build data verified |
+| 2026-09-06 | 38,278 | CARFAX imported; manufacturer buyback and full service history recorded (chapter 14) |
 | | | |
