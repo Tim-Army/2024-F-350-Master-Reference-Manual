@@ -1,0 +1,1945 @@
+<title>F-350 Master Reference</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+/* ---- tokens: complete light palette on bare :root ---- */
+:root{
+  --ground:#e9ecee;
+  --surface:#ffffff;
+  --surface-2:#f2f5f6;
+  --plate:#1e242a;
+  --plate-ink:#dde3e7;
+  --ink:#15181b;
+  --ink-2:#4b555d;
+  --ink-3:#727d86;
+  --rule:#c9d1d6;
+  --rule-2:#e1e6e9;
+  --accent:#35576f;
+  --accent-2:#5c8299;
+  --accent-soft:#dce6ed;
+  --caution:#8a5512;
+  --caution-bg:#f8efdf;
+  --caution-rule:#e3cfa8;
+  --critical:#93291e;
+  --critical-bg:#f9e8e5;
+  --critical-rule:#e5c2bb;
+  --ok:#2f5d3f;
+  --ok-bg:#e2eee7;
+  --shadow:0 1px 2px rgba(21,24,27,.06),0 8px 24px -12px rgba(21,24,27,.18);
+  --sans:"Source Sans 3",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  --disp:"Archivo",var(--sans);
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  --rail:252px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#111518;
+    --surface:#191e22;
+    --surface-2:#20262b;
+    --plate:#0c0f12;
+    --plate-ink:#c8d1d7;
+    --ink:#e6eaec;
+    --ink-2:#a8b3ba;
+    --ink-3:#7d888f;
+    --rule:#333b41;
+    --rule-2:#262d33;
+    --accent:#8fb4cc;
+    --accent-2:#6d93ac;
+    --accent-soft:#1d2a34;
+    --caution:#e0ab5f;
+    --caution-bg:#2b2113;
+    --caution-rule:#4d3c1e;
+    --critical:#e79286;
+    --critical-bg:#2e1a17;
+    --critical-rule:#542b25;
+    --ok:#8fc4a2;
+    --ok-bg:#16261c;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#111518;
+  --surface:#191e22;
+  --surface-2:#20262b;
+  --plate:#0c0f12;
+  --plate-ink:#c8d1d7;
+  --ink:#e6eaec;
+  --ink-2:#a8b3ba;
+  --ink-3:#7d888f;
+  --rule:#333b41;
+  --rule-2:#262d33;
+  --accent:#8fb4cc;
+  --accent-2:#6d93ac;
+  --accent-soft:#1d2a34;
+  --caution:#e0ab5f;
+  --caution-bg:#2b2113;
+  --caution-rule:#4d3c1e;
+  --critical:#e79286;
+  --critical-bg:#2e1a17;
+  --critical-rule:#542b25;
+  --ok:#8fc4a2;
+  --ok-bg:#16261c;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.6);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--ground);
+  color:var(--ink);
+  font:400 16px/1.65 var(--sans);
+  margin:0;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:var(--accent);text-underline-offset:2px;text-decoration-thickness:1px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+
+/* ---- shell ---- */
+.shell{display:grid;grid-template-columns:var(--rail) minmax(0,1fr);gap:0;max-width:1320px;margin:0 auto}
+
+/* ---- chapter rail ---- */
+.rail{
+  position:sticky;top:0;align-self:start;height:100vh;overflow-y:auto;
+  border-right:1px solid var(--rule);background:var(--surface-2);
+  padding:22px 0 40px;
+}
+.rail-brand{padding:0 18px 16px;border-bottom:1px solid var(--rule-2);margin-bottom:10px}
+.rail-brand .mark{
+  font:600 11px/1 var(--disp);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);
+  display:block;margin-bottom:6px;
+}
+.rail-brand .vin{font:500 12.5px/1.3 var(--mono);color:var(--ink-2);word-break:break-all}
+.rail ol{list-style:none;margin:0;padding:0}
+.rail li a{
+  display:flex;gap:11px;align-items:baseline;
+  padding:6px 18px;text-decoration:none;color:var(--ink-2);font-size:14.5px;line-height:1.35;
+  border-left:2px solid transparent;
+}
+.rail li a:hover{color:var(--ink);background:var(--accent-soft)}
+.rail li a.active{color:var(--ink);border-left-color:var(--accent);background:var(--accent-soft);font-weight:600}
+.rail-num{
+  font:500 11px/1.5 var(--mono);color:var(--ink-3);
+  font-variant-numeric:tabular-nums;flex:0 0 18px;
+}
+.rail li a.active .rail-num{color:var(--accent)}
+.rail-sep{
+  font:600 10px/1 var(--disp);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);
+  padding:18px 18px 7px;margin-top:8px;border-top:1px solid var(--rule-2);
+}
+
+/* ---- main ---- */
+main{padding:0 0 96px;min-width:0}
+.wrap{max-width:74ch;padding:0 44px}
+
+/* ---- build plate ---- */
+.plate{background:var(--plate);color:var(--plate-ink);padding:36px 44px 30px;margin-bottom:0}
+.plate .eyebrow{
+  font:600 10.5px/1 var(--disp);letter-spacing:.18em;text-transform:uppercase;
+  color:#8b979f;margin:0 0 12px;
+}
+.plate h1{
+  font:700 clamp(29px,4.1vw,44px)/1.08 var(--disp);
+  letter-spacing:-.018em;margin:0 0 6px;color:#fff;text-wrap:balance;
+}
+.plate .sub{font-size:15.5px;color:#9aa6ae;margin:0 0 26px;max-width:56ch}
+.spec{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));
+  gap:0;border-top:1px solid #39434b;
+}
+.spec div{padding:13px 16px 12px;border-bottom:1px solid #39434b;border-right:1px solid #39434b}
+.spec dt{
+  font:600 9.5px/1 var(--disp);letter-spacing:.14em;text-transform:uppercase;
+  color:#8b979f;margin:0 0 6px;
+}
+.spec dd{margin:0;font:500 14px/1.35 var(--mono);color:#e8edf0;font-variant-numeric:tabular-nums}
+
+/* ---- alert ---- */
+.alert{
+  margin:0;padding:26px 44px;
+  background:var(--critical-bg);border-bottom:1px solid var(--critical-rule);
+}
+.alert h2{
+  font:700 14px/1.3 var(--disp);letter-spacing:.02em;text-transform:uppercase;
+  color:var(--critical);margin:0 0 9px;display:flex;align-items:center;gap:9px;
+}
+.alert h2::before{
+  content:"";width:9px;height:9px;background:var(--critical);
+  transform:rotate(45deg);flex:0 0 auto;
+}
+.alert p{margin:0 0 9px;max-width:66ch;font-size:15.5px;color:var(--ink)}
+.alert p:last-child{margin-bottom:0}
+.alert ol{margin:0 0 10px;padding-left:20px;max-width:66ch;font-size:15.5px}
+.alert a{color:var(--critical);font-weight:600}
+
+/* ---- sections ---- */
+.section{padding:44px 0 8px;scroll-margin-top:0}
+.section+.section{border-top:1px solid var(--rule)}
+.section-head{
+  display:flex;gap:14px;align-items:baseline;
+  max-width:74ch;padding:0 44px;margin-bottom:20px;
+}
+.section-num{
+  font:500 12px/1.9 var(--mono);color:var(--accent);font-variant-numeric:tabular-nums;
+  flex:0 0 auto;padding-top:1px;
+}
+.section h2{
+  font:700 clamp(22px,2.6vw,29px)/1.16 var(--disp);
+  letter-spacing:-.012em;margin:0;text-wrap:balance;
+}
+.section>*:not(.section-head):not(.tablewrap):not(blockquote){max-width:74ch;padding:0 44px}
+.section h3{
+  font:600 17px/1.3 var(--disp);margin:34px 0 10px;color:var(--ink);
+  letter-spacing:-.004em;
+}
+.section h4{
+  font:600 11px/1.3 var(--disp);letter-spacing:.11em;text-transform:uppercase;
+  margin:26px 0 8px;color:var(--ink-3);
+}
+.section p{margin:0 0 13px}
+.section>ul,.section>ol{margin:0 0 15px}
+.section ul li,.section ol li{margin-bottom:7px}
+.section ul{list-style:none}
+.section ul li{position:relative;padding-left:17px}
+.section ul li::before{
+  content:"";position:absolute;left:2px;top:.62em;
+  width:5px;height:1.5px;background:var(--accent-2);
+}
+.section ol{list-style:decimal;padding-left:20px}
+.section ol li{padding-left:3px}
+.section ol li::marker{font:500 13px var(--mono);color:var(--accent)}
+strong{font-weight:600}
+
+/* blockquote = the manual's callout convention */
+.section>blockquote{
+  max-width:74ch;margin:18px 44px;padding:15px 18px;
+  border-left:3px solid var(--caution);
+  background:var(--caution-bg);color:var(--ink);
+}
+.section blockquote p{margin:0 0 8px;font-size:15.5px}
+.section blockquote p:last-child{margin-bottom:0}
+.section blockquote strong{color:var(--caution)}
+.section blockquote ol{margin:8px 0 0}
+
+/* ---- tables ---- */
+.tablewrap{overflow-x:auto;padding:0 44px;margin:0 0 20px}
+table{
+  border-collapse:collapse;width:100%;min-width:min(100%,520px);
+  font-size:14.5px;background:var(--surface);
+  border:1px solid var(--rule);
+}
+caption{caption-side:top;text-align:left;font-size:13px;color:var(--ink-3);padding-bottom:7px}
+th{
+  text-align:left;font:600 10.5px/1.3 var(--disp);letter-spacing:.11em;text-transform:uppercase;
+  padding:10px 13px;background:var(--surface-2);color:var(--ink-2);
+  border-bottom:1px solid var(--rule);white-space:nowrap;vertical-align:bottom;
+}
+td{padding:9px 13px;border-bottom:1px solid var(--rule-2);vertical-align:top}
+tr:last-child td{border-bottom:0}
+td:first-child{color:var(--ink);font-weight:600}
+tbody tr:hover td{background:var(--surface-2)}
+/* numeric-looking cells line up */
+td{font-variant-numeric:tabular-nums}
+code{
+  font:400 13px/1.4 var(--mono);background:var(--surface-2);
+  padding:1.5px 5px;border:1px solid var(--rule-2);color:var(--ink-2);
+  word-break:break-word;
+}
+td code{font-size:12.5px}
+
+/* ---- chips ---- */
+.chip{
+  display:inline-block;font:600 10px/1.5 var(--disp);letter-spacing:.07em;text-transform:uppercase;
+  padding:2px 7px;border:1px solid;white-space:nowrap;
+}
+.chip-caution{color:var(--caution);border-color:var(--caution-rule);background:var(--caution-bg)}
+.chip-ok{color:var(--ok);border-color:var(--ok);background:var(--ok-bg)}
+.chip-muted{color:var(--ink-3);border-color:var(--rule);background:var(--surface-2)}
+.local-ref{color:var(--ink-2);text-decoration:none;border-bottom:1px dotted var(--rule)}
+
+/* ---- log sections read as records, not prose ---- */
+.section.log h2{color:var(--ink-2)}
+.section.log .section-num{color:var(--ink-3)}
+
+/* ---- footer ---- */
+.foot{
+  padding:34px 44px 0;max-width:74ch;color:var(--ink-3);font-size:13.5px;
+  border-top:1px solid var(--rule);margin-top:44px;
+}
+.foot p{margin:0 0 7px}
+
+/* ---- responsive ---- */
+@media (max-width:900px){
+  .shell{grid-template-columns:1fr}
+  .rail{
+    position:static;height:auto;border-right:0;border-bottom:1px solid var(--rule);
+    padding:16px 0 12px;
+  }
+  .rail ol{display:flex;flex-wrap:wrap;gap:2px 0;padding:0 10px}
+  .rail li a{padding:5px 9px;border-left:0;border-bottom:2px solid transparent}
+  .rail li a.active{border-left:0;border-bottom-color:var(--accent)}
+  .rail-label{display:none}
+  .rail-sep{display:none}
+  .rail-brand{padding:0 18px 12px}
+  .plate,.alert,.wrap,.tablewrap,.section-head,.foot,
+  .section>*:not(.section-head):not(.tablewrap):not(blockquote){padding-left:20px;padding-right:20px}
+  .section>blockquote{margin-left:20px;margin-right:20px}
+  .spec{grid-template-columns:repeat(auto-fit,minmax(132px,1fr))}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+@media print{
+  .rail{display:none}
+  .shell{display:block}
+  body{background:#fff}
+  .section{break-inside:auto;page-break-inside:auto}
+  .section h2,.section h3{break-after:avoid}
+  table{break-inside:auto}
+}
+</style>
+
+<div class="shell">
+<nav class="rail" aria-label="Chapters">
+  <div class="rail-brand">
+    <span class="mark">2024 F-350 Super Duty</span>
+    <span class="vin">1FT8W3BNXRED73946</span>
+  </div>
+  <ol>
+<li><a href="#c01" data-anchor="c01"><span class="rail-num">01</span><span class="rail-label">Vehicle Information</span></a></li>
+<li><a href="#c02" data-anchor="c02"><span class="rail-num">02</span><span class="rail-label">Factory Build &amp; Operation</span></a></li>
+<li><a href="#c03" data-anchor="c03"><span class="rail-num">03</span><span class="rail-label">OEM Parts Catalog</span></a></li>
+<li><a href="#c04" data-anchor="c04"><span class="rail-num">04</span><span class="rail-label">Maintenance &amp; Service</span></a></li>
+<li><a href="#c05" data-anchor="c05"><span class="rail-num">05</span><span class="rail-label">Torque Specifications</span></a></li>
+<li><a href="#c06" data-anchor="c06"><span class="rail-num">06</span><span class="rail-label">Fluids &amp; Capacities</span></a></li>
+<li><a href="#c07" data-anchor="c07"><span class="rail-num">07</span><span class="rail-label">Electrical Atlas</span></a></li>
+<li><a href="#c08" data-anchor="c08"><span class="rail-num">08</span><span class="rail-label">FORScan &amp; Programming</span></a></li>
+<li><a href="#c09" data-anchor="c09"><span class="rail-num">09</span><span class="rail-label">Accessories &amp; Mods</span></a></li>
+<li><a href="#c10" data-anchor="c10"><span class="rail-num">10</span><span class="rail-label">Fifth-Wheel &amp; Towing</span></a></li>
+<li><a href="#c11" data-anchor="c11"><span class="rail-num">11</span><span class="rail-label">Troubleshooting</span></a></li>
+<li><a href="#c12" data-anchor="c12"><span class="rail-num">12</span><span class="rail-label">3D-Printed Accessories</span></a></li>
+<li><a href="#c13" data-anchor="c13"><span class="rail-num">13</span><span class="rail-label">Reference Documents</span></a></li>
+<li><a href="#c14" data-anchor="c14"><span class="rail-num">14</span><span class="rail-label">Vehicle History &amp; Title</span></a></li>
+<li><a href="#apxa" data-anchor="apxa"><span class="rail-num">A</span><span class="rail-label">Appendix A. WSM Intake</span></a></li>
+<li class="rail-sep">Running records</li>
+<li><a href="#log-service" data-anchor="log-service"><span class="rail-num">L1</span><span class="rail-label">Service Log</span></a></li>
+<li><a href="#log-module" data-anchor="log-module"><span class="rail-num">L2</span><span class="rail-label">Module Change Log</span></a></li>
+<li><a href="#log-accessory" data-anchor="log-accessory"><span class="rail-num">L3</span><span class="rail-label">Accessory Record</span></a></li>
+<li><a href="#log-scale" data-anchor="log-scale"><span class="rail-num">L4</span><span class="rail-label">Scale Weights</span></a></li>
+  </ol>
+</nav>
+
+<main>
+  <header class="plate">
+    <p class="eyebrow">Master Reference Manual &middot; Edition 1.2</p>
+    <h1>2024 Ford F-350 Super Duty</h1>
+    <p class="sub">VIN-specific ownership, towing, and service reference. Compiled from Ford OEM publications, the original window sticker, and the vehicle history report.</p>
+    <dl class="spec">
+      <div><dt>VIN</dt><dd>1FT8W3BNXRED73946</dd></div>
+      <div><dt>Configuration</dt><dd>SRW 4X4 Crew Cab</dd></div>
+      <div><dt>Engine</dt><dd>7.3L PFI V8</dd></div>
+      <div><dt>Transmission</dt><dd>10-spd TorqShift</dd></div>
+      <div><dt>Wheelbase</dt><dd>176 in</dd></div>
+      <div><dt>Rear axle</dt><dd>4.30 e-locking</dd></div>
+      <div><dt>GVWR pkg</dt><dd>11,900 lb</dd></div>
+      <div><dt>Odometer</dt><dd>38,278 mi</dd></div>
+      <div><dt>Plant</dt><dd>Kentucky Truck</dd></div>
+      <div><dt>Built</dt><dd>23 Apr 2024</dd></div>
+      <div><dt>Paint</dt><dd>Carbonized Gray</dd></div>
+      <div><dt>Title</dt><dd>Mfr. buyback</dd></div>
+    </dl>
+  </header>
+
+  <div class="alert">
+    <h2>Manufacturer buyback &mdash; unrepaired defects of record</h2>
+    <p>Ford Motor Company reacquired this truck on <strong>1 July 2026</strong> under state consumer warranty law. Ford cited two defects:</p>
+    <ol>
+      <li>The passenger-side window does not operate correctly.</li>
+      <li><strong>The Cross Traffic / Blind Spot sensors do not operate correctly.</strong></li>
+    </ol>
+    <p>The only repair recorded afterward is a lamp assembly on 10 August 2026, which matches neither fault. <strong>Nothing on record shows either defect was repaired</strong> before the 25 August 2026 auction and resale. Verify both directly &mdash; blind-spot coverage bears on the fifth-wheel workflow in <a href="#c10">chapter 10</a>. Full history and a verification list: <a href="#c14">chapter 14</a>.</p>
+  </div>
+
+<section class="section chapter" id="c01">
+  <div class="section-head"><span class="section-num">01</span><h2>1. Vehicle Information</h2></div>
+<h3 id="identity-and-configuration">Identity and configuration</h3>
+<p>Verified against the window sticker / build sheet (REF-003, held
+locally as <code>imports/truck-f350/ford.pdf</code>).</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Recorded information</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>VIN</td>
+<td>1FT8W3BNXRED73946</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Manufacturer / type</td>
+<td>Ford Motor Company / truck</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Model year code</td>
+<td>R = 2024</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Plant code</td>
+<td>E = Kentucky Truck Plant, Louisville</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Model</td>
+<td>2024 F-350 SRW 4X4 Crew Cab, XLT, 176" wheelbase Styleside</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Engine</td>
+<td>7.3L DEVCT NA PFI V8, gasoline</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Transmission</td>
+<td>10-speed automatic TorqShift</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Rear axle</td>
+<td>4.30 electronic-locking</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Tires</td>
+<td>LT275/70R18E BSW all-terrain</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Exterior / interior</td>
+<td>Carbonized Gray / Medium Dark Slate cloth</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Equipment package</td>
+<td>Preferred Equipment Package 613A</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>GVWR package</td>
+<td>11,900 lb</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Original selling dealer</td>
+<td>Friendship Ford, West State St., Bristol, Tennessee 37621</td>
+<td>REF-003</td>
+</tr>
+<tr>
+<td>Current listing dealer</td>
+<td>Northside Ford Lincoln, Effingham, Illinois</td>
+<td>REF-022</td>
+</tr>
+<tr>
+<td>Odometer (last reported)</td>
+<td>38,278 mi (2026-08-25)</td>
+<td>REF-022</td>
+</tr>
+<tr>
+<td>Title status</td>
+<td>Manufacturer buyback; MI title #MI0030735498</td>
+<td>REF-022</td>
+</tr>
+<tr>
+<td>Order reference</td>
+<td>KTP-004635 / RD091, unit 004635</td>
+<td>REF-003</td>
+</tr>
+</tbody>
+</table></div>
+<blockquote>
+<p><strong>Dealer discrepancy resolved.</strong> Both dealers are
+genuine and sequential: <em>Friendship Ford, Bristol, Tennessee</em>
+sold the truck new in 2024; <em>Northside Ford Lincoln, Effingham,
+Illinois</em> listed it in August 2026 after Ford reacquired it. See <a
+href="#c14">chapter 14</a>.</p>
+</blockquote>
+<blockquote>
+<p><span class="emoji" data-emoji="warning">⚠️</span> <strong>This
+vehicle is a Ford manufacturer buyback</strong> (reacquired 2026-07-01),
+with two cited defects not shown as repaired. Read <a
+href="#c14">chapter 14</a> before acting on
+anything else in this manual.</p>
+</blockquote>
+<h3 id="pricing-record-as-built">Pricing record (as built)</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Line</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Base price</td>
+<td>$56,760.00</td>
+</tr>
+<tr>
+<td>Total options / other</td>
+<td>$5,610.00</td>
+</tr>
+<tr>
+<td>Total vehicle &amp; options</td>
+<td>$62,370.00</td>
+</tr>
+<tr>
+<td>Destination &amp; delivery</td>
+<td>$1,995.00</td>
+</tr>
+<tr>
+<td><strong>Total MSRP</strong></td>
+<td><strong>$64,365.00</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="warranty-as-delivered">Warranty (as delivered)</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Coverage</th>
+<th>Term</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bumper to bumper</td>
+<td>3 years / 36,000 miles</td>
+</tr>
+<tr>
+<td>Powertrain</td>
+<td>5 years / 60,000 miles</td>
+</tr>
+<tr>
+<td>Roadside assistance</td>
+<td>5 years / 60,000 miles</td>
+</tr>
+</tbody>
+</table></div>
+<p>The sticker also lists 5 years / 100,000 miles diesel engine
+coverage; this is boilerplate and does not apply to the 7.3L gasoline
+configuration.</p>
+<p><strong>At 38,278 miles the bumper-to-bumper coverage has
+expired.</strong> See <a href="#c14">chapter
+14</a> for current warranty position and the effect of the buyback.</p>
+<h3 id="scope-and-confidence">Scope and confidence</h3>
+<p>This manual uses four labels:</p>
+<ul>
+<li><strong>Ford OEM</strong> - official publications.</li>
+<li><strong>Recorded</strong> - project-specific information.</li>
+<li><strong>Planned</strong> - intended purchases or work.</li>
+<li><strong>Confirm with Ford WSM</strong> - data not yet validated
+against current service information.</li>
+</ul>
+<h3 id="ownership-record">Ownership record</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Mileage</th>
+<th>Event / notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2026-09-06</td>
+<td></td>
+<td>Master reference manual initial edition</td>
+</tr>
+<tr>
+<td>2026-09-06</td>
+<td></td>
+<td>Build sheet and Ford document library imported; build data
+verified</td>
+</tr>
+<tr>
+<td>2026-09-06</td>
+<td>38,278</td>
+<td>CARFAX imported; manufacturer buyback and full service history
+recorded (chapter 14)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section chapter" id="c02">
+  <div class="section-head"><span class="section-num">02</span><h2>2. Factory Build & Operation</h2></div>
+<h3 id="verified-factory-equipment">Verified factory equipment</h3>
+<p>From the window sticker (REF-003). This supersedes the earlier
+"recorded in project conversation" status for these items.</p>
+<h4 id="towing-and-payload">Towing and payload</h4>
+<ul>
+<li><strong>5th Wheel Hitch Prep Package</strong> and <strong>Gooseneck
+Hitch Kit</strong> - both factory-fitted, confirming the
+fifth-wheel/gooseneck preparation noted in project work.</li>
+<li>Trailer Brake Controller (standard), Trailer Sway Control, Tow
+Hooks.</li>
+<li><strong>PowerScope trailer tow mirrors</strong>; trailer tow mirrors
+standard.</li>
+<li><strong>Snowplow Prep / Camper Package</strong>.</li>
+<li>11,900 lb GVWR package; 4.30 electronic-locking rear axle.</li>
+</ul>
+<h4 id="cameras-and-sensing">Cameras and sensing</h4>
+<ul>
+<li><strong>360-Degree Camera Package</strong> - factory option,
+$1,150.</li>
+<li>Rear View Camera (standard).</li>
+<li><strong>BLIS (Blind Spot Information System)</strong> - <span
+class="emoji" data-emoji="warning">⚠️</span> <strong>fitted, but
+reported defective.</strong> The 2026 Ford buyback cites Cross Traffic /
+Blind Spot sensors not operating correctly; no repair is on record. See
+<a href="#c14">chapter 14</a>. Do not rely on
+BLIS or Cross Traffic Alert until verified.</li>
+<li>Reverse Sensing System.</li>
+<li>Pre-Collision Assist with AEB (standard).</li>
+</ul>
+<h4 id="electrical-and-upfitting">Electrical and upfitting</h4>
+<ul>
+<li><strong>Upfitter Switches</strong> and <strong>250-amp
+alternator</strong> - both factory options, relevant to any accessory
+wiring in chapter 7.</li>
+<li>120V outlet; FordPass Connect 5G Wi-Fi hotspot telematics modem;
+SYNC 4.</li>
+<li>Roof clearance lights; SecuriCode keyless entry keypad; Remote Start
+System.</li>
+</ul>
+<h4 id="other-options-of-record">Other options of record</h4>
+<ul>
+<li>FX4 Off-Road Package with skid plates; Platform Running Boards.</li>
+<li>Tough Bed spray-in bedliner; cloth 40/console/40 seating; carpet
+delete.</li>
+<li>Front license plate bracket; jack; 50-state emissions.</li>
+</ul>
+<h4 id="known-defects-of-record">Known defects of record</h4>
+<p>From the buyback disclosure (REF-022), not repaired on record:</p>
+<ul>
+<li>Cross Traffic / Blind Spot sensors do not operate correctly.</li>
+<li>Passenger-side window does not operate correctly.</li>
+</ul>
+<p>Full context and a verification list are in <a
+href="#c14">chapter 14</a>.</p>
+<h4 id="still-unverified">Still unverified</h4>
+<ul>
+<li>The factory in-bed 7-pin connector is <strong>recorded</strong> as
+present and aligns with Ford's recommended driver-side bed location, but
+does not appear as a separate sticker line - it is bundled with the
+hitch prep packages. Confirm visually.</li>
+<li>A dedicated bed camera is <strong>recorded</strong> as present; the
+sticker lists the 360-degree camera package, which supplies the
+bed/cargo view on this configuration. Confirm in the SYNC camera
+menu.</li>
+</ul>
+<h3 id="camera-and-trailer-guidance-quick-reference">Camera and trailer
+guidance quick reference</h3>
+<ul>
+<li>Available project-recorded views: rear view, 360-degree, rear split
+view, bed camera, picture-in-picture, and trailer guidance views when
+equipped.</li>
+<li>For fifth-wheel alignment: select the bed camera, use 360-degree
+view to monitor surroundings, confirm kingpin alignment, and then verify
+coupling before travel.</li>
+<li>Hitch-angle display: black line indicates actual trailer position;
+white line indicates predicted path. Yellow indicates approaching a
+difficult articulation angle; red indicates stop, pull forward, and
+realign.</li>
+</ul>
+<h3 id="driving-systems-notes">Driving systems notes</h3>
+<ul>
+<li>Adaptive cruise control offers selectable following gaps. The
+project notes caution against use when towing a trailer with an
+aftermarket electronic brake controller - note that this truck has the
+<strong>factory</strong> trailer brake controller, so that caution
+applies only if an aftermarket unit is later added.</li>
+<li>Hill Descent Control operating range recorded from quick guide: 2-20
+mph (3-32 km/h).</li>
+<li>Trail Control is low-speed off-road cruise control; braking reduces
+set speed without turning it off.</li>
+<li>AdvanceTrac with RSC and Hill Start Assist are standard.</li>
+</ul>
+
+</section>
+<section class="section chapter" id="c03">
+  <div class="section-head"><span class="section-num">03</span><h2>3. OEM Parts Catalog</h2></div>
+<h3 id="catalog-status">Catalog status</h3>
+<p>Placeholder chapter. Add Ford and Motorcraft part numbers only after
+matching each item to the VIN/build and confirming current
+supersessions.</p>
+<h3 id="planned-catalog-fields">Planned catalog fields</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>System</th>
+<th>Ford part no.</th>
+<th>Motorcraft / equivalent</th>
+<th>Interval / notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oil service</td>
+<td></td>
+<td></td>
+<td>Confirm with WSM / owner manual</td>
+</tr>
+<tr>
+<td>Air filtration</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cabin air filter</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Brakes</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Trailer / hitch</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section chapter" id="c04">
+  <div class="section-head"><span class="section-num">04</span><h2>4. Maintenance & Service Log</h2></div>
+<h3 id="maintenance-framework">Maintenance framework</h3>
+<ul>
+<li>Use the official Owner's Manual schedule as the primary source for
+normal and severe-duty intervals.</li>
+<li>Record date, mileage, parts used, fluid quantity, receipts, and any
+diagnostic results.</li>
+<li>Future additions: oil analysis, tire wear, alignment reports,
+battery testing, recalls, warranty work, and scale tickets.</li>
+</ul>
+<h3 id="service-log">Service log</h3>
+<p><a href="#log-service">logs/service-log.md</a> holds both
+the 15 prior dealer service records recovered from CARFAX (REF-022) and
+the running record for work under current ownership.</p>
+<p>Note a roughly 12,400-mile gap with no reported oil service between
+25,826 mi and the last reported reading. Confirm the true maintenance
+state rather than assuming the truck is current.</p>
+
+</section>
+<section class="section chapter" id="c05">
+  <div class="section-head"><span class="section-num">05</span><h2>5. Torque Specifications</h2></div>
+<h3 id="verified-status-note">Verified-status note</h3>
+<blockquote>
+<p><strong>Important</strong> The following values were previously
+recorded in the project conversation as known/common values, but must be
+checked against the current Ford Workshop Manual for this VIN before
+safety-critical use. Do not infer a specification for an unlisted
+fastener.</p>
+</blockquote>
+<h3 id="provisional-quick-list---confirm-with-ford-wsm">Provisional
+quick list - confirm with Ford WSM</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Previously recorded value</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wheel lug nuts (18-inch steel/aluminum)</td>
+<td>165 ft-lb (224 N-m)</td>
+<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+</tr>
+<tr>
+<td>7.3L engine oil drain plug</td>
+<td>19 ft-lb (26 N-m)</td>
+<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+</tr>
+<tr>
+<td>7.3L spark plugs</td>
+<td>15 ft-lb (20 N-m)</td>
+<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+</tr>
+<tr>
+<td>Ignition coil bolts</td>
+<td>89 in-lb (10 N-m)</td>
+<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+</tr>
+<tr>
+<td>Battery terminal clamp nuts</td>
+<td>44 in-lb (5 N-m)</td>
+<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+</tr>
+<tr>
+<td>Wiper arm nuts</td>
+<td>30 ft-lb (40 N-m)</td>
+<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+</tr>
+<tr>
+<td>Receiver hitch mounting bolts</td>
+<td>210 ft-lb (285 N-m)</td>
+<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="torque-atlas-placeholder">Torque Atlas placeholder</h3>
+<ul>
+<li>Future system sections: brakes, steering, front and rear suspension,
+drivetrain, 7.3L engine, cooling, body/frame, electrical, and towing
+equipment.</li>
+<li>Each final entry should include torque, units, fastener dimensions,
+sequence, angle, one-time-use status, thread treatment, and Ford WSM
+reference.</li>
+</ul>
+
+</section>
+<section class="section chapter" id="c06">
+  <div class="section-head"><span class="section-num">06</span><h2>6. Fluids & Capacities</h2></div>
+<h3 id="status">Status</h3>
+<p>Placeholder chapter. Populate exact capacities, approved fluids, and
+fill procedures from the Owner's Manual and Ford Workshop Manual for the
+truck's verified axle, transmission, and transfer-case
+configuration.</p>
+<h3 id="planned-table">Planned table</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>System</th>
+<th>Capacity</th>
+<th>Specification</th>
+<th>Source / revision</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Engine oil</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cooling system</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Transmission</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Transfer case</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Front / rear axle</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Brake fluid</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section chapter" id="c07">
+  <div class="section-head"><span class="section-num">07</span><h2>7. Electrical Atlas</h2></div>
+<h3 id="apim--bcm-rear-camera-configuration">APIM / BCM rear-camera
+configuration</h3>
+<ul>
+<li>Reference REF-008 covers enabling or disabling an OEM rear camera
+kit through APIM and BCM configuration.</li>
+<li>Recorded post-programming verification: complete APIM programming;
+switch ignition off; open a front door and allow cluster/display
+power-down; switch ignition on; select Reverse with brake applied and
+parking brake engaged to verify image.</li>
+<li>This procedure is not currently needed for the truck's recorded
+factory camera equipment. It becomes relevant after APIM/BCM
+replacement, camera retrofit, a lost configuration, or relevant
+FORScan/FDRS programming.</li>
+</ul>
+<h3 id="electrical-work-placeholders">Electrical work placeholders</h3>
+<ul>
+<li>Fuse and relay directory; customer access wiring and upfitter
+circuits; grounds; connector pinouts; trailer wiring; camera wiring; CAN
+network notes.</li>
+<li>Before programming, save full module backups and record each change,
+date, tool version, and recovery steps.</li>
+</ul>
+
+</section>
+<section class="section chapter" id="c08">
+  <div class="section-head"><span class="section-num">08</span><h2>8. FORScan & Module Programming</h2></div>
+<h3 id="recovery-first-workflow">Recovery-first workflow</h3>
+<ul>
+<li>Create and retain original As-Built/module backups before making
+changes.</li>
+<li>Log every change with before/after values, rationale, tool/interface
+version, and verification result.</li>
+<li>Use the camera configuration reference only for a documented
+camera/APIM/BCM situation; avoid changing unrelated configuration
+values.</li>
+</ul>
+<h3 id="change-log">Change log</h3>
+<p>See <a
+href="#log-module">logs/module-change-log.md</a> for
+the running record.</p>
+
+</section>
+<section class="section chapter" id="c09">
+  <div class="section-head"><span class="section-num">09</span><h2>9. Accessories & Modifications</h2></div>
+<h3 id="planned-roadmap">Planned roadmap</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Planned items</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Immediate</td>
+<td>Sam's Club Plus membership (military discount); Michelin Defender
+LTX M/S2 tires; Covercraft Spacer Mesh PrecisionFit covers (front EM /
+rear AU); lace-on leather steering-wheel cover</td>
+</tr>
+<tr>
+<td>Protection</td>
+<td>Wheel-well liners; window deflectors; mud flaps; sill protection;
+LampGard; paint protection film; TowTector; tailgate lock; Console
+Vault</td>
+</tr>
+<tr>
+<td>Towing</td>
+<td>B&amp;W; Companion OEM fifth-wheel hitch; 7-way extension/adapters;
+plug tester; chocks; levelers; infrared thermometer</td>
+</tr>
+<tr>
+<td>Storage</td>
+<td>Dee Zee under-seat drawer; bed cover (8-foot compatibility needs
+vendor confirmation); console and modular 3D-printed organizers</td>
+</tr>
+<tr>
+<td>Maintenance / security</td>
+<td>Grease tools, dielectric grease, cleaning supplies, spare
+adapters/pins; coupler/wheel locks and security cable</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="accessory-installation-record">Accessory installation
+record</h3>
+<p>For each installed item, capture manufacturer, part number, vendor,
+date, cost, photos, torque/wiring instructions, installation notes,
+warranty, and removal process.</p>
+<p>See <a href="#log-accessory">logs/accessory-log.md</a> for
+the running record.</p>
+
+</section>
+<section class="section chapter" id="c10">
+  <div class="section-head"><span class="section-num">10</span><h2>10. Fifth-Wheel & Towing</h2></div>
+<h3 id="oem-fifth-wheel-hitch-guidance">OEM fifth-wheel hitch
+guidance</h3>
+<ul>
+<li>The Ford OEM fifth-wheel hitch reference supports use with an 8-foot
+pickup bed, matching the project-recorded truck configuration.</li>
+<li>Before working between truck and trailer: park transmission, apply
+parking brake, chock both sides of trailer wheels, and support landing
+gear. Keep body parts out from between truck and trailer whenever
+practical.</li>
+<li>Maximum allowable trailer weight is controlled by the lowest-rated
+component among truck, hitch, trailer, and related equipment. Gross
+trailer weight includes cargo and consumables.</li>
+</ul>
+<h3 id="hitching-and-backing-checklist">Hitching and backing
+checklist</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Inspect hitch, pins, chains, connector, landing gear, tires, and
+surrounding area.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Use bed camera for kingpin alignment and 360-degree view for
+perimeter awareness.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Confirm coupling/lock engagement and perform a pull test as
+specified by hitch/trailer instructions.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Connect breakaway cable, safety equipment, and electrical connector;
+confirm lights/brakes.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Use trailer guidance and hitch-angle feedback conservatively; pull
+forward to correct excessive articulation.</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="payload-and-loading">Payload and loading</h3>
+<ul>
+<li>Ford's Camper Loading Guide remains relevant even when towing:
+factory options, front/rear axle loading, center of gravity, payload
+labels, and actual scale weights govern safe loading.</li>
+<li>Obtain CAT-scale records with truck-only and loaded trailer
+configurations; retain individual axle weights and compare with
+door-label ratings.</li>
+</ul>
+<p>See <a href="#log-scale">logs/scale-weights.md</a> for
+recorded weigh tickets.</p>
+
+</section>
+<section class="section chapter" id="c11">
+  <div class="section-head"><span class="section-num">11</span><h2>11. Troubleshooting</h2></div>
+<h3 id="placeholder-symptom-index">Placeholder symptom index</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>First checks</th>
+<th>Authoritative source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Camera image missing</td>
+<td>Power cycle; configuration history; camera connections</td>
+<td>Owner manual / REF-008 / Ford WSM</td>
+</tr>
+<tr>
+<td>Trailer brakes or lights inoperative</td>
+<td>Connector, trailer wiring, fuse/relay, controller, trailer
+fault</td>
+<td>Owner manual / Ford WSM</td>
+</tr>
+<tr>
+<td>No-start or low battery</td>
+<td>Battery condition, connections, charging system, codes</td>
+<td>Owner manual / Ford WSM</td>
+</tr>
+<tr>
+<td>Towing handling concern</td>
+<td>Loading, tire pressures, hitch/trailer ratings, scale weights</td>
+<td>Owner manual / hitch manual</td>
+</tr>
+<tr>
+<td><strong>BLIS / Cross Traffic Alert inoperative</strong></td>
+<td>Known defect of record - see <a
+href="#c14">chapter 14</a>. Pull DTCs; check
+sensor connectors, rear bumper sensor mounting, and trailer-tow BLIS
+configuration</td>
+<td>Ford WSM / REF-015 / buyback disclosure</td>
+</tr>
+<tr>
+<td><strong>Passenger-side window inoperative</strong></td>
+<td>Known defect of record. Check door module, switch, regulator, and
+window motor; test from both door and master switch</td>
+<td>Ford WSM / buyback disclosure</td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section chapter" id="c12">
+  <div class="section-head"><span class="section-num">12</span><h2>12. 3D-Printed Accessories</h2></div>
+<h3 id="design-library">Design library</h3>
+<ul>
+<li>Preferred materials for interior vehicle parts: PETG, ASA, or ABS
+rather than PLA because of heat exposure.</li>
+<li>Candidate projects: center-console organizer/divider, under-seat
+modular bins, fuse kit, trailer-adapter holder, recovery-gear organizer,
+compressor organizer, hitch-pin rack, and bed tool clips.</li>
+<li>Document each design with project ID, material, printer settings,
+hardware, STL/CAD filename, revision notes, fitment, and installation
+photos.</li>
+</ul>
+<h3 id="design-record-template">Design record template</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Record</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Project ID / name</td>
+<td></td>
+</tr>
+<tr>
+<td>Material / color</td>
+<td></td>
+</tr>
+<tr>
+<td>File and revision</td>
+<td></td>
+</tr>
+<tr>
+<td>Hardware / installation</td>
+<td></td>
+</tr>
+<tr>
+<td>Fitment / lessons learned</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section chapter" id="c13">
+  <div class="section-head"><span class="section-num">13</span><h2>13. Reference Documents</h2></div>
+<h3 id="holdings">Holdings</h3>
+<p>Ford publications are <strong>held locally</strong> in
+<code>imports/truck-f350/</code> (gitignored) rather than committed,
+since they are Ford copyrighted material. This chapter is the
+authoritative catalog; the files themselves stay out of version
+control.</p>
+<p><strong>Status legend:</strong> <em>Held</em> = file present locally.
+<em>Catalogued only</em> = referenced but no copy retained.</p>
+<h3 id="source-library">Source library</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Document</th>
+<th>Local filename</th>
+<th>Pages</th>
+<th>Classification / purpose</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>REF-001</td>
+<td>2024 Ford Super Duty Owner's Manual, v1.1 EN-US</td>
+<td><code>2024_Ford_Super_Duty_Owners_Manual_version_1.1_om_EN-US.pdf</code></td>
+<td>711</td>
+<td>Ford OEM; operation, maintenance, specifications, safety</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-002</td>
+<td>2024 Ford Camper Loading Guide</td>
+<td><code>2024MYCamperLoading8223.pdf</code></td>
+<td>138</td>
+<td>Ford OEM; payload, axle loading, center of gravity</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-003</td>
+<td>Window sticker / build sheet</td>
+<td><code>ford.pdf</code></td>
+<td>1</td>
+<td>VIN-specific; verified build data, options, MSRP, warranty</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-004</td>
+<td>Original dealer advertisement</td>
+<td>-</td>
+<td>-</td>
+<td>VIN-specific archive; preserve factual metadata and photos</td>
+<td><span class="chip chip-muted">Catalogued only</span></td>
+</tr>
+<tr>
+<td>REF-005</td>
+<td>Vehicle photos</td>
+<td><code>IMG_1374</code> - <code>IMG_1468</code> (95 files)</td>
+<td>-</td>
+<td>VIN-specific documentation; captured 2026-09-05</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-006</td>
+<td>2024 Super Duty Quick Reference Guide</td>
+<td><code>2024_Super_Duty_QRG_English.pdf</code></td>
+<td>28</td>
+<td>Ford OEM; operating quick reference</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-007</td>
+<td>2023 Super Duty Fifth-Wheel Hitch Owner Manual &amp;
+Installation</td>
+<td><code>2023_CMY_Super_Duty_5th_Wheel_Hitch_Owner_Manual_and_Installation.pdf</code></td>
+<td>90</td>
+<td>Ford OEM; hitch operation, parts, installation guidance</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-008</td>
+<td>Rear Camera Kit Enable/Disable Procedure</td>
+<td><code>2020_P558_Rear_Camera_Kit_Enable_Disable.pdf</code></td>
+<td>2</td>
+<td>Ford service procedure; APIM/BCM configuration</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-009</td>
+<td>Spare Tire Lock (F-150 / Ranger)</td>
+<td><code>2024_CMY_F150_Ranger_Spare_Tire_Lock.pdf</code></td>
+<td>7</td>
+<td>Reference; retain with vehicle security documents.
+<strong>Note:</strong> covers F-150/Ranger, not Super Duty - confirm
+applicability</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-010</td>
+<td>Wheel / Tire Kit</td>
+<td><code>WHEEL_TIRE_KIT.pdf</code></td>
+<td>10</td>
+<td>Reference; retain and review fitment/ratings</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-011</td>
+<td>2024 Super Duty Quick Start Guide</td>
+<td><code>24M_Super_Duty_QSG_ENG_V1.pdf</code></td>
+<td>24</td>
+<td>Ford OEM quick-start reference</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
+<td>REF-012</td>
+<td>2024 Wrecker Towing Guide</td>
+<td><code>2024_Wrecker_Towing_Guide.pdf</code></td>
+<td>13</td>
+<td>Ford reference; recovery/towing guidance</td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="accessory-and-kit-documentation">Accessory and kit
+documentation</h3>
+<p>Added with the September 2026 import. These were not in the Edition
+1.0 catalog.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Document</th>
+<th>Local filename</th>
+<th>Pages</th>
+<th>Relevance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>REF-013</td>
+<td>Super Duty Trailer Camera &amp; TPMS Kits (SKPC3J-14A350-AA)</td>
+<td><code>SKPC3J-14A350-AA_2024-CMY_Super_Duty_Trailer_Camera_and_Tire_Pressure_Monitoring_System_TPMS_Kits.pdf</code></td>
+<td>87</td>
+<td>Trailer camera and trailer TPMS retrofit; wiring and
+configuration</td>
+</tr>
+<tr>
+<td>REF-014</td>
+<td>Super Duty Trailer 360 Camera System Kit (SKPC3J-13A974-C)</td>
+<td><code>2023_CMY_F_Super_Duty_Trailer_360_Camera_System_Kit_SKPC3J_13A974_C_1_1.pdf</code></td>
+<td>79</td>
+<td>Extends the factory 360-degree package to the trailer</td>
+</tr>
+<tr>
+<td>REF-015</td>
+<td>Trailer Blind Spot Monitoring for 5th Wheel &amp; Gooseneck
+(SKPC3J-13A973-AA)</td>
+<td><code>SKPC3J-13A973-AA_2024-CMY_Super_Duty_Trailer_Blind_Spot_Monitoring_for_5th_Wheel_and_Gooseneck_Kit.pdf</code></td>
+<td>30</td>
+<td>Directly applicable - truck has BLIS and fifth-wheel prep</td>
+</tr>
+<tr>
+<td>REF-016</td>
+<td>Super Duty Rear View Mirror Camera</td>
+<td><code>2020_CMY_Super_Duty_Rear_View_Mirror_Camera_1_28_2026_FINAL.pdf</code></td>
+<td>30</td>
+<td>Mirror-camera install/configuration</td>
+</tr>
+<tr>
+<td>REF-017</td>
+<td>Remote Start (2024)</td>
+<td><code>2024_Remote_Start_9_20_2023_FINAL.pdf</code></td>
+<td>54</td>
+<td>Truck has factory Remote Start System</td>
+</tr>
+<tr>
+<td>REF-018</td>
+<td>Wireless RF Keypad Instructions (SKES7J-19G544-AC)</td>
+<td><code>2020_CMY_Wireless_RF_Keypad_Instructions_SKES7J_19G544_AC.pdf</code></td>
+<td>44</td>
+<td>Keypad entry; truck has SecuriCode keypad</td>
+</tr>
+<tr>
+<td>REF-019</td>
+<td>Super Duty Chassis Cab Pro Power Onboard v2</td>
+<td><code>2023_CMY_Super_Duty_Chassis_Cab_Pro_Power_Onboard_v2.pdf</code></td>
+<td>11</td>
+<td><strong>Chassis cab</strong> document - not this truck's
+configuration; retained for reference only</td>
+</tr>
+<tr>
+<td>REF-020</td>
+<td>Quick Start Guide with FCC verbiage (11/2024)</td>
+<td><code>Quickstart_Guide_with_FCC_Verbiage_11_2024.pdf</code></td>
+<td>3</td>
+<td>Accessory FCC/regulatory statements</td>
+</tr>
+<tr>
+<td>REF-021</td>
+<td>Dealer listing images</td>
+<td>17 files (<code>*.avif</code>, <code>*.webp</code>)</td>
+<td>-</td>
+<td>Listing photography; pairs with REF-004</td>
+</tr>
+<tr>
+<td>REF-022</td>
+<td>CARFAX Vehicle History Report, run 2026-09-05</td>
+<td><code>CarfaxReport_1FT8W3BNXRED73946.pdf</code></td>
+<td>11</td>
+<td>VIN-specific; title, ownership, buyback disclosure, 15 service
+records. Basis for <a href="#c14">chapter
+14</a></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="future-source-intake">Future source intake</h3>
+<p>Add the Ford Workshop Manual and wiring excerpts as sourced material
+becomes available. Record publication date, section, vehicle
+applicability, and any superseding publication.</p>
+<p>Still missing after the September 2026 import: the <strong>Ford
+Workshop Manual</strong> (the single largest gap - see <a
+href="#apxa">Appendix A</a>), the
+original dealer advertisement (REF-004), and Motorcraft parts
+documentation for chapter 3.</p>
+<p><strong>Now a priority given the buyback:</strong> the Ford repair
+orders from the reacquisition period, and any Field Service Action or
+recall history by VIN. CARFAX records that Ford took the truck back and
+why, but not what was attempted or fixed. See <a
+href="#c14">chapter 14</a>.</p>
+
+</section>
+<section class="section chapter" id="c14">
+  <div class="section-head"><span class="section-num">14</span><h2>14. Vehicle History & Title</h2></div>
+<p>Source: CARFAX Vehicle History Report (REF-022), run 2026-09-05,
+reference 20262471852110.</p>
+<h3 id="headline-findings">Headline findings</h3>
+<blockquote>
+<p><strong>This truck is a Ford manufacturer buyback.</strong> On
+2026-07-01 Ford Motor Company reacquired the vehicle "pursuant to
+applicable state consumer warranty laws or to promote customer
+satisfaction." It was retitled to the manufacturer in Michigan, sold at
+auction on 2026-08-25 with the buyback disclosed, and is now listed by
+Northside Ford Lincoln in Effingham, Illinois.</p>
+</blockquote>
+<blockquote>
+<p><strong>The reason Ford gave for the buyback names two
+defects:</strong></p>
+<ol type="1">
+<li>The passenger-side window does not operate correctly.</li>
+<li><strong>The Cross Traffic / Blind Spot sensors do not operate
+correctly.</strong></li>
+</ol>
+<p>The report shows one repair afterward - a lamp assembly replaced on
+2026-08-10 - which does not obviously correspond to either defect.
+<strong>There is no record that either fault was repaired before
+resale.</strong> Verify both directly before purchase or before relying
+on BLIS while towing.</p>
+</blockquote>
+<h3 id="status-summary">Status summary</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Odometer (last reported)</td>
+<td>38,278 mi (2026-08-25)</td>
+</tr>
+<tr>
+<td>Owners</td>
+<td>1 (commercial)</td>
+</tr>
+<tr>
+<td>Title states</td>
+<td>Tennessee, then Michigan</td>
+</tr>
+<tr>
+<td>Accidents / damage</td>
+<td>None reported</td>
+</tr>
+<tr>
+<td>Structural damage</td>
+<td>None reported</td>
+</tr>
+<tr>
+<td>Airbag deployment</td>
+<td>None reported</td>
+</tr>
+<tr>
+<td>Odometer brands</td>
+<td>No rollback; no problem (CARFAX guaranteed)</td>
+</tr>
+<tr>
+<td>Damage brands (salvage/junk/flood/etc.)</td>
+<td>No problem (CARFAX guaranteed)</td>
+</tr>
+<tr>
+<td>Open recalls</td>
+<td>None reported</td>
+</tr>
+<tr>
+<td>Service history records</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Average use</td>
+<td>16,783 mi/yr</td>
+</tr>
+<tr>
+<td>CARFAX retail value</td>
+<td>$50,480</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="warranty-position">Warranty position</h3>
+<p>The window sticker (REF-003) recorded 3 yr/36,000 mi bumper-to-bumper
+and 5 yr/60,000 mi powertrain from an in-service date of roughly
+2024-04-30.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Coverage</th>
+<th>Status at 38,278 mi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bumper to bumper (3/36)</td>
+<td><strong>Expired</strong> - CARFAX confirms basic warranty
+expired</td>
+</tr>
+<tr>
+<td>Powertrain (5/60)</td>
+<td>Should remain active to 60,000 mi or 2029-04, subject to transfer
+rules</td>
+</tr>
+</tbody>
+</table></div>
+<p>Confirm remaining coverage with Ford by VIN. Buyback vehicles can
+carry different terms, and some states require a separate warranty on a
+reacquired vehicle.</p>
+<h3 id="ownership-and-title-timeline">Ownership and title timeline</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Mileage</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024-04-23</td>
+<td></td>
+<td>Manufactured, shipped to original dealer (Friendship Ford, Bristol,
+TN)</td>
+</tr>
+<tr>
+<td>2024-04-25</td>
+<td>5</td>
+<td>Pre-delivery inspection</td>
+</tr>
+<tr>
+<td>2024-04-26</td>
+<td></td>
+<td>Offered for sale</td>
+</tr>
+<tr>
+<td>2024-04-30</td>
+<td></td>
+<td><strong>Sold</strong>; purchase reported to Tennessee MVD</td>
+</tr>
+<tr>
+<td>2024-05-15</td>
+<td></td>
+<td>Title issued, Blountville, TN - titled as commercial vehicle, color
+Gray (title #18200364148)</td>
+</tr>
+<tr>
+<td>2025-04-30</td>
+<td></td>
+<td>Registration renewed (TN)</td>
+</tr>
+<tr>
+<td>2026-05-22</td>
+<td></td>
+<td>Registration renewed (TN)</td>
+</tr>
+<tr>
+<td>2026-07-01</td>
+<td></td>
+<td><strong>VEHICLE REACQUIRED by Ford Motor Company</strong> - window
+and Cross Traffic/Blind Spot sensor defects cited</td>
+</tr>
+<tr>
+<td>2026-07-08</td>
+<td>38,255</td>
+<td>Title issued to manufacturer, Saginaw, MI (title #MI0030735498)</td>
+</tr>
+<tr>
+<td>2026-08-17</td>
+<td></td>
+<td>Online listing</td>
+</tr>
+<tr>
+<td>2026-08-25</td>
+<td>38,278</td>
+<td>Auto auction - <strong>manufacturer buyback disclosed by
+seller</strong>; vehicle sold</td>
+</tr>
+<tr>
+<td>2026-08-25</td>
+<td></td>
+<td>Offered for sale by Northside Ford Lincoln, Effingham, IL</td>
+</tr>
+</tbody>
+</table></div>
+<h4 id="dealer-discrepancy---resolved">Dealer discrepancy -
+resolved</h4>
+<p>The conflict flagged in <a href="#c01">chapter
+1</a> is explained. Both dealers are genuine and sequential:</p>
+<ul>
+<li><strong>Friendship Ford, Bristol, Tennessee</strong> - original
+selling dealer on the window sticker (2024).</li>
+<li><strong>Northside Ford Lincoln, Effingham, Illinois</strong> -
+current listing dealer following the 2026 buyback and auction.</li>
+</ul>
+<h3 id="service-history">Service history</h3>
+<p>Fifteen dealer service records. Complete history in <a
+href="#log-service">logs/service-log.md</a>; summary of
+servicing dealers:</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Dealer</th>
+<th>Location</th>
+<th>Visits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Friendship Ford</td>
+<td>Bristol, TN</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Johnson City Ford</td>
+<td>Johnson City, TN</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Wallace Ford of Kingsport</td>
+<td>Kingsport, TN</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Don Franklin Hardin County Ford</td>
+<td>Radcliff, KY</td>
+<td>1</td>
+</tr>
+</tbody>
+</table></div>
+<p>Patterns worth noting:</p>
+<ul>
+<li><strong>Repeated brake and alignment attention.</strong> Brakes
+checked at 10,914 / 11,108 / 20,571 / 21,321 / 23,725 / 35,930 mi;
+alignment performed at 17,704, 20,571, and 21,321 mi. Front wheel
+bearing(s)/hub(s) replaced at 11,108 mi.</li>
+<li><strong>Repeated battery/charging system checks</strong> at 10,914 /
+20,571 / 21,321 / 23,725 / 35,930 mi.</li>
+<li><strong>Electrical investigation late in life</strong> - electrical
+system checked at 35,930 and 36,971 mi, outside mirror replaced/repaired
+and steering wheel centered at 35,930 mi. These immediately precede the
+buyback and are plausibly related to the cited defects.</li>
+</ul>
+<h3 id="pre-purchase--pre-use-verification-list">Pre-purchase / pre-use
+verification list</h3>
+<p>Because of the buyback, verify the following before relying on the
+truck:</p>
+<ol type="1">
+<li><strong>Passenger-side window</strong> - full up/down cycle from
+both door and driver master switch.</li>
+<li><strong>BLIS and Cross Traffic Alert</strong> - confirm operation,
+including trailer-tow BLIS coverage. This matters directly for the
+fifth-wheel use case in <a href="#c10">chapter
+10</a>.</li>
+<li>Pull all module DTCs and check for stored history relating to the
+sensor faults.</li>
+<li>Obtain the Ford repair orders from the buyback period; the CARFAX
+shows the reacquisition but not the repair attempts behind it.</li>
+<li>Confirm the current title's brand and disclosure language in the
+buying state.</li>
+<li>Confirm remaining powertrain coverage and any state-mandated buyback
+warranty, by VIN.</li>
+<li>Verify no open recalls or Field Service Actions at time of
+sale.</li>
+</ol>
+
+</section>
+<section class="section chapter" id="apxa">
+  <div class="section-head"><span class="section-num">A</span><h2>Appendix A. Future Workshop Manual Intake</h2></div>
+<h3 id="required-additions">Required additions</h3>
+<ul>
+<li>Full verified torque atlas, including sequences, torque-angle steps,
+and one-time-use fasteners.</li>
+<li>VIN-correct fluid capacities, Motorcraft product specifications,
+service intervals, and procedures.</li>
+<li>Wiring diagrams, connector views, fuse/relay functions, diagnostic
+tests, and module/programming references.</li>
+<li>OEM parts diagrams and Ford/Motorcraft part numbers.</li>
+<li>Service Bulletins, recalls, customer-satisfaction programs, and
+revision history.</li>
+</ul>
+<h3 id="revision-record">Revision record</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Date</th>
+<th>Summary</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>September 2026</td>
+<td>Initial compiled reference; placeholders retained for WSM data</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section log" id="log-service">
+  <div class="section-head"><span class="section-num">L1</span><h2>Service Log</h2></div>
+<p>Record date, mileage, parts used, fluid quantity, receipts, and any
+diagnostic results. Related chapter: <a
+href="#c04">4. Maintenance
+&amp; Service Log</a></p>
+<h3 id="prior-history-from-carfax-ref-022">Prior history (from CARFAX,
+REF-022)</h3>
+<p>Reported dealer service under the first owner. Line items are as
+summarized by CARFAX; they are <strong>not</strong> repair orders and do
+not list parts, quantities, or fluid specifications. Obtain the
+originals from the servicing dealers for anything safety-critical.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Mileage</th>
+<th>Dealer</th>
+<th>Service reported</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024-04-25</td>
+<td>5</td>
+<td>Friendship Ford, Bristol TN</td>
+<td>Pre-delivery inspection</td>
+</tr>
+<tr>
+<td>2024-07-09</td>
+<td>3,967</td>
+<td>Friendship Ford</td>
+<td>Maintenance inspection; oil and filter changed; tires rotated</td>
+</tr>
+<tr>
+<td>2024-11-19</td>
+<td>10,914</td>
+<td>Friendship Ford</td>
+<td>Maintenance inspection; battery/charging system checked; brakes
+checked; noise checked; oil and filter changed; tire condition and
+pressure checked; tires rotated</td>
+</tr>
+<tr>
+<td>2025-01-21</td>
+<td>11,108</td>
+<td>Friendship Ford</td>
+<td>Maintenance inspection; brakes checked; <strong>front wheel
+bearing(s)/hub(s) replaced</strong>; tires rotated</td>
+</tr>
+<tr>
+<td>2025-04-08</td>
+<td>17,704</td>
+<td>Friendship Ford</td>
+<td>Maintenance inspection; alignment performed; oil and filter
+changed</td>
+</tr>
+<tr>
+<td>2025-04-24</td>
+<td>18,587</td>
+<td>Friendship Ford</td>
+<td>Maintenance inspection</td>
+</tr>
+<tr>
+<td>2025-05-08</td>
+<td>18,709</td>
+<td>Friendship Ford</td>
+<td>Vehicle serviced (no detail reported)</td>
+</tr>
+<tr>
+<td>2025-05-21</td>
+<td>20,571</td>
+<td>Johnson City Ford, Johnson City TN</td>
+<td>Battery/charging system checked; brakes checked; four wheel
+alignment performed; tire condition and pressure checked</td>
+</tr>
+<tr>
+<td>2025-06-05</td>
+<td>21,321</td>
+<td>Johnson City Ford</td>
+<td>Battery/charging system checked; brakes checked; four wheel
+alignment performed; tire condition and pressure checked</td>
+</tr>
+<tr>
+<td>2025-07-28</td>
+<td>23,238</td>
+<td>Johnson City Ford</td>
+<td>Vehicle serviced (no detail reported)</td>
+</tr>
+<tr>
+<td>2025-08-14</td>
+<td>23,725</td>
+<td>Johnson City Ford</td>
+<td>Battery/charging system checked; body electrical system checked;
+brakes checked; tire condition and pressure checked</td>
+</tr>
+<tr>
+<td>2025-09-03</td>
+<td>25,826</td>
+<td>Wallace Ford of Kingsport, Kingsport TN</td>
+<td>Maintenance inspection; oil and filter changed</td>
+</tr>
+<tr>
+<td>2026-05-15</td>
+<td>35,930</td>
+<td>Wallace Ford of Kingsport</td>
+<td>Maintenance inspection; battery/charging system checked; brakes
+checked; <strong>electrical system checked</strong>; <strong>outside
+mirror replaced/repaired</strong>; steering wheel centered; tire
+condition and pressure checked</td>
+</tr>
+<tr>
+<td>2026-05-29</td>
+<td>36,971</td>
+<td>Wallace Ford of Kingsport</td>
+<td>Maintenance inspection; <strong>electrical system
+checked</strong></td>
+</tr>
+<tr>
+<td>2026-08-10</td>
+<td>38,257</td>
+<td>Don Franklin Hardin County Ford, Radcliff KY</td>
+<td><strong>Lamp assembly replaced</strong> (post-buyback)</td>
+</tr>
+</tbody>
+</table></div>
+<p>Gap in oil-change records between 25,826 mi (2025-09) and the last
+reported reading of 38,278 mi - roughly 12,400 miles with no reported
+oil service. Confirm actual interval before assuming the truck is
+current on maintenance.</p>
+<p>See <a href="#c14">chapter
+14</a> for the buyback context surrounding the 2026 electrical
+entries.</p>
+<h3 id="owner-record">Owner record</h3>
+<p>Service performed under current ownership.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Mileage</th>
+<th>Service / parts</th>
+<th>Next due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section log" id="log-module">
+  <div class="section-head"><span class="section-num">L2</span><h2>Module Change Log</h2></div>
+<p>Recovery first: capture an original As-Built/module backup before any
+change. Related chapter: <a
+href="#c08">8. FORScan &amp;
+Module Programming</a></p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Module</th>
+<th>Change</th>
+<th>Backup location / verification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section log" id="log-accessory">
+  <div class="section-head"><span class="section-num">L3</span><h2>Accessory Installation Record</h2></div>
+<p>Capture manufacturer, part number, vendor, date, cost, photos,
+torque/wiring instructions, installation notes, warranty, and removal
+process. Related chapter: <a
+href="#c09">9. Accessories
+&amp; Modifications</a></p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Item</th>
+<th>Manufacturer / part no.</th>
+<th>Vendor / cost</th>
+<th>Installation notes</th>
+<th>Warranty / removal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+<section class="section log" id="log-scale">
+  <div class="section-head"><span class="section-num">L4</span><h2>Scale Weights</h2></div>
+<p>Record CAT-scale tickets for truck-only and loaded-trailer
+configurations; retain individual axle weights and compare with
+door-label ratings. Related chapter: <a
+href="#c10">10. Fifth-Wheel &amp;
+Towing</a></p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Configuration</th>
+<th>Steer axle</th>
+<th>Drive axle</th>
+<th>Trailer axle(s)</th>
+<th>Gross</th>
+<th>Notes vs. door label</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+</section>
+
+  <div class="foot">
+    <p>Edition 1.2 &middot; September 2026 &middot; Generated from the Markdown sources by <code>build-html.py</code>.</p>
+    <p>This reference summarizes rather than reproduces Ford source manuals. Values marked <span class="chip chip-caution">Confirm with Ford WSM</span> are not service instructions until verified against the current Ford Workshop Manual for this VIN.</p>
+  </div>
+</main>
+</div>
+
+<script>
+(function(){
+  var links = Array.prototype.slice.call(document.querySelectorAll('.rail a[data-anchor]'));
+  var byId = {};
+  links.forEach(function(a){ byId[a.getAttribute('data-anchor')] = a; });
+  var sections = Array.prototype.slice.call(document.querySelectorAll('section.section'));
+  if (!('IntersectionObserver' in window) || !sections.length) return;
+
+  var visible = {};
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){ visible[e.target.id] = e.isIntersecting; });
+    var current = null;
+    for (var i = 0; i < sections.length; i++) {
+      if (visible[sections[i].id]) { current = sections[i].id; break; }
+    }
+    if (!current) return;
+    links.forEach(function(a){ a.classList.remove('active'); });
+    if (byId[current]) byId[current].classList.add('active');
+  }, { rootMargin: '-8% 0px -70% 0px', threshold: 0 });
+
+  sections.forEach(function(s){ io.observe(s); });
+})();
+</script>

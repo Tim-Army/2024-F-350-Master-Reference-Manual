@@ -54,6 +54,16 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | 14 | [Vehicle History & Title](chapters/14-vehicle-history-and-title.md) |
 | A | [Appendix A. Future Workshop Manual Intake](chapters/appendix-a-workshop-manual-intake.md) |
 
+## HTML edition
+
+`manual.html` is a single-page HTML build of the whole manual - all 14 chapters, Appendix A, and the four running records, with a chapter rail and cross-links resolved to on-page anchors. Rebuild it after editing any Markdown source:
+
+```bash
+python3 build-html.py
+```
+
+It requires `pandoc`. `template.html` holds the page shell and styling; the generator only fills in the navigation and body.
+
 ## Repository layout
 
 ```
@@ -62,6 +72,10 @@ logs/         Fillable running records (service, modules, accessories, scale wei
 references/   Notes on the REF-0NN source library
 source/       The compiled PDF this repository was scaffolded from
 imports/      Local-only staging for uploaded material (gitignored)
+
+build-html.py   Generates manual.html from the Markdown sources
+template.html   Page shell and styling for the HTML edition
+manual.html     Built single-page HTML edition
 ```
 
 Ford publications are held locally in `imports/` and cited in

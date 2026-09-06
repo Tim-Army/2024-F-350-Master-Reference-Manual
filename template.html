@@ -1,0 +1,373 @@
+<title>F-350 Master Reference</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+/* ---- tokens: complete light palette on bare :root ---- */
+:root{
+  --ground:#e9ecee;
+  --surface:#ffffff;
+  --surface-2:#f2f5f6;
+  --plate:#1e242a;
+  --plate-ink:#dde3e7;
+  --ink:#15181b;
+  --ink-2:#4b555d;
+  --ink-3:#727d86;
+  --rule:#c9d1d6;
+  --rule-2:#e1e6e9;
+  --accent:#35576f;
+  --accent-2:#5c8299;
+  --accent-soft:#dce6ed;
+  --caution:#8a5512;
+  --caution-bg:#f8efdf;
+  --caution-rule:#e3cfa8;
+  --critical:#93291e;
+  --critical-bg:#f9e8e5;
+  --critical-rule:#e5c2bb;
+  --ok:#2f5d3f;
+  --ok-bg:#e2eee7;
+  --shadow:0 1px 2px rgba(21,24,27,.06),0 8px 24px -12px rgba(21,24,27,.18);
+  --sans:"Source Sans 3",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  --disp:"Archivo",var(--sans);
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  --rail:252px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#111518;
+    --surface:#191e22;
+    --surface-2:#20262b;
+    --plate:#0c0f12;
+    --plate-ink:#c8d1d7;
+    --ink:#e6eaec;
+    --ink-2:#a8b3ba;
+    --ink-3:#7d888f;
+    --rule:#333b41;
+    --rule-2:#262d33;
+    --accent:#8fb4cc;
+    --accent-2:#6d93ac;
+    --accent-soft:#1d2a34;
+    --caution:#e0ab5f;
+    --caution-bg:#2b2113;
+    --caution-rule:#4d3c1e;
+    --critical:#e79286;
+    --critical-bg:#2e1a17;
+    --critical-rule:#542b25;
+    --ok:#8fc4a2;
+    --ok-bg:#16261c;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#111518;
+  --surface:#191e22;
+  --surface-2:#20262b;
+  --plate:#0c0f12;
+  --plate-ink:#c8d1d7;
+  --ink:#e6eaec;
+  --ink-2:#a8b3ba;
+  --ink-3:#7d888f;
+  --rule:#333b41;
+  --rule-2:#262d33;
+  --accent:#8fb4cc;
+  --accent-2:#6d93ac;
+  --accent-soft:#1d2a34;
+  --caution:#e0ab5f;
+  --caution-bg:#2b2113;
+  --caution-rule:#4d3c1e;
+  --critical:#e79286;
+  --critical-bg:#2e1a17;
+  --critical-rule:#542b25;
+  --ok:#8fc4a2;
+  --ok-bg:#16261c;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.6);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--ground);
+  color:var(--ink);
+  font:400 16px/1.65 var(--sans);
+  margin:0;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:var(--accent);text-underline-offset:2px;text-decoration-thickness:1px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+
+/* ---- shell ---- */
+.shell{display:grid;grid-template-columns:var(--rail) minmax(0,1fr);gap:0;max-width:1320px;margin:0 auto}
+
+/* ---- chapter rail ---- */
+.rail{
+  position:sticky;top:0;align-self:start;height:100vh;overflow-y:auto;
+  border-right:1px solid var(--rule);background:var(--surface-2);
+  padding:22px 0 40px;
+}
+.rail-brand{padding:0 18px 16px;border-bottom:1px solid var(--rule-2);margin-bottom:10px}
+.rail-brand .mark{
+  font:600 11px/1 var(--disp);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);
+  display:block;margin-bottom:6px;
+}
+.rail-brand .vin{font:500 12.5px/1.3 var(--mono);color:var(--ink-2);word-break:break-all}
+.rail ol{list-style:none;margin:0;padding:0}
+.rail li a{
+  display:flex;gap:11px;align-items:baseline;
+  padding:6px 18px;text-decoration:none;color:var(--ink-2);font-size:14.5px;line-height:1.35;
+  border-left:2px solid transparent;
+}
+.rail li a:hover{color:var(--ink);background:var(--accent-soft)}
+.rail li a.active{color:var(--ink);border-left-color:var(--accent);background:var(--accent-soft);font-weight:600}
+.rail-num{
+  font:500 11px/1.5 var(--mono);color:var(--ink-3);
+  font-variant-numeric:tabular-nums;flex:0 0 18px;
+}
+.rail li a.active .rail-num{color:var(--accent)}
+.rail-sep{
+  font:600 10px/1 var(--disp);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);
+  padding:18px 18px 7px;margin-top:8px;border-top:1px solid var(--rule-2);
+}
+
+/* ---- main ---- */
+main{padding:0 0 96px;min-width:0}
+.wrap{max-width:74ch;padding:0 44px}
+
+/* ---- build plate ---- */
+.plate{background:var(--plate);color:var(--plate-ink);padding:36px 44px 30px;margin-bottom:0}
+.plate .eyebrow{
+  font:600 10.5px/1 var(--disp);letter-spacing:.18em;text-transform:uppercase;
+  color:#8b979f;margin:0 0 12px;
+}
+.plate h1{
+  font:700 clamp(29px,4.1vw,44px)/1.08 var(--disp);
+  letter-spacing:-.018em;margin:0 0 6px;color:#fff;text-wrap:balance;
+}
+.plate .sub{font-size:15.5px;color:#9aa6ae;margin:0 0 26px;max-width:56ch}
+.spec{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));
+  gap:0;border-top:1px solid #39434b;
+}
+.spec div{padding:13px 16px 12px;border-bottom:1px solid #39434b;border-right:1px solid #39434b}
+.spec dt{
+  font:600 9.5px/1 var(--disp);letter-spacing:.14em;text-transform:uppercase;
+  color:#8b979f;margin:0 0 6px;
+}
+.spec dd{margin:0;font:500 14px/1.35 var(--mono);color:#e8edf0;font-variant-numeric:tabular-nums}
+
+/* ---- alert ---- */
+.alert{
+  margin:0;padding:26px 44px;
+  background:var(--critical-bg);border-bottom:1px solid var(--critical-rule);
+}
+.alert h2{
+  font:700 14px/1.3 var(--disp);letter-spacing:.02em;text-transform:uppercase;
+  color:var(--critical);margin:0 0 9px;display:flex;align-items:center;gap:9px;
+}
+.alert h2::before{
+  content:"";width:9px;height:9px;background:var(--critical);
+  transform:rotate(45deg);flex:0 0 auto;
+}
+.alert p{margin:0 0 9px;max-width:66ch;font-size:15.5px;color:var(--ink)}
+.alert p:last-child{margin-bottom:0}
+.alert ol{margin:0 0 10px;padding-left:20px;max-width:66ch;font-size:15.5px}
+.alert a{color:var(--critical);font-weight:600}
+
+/* ---- sections ---- */
+.section{padding:44px 0 8px;scroll-margin-top:0}
+.section+.section{border-top:1px solid var(--rule)}
+.section-head{
+  display:flex;gap:14px;align-items:baseline;
+  max-width:74ch;padding:0 44px;margin-bottom:20px;
+}
+.section-num{
+  font:500 12px/1.9 var(--mono);color:var(--accent);font-variant-numeric:tabular-nums;
+  flex:0 0 auto;padding-top:1px;
+}
+.section h2{
+  font:700 clamp(22px,2.6vw,29px)/1.16 var(--disp);
+  letter-spacing:-.012em;margin:0;text-wrap:balance;
+}
+.section>*:not(.section-head):not(.tablewrap):not(blockquote){max-width:74ch;padding:0 44px}
+.section h3{
+  font:600 17px/1.3 var(--disp);margin:34px 0 10px;color:var(--ink);
+  letter-spacing:-.004em;
+}
+.section h4{
+  font:600 11px/1.3 var(--disp);letter-spacing:.11em;text-transform:uppercase;
+  margin:26px 0 8px;color:var(--ink-3);
+}
+.section p{margin:0 0 13px}
+.section>ul,.section>ol{margin:0 0 15px}
+.section ul li,.section ol li{margin-bottom:7px}
+.section ul{list-style:none}
+.section ul li{position:relative;padding-left:17px}
+.section ul li::before{
+  content:"";position:absolute;left:2px;top:.62em;
+  width:5px;height:1.5px;background:var(--accent-2);
+}
+.section ol{list-style:decimal;padding-left:20px}
+.section ol li{padding-left:3px}
+.section ol li::marker{font:500 13px var(--mono);color:var(--accent)}
+strong{font-weight:600}
+
+/* blockquote = the manual's callout convention */
+.section>blockquote{
+  max-width:74ch;margin:18px 44px;padding:15px 18px;
+  border-left:3px solid var(--caution);
+  background:var(--caution-bg);color:var(--ink);
+}
+.section blockquote p{margin:0 0 8px;font-size:15.5px}
+.section blockquote p:last-child{margin-bottom:0}
+.section blockquote strong{color:var(--caution)}
+.section blockquote ol{margin:8px 0 0}
+
+/* ---- tables ---- */
+.tablewrap{overflow-x:auto;padding:0 44px;margin:0 0 20px}
+table{
+  border-collapse:collapse;width:100%;min-width:min(100%,520px);
+  font-size:14.5px;background:var(--surface);
+  border:1px solid var(--rule);
+}
+caption{caption-side:top;text-align:left;font-size:13px;color:var(--ink-3);padding-bottom:7px}
+th{
+  text-align:left;font:600 10.5px/1.3 var(--disp);letter-spacing:.11em;text-transform:uppercase;
+  padding:10px 13px;background:var(--surface-2);color:var(--ink-2);
+  border-bottom:1px solid var(--rule);white-space:nowrap;vertical-align:bottom;
+}
+td{padding:9px 13px;border-bottom:1px solid var(--rule-2);vertical-align:top}
+tr:last-child td{border-bottom:0}
+td:first-child{color:var(--ink);font-weight:600}
+tbody tr:hover td{background:var(--surface-2)}
+/* numeric-looking cells line up */
+td{font-variant-numeric:tabular-nums}
+code{
+  font:400 13px/1.4 var(--mono);background:var(--surface-2);
+  padding:1.5px 5px;border:1px solid var(--rule-2);color:var(--ink-2);
+  word-break:break-word;
+}
+td code{font-size:12.5px}
+
+/* ---- chips ---- */
+.chip{
+  display:inline-block;font:600 10px/1.5 var(--disp);letter-spacing:.07em;text-transform:uppercase;
+  padding:2px 7px;border:1px solid;white-space:nowrap;
+}
+.chip-caution{color:var(--caution);border-color:var(--caution-rule);background:var(--caution-bg)}
+.chip-ok{color:var(--ok);border-color:var(--ok);background:var(--ok-bg)}
+.chip-muted{color:var(--ink-3);border-color:var(--rule);background:var(--surface-2)}
+.local-ref{color:var(--ink-2);text-decoration:none;border-bottom:1px dotted var(--rule)}
+
+/* ---- log sections read as records, not prose ---- */
+.section.log h2{color:var(--ink-2)}
+.section.log .section-num{color:var(--ink-3)}
+
+/* ---- footer ---- */
+.foot{
+  padding:34px 44px 0;max-width:74ch;color:var(--ink-3);font-size:13.5px;
+  border-top:1px solid var(--rule);margin-top:44px;
+}
+.foot p{margin:0 0 7px}
+
+/* ---- responsive ---- */
+@media (max-width:900px){
+  .shell{grid-template-columns:1fr}
+  .rail{
+    position:static;height:auto;border-right:0;border-bottom:1px solid var(--rule);
+    padding:16px 0 12px;
+  }
+  .rail ol{display:flex;flex-wrap:wrap;gap:2px 0;padding:0 10px}
+  .rail li a{padding:5px 9px;border-left:0;border-bottom:2px solid transparent}
+  .rail li a.active{border-left:0;border-bottom-color:var(--accent)}
+  .rail-label{display:none}
+  .rail-sep{display:none}
+  .rail-brand{padding:0 18px 12px}
+  .plate,.alert,.wrap,.tablewrap,.section-head,.foot,
+  .section>*:not(.section-head):not(.tablewrap):not(blockquote){padding-left:20px;padding-right:20px}
+  .section>blockquote{margin-left:20px;margin-right:20px}
+  .spec{grid-template-columns:repeat(auto-fit,minmax(132px,1fr))}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+@media print{
+  .rail{display:none}
+  .shell{display:block}
+  body{background:#fff}
+  .section{break-inside:auto;page-break-inside:auto}
+  .section h2,.section h3{break-after:avoid}
+  table{break-inside:auto}
+}
+</style>
+
+<div class="shell">
+<nav class="rail" aria-label="Chapters">
+  <div class="rail-brand">
+    <span class="mark">2024 F-350 Super Duty</span>
+    <span class="vin">1FT8W3BNXRED73946</span>
+  </div>
+  <ol>
+<!--NAV-->
+  </ol>
+</nav>
+
+<main>
+  <header class="plate">
+    <p class="eyebrow">Master Reference Manual &middot; Edition 1.2</p>
+    <h1>2024 Ford F-350 Super Duty</h1>
+    <p class="sub">VIN-specific ownership, towing, and service reference. Compiled from Ford OEM publications, the original window sticker, and the vehicle history report.</p>
+    <dl class="spec">
+      <div><dt>VIN</dt><dd>1FT8W3BNXRED73946</dd></div>
+      <div><dt>Configuration</dt><dd>SRW 4X4 Crew Cab</dd></div>
+      <div><dt>Engine</dt><dd>7.3L PFI V8</dd></div>
+      <div><dt>Transmission</dt><dd>10-spd TorqShift</dd></div>
+      <div><dt>Wheelbase</dt><dd>176 in</dd></div>
+      <div><dt>Rear axle</dt><dd>4.30 e-locking</dd></div>
+      <div><dt>GVWR pkg</dt><dd>11,900 lb</dd></div>
+      <div><dt>Odometer</dt><dd>38,278 mi</dd></div>
+      <div><dt>Plant</dt><dd>Kentucky Truck</dd></div>
+      <div><dt>Built</dt><dd>23 Apr 2024</dd></div>
+      <div><dt>Paint</dt><dd>Carbonized Gray</dd></div>
+      <div><dt>Title</dt><dd>Mfr. buyback</dd></div>
+    </dl>
+  </header>
+
+  <div class="alert">
+    <h2>Manufacturer buyback &mdash; unrepaired defects of record</h2>
+    <p>Ford Motor Company reacquired this truck on <strong>1 July 2026</strong> under state consumer warranty law. Ford cited two defects:</p>
+    <ol>
+      <li>The passenger-side window does not operate correctly.</li>
+      <li><strong>The Cross Traffic / Blind Spot sensors do not operate correctly.</strong></li>
+    </ol>
+    <p>The only repair recorded afterward is a lamp assembly on 10 August 2026, which matches neither fault. <strong>Nothing on record shows either defect was repaired</strong> before the 25 August 2026 auction and resale. Verify both directly &mdash; blind-spot coverage bears on the fifth-wheel workflow in <a href="#c10">chapter 10</a>. Full history and a verification list: <a href="#c14">chapter 14</a>.</p>
+  </div>
+
+<!--BODY-->
+
+  <div class="foot">
+    <p>Edition 1.2 &middot; September 2026 &middot; Generated from the Markdown sources by <code>build-html.py</code>.</p>
+    <p>This reference summarizes rather than reproduces Ford source manuals. Values marked <span class="chip chip-caution">Confirm with Ford WSM</span> are not service instructions until verified against the current Ford Workshop Manual for this VIN.</p>
+  </div>
+</main>
+</div>
+
+<script>
+(function(){
+  var links = Array.prototype.slice.call(document.querySelectorAll('.rail a[data-anchor]'));
+  var byId = {};
+  links.forEach(function(a){ byId[a.getAttribute('data-anchor')] = a; });
+  var sections = Array.prototype.slice.call(document.querySelectorAll('section.section'));
+  if (!('IntersectionObserver' in window) || !sections.length) return;
+
+  var visible = {};
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){ visible[e.target.id] = e.isIntersecting; });
+    var current = null;
+    for (var i = 0; i < sections.length; i++) {
+      if (visible[sections[i].id]) { current = sections[i].id; break; }
+    }
+    if (!current) return;
+    links.forEach(function(a){ a.classList.remove('active'); });
+    if (byId[current]) byId[current].classList.add('active');
+  }, { rootMargin: '-8% 0px -70% 0px', threshold: 0 });
+
+  sections.forEach(function(s){ io.observe(s); });
+})();
+</script>
