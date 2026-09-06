@@ -10,10 +10,11 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | --- | --- |
 | VIN | 1FT8W3BNXRED73946 |
 | Model year | 2024 |
-| Vehicle | Ford F-350 Super Duty |
+| Vehicle | Ford F-350 SRW 4X4 Crew Cab, XLT, 176" WB Styleside |
 | Assembly plant | Kentucky Truck Plant, Louisville, Kentucky |
-| Engine | 7.3L gasoline V8 (configuration record) |
-| Bed / towing context | 8-foot bed; factory fifth-wheel/gooseneck preparation and camera equipment recorded in project notes |
+| Engine | 7.3L DEVCT NA PFI gasoline V8, 10-speed TorqShift |
+| Bed / towing context | 8-foot bed; factory 5th Wheel Hitch Prep Package, Gooseneck Hitch Kit, 360-Degree Camera Package, and BLIS (verified on window sticker) |
+| Axle / GVWR | 4.30 electronic-locking; 11,900 lb GVWR package |
 
 ## How to use this manual
 
@@ -54,9 +55,13 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 ```
 chapters/     One Markdown file per manual chapter
 logs/         Fillable running records (service, modules, accessories, scale weights)
-references/   Retained copies of the REF-0NN source library
+references/   Notes on the REF-0NN source library
 source/       The compiled PDF this repository was scaffolded from
+imports/      Local-only staging for uploaded material (gitignored)
 ```
+
+Ford publications are held locally in `imports/` and cited in
+[chapter 13](chapters/13-reference-documents.md) rather than committed.
 
 ## Chapter status
 
@@ -67,3 +72,4 @@ Chapters 3, 6, and much of 5, 7, and 11 are deliberate placeholders. They are po
 | Version | Date | Summary |
 | --- | --- | --- |
 | 1.0 | September 2026 | Initial compiled reference; placeholders retained for WSM data |
+| 1.1 | September 2026 | Ford document library imported (REF-013 - REF-021); build data verified from window sticker |

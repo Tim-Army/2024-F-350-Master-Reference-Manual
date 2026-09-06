@@ -1,9 +1,7 @@
 # Reference Documents
 
-Retained copies of the source library catalogued in [13. Reference Documents](../chapters/13-reference-documents.md).
+The source library is catalogued in [13. Reference Documents](../chapters/13-reference-documents.md), which records each document's ID, filename, page count, purpose, and whether a copy is held.
 
-Naming convention: `REF-0NN-short-title.pdf`, matching the ID in the chapter table.
+**The files themselves are not stored here.** Ford publications are copyrighted and are kept locally in `imports/truck-f350/` (gitignored). The chapter 13 catalog is the authoritative index; consult it to find a document, then open it from the local import directory.
 
-When adding a document, record publication date, section, vehicle applicability, and any superseding publication in the chapter table. Do not commit material you do not have the right to redistribute; for those, record the citation in the chapter table only.
-
-Nothing is retained here yet - REF-001 through REF-012 are catalogued but not stored.
+This directory holds only notes about the library. If a redistributable document is ever added to version control, name it `REF-0NN-short-title.pdf` to match its catalog ID.

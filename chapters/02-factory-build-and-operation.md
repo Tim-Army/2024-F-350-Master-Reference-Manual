@@ -1,10 +1,41 @@
 # 2. Factory Build & Operation
 
-## Recorded factory equipment
+## Verified factory equipment
 
-- XLT trim and 7.3L gasoline configuration are recorded in the project conversation.
-- Factory 360-degree camera package, bed camera, and fifth-wheel/gooseneck preparation are recorded as present.
-- Factory in-bed 7-pin connector is recorded as present; it aligns with Ford's recommended driver-side bed location.
+From the window sticker (REF-003). This supersedes the earlier "recorded in project conversation" status for these items.
+
+### Towing and payload
+
+- **5th Wheel Hitch Prep Package** and **Gooseneck Hitch Kit** - both factory-fitted, confirming the fifth-wheel/gooseneck preparation noted in project work.
+- Trailer Brake Controller (standard), Trailer Sway Control, Tow Hooks.
+- **PowerScope trailer tow mirrors**; trailer tow mirrors standard.
+- **Snowplow Prep / Camper Package**.
+- 11,900 lb GVWR package; 4.30 electronic-locking rear axle.
+
+### Cameras and sensing
+
+- **360-Degree Camera Package** - factory option, $1,150.
+- Rear View Camera (standard).
+- **BLIS (Blind Spot Information System)**.
+- Reverse Sensing System.
+- Pre-Collision Assist with AEB (standard).
+
+### Electrical and upfitting
+
+- **Upfitter Switches** and **250-amp alternator** - both factory options, relevant to any accessory wiring in chapter 7.
+- 120V outlet; FordPass Connect 5G Wi-Fi hotspot telematics modem; SYNC 4.
+- Roof clearance lights; SecuriCode keyless entry keypad; Remote Start System.
+
+### Other options of record
+
+- FX4 Off-Road Package with skid plates; Platform Running Boards.
+- Tough Bed spray-in bedliner; cloth 40/console/40 seating; carpet delete.
+- Front license plate bracket; jack; 50-state emissions.
+
+### Still unverified
+
+- The factory in-bed 7-pin connector is **recorded** as present and aligns with Ford's recommended driver-side bed location, but does not appear as a separate sticker line - it is bundled with the hitch prep packages. Confirm visually.
+- A dedicated bed camera is **recorded** as present; the sticker lists the 360-degree camera package, which supplies the bed/cargo view on this configuration. Confirm in the SYNC camera menu.
 
 ## Camera and trailer guidance quick reference
 
@@ -14,6 +45,7 @@
 
 ## Driving systems notes
 
-- Adaptive cruise control offers selectable following gaps. The project notes caution against use when towing a trailer with an aftermarket electronic brake controller.
+- Adaptive cruise control offers selectable following gaps. The project notes caution against use when towing a trailer with an aftermarket electronic brake controller - note that this truck has the **factory** trailer brake controller, so that caution applies only if an aftermarket unit is later added.
 - Hill Descent Control operating range recorded from quick guide: 2-20 mph (3-32 km/h).
 - Trail Control is low-speed off-road cruise control; braking reduces set speed without turning it off.
+- AdvanceTrac with RSC and Hill Start Assist are standard.
