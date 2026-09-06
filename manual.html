@@ -1307,6 +1307,23 @@ adapters/pins; coupler/wheel locks and security cable</td>
 </tr>
 </tbody>
 </table></div>
+<h3 id="wheel-and-tire-changes">Wheel and tire changes</h3>
+<p>The truck runs <strong>LT275/70R18E BSW all-terrain</strong> from the
+factory (REF-003). The planned Michelin Defender LTX M/S2 replacement
+should match that size and load range E; anything else changes the
+loading math in <a href="#c10">chapter
+10</a>.</p>
+<p>If a tire size does change, two steps follow (REF-010):</p>
+<ul>
+<li><strong>Speedometer recalibration.</strong> The PCM may need
+recalibrating through Ford diagnostic software - see <a
+href="#c08">chapter 8</a> and log the
+change there.</li>
+<li><strong>TPMS sensor wake-up</strong>, so the sensors transmit
+current pressures. Ford specifies special service tool 204-D081A
+(204-D081), starting at the left front valve stem with the ignition
+on.</li>
+</ul>
 <h3 id="accessory-installation-record">Accessory installation
 record</h3>
 <p>For each installed item, capture manufacturer, part number, vendor,
@@ -1630,10 +1647,14 @@ applicability</td>
 </tr>
 <tr>
 <td>REF-010</td>
-<td>Wheel / Tire Kit</td>
+<td>Wheel / Tire Kit installation instruction (SKM2DJ-1K007-AA)</td>
 <td><code>WHEEL_TIRE_KIT.pdf</code></td>
 <td>10</td>
-<td>Reference; retain and review fitment/ratings</td>
+<td>Generic Ford <strong>accessory</strong> wheel/tire kit sheet, ©
+2020, specifying <strong>P275/55R20</strong>. <strong>Does not match
+this truck</strong> (LT275/70R18E load range E all-terrain), is not
+VIN-specific, and contains no axle data. Useful only for its TPMS
+wake-up and speedometer recalibration notes</td>
 <td><span class="chip chip-ok">Held</span></td>
 </tr>
 <tr>
@@ -1755,6 +1776,35 @@ Workshop Manual</strong> (the single largest gap - see <a
 href="#apxa">Appendix A</a>), the
 original dealer advertisement (REF-004), and Motorcraft parts
 documentation for chapter 3.</p>
+<h4 id="documents-that-do-not-apply-to-this-truck">Documents that do not
+apply to this truck</h4>
+<p>Three held documents cover other vehicles or configurations. They are
+retained for reference but must not be used as specifications for this
+VIN:</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Why it does not apply</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>REF-009</td>
+<td>Spare tire lock for F-150 / Ranger, not Super Duty</td>
+</tr>
+<tr>
+<td>REF-010</td>
+<td>Accessory wheel/tire kit for P275/55R20; this truck runs
+LT275/70R18E</td>
+</tr>
+<tr>
+<td>REF-019</td>
+<td>Pro Power Onboard for chassis cab, not this pickup
+configuration</td>
+</tr>
+</tbody>
+</table></div>
 <p><strong>Now a priority given the buyback:</strong> the Ford repair
 orders from the reacquisition period, and any Field Service Action or
 recall history by VIN. CARFAX records that Ford took the truck back and
