@@ -38,7 +38,7 @@ The owner's manual publishes two front axle variants. This truck is 4X4, but the
 | Front axle 9.25 (4WD, with limited slip) | 2.20 qt (2.08 L) including friction modifier | WSP-M2C197-A + EST-M2C118-A | Add 4.4 fl oz (130 ml) XL-3 within the 2.2 qt total |
 | Front axle 10.08 | 2.75 qt (2.6 L) | WSP-M2C197-A, SAE 80W-90 | XY-80W90-QL |
 
-**Confirm the axle before filling.** Identify from the axle tag or the door-label axle code, or via the Workshop Manual.
+**Confirm the axle before filling.** The window sticker (REF-003) was reviewed and does **not** identify the axle assembly - it carries only the `4.30 ELECTRONIC-LOCKING AXLE` option line, which gives the ratio and the locker but not the ring gear size. Identify instead from the **axle tag** (on the differential cover) or the **axle code on the door jamb Safety Compliance Certification Label**.
 
 ## Rear axle - confirm which is fitted
 
@@ -49,7 +49,9 @@ The truck has a **4.30 electronic-locking** rear axle (verified, REF-003), which
 | Rear axle 10.5, with electronic locking differential | 3.3-3.5 qt (3.1-3.3 L) | WSS-M2C942-A, SAE 75W-85 synthetic hypoid (XY-75W85-QL) |
 | Rear axle 11.8 single rear wheel, electric locking differential | 4.05 qt (3.83 L) | WSL-M2C192-A, SAE 75W-140 synthetic (XY-75W140-QL) |
 
-This is an SRW truck, which points toward one of these two - but **the specification differs between them (75W-85 vs 75W-140), not just the quantity.** Confirm the axle assembly from the axle tag before servicing. The towing interval exception in [chapter 3](03-oem-parts-catalog.md) also depends on which fluid is in the axle.
+This is an SRW truck, which points toward one of these two - but **the specification differs between them (75W-85 vs 75W-140), not just the quantity.** The towing interval exception in [chapter 3](03-oem-parts-catalog.md) also depends on which fluid is in the axle.
+
+**The window sticker cannot settle this** - see the front axle note above. The door jamb label is the document to photograph: it carries the axle code *and* both Gross Axle Weight Ratings, closing this gap and the loading gap in [chapter 10](10-fifth-wheel-and-towing.md) at the same time.
 
 For reference, the other published variants (not expected on this truck): rear axle 11.8 light/heavy duty, 4.21 qt open or 3.95 qt limited slip; rear axle 12.4, 4.65 qt limited slip.
 
@@ -61,5 +63,13 @@ Ford notes that under high-load operation - extended high engine speed, heavy lo
 
 ## Open items
 
-- Automatic transmission fluid **capacity** is not published in the owner's manual; source it from the Workshop Manual - see [Appendix A](appendix-a-workshop-manual-intake.md).
-- Front and rear axle assemblies to be identified for this VIN, then the tables above reduced to the single applicable row.
+- Automatic transmission fluid **capacity** is not published in the owner's manual, and is **not** on the window sticker. It requires the Workshop Manual - see [Appendix A](appendix-a-workshop-manual-intake.md).
+- Front and rear axle assemblies to be identified from the axle tag or door jamb label, then the tables above reduced to the single applicable row.
+
+### Sources checked and ruled out
+
+| Document | Result |
+| --- | --- |
+| Window sticker (REF-003) | Ratio and locker only; no assembly ID, no GAWR, no fluid capacities |
+| Owner's Manual (REF-001) | All capacities except the transmission; axle variants listed but not tied to a VIN |
+| Camper Loading Guide (REF-002) | Front GAWR and cargo ratings by configuration; no axle assembly ID |

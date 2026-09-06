@@ -23,10 +23,22 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 | Odometer (last reported) | 38,278 mi (2026-08-25) | REF-022 |
 | Title status | Manufacturer buyback; MI title #MI0030735498 | REF-022 |
 | Order reference | KTP-004635 / RD091, unit 004635 | REF-003 |
+| Order type | Special order; RD091 N RB 2X 425 004635 04 09 24 | REF-003 |
+| Emissions | 50-state; gasoline vehicle | REF-003 |
+| Transport | Convoy; ramp CA1K, item 47-H350 O/T 1 | REF-003 |
 
 > **Dealer discrepancy resolved.** Both dealers are genuine and sequential: *Friendship Ford, Bristol, Tennessee* sold the truck new in 2024; *Northside Ford Lincoln, Effingham, Illinois* listed it in August 2026 after Ford reacquired it. See [chapter 14](14-vehicle-history-and-title.md).
 
 > :warning: **This vehicle is a Ford manufacturer buyback** (reacquired 2026-07-01), with two cited defects not shown as repaired. Read [chapter 14](14-vehicle-history-and-title.md) before acting on anything else in this manual.
+
+## Emissions ratings
+
+California Air Resources Board Environmental Performance panel (REF-003). Ford notes these are not directly comparable to U.S. EPA/DOT light-duty labels.
+
+| Rating | Score (A+ cleanest to D) |
+| --- | --- |
+| Greenhouse gas (tailpipe only) | **D** |
+| Smog (tailpipe only) | **B** |
 
 ## Pricing record (as built)
 
