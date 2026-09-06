@@ -1,0 +1,69 @@
+# 2024 F-350 Master Reference Manual
+
+VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Super Duty.
+
+**Edition 1.0 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
+
+## Vehicle
+
+| Vehicle | Value |
+| --- | --- |
+| VIN | 1FT8W3BNXRED73946 |
+| Model year | 2024 |
+| Vehicle | Ford F-350 Super Duty |
+| Assembly plant | Kentucky Truck Plant, Louisville, Kentucky |
+| Engine | 7.3L gasoline V8 (configuration record) |
+| Bed / towing context | 8-foot bed; factory fifth-wheel/gooseneck preparation and camera equipment recorded in project notes |
+
+## How to use this manual
+
+- Navigate by chapter using the contents below.
+- Treat *Ford OEM* as a source classification, not a substitute for consulting the original document for complete warnings and procedures.
+- Record installed accessories, maintenance, scale weights, and module backups in the [logs](logs/) as work is performed.
+
+## Confidence labels
+
+| Label | Meaning |
+| --- | --- |
+| Ford OEM | Official Ford publication |
+| Recorded | Project-specific information |
+| Planned | Intended purchase or work |
+| Confirm with Ford WSM | Not yet validated against current service information - do not act on it as a specification |
+
+## Contents
+
+| # | Chapter |
+| --- | --- |
+| 1 | [Vehicle Information](chapters/01-vehicle-information.md) |
+| 2 | [Factory Build & Operation](chapters/02-factory-build-and-operation.md) |
+| 3 | [OEM Parts Catalog](chapters/03-oem-parts-catalog.md) |
+| 4 | [Maintenance & Service Log](chapters/04-maintenance-and-service-log.md) |
+| 5 | [Torque Specifications](chapters/05-torque-specifications.md) |
+| 6 | [Fluids & Capacities](chapters/06-fluids-and-capacities.md) |
+| 7 | [Electrical Atlas](chapters/07-electrical-atlas.md) |
+| 8 | [FORScan & Module Programming](chapters/08-forscan-and-module-programming.md) |
+| 9 | [Accessories & Modifications](chapters/09-accessories-and-modifications.md) |
+| 10 | [Fifth-Wheel & Towing](chapters/10-fifth-wheel-and-towing.md) |
+| 11 | [Troubleshooting](chapters/11-troubleshooting.md) |
+| 12 | [3D-Printed Accessories](chapters/12-3d-printed-accessories.md) |
+| 13 | [Reference Documents](chapters/13-reference-documents.md) |
+| A | [Appendix A. Future Workshop Manual Intake](chapters/appendix-a-workshop-manual-intake.md) |
+
+## Repository layout
+
+```
+chapters/     One Markdown file per manual chapter
+logs/         Fillable running records (service, modules, accessories, scale weights)
+references/   Retained copies of the REF-0NN source library
+source/       The compiled PDF this repository was scaffolded from
+```
+
+## Chapter status
+
+Chapters 3, 6, and much of 5, 7, and 11 are deliberate placeholders. They are populated from the Ford Workshop Manual as it is acquired - see [Appendix A](chapters/appendix-a-workshop-manual-intake.md) for the intake list.
+
+## Revision record
+
+| Version | Date | Summary |
+| --- | --- | --- |
+| 1.0 | September 2026 | Initial compiled reference; placeholders retained for WSM data |
