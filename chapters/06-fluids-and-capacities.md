@@ -68,8 +68,17 @@ Ford notes that under high-load operation - extended high engine speed, heavy lo
 
 ### Sources checked and ruled out
 
+Every held document that could plausibly carry the axle identification has now been searched. None does.
+
 | Document | Result |
 | --- | --- |
-| Window sticker (REF-003) | Ratio and locker only; no assembly ID, no GAWR, no fluid capacities |
-| Owner's Manual (REF-001) | All capacities except the transmission; axle variants listed but not tied to a VIN |
-| Camper Loading Guide (REF-002) | Front GAWR and cargo ratings by configuration; no axle assembly ID |
+| Window sticker (REF-003) | Ratio and locker only (`4.30 ELECTRONIC-LOCKING AXLE`); no assembly ID, no GAWR, no fluid capacities |
+| Owner's Manual (REF-001) | All capacities except the transmission; axle variants listed generically, never tied to a VIN |
+| Camper Loading Guide (REF-002) | Loading document only. Contains no gear ratios and no ring gear sizes; every reference to an axle is either a weight rating or the electronic-locking differential's option weight. Does supply front GAWR and cargo ratings - see [chapter 10](10-fifth-wheel-and-towing.md) |
+| Wheel / Tire Kit (REF-010) | Generic 2020 accessory sheet for P275/55R20; not applicable to this truck and contains no axle data |
+
+**Remaining sources, in order of ease:**
+
+1. **Door jamb Safety Compliance Certification Label** - carries the axle code and both GAWRs. One photograph closes this and the [chapter 10](10-fifth-wheel-and-towing.md) loading gap together.
+2. **Axle tag** on the differential cover - stamped with the assembly and ratio.
+3. Ford Workshop Manual or a dealer VIN lookup.
