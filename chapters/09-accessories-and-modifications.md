@@ -168,7 +168,8 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
 | Bed cover |  | Researching | Owner still evaluating options. **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware |
-| Dee Zee under-seat drawer |  | Planned | Crew cab rear under-seat |
+| [Dee Zee DZ701 under-seat storage drawer](https://www.amazon.com/Dee-Zee-DZ701-Storage-Drawer/dp/B09M1MB2RB) | $308.69 | **Deferred** | Fits F-150 15+ / Super Duty 17+, so it suits this truck. **Not being bought** - a shop-built wooden box is planned instead. Price kept as the commercial benchmark |
+| Under-seat storage box - shop-built | Material cost only | Planned | DIY replacement for the Dee Zee. Measure the crew cab rear under-seat area, allowing for the seat-fold mechanism and the [rear under-seat stow bin](#c02) if fitted. Record the build in the [accessory log](#log-accessory) |
 | Console and modular organizers | | Planned | DIY - see [chapter 12](12-3d-printed-accessories.md) |
 
 ### Maintenance and security
