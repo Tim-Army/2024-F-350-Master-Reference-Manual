@@ -220,6 +220,36 @@ strong{font-weight:600}
 .section blockquote strong{color:var(--caution)}
 .section blockquote ol{margin:8px 0 0}
 
+/* ---- contents ---- */
+.toc{
+  padding:34px 44px 40px;border-bottom:1px solid var(--rule);
+  background:var(--surface-2);
+}
+.toc h2{
+  font:600 10.5px/1 var(--disp);letter-spacing:.18em;text-transform:uppercase;
+  color:var(--ink-3);margin:0 0 20px;
+}
+.toc-cols{columns:3 250px;column-gap:34px}
+.toc-group{break-inside:avoid;margin:0 0 17px}
+.toc-chapter{
+  display:flex;gap:9px;align-items:baseline;text-decoration:none;
+  font:600 14.5px/1.3 var(--disp);color:var(--ink);margin-bottom:4px;
+}
+.toc-chapter:hover{color:var(--accent)}
+.toc-num{
+  font:500 11px/1.5 var(--mono);color:var(--accent);
+  font-variant-numeric:tabular-nums;flex:0 0 17px;
+}
+.toc-group.toc-log .toc-chapter{color:var(--ink-2)}
+.toc-group.toc-log .toc-num{color:var(--ink-3)}
+.toc ul{list-style:none;margin:0;padding:0 0 0 26px}
+.toc li{margin:0 0 1px}
+.toc li a{
+  color:var(--ink-2);text-decoration:none;font-size:13.5px;line-height:1.45;
+  display:block;
+}
+.toc li a:hover{color:var(--accent);text-decoration:underline}
+
 /* ---- tables ---- */
 .tablewrap{overflow-x:auto;padding:0 44px;margin:0 0 20px}
 table{
@@ -280,6 +310,8 @@ td code{font-size:12.5px}
   .rail-label{display:none}
   .rail-sep{display:none}
   .rail-brand{padding:0 18px 12px}
+  .toc{padding-left:20px;padding-right:20px}
+  .toc-cols{columns:1}
   .plate,.alert,.wrap,.tablewrap,.section-head,.foot,
   .section>*:not(.section-head):not(.tablewrap):not(blockquote){padding-left:20px;padding-right:20px}
   .section>blockquote{margin-left:20px;margin-right:20px}
@@ -357,6 +389,48 @@ html{scroll-behavior:smooth}
     </ol>
     <p>The only repair recorded afterward is a lamp assembly on 10 August 2026, which matches neither fault. <strong>Nothing on record shows either defect was repaired</strong> before the 25 August 2026 auction and resale. Verify both directly &mdash; blind-spot coverage bears on the fifth-wheel workflow in <a href="#c10">chapter 10</a>. Full history and a verification list: <a href="#c14">chapter 14</a>.</p>
   </div>
+
+<nav class="toc" aria-label="Table of contents">
+    <h2>Contents</h2>
+    <div class="toc-cols">
+<div class="toc-group"><a class="toc-chapter" href="#c01"><span class="toc-num">01</span>1. Vehicle Information</a><ul><li><a href="#identity-and-configuration">Identity and configuration</a></li><li><a href="#emissions-ratings">Emissions ratings</a></li><li><a href="#pricing-record-as-built">Pricing record (as built)</a></li><li><a href="#warranty-as-delivered">Warranty (as delivered)</a></li><li><a href="#scope-and-confidence">Scope and confidence</a></li><li><a href="#ownership-record">Ownership record</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c02"><span class="toc-num">02</span>2. Factory Build & Operation</a><ul><li><a href="#verified-factory-equipment">Verified factory equipment</a></li><li><a href="#camera-and-trailer-guidance-quick-reference">Camera and trailer
+guidance quick reference</a></li><li><a href="#driving-systems-notes">Driving systems notes</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c03"><span class="toc-num">03</span>3. OEM Parts Catalog</a><ul><li><a href="#catalog-status">Catalog status</a></li><li><a href="#motorcraft-parts---73l-gasoline">Motorcraft parts - 7.3L
+gasoline</a></li><li><a href="#engine-specifications---73l-gasoline">Engine specifications -
+7.3L gasoline</a></li><li><a href="#service-intervals">Service intervals</a></li><li><a href="#every-six-months">Every six months</a></li><li><a href="#still-to-source">Still to source</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c04"><span class="toc-num">04</span>4. Maintenance & Service Log</a><ul><li><a href="#maintenance-framework">Maintenance framework</a></li><li><a href="#service-log">Service log</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c05"><span class="toc-num">05</span>5. Torque Specifications</a><ul><li><a href="#verified-status-note">Verified-status note</a></li><li><a href="#provisional-quick-list---confirm-with-ford-wsm">Provisional
+quick list - confirm with Ford WSM</a></li><li><a href="#torque-atlas-placeholder">Torque Atlas placeholder</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c06"><span class="toc-num">06</span>6. Fluids & Capacities</a><ul><li><a href="#status">Status</a></li><li><a href="#capacities-and-specifications">Capacities and
+specifications</a></li><li><a href="#front-axle---confirm-which-is-fitted">Front axle - confirm which
+is fitted</a></li><li><a href="#rear-axle---confirm-which-is-fitted">Rear axle - confirm which
+is fitted</a></li><li><a href="#fluid-level-checks">Fluid level checks</a></li><li><a href="#open-items">Open items</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c07"><span class="toc-num">07</span>7. Electrical Atlas</a><ul><li><a href="#apim--bcm-rear-camera-configuration">APIM / BCM rear-camera
+configuration</a></li><li><a href="#electrical-work-placeholders">Electrical work placeholders</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c08"><span class="toc-num">08</span>8. FORScan & Module Programming</a><ul><li><a href="#recovery-first-workflow">Recovery-first workflow</a></li><li><a href="#change-log">Change log</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c09"><span class="toc-num">09</span>9. Accessories & Modifications</a><ul><li><a href="#planned-roadmap">Planned roadmap</a></li><li><a href="#rear-load-support---options-under-evaluation">Rear load support
+- options under evaluation</a></li><li><a href="#timbren---suspension-and-brake-enhancement">Timbren - suspension
+and brake enhancement</a></li><li><a href="#wheel-and-tire-changes">Wheel and tire changes</a></li><li><a href="#accessory-installation-record">Accessory installation
+record</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c10"><span class="toc-num">10</span>10. Fifth-Wheel & Towing</a><ul><li><a href="#oem-fifth-wheel-hitch-guidance">OEM fifth-wheel hitch
+guidance</a></li><li><a href="#hitching-and-backing-checklist">Hitching and backing
+checklist</a></li><li><a href="#loading-data-for-this-configuration">Loading data for this
+configuration</a></li><li><a href="#payload-and-loading">Payload and loading</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c11"><span class="toc-num">11</span>11. Troubleshooting</a><ul><li><a href="#placeholder-symptom-index">Placeholder symptom index</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c12"><span class="toc-num">12</span>12. 3D-Printed Accessories</a><ul><li><a href="#design-library">Design library</a></li><li><a href="#design-record-template">Design record template</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c13"><span class="toc-num">13</span>13. Reference Documents</a><ul><li><a href="#holdings">Holdings</a></li><li><a href="#source-library">Source library</a></li><li><a href="#accessory-and-kit-documentation">Accessory and kit
+documentation</a></li><li><a href="#future-source-intake">Future source intake</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c14"><span class="toc-num">14</span>14. Vehicle History & Title</a><ul><li><a href="#headline-findings">Headline findings</a></li><li><a href="#status-summary">Status summary</a></li><li><a href="#warranty-position">Warranty position</a></li><li><a href="#ownership-and-title-timeline">Ownership and title timeline</a></li><li><a href="#service-history">Service history</a></li><li><a href="#pre-purchase--pre-use-verification-list">Pre-purchase / pre-use
+verification list</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#apxa"><span class="toc-num">A</span>Appendix A. Future Workshop Manual Intake</a><ul><li><a href="#required-additions">Required additions</a></li><li><a href="#revision-record">Revision record</a></li></ul></div>
+<div class="toc-group toc-log"><a class="toc-chapter" href="#log-service"><span class="toc-num">L1</span>Service Log</a><ul><li><a href="#prior-history-from-carfax-ref-022">Prior history (from CARFAX,
+REF-022)</a></li><li><a href="#owner-record">Owner record</a></li></ul></div>
+<div class="toc-group toc-log"><a class="toc-chapter" href="#log-module"><span class="toc-num">L2</span>Module Change Log</a><ul></ul></div>
+<div class="toc-group toc-log"><a class="toc-chapter" href="#log-accessory"><span class="toc-num">L3</span>Accessory Installation Record</a><ul></ul></div>
+<div class="toc-group toc-log"><a class="toc-chapter" href="#log-scale"><span class="toc-num">L4</span>Scale Weights</a><ul></ul></div>
+    </div>
+  </nav>
 
 <section class="section chapter" id="c01">
   <div class="section-head"><span class="section-num">01</span><h2>1. Vehicle Information</h2></div>

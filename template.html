@@ -220,6 +220,36 @@ strong{font-weight:600}
 .section blockquote strong{color:var(--caution)}
 .section blockquote ol{margin:8px 0 0}
 
+/* ---- contents ---- */
+.toc{
+  padding:34px 44px 40px;border-bottom:1px solid var(--rule);
+  background:var(--surface-2);
+}
+.toc h2{
+  font:600 10.5px/1 var(--disp);letter-spacing:.18em;text-transform:uppercase;
+  color:var(--ink-3);margin:0 0 20px;
+}
+.toc-cols{columns:3 250px;column-gap:34px}
+.toc-group{break-inside:avoid;margin:0 0 17px}
+.toc-chapter{
+  display:flex;gap:9px;align-items:baseline;text-decoration:none;
+  font:600 14.5px/1.3 var(--disp);color:var(--ink);margin-bottom:4px;
+}
+.toc-chapter:hover{color:var(--accent)}
+.toc-num{
+  font:500 11px/1.5 var(--mono);color:var(--accent);
+  font-variant-numeric:tabular-nums;flex:0 0 17px;
+}
+.toc-group.toc-log .toc-chapter{color:var(--ink-2)}
+.toc-group.toc-log .toc-num{color:var(--ink-3)}
+.toc ul{list-style:none;margin:0;padding:0 0 0 26px}
+.toc li{margin:0 0 1px}
+.toc li a{
+  color:var(--ink-2);text-decoration:none;font-size:13.5px;line-height:1.45;
+  display:block;
+}
+.toc li a:hover{color:var(--accent);text-decoration:underline}
+
 /* ---- tables ---- */
 .tablewrap{overflow-x:auto;padding:0 44px;margin:0 0 20px}
 table{
@@ -280,6 +310,8 @@ td code{font-size:12.5px}
   .rail-label{display:none}
   .rail-sep{display:none}
   .rail-brand{padding:0 18px 12px}
+  .toc{padding-left:20px;padding-right:20px}
+  .toc-cols{columns:1}
   .plate,.alert,.wrap,.tablewrap,.section-head,.foot,
   .section>*:not(.section-head):not(.tablewrap):not(blockquote){padding-left:20px;padding-right:20px}
   .section>blockquote{margin-left:20px;margin-right:20px}
@@ -338,6 +370,13 @@ html{scroll-behavior:smooth}
     </ol>
     <p>The only repair recorded afterward is a lamp assembly on 10 August 2026, which matches neither fault. <strong>Nothing on record shows either defect was repaired</strong> before the 25 August 2026 auction and resale. Verify both directly &mdash; blind-spot coverage bears on the fifth-wheel workflow in <a href="#c10">chapter 10</a>. Full history and a verification list: <a href="#c14">chapter 14</a>.</p>
   </div>
+
+<nav class="toc" aria-label="Table of contents">
+    <h2>Contents</h2>
+    <div class="toc-cols">
+<!--TOC-->
+    </div>
+  </nav>
 
 <!--BODY-->
 

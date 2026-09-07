@@ -103,8 +103,14 @@ def status_chips(frag: str) -> str:
     return frag
 
 
+def sections_of(frag: str):
+    """Chapter sections (the demoted h3s) as (id, title) for the contents block."""
+    return [(m.group(1), re.sub(r"<[^>]+>", "", m.group(2)).strip())
+            for m in re.finditer(r'<h3 id="([^"]+)">(.*?)</h3>', frag, re.S)]
+
+
 def build() -> str:
-    nav, body = [], []
+    nav, body, toc = [], [], []
     for src, anchor, num, label in SECTIONS:
         path = ROOT / src
         if not path.exists():
@@ -117,14 +123,26 @@ def build() -> str:
             f'<li><a href="#{anchor}" data-anchor="{anchor}">'
             f'<span class="rail-num">{num}</span><span class="rail-label">{label}</span></a></li>'
         )
+        heading = html.escape(title_of(path)).replace("&amp;", "&")
         body.append(
             f'<section class="section {kind}" id="{anchor}">\n'
             f'  <div class="section-head"><span class="section-num">{num}</span>'
-            f'<h2>{html.escape(title_of(path)).replace("&amp;", "&")}</h2></div>\n'
+            f'<h2>{heading}</h2></div>\n'
             f'{frag}\n</section>'
         )
+        subs = "".join(
+            f'<li><a href="#{sid}">{stitle}</a></li>' for sid, stitle in sections_of(frag)
+        )
+        toc.append(
+            f'<div class="toc-group{" toc-log" if kind == "log" else ""}">'
+            f'<a class="toc-chapter" href="#{anchor}">'
+            f'<span class="toc-num">{num}</span>{heading}</a>'
+            f'<ul>{subs}</ul></div>'
+        )
     tpl = (ROOT / "template.html").read_text()
-    return tpl.replace("<!--NAV-->", "\n".join(nav)).replace("<!--BODY-->", "\n".join(body))
+    return (tpl.replace("<!--NAV-->", "\n".join(nav))
+               .replace("<!--TOC-->", "\n".join(toc))
+               .replace("<!--BODY-->", "\n".join(body)))
 
 
 if __name__ == "__main__":
