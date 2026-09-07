@@ -113,8 +113,10 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
 | [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | **$1,399.00** | Planned | 25,000 lb gross tow / 6,250 lb vertical load; **161 lb**; lifetime warranty. Drops into the factory prep pucks. Bundle is base `RVB3305` + coupler `RVC3006`. Deducted in the [chapter 10](10-fifth-wheel-and-towing.md) pin budget |
-| Wheel chocks and levelers |  | Planned | |
-| Infrared thermometer |  | Planned | Hub and tire temperature checks on long tows |
+| [Beech Lane camper leveler, 2-pack](https://www.amazon.com/Beech-Lane-Camper-Leveler-Pack/dp/B07PM8X48R) | **$69.99** | Planned | Two curved levelers, **two chocks**, two rubber grip mats. Rated to 35,000 lb - well above the ~12,800-16,000 lb trailer ceiling in [chapter 10](10-fifth-wheel-and-towing.md). The included chocks cover that need |
+| [Beech Lane wireless RV leveling system](https://www.amazon.com/Beech-Lane-User-Friendly-Real-Time-Measurements/dp/B0C28VJLG5) | **$99.99** | Planned | Phone app with real-time measurements; AA batteries included. Complements the ramps rather than replacing them - it tells you how far out of level you are, the ramps correct it |
+| [Harbor Freight 12:1 infrared laser thermometer](https://www.harborfreight.com/121-infrared-laser-thermometer-63985.html) (item `63985`) | *price not captured* | Planned | Hub and tire temperature checks on long tows. Harbor Freight blocks automated access, so the price needs adding by hand |
+| [Amazon Basics 9V lithium batteries, 2-pack](https://www.amazon.com/dp/B082DMR8DJ) | **$15.49** | Planned | $7.75 each; $14.72 on Subscribe & Save. 10-year shelf life. Powers the infrared thermometer |
 | 7-way extension and adapters |  | Planned | Factory in-bed 7-pin is [still to be confirmed visually](#2-factory-build--operation) |
 | [Ford 7 & 4-pin trailer tow socket](https://conquestauto.com/products/ford-mu5z-14489-c-2023-2025-ford-f-250-f-350-trailer-tow-7-and-4-pin-socket-connector-oem-genuine?variant=51118440349983) (`MU5Z-14489-C`) | **$62.20** + $8.97 shipping | Planned | Genuine Ford, 2023-2025 F-250/F-350. Spare for the factory socket - pairs with the plug tester and the in-bed 7-pin still to be confirmed in [chapter 2](02-factory-build-and-operation.md) |
 | 7-way plug tester |  | Planned | |
