@@ -15,6 +15,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Michelin Defender LTX M/S2, LT275/70R18E](https://www.samsclub.com/ip/lt275-70r18e-dltx2-50000/13606762994) (set of 4) | **$328.99 ea / $1,315.96 set** | Planned | Sam's Club. **Size matches the factory fitment exactly**, so no speedometer recalibration or TPMS wake-up is triggered. $80 gift card back on a set of four - $1,235.96 effective, though the cash outlay is the full $1,315.96 |
 | [Covercraft Spacer Mesh PrecisionFit seat covers](https://www.covercraft.com/product/spacer-mesh-precisionfit-custom-seat-covers/CGT-GTSM) (front EM / rear AU) | **$509.98** | Planned | Covers **both rows** - front EM and rear AU. Must suit the 40/console/40 seat |
 | [Sam's Club Plus membership - military](https://hosted-pages.id.me/sams-club-military-plus) | **$50.00** | Planned | Military rate via ID.me verification. Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
+| [CravenSpeed bullet stubby antenna](https://www.amazon.com/CravenSpeed-Bullet-Antenna-Replacement-2009-2019/dp/B01N3CC9GT) | **$35.00** | Planned | 5.4 in. The listing URL reads 2009-2019, but the product and selected style are **F-250/F-350 Super Duty 2017-2026** - fitment is correct |
 | Lace-on leather steering-wheel cover |  | Planned | |
 
 ### Protection
@@ -23,15 +24,21 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | --- | --- | --- | --- |
 | Paint protection film | $29.99 - $138.91 | Researching | Three approaches under consideration - see the section below |
 | [TowTector Tier 2](https://ruggedgear.com/towtector-main/towtector-tier2) (`T2`) rear mud guard brush | **$374.99** base | Researching | Single brush strip, near-full-width, receiver-mounted. Price rises with configuration - see below |
-| Console Vault |  | Planned | Must suit the 40/console/40 seat configuration |
-| Wheel-well liners |  | Planned | |
+| [Console Vault full floor console safe](https://www.consolevault.com/products/ford-f250-f350-f450-super-duty-full-floor-center-console-safe-2023-2026?variant=46103816110254) (`1127-EV`) | **$472.00** | Planned | 2023-2026 Super Duty full floor console - matches the 40/console/40 seat. Priced with the VaultLink electronic lock; barrel key, 3-digit, 4-digit and Elite locks are separate options |
+| [Console Vault LodeStar LED light](https://www.consolevault.com/products/lodestar%E2%84%A2-led-light) (`L`) | **$49.00** | Planned | Auto on/off with the lid, magnetic mount, CR2032. Confirm against Console Vault's LodeStar-compatible safe list |
+| [Ford rear wheel-well liners](https://www.ford.com/product/wheelwell-liners-one-pair-for-rear-wheel-wells-p2904301081) (`PC3Z9927886A`) | **$220.00** | Planned | Charcoal black, 2-piece, 2023-2027. Non-returnable. Dealer installation +$42 optional |
+| Ford front wheel-well liners (`PC3Z-16F099-B`) | **$177.00** | Planned | 2-piece set. [Levittown Ford $177.00](https://www.levittownfordparts.com/sku/pc3z-16f099-b.html) vs [ford.com $200.00](https://www.ford.com/product/wheel-well-liners-2piece-set-black-front-p2878597730) - but see the Ford promotion note below |
 | [WeatherTech No-Drill DigitalFit MudFlaps](https://www.weathertech.com/mudflap-no-drill-digitalfit-ford-f-250f-350f-450f-550.html?year=2024&wt_779-244_superdutyclass=779-5433_F250orF350&wt_779-245_superdutydually=779-5438_No&wt_779-463_superdutyfenderflares=779-7957_No&wt_settype=FrontRearSet&ymmSearch=true) | **$179.90** | Planned | Front and rear set, configured F-250/F-350, **not dually**, **no fender flares** - both correct for this truck. No drilling. Camper guide lists flat splash guards SRW at 4 lb total |
 | [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. See the WeatherTech shipping note below |
-| Tailgate lock |  | Planned | |
+| [Pop & Lock PL9900 Gate Defender](https://www.amazon.com/Pop-Lock-PL9900-Tailgate-Defender/dp/B00TPXG0NO) | **$34.95** | Researching | Universal manual tailgate lock. Confirm how it interacts with the factory tailgate lock cylinder before ordering |
 | [WeatherTech SillProtector](https://www.weathertech.com/sillprotector-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_color=Black&wt_settype=4DoorSet&ymmSearch=true) | **$79.95** | Planned | Black, 4-door set, SuperCrew/Crew Cab - matches this truck |
 | [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Researching | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
 
 > **WeatherTech order.** Deflectors ($99.95), mud flaps ($179.90), SillProtector ($79.95) and LampGard ($79.95) total **$439.75**, well past WeatherTech's $250 free-shipping threshold. Wheel-well liners are also a WeatherTech line if they should go on the same order. Settle the LampGard headlamp-type question before placing it.
+
+> **Ford accessory promotion may beat the discounter.** Ford.com was showing **20% off accessories up to $1,000** when checked on 6 September 2026. If it applies to the wheel-well liners, both sets from Ford come to **$336.00** (front $160 + rear $176), against **$397.00** buying the front from Levittown and the rear from Ford. Verify the promotion's terms and end date before splitting the order - it is worth about $61.
+>
+> Ford also lists **molded splash guards, rear set for single rear wheel** (`PC3Z16A550BA`) at **$90.00** - an OEM alternative to the $179.90 WeatherTech mud flaps, if a factory look is preferred over the no-drill DigitalFit fit.
 
 #### TowTector Tier 2 - configuration decides the price
 
