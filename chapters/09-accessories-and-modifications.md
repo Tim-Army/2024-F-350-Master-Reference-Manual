@@ -64,12 +64,29 @@ Four candidate systems for supporting pin weight and resisting squat under a fif
 | --- | --- | --- | --- | --- |
 | 1 | [Firestone Ride-Rite Red Label 7,500](https://www.amazon.com/Firestone-Spring-2017-2025-Midwest-Aftermarket/dp/B0F6QZX5X8) | Air spring | **Best overall** | **$762.31** |
 | 2 | [Air Lift LoadLifter 7500 XL Ultimate](https://www.amazon.com/LoadLifter-7500-Ultimate-Air-Spring/dp/B0CKTWSB8D) | Air spring | Excellent choice | **$762.99** |
-| 3 | Pacbrake Alpha HD Pro | Air spring | Great value | |
+| 3 | [Pacbrake Alpha HD Pro](https://pacbrake.com/hp10677-j-alpha-hd-pro-air-suspension-kit-for-2017-2025-ford-f-250f-350f-450.html) (`HP10677-J`) | Air spring | Great value | **$575.06** |
 | 4 | Timbren SES | Rubber progressive spring | Good if you do not want compressors or air lines | $468.32 (`FRTT350J`) |
 
-Prices are as quoted by the owner, from Amazon listings checked 6 September 2026 (Firestone via Midwest Aftermarket, covering 2017-2025 fitment). The Pacbrake price is still to be filled in.
+Prices are as quoted by the owner, checked 6 September 2026. Firestone via an Amazon listing (Midwest Aftermarket, 2017-2025 fitment); Pacbrake `HP10677-J` from the manufacturer directly, also [on Amazon](https://www.amazon.com/Pacbrake-HP10677-J-Suspension-2017-2026-Installation/dp/B0GWNDQ3NC), covering F-250/F-350/F-450 2017-2025.
 
-**The two leading air systems are effectively the same price** - 68 cents apart - so cost does not separate them. Decide on kit contents, bracket design, and install effort instead. Timbren undercuts both by roughly $294, which is the price of doing without a compressor and air lines.
+### How the prices fall
+
+| System | Price | Delta vs. cheapest |
+| --- | --- | --- |
+| Timbren SES | $468.32 | - |
+| Pacbrake Alpha HD Pro | $575.06 | +$106.74 |
+| Firestone Ride-Rite Red Label | $762.31 | +$293.99 |
+| Air Lift LoadLifter 7500 XL | $762.99 | +$294.67 |
+
+Three things the spread shows:
+
+- **The top two ranked systems are 68 cents apart.** Price cannot separate Firestone from Air Lift - decide on kit contents, bracket design, and install effort instead.
+- **Pacbrake is $187 below both** while still being an adjustable air system, which is what earns it the "great value" ranking. If the ranking gap between it and the top two is small in practice, it is the efficient choice.
+- **Timbren is $107 below Pacbrake.** That is the real cost of adjustability: about a hundred dollars, plus a compressor, lines, fittings, and a leak path to maintain.
+
+Confirm what each kit actually includes before comparing further - whether a compressor and controller are in the box or bought separately can move these numbers by more than the spread between them.
+
+
 
 The trade-off is maintenance surface against adjustability. The three air systems are adjustable on the fly and level a varying load precisely, but add a compressor, air lines, fittings, and a leak path. Timbren has no air system at all - nothing to fail, nothing to plumb - but the rate is fixed and it does less when the truck is empty.
 
