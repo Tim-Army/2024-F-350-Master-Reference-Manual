@@ -15,7 +15,9 @@ import sys
 
 CHAPTER = pathlib.Path(__file__).parent / "chapters" / "09-accessories-and-modifications.md"
 PHASES = ["Immediate", "Protection", "Towing",
-          "Electronics and recording", "Storage", "Maintenance and security"]
+          "Electronics and recording", "Storage", "Maintenance and security",
+          # not a phase, but its table is totalled the same way
+          "Researching"]
 TOTAL_LABEL = "**Phase total**"
 MONEY = re.compile(r"\$([\d,]+\.\d{2})")
 

@@ -2,7 +2,9 @@
 
 ## Planned roadmap
 
-**Status vocabulary:** `Planned` - intended, not yet acted on. `Researching` - open question to resolve before ordering. `Ordered` - purchased, not yet fitted. `Installed` - fitted and logged. `Deferred` - decided against for now. `N/A` - does not apply to this truck.
+**Status vocabulary:** `Planned` - intended, not yet acted on. `Ordered` - purchased, not yet fitted. `Installed` - fitted and logged. `Deferred` - decided against, kept with the reason. `N/A` - does not apply to this truck.
+
+Items with an unresolved question are held in the [Researching](#researching) table below rather than in a phase, so the phase totals reflect intended spend only.
 
 Price cells are left blank for real quotes. The only priced items in this chapter are the Timbren SKUs, which are vendor-listed as of 6 September 2026; everything else is to be filled in from an actual quote rather than an estimate.
 
@@ -24,24 +26,35 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
-| Paint protection film | $29.99 - $138.91 | Researching | Three approaches under consideration - see the section below |
-| [TowTector Tier 2](https://ruggedgear.com/towtector-main/towtector-tier2) (`T2`) rear mud guard brush | **$374.99** base | Researching | Single brush strip, near-full-width, receiver-mounted. Price rises with configuration - see below |
 | [Console Vault full floor console safe](https://www.consolevault.com/products/ford-f250-f350-f450-super-duty-full-floor-center-console-safe-2023-2026?variant=46103816110254) (`1127-EV`) | **$472.00** | Planned | 2023-2026 Super Duty full floor console - matches the 40/console/40 seat. **Lock selected: VaultLink Enabled Electronic Lock** - the $472.00 reflects that choice. See the note below on its power source and on the safe's construction |
 | [Console Vault LodeStar LED light](https://www.consolevault.com/products/lodestar%E2%84%A2-led-light) (`L`) | **$49.00** | Planned | Auto on/off with the lid, magnetic mount, CR2032. Confirm against Console Vault's LodeStar-compatible safe list |
 | [Ford rear wheel-well liners](https://www.ford.com/product/wheelwell-liners-one-pair-for-rear-wheel-wells-p2904301081) (`PC3Z9927886A`) | **$220.00** | Planned | Charcoal black, 2-piece, 2023-2027. Non-returnable. Dealer installation +$42 optional |
 | Ford front wheel-well liners (`PC3Z-16F099-B`) | **$177.00** | Planned | 2-piece set. [Levittown Ford $177.00](https://www.levittownfordparts.com/sku/pc3z-16f099-b.html) vs [ford.com $200.00](https://www.ford.com/product/wheel-well-liners-2piece-set-black-front-p2878597730) - but see the Ford promotion note below |
 | [WeatherTech No-Drill DigitalFit MudFlaps](https://www.weathertech.com/mudflap-no-drill-digitalfit-ford-f-250f-350f-450f-550.html?year=2024&wt_779-244_superdutyclass=779-5433_F250orF350&wt_779-245_superdutydually=779-5438_No&wt_779-463_superdutyfenderflares=779-7957_No&wt_settype=FrontRearSet&ymmSearch=true) | **$179.90** | Planned | Front and rear set, configured F-250/F-350, **not dually**, **no fender flares** - both correct for this truck. No drilling. Camper guide lists flat splash guards SRW at 4 lb total |
 | [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. See the WeatherTech shipping note below |
-| [Pop & Lock PL9900 Gate Defender](https://www.amazon.com/Pop-Lock-PL9900-Tailgate-Defender/dp/B00TPXG0NO) | **$34.95** | Researching | Universal manual tailgate lock. Confirm how it interacts with the factory tailgate lock cylinder before ordering |
 | [WeatherTech SillProtector](https://www.weathertech.com/sillprotector-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_color=Black&wt_settype=4DoorSet&ymmSearch=true) | **$79.95** | Planned | Black, 4-door set, SuperCrew/Crew Cab - matches this truck |
-| [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Researching | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
-| **Phase total** | **$1,906.60** | *11 items priced* |
+| **Phase total** | **$1,277.80** | *7 items priced* |
 
 > **WeatherTech order.** Deflectors ($99.95), mud flaps ($179.90), SillProtector ($79.95) and LampGard ($79.95) total **$439.75**, well past WeatherTech's $250 free-shipping threshold. Wheel-well liners are also a WeatherTech line if they should go on the same order. Settle the LampGard headlamp-type question before placing it.
 
 > **Ford accessory promotion may beat the discounter.** Ford.com was showing **20% off accessories up to $1,000** when checked on 6 September 2026. If it applies to the wheel-well liners, both sets from Ford come to **$336.00** (front $160 + rear $176), against **$397.00** buying the front from Levittown and the rear from Ford. Verify the promotion's terms and end date before splitting the order - it is worth about $61.
 >
 > Ford also lists **molded splash guards, rear set for single rear wheel** (`PC3Z16A550BA`) at **$90.00** - an OEM alternative to the $179.90 WeatherTech mud flaps, if a factory look is preferred over the no-drill DigitalFit fit.
+
+### Researching
+
+Items with an open question that has to be settled before they can be ordered. They are excluded from the phase totals above, since none is a commitment yet.
+
+| Item | Price | Phase | Open question |
+| --- | --- | --- | --- |
+| Paint protection film | $29.99 - $138.91 | Protection | Three approaches under consideration - see the section below |
+| [TowTector Tier 2](https://ruggedgear.com/towtector-main/towtector-tier2) (`T2`) rear mud guard brush | **$374.99** base | Protection | Single brush strip, near-full-width, receiver-mounted. Price rises with configuration - see below |
+| [Pop & Lock PL9900 Gate Defender](https://www.amazon.com/Pop-Lock-PL9900-Tailgate-Defender/dp/B00TPXG0NO) | **$34.95** | Protection | Universal manual tailgate lock. Confirm how it interacts with the factory tailgate lock cylinder before ordering |
+| [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Protection | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
+| [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Electronics and recording | Only needed if recording to an external SSD instead of microSD |
+| Bed cover |  | Storage | Owner still evaluating options. **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware |
+| [ABUS Granit 37RK/60 padlock](https://www.abususa.com/products/granit%E2%84%A2-37rk-60-high-security-padlock) | **$159.19** | Maintenance and security | Page also showed $176.88, likely a compare-at price - confirm which applies |
+| **Phase total** | **$804.98** | *6 items priced* |
 
 #### Console Vault - the VaultLink option
 
@@ -135,8 +148,7 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | [VIOFO A329S 2CH dash cam](https://www.viofo.com/products/viofo-a329s-2ch-4k-60fps-2k-hdr-dash-cam-with-sony-starvis-2-sensor) - **Waterproof** edition | **$459.99** | Planned | 4K 60fps front + 2K 30fps rear, Sony STARVIS 2, HDR, Wi-Fi 6, GPS, hybrid parking mode. The Waterproof edition is VIOFO's pickup/truck/off-road variant - the right choice for an exposed rear camera |
 | [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Planned | Required for parking mode. Best Buy |
 | SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
-| [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Researching | Only needed if recording to an external SSD instead of microSD |
-| **Phase total** | **$622.96** | *4 items priced* |
+| **Phase total** | **$605.97** | *3 items priced* |
 
 #### Cleaning supplies
 
@@ -187,7 +199,6 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
-| Bed cover |  | Researching | Owner still evaluating options. **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware |
 | [Dee Zee DZ701 under-seat storage drawer](https://www.amazon.com/Dee-Zee-DZ701-Storage-Drawer/dp/B09M1MB2RB) | $308.69 | **Deferred** | Fits F-150 15+ / Super Duty 17+, so it suits this truck. **Not being bought** - a shop-built wooden box is planned instead. Price kept as the commercial benchmark |
 | Under-seat storage box - shop-built | Material cost only | Planned | DIY replacement for the Dee Zee. Measure the crew cab rear under-seat area, allowing for the seat-fold mechanism and the [rear under-seat stow bin](#c02) if fitted. Record the build in the [accessory log](#log-accessory) |
 | Console and modular organizers | | Planned | DIY - see [chapter 12](12-3d-printed-accessories.md) |
@@ -198,7 +209,6 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
 | [Trimax TCL75 trailer wheel chock lock](https://trimaxlocks.com/shop/shop-now/locks/wheel-locks/tcl75-trimax-wheel-chock-lock/) | **$179.99** | Planned | Fits 7-11.25 in tires - check against the trailer's tire size, not the truck's |
-| [ABUS Granit 37RK/60 padlock](https://www.abususa.com/products/granit%E2%84%A2-37rk-60-high-security-padlock) | **$159.19** | Researching | Page also showed $176.88, likely a compare-at price - confirm which applies |
 | [Trimax TFW80HD coupler lock](https://trimaxlocks.com/shop/shop-now/locks/specialty-locks/tfw80hd/) | **$145.99** | Planned | Fifth-wheel/gooseneck specialty lock |
 | [Trimax VMAX10 cable lock](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/vmax10/) | **$79.99** | Planned | |
 | [Trimax TDL3010 dual-loop cable, 30 ft x 10 mm](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/tdl3010-quadra-braid-trimaflex-cable-30-feet-long-x-10mm/) | **$63.99** | Planned | Quadra-braid Trimaflex |
@@ -209,7 +219,7 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 | Harbor Freight [electronics cleaner 11 oz](https://www.harborfreight.com/11-oz-electronics-cleaner-62228.html) (`62228`) | **$10.99** | Planned | |
 | [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | **$4.98** | Planned | Spare clips for hitch pins |
 | Cleaning supplies |  | Planned | Ford-recommended Motorcraft products - itemized below |
-| **Phase total** | **$726.74** | *11 items priced* |
+| **Phase total** | **$567.55** | *10 items priced* |
 
 ## Rear load support - options under evaluation
 

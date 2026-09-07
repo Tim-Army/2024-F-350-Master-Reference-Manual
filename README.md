@@ -152,7 +152,7 @@ Each phase table in [chapter 9](chapters/09-accessories-and-modifications.md) ca
 python3 build-totals.py
 ```
 
-It sums the Price column per phase, skipping `Deferred` rows and unpriced items. Where a cell holds several figures - a shipping charge, or a unit price beside a set price - it takes the largest, which is the item's own cost.
+It sums the Price column per phase and for the Researching table, skipping `Deferred` rows and unpriced items. Where a cell holds several figures - a shipping charge, or a unit price beside a set price - it takes the largest, which is the item's own cost.
 
 ## Repository layout
 
