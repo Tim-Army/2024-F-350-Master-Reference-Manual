@@ -8,18 +8,13 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 
 ### Immediate
 
-> **Two routes to the Sam's Club Plus membership**, and it matters which applies:
->
-> - **$55 promotional price**, expiring **30 September 2026**.
-> - **[50% off for military](https://help.samsclub.com/app/answers/detail/a_id/2637/~/military-membership-discount)** - no stated end date.
->
-> These may be the same $55 reached two ways rather than two separate savings, and they may not stack. If the military discount is ongoing, the September deadline does not bind and the membership can wait. **Confirm in club or by phone** - Sam's Club's help page for the military discount was unreachable when this was checked on 6 September 2026.
+> **Sam's Club Plus membership - take the military rate.** [$50 for military](https://hosted-pages.id.me/sams-club-military-plus), verified through ID.me. That beats the $55 general promotional price by $5 and carries no 30 September 2026 expiry, so the membership is not on a deadline.
 
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
 | [Michelin Defender LTX M/S2, LT275/70R18E](https://www.samsclub.com/ip/lt275-70r18e-dltx2-50000/13606762994) (set of 4) | **$328.99 ea / $1,315.96 set** | Planned | Sam's Club. **Size matches the factory fitment exactly**, so no speedometer recalibration or TPMS wake-up is triggered. $80 gift card back on a set of four - $1,235.96 effective, though the cash outlay is the full $1,315.96 |
 | [Covercraft Spacer Mesh PrecisionFit seat covers](https://www.covercraft.com/product/spacer-mesh-precisionfit-custom-seat-covers/CGT-GTSM) (front EM / rear AU) | **$509.98** | Planned | Covers **both rows** - front EM and rear AU. Must suit the 40/console/40 seat |
-| Sam's Club Plus membership | **$55.00** | Planned | Two routes to a price - see the note above the table. Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
+| [Sam's Club Plus membership - military](https://hosted-pages.id.me/sams-club-military-plus) | **$50.00** | Planned | Military rate via ID.me verification. Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
 | Lace-on leather steering-wheel cover |  | Planned | |
 
 ### Protection
