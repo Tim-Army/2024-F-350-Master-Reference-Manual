@@ -60,11 +60,13 @@ Working from roughly 3,950 lb:
 | --- | --- |
 | Payload (estimated) | ~3,950 lb |
 | Fifth-wheel hitch - B&W Companion `RVK3305`, actual | 161 lb |
-| Two occupants | ~350 lb |
+| Two occupants at 200 lb each | 400 lb |
 | Tools, gear, bed cargo | ~200 lb |
-| **Remaining for pin weight** | **~3,240 lb** |
+| **Remaining for pin weight** | **~3,190 lb** |
 
-Fifth-wheel pin weight typically runs 20-25% of loaded trailer weight, which puts the ceiling at roughly a **13,000-16,200 lb loaded trailer** - the lower figure if the trailer is pin-heavy, the higher if it is not.
+Fifth-wheel pin weight typically runs 20-25% of loaded trailer weight, which puts the ceiling at roughly a **12,800-15,900 lb loaded trailer** - the lower figure if the trailer is pin-heavy, the higher if it is not.
+
+Each additional passenger or 100 lb of gear comes straight off the pin allowance, and at a 25% pin ratio costs about 400 lb of towable trailer.
 
 **Payload is the binding constraint, not the hitch.** The B&W Companion is rated at 25,000 lb gross towing and 6,250 lb vertical load - roughly double the pin weight this truck's payload can carry. Choosing a higher-rated hitch would not raise the ceiling above.
 
