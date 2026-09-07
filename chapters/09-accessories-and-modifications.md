@@ -134,26 +134,13 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Researching | Only needed if recording to an external SSD instead of microSD |
 
-#### Cleaning supplies - Ford recommended
+#### Cleaning supplies
 
-The U.S. products Ford lists for this vehicle (REF-001 p. 468). Ford's wording is "these products or products of equivalent quality", so equivalents are acceptable - the value here is knowing which *categories* Ford expects and the specification each must meet.
+**The Motorcraft product line is not being used.** Ford's own wording is "these products or products of equivalent quality", so nothing here requires their branding.
 
-| Product | Part no. | Specification |
-| --- | --- | --- |
-| Bug and Tar Remover | `ZC-42` | |
-| Custom Bright Metal Cleaner | `ZC-15` | ESR-M5B194-B |
-| Detail Wash | `ZC-3-A` | ESR-M14P4-A |
-| Engine Shampoo and Degreaser | `ZC-20` | ESR-M14P3-A |
-| Premium Leather and Vinyl Cleaner | `ZC-56` | |
-| Professional Strength Carpet & Upholstery Cleaner | `ZC-54` | |
-| Spot and Stain Remover | `ZC-14` | |
-| Ultra-Clear Spray Glass Cleaner | `ZC-23` | ESR-M14P5-A |
-| Wheel and Tire Cleaner | `ZC-37-A` | |
-| Premium Windshield Wash Concentrate with Bitterant | `ZC-32-B2` | WSS-M14P19-A |
+Two Ford specifications remain worth matching when buying equivalents, because they are the only ones tied to something the truck actually needs: **washer fluid to WSS-M14P19-A** (already covered as a fluid in [chapter 6](06-fluids-and-capacities.md)), and glass cleaner to **ESR-M14P5-A**. The rest - bug and tar remover, detail wash, wheel and tire cleaner, upholstery cleaner - are ordinary consumables with no Ford-specific requirement.
 
-Two of these are already accounted for elsewhere: the **windshield wash concentrate** is the washer fluid in [chapter 6](06-fluids-and-capacities.md), and the **leather and vinyl cleaner** is redundant if the Covercraft seat covers go on.
-
-Worth noting for this truck specifically: it has a **spray-in bedliner**, **platform running boards** and **18-inch all-terrain tires**, so wheel and tire cleaner and a general detail wash earn their place; the bright metal cleaner has little to work on given the Carbonized Gray and black trim.
+Products and prices to be recorded here once chosen.
 
 #### Diagnostics
 
