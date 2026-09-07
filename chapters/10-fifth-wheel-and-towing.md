@@ -68,6 +68,8 @@ Fifth-wheel pin weight typically runs 20-25% of loaded trailer weight, which put
 
 Each additional passenger or 100 lb of gear comes straight off the pin allowance, and at a 25% pin ratio costs about 400 lb of towable trailer.
 
+**Measure the pin weight rather than assuming it.** The 20-25% range above is a rule of thumb; a [Sherline tongue weight scale](09-accessories-and-modifications.md#short-term) is on the roadmap to replace it with a reading. The 0-5000 lb gauge is the applicable one - a fifth-wheel pin near 3,190 lb is beyond the 0-2000 lb model.
+
 **Payload is the binding constraint, not the hitch.** The B&W Companion is rated at 25,000 lb gross towing and 6,250 lb vertical load - roughly double the pin weight this truck's payload can carry. Choosing a higher-rated hitch would not raise the ceiling above.
 
 Rear GAWR and GCWR still apply and could bind before payload does. Rear GAWR is unknown pending the door jamb label.

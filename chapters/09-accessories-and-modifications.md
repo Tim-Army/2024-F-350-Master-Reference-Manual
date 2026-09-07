@@ -11,7 +11,7 @@ The dates below assume delivery around 7 September 2026; shift them if the purch
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | on taking delivery | 11 | **$2,992.10** |
-| **Short-term** | by 6 December 2026 (90 days) | 16 | **$2,220.26** |
+| **Short-term** | by 6 December 2026 (90 days) | 17 | **$2,420.76** |
 | **Long-term** | by 12 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 6 | $804.98 |
@@ -67,7 +67,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [VIOFO A329S 2CH dash cam](https://www.viofo.com/products/viofo-a329s-2ch-4k-60fps-2k-hdr-dash-cam-with-sony-starvis-2-sensor) - **Waterproof** edition | **$459.99** | Electronics | Planned | 4K 60fps front + 2K 30fps rear, Sony STARVIS 2, HDR, Wi-Fi 6, GPS, hybrid parking mode. The Waterproof edition is VIOFO's pickup/truck/off-road variant - the right choice for an exposed rear camera |
 | SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Electronics | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
 | [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Electronics | Planned | Required for parking mode. Best Buy |
-| **Phase total** | **$2,220.26** |  |  | *16 items priced* |
+| [Sherline trailer tongue weight scale](https://www.sherline.com/product/sherline-trailer-tongue-weight-scale/) | **$200.50** | Towing | Planned | :warning: **Order the 0-5000 lb gauge.** Sherline offers 0-1000, 0-2000 and 0-5000 lb; the 0-5000 is the one they specify for fifth wheels, and this truck's pin allowance is ~3,190 lb ([chapter 10](10-fifth-wheel-and-towing.md)) - a 0-2000 lb gauge would be off the scale. Confirm $200.50 is the 0-5000 lb price. Hydraulic, no electronics or batteries, 4.4 lb, one-year guarantee |
+| **Phase total** | **$2,420.76** |  |  | *17 items priced* |
 
 ### Long-term
 
