@@ -40,9 +40,21 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 >
 > Ford also lists **molded splash guards, rear set for single rear wheel** (`PC3Z16A550BA`) at **$90.00** - an OEM alternative to the $179.90 WeatherTech mud flaps, if a factory look is preferred over the no-drill DigitalFit fit.
 
-#### Console Vault - open questions
+#### Console Vault - the VaultLink option
 
-**How the VaultLink lock is powered is not stated on the product page.** The page carries a charging note - built-in rechargeable battery, micro USB port, charge before use and every three months - but that note is explicitly for the **Elite Electronic Lock**, a different option, and must not be assumed to apply to VaultLink. The page does say the safe *"does not block USB ports or 12-volt outlet"*, which is consistent with drawing power from the console but is not a statement that it does. **Confirm with Console Vault** whether VaultLink runs on the console's USB port, an internal battery, or both, and what happens if power is lost.
+**VaultLink is powered from the console's port, and it is not a lock on its own.** The [VaultLink Automated Locking Module](https://www.consolevault.com/products/vaultlink-automated-locking-modual?variant=46045322510510) (`EVEE`, U.S. Patent 12071791) is a module that **pairs with the Elite Electronic Lock**. Choosing "VaultLink Enabled Electronic Lock" on the safe means the Elite lock plus this module. The module plugs into a power port inside the console and **removes the Elite lock's recharging requirement** - which is why the Elite charging note appears on the safe page at all.
+
+What it does: the safe **locks automatically when the ignition is switched off and unlocks when it is switched on**. Auto Mode and Valet (manual) Mode are both available.
+
+> **Three conditions must hold, and one needs testing on this truck before ordering:**
+>
+> 1. The safe must be Elite-Electronic-Lock compatible - the Super Duty safe is, since VaultLink is offered on it.
+> 2. **A power port must be reachable from inside the safe.** Closed-box safes and safes without access to console outlets are not compatible.
+> 3. **Power to that port must cut immediately when the ignition goes off, and return when it comes on.** Console Vault is explicit that not all vehicles behave this way. **Test it:** plug a phone into the console port, switch the truck off, and check whether charging stops immediately. If the port stays live, VaultLink will not work as intended.
+
+The module ships with a **USB-C to USB-C cable**; adapters for USB-A or 12-volt ports are **not** included. Check which port type the console actually offers and order an adapter if needed.
+
+**Pricing.** The $472.00 recorded above already includes the VaultLink option, so the module's standalone $183.00 price is not additional - that page is the retrofit route for an existing safe. Console Vault's lock upgrade ladder: barrel key $20, 3-digit $20, 4-digit $35, Elite 4-digit $49, Elite Electronic $99, **VaultLink $153**. Dropping to the Elite Electronic lock would save $54 but reinstates the quarterly charging; dropping to a barrel key would save $133.
 
 Recorded from the product page:
 
