@@ -2,7 +2,7 @@
 
 VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Super Duty.
 
-**[Read the manual as a single web page](https://claude.ai/code/artifact/fa076d4c-6201-47bc-96cd-82b7de22938a)** - every chapter and log on one page, with a chapter rail. Built from these sources by `build-html.py`; see [HTML edition](#html-edition) below. The page is private to the repository owner unless shared.
+**[Read the manual as a single web page](https://claude.ai/code/artifact/fa076d4c-6201-47bc-96cd-82b7de22938a)** - every chapter and log on one page, with a chapter rail. Built from these sources by `build-html.py`; see [HTML edition](#html-edition) below.
 
 **Edition 1.4 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
 
