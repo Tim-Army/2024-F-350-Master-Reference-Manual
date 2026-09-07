@@ -126,9 +126,13 @@ So the $254 difference buys 2,500 lb of additional support capacity. Listing det
 
 The same listing shows a **Firestone Airide `2716` Red Label** kit as a related product; if the Red Label route is taken, verify that part number against this truck before ordering.
 
-**On compressors.** The `2625` kit inflates manually, like a tire. Amazon pairs it with an Air Lift WirelessONE onboard compressor at **$551.99** - which more than doubles the kit cost and exceeds the entire spread between the four ranked systems. Settle whether onboard air is wanted before comparing sticker prices any further; it is the largest variable in this decision.
+**Onboard air compressor: `Deferred`.** Decision postponed - the kits are being compared without one.
 
-Confirm what each kit actually includes before comparing further - whether a compressor and controller are in the box or bought separately can move these numbers by more than the spread between them.
+This does not distort the comparison, because **none of the kits listed above includes a compressor.** Firestone `2625`, Pacbrake HD Pro, and Pacbrake XD Pro-S all inflate through Schrader valves, like a tire, and Timbren has no air system at all. Every air kit here is compressor-ready later, so adding one is a separate purchase against whichever kit is chosen rather than a factor in choosing it.
+
+For reference when the question comes back: Amazon pairs the `2625` with an Air Lift WirelessONE onboard system at **$551.99** - more than the cheapest kit on the list, so it is a real second decision, not an accessory.
+
+With the compressor deferred and no kit including one, the sticker prices above are directly comparable. What still separates them is support capacity, unloaded ride behavior, hardware quality, and install effort.
 
 
 
@@ -139,7 +143,7 @@ The trade-off is maintenance surface against adjustability. The three air system
 Points to settle before choosing:
 
 - **Interaction with the snowplow prep / camper package.** That option changes the spring rates this truck left the factory with; confirm compatibility with whichever system is chosen.
-- **Onboard air.** If an air system is chosen, decide whether to add an onboard compressor now - it changes the install scope and the wiring, which belongs in [chapter 7](07-electrical-atlas.md).
+- **Onboard air - `Deferred`.** Not being decided now. No kit under consideration ships with a compressor, so it can be added later to whichever is chosen; the wiring will belong in [chapter 7](07-electrical-atlas.md) when it happens.
 - **Gooseneck and fifth-wheel hardware clearance** at the frame rails.
 
 Record the decision and the reasoning in the [accessory log](../logs/accessory-log.md) once made.
