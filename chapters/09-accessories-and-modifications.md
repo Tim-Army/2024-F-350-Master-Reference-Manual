@@ -24,7 +24,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | --- | --- | --- | --- |
 | Paint protection film | $29.99 - $138.91 | Researching | Three approaches under consideration - see the section below |
 | [TowTector Tier 2](https://ruggedgear.com/towtector-main/towtector-tier2) (`T2`) rear mud guard brush | **$374.99** base | Researching | Single brush strip, near-full-width, receiver-mounted. Price rises with configuration - see below |
-| [Console Vault full floor console safe](https://www.consolevault.com/products/ford-f250-f350-f450-super-duty-full-floor-center-console-safe-2023-2026?variant=46103816110254) (`1127-EV`) | **$472.00** | Planned | 2023-2026 Super Duty full floor console - matches the 40/console/40 seat. **Lock selected: VaultLink Enabled Electronic Lock** - the $472.00 reflects that choice. Rechargeable, with a micro USB port and cable; charge before first use and roughly every three months |
+| [Console Vault full floor console safe](https://www.consolevault.com/products/ford-f250-f350-f450-super-duty-full-floor-center-console-safe-2023-2026?variant=46103816110254) (`1127-EV`) | **$472.00** | Planned | 2023-2026 Super Duty full floor console - matches the 40/console/40 seat. **Lock selected: VaultLink Enabled Electronic Lock** - the $472.00 reflects that choice. See the note below on its power source and on the safe's construction |
 | [Console Vault LodeStar LED light](https://www.consolevault.com/products/lodestar%E2%84%A2-led-light) (`L`) | **$49.00** | Planned | Auto on/off with the lid, magnetic mount, CR2032. Confirm against Console Vault's LodeStar-compatible safe list |
 | [Ford rear wheel-well liners](https://www.ford.com/product/wheelwell-liners-one-pair-for-rear-wheel-wells-p2904301081) (`PC3Z9927886A`) | **$220.00** | Planned | Charcoal black, 2-piece, 2023-2027. Non-returnable. Dealer installation +$42 optional |
 | Ford front wheel-well liners (`PC3Z-16F099-B`) | **$177.00** | Planned | 2-piece set. [Levittown Ford $177.00](https://www.levittownfordparts.com/sku/pc3z-16f099-b.html) vs [ford.com $200.00](https://www.ford.com/product/wheel-well-liners-2piece-set-black-front-p2878597730) - but see the Ford promotion note below |
@@ -39,6 +39,18 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 > **Ford accessory promotion may beat the discounter.** Ford.com was showing **20% off accessories up to $1,000** when checked on 6 September 2026. If it applies to the wheel-well liners, both sets from Ford come to **$336.00** (front $160 + rear $176), against **$397.00** buying the front from Levittown and the rear from Ford. Verify the promotion's terms and end date before splitting the order - it is worth about $61.
 >
 > Ford also lists **molded splash guards, rear set for single rear wheel** (`PC3Z16A550BA`) at **$90.00** - an OEM alternative to the $179.90 WeatherTech mud flaps, if a factory look is preferred over the no-drill DigitalFit fit.
+
+#### Console Vault - open questions
+
+**How the VaultLink lock is powered is not stated on the product page.** The page carries a charging note - built-in rechargeable battery, micro USB port, charge before use and every three months - but that note is explicitly for the **Elite Electronic Lock**, a different option, and must not be assumed to apply to VaultLink. The page does say the safe *"does not block USB ports or 12-volt outlet"*, which is consistent with drawing power from the console but is not a statement that it does. **Confirm with Console Vault** whether VaultLink runs on the console's USB port, an internal battery, or both, and what happens if power is lost.
+
+Recorded from the product page:
+
+- Interior 10 in L x 12.5 in W x 10 in H; lid opening 7.4 in L x 10.5 in W.
+- Heavy-gauge cold-rolled plate steel, Triple Guard Locking System, spring-assisted door.
+- 10-15 minute DIY installation inside the factory console. Lifetime warranty.
+
+**A construction caveat worth knowing before buying.** Multiple reviewers note that on this application the product is a **locking lid rather than a full metal enclosure** - it installs by setting the lid into the factory console and driving self-tapping screws into the console sides, so the back and walls remain factory plastic. Console Vault's published reply confirms this: where a console's design does not allow a full enclosure, they build a secure locking lid that integrates with the OEM console, and they position it as deterring smash-and-grab rather than being theft-proof. Judge it on that basis.
 
 #### TowTector Tier 2 - configuration decides the price
 
