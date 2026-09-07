@@ -2,13 +2,82 @@
 
 ## Planned roadmap
 
-| Phase | Planned items |
-| --- | --- |
-| Immediate | Sam's Club Plus membership (military discount); Michelin Defender LTX M/S2 tires; Covercraft Spacer Mesh PrecisionFit covers (front EM / rear AU); lace-on leather steering-wheel cover |
-| Protection | Wheel-well liners; window deflectors; mud flaps; sill protection; LampGard; paint protection film; TowTector; tailgate lock; Console Vault |
-| Towing | B&W; Companion OEM fifth-wheel hitch; 7-way extension/adapters; plug tester; chocks; levelers; infrared thermometer |
-| Storage | Dee Zee under-seat drawer; bed cover (8-foot compatibility needs vendor confirmation); console and modular 3D-printed organizers |
-| Maintenance / security | Grease tools, dielectric grease, cleaning supplies, spare adapters/pins; coupler/wheel locks and security cable |
+**Status vocabulary:** `Planned` - intended, not yet acted on. `Researching` - open question to resolve before ordering. `Ordered` - purchased, not yet fitted. `Installed` - fitted and logged. `Deferred` - decided against for now. `N/A` - does not apply to this truck.
+
+Price cells are left blank for real quotes. The only priced items in this chapter are the Timbren SKUs, which are vendor-listed as of 6 September 2026; everything else is to be filled in from an actual quote rather than an estimate.
+
+### Immediate
+
+| Item | Price | Status | Notes |
+| --- | --- | --- | --- |
+| Michelin Defender LTX M/S2 tires (set of 4) |  | Researching | Must be **LT275/70R18E, load range E** to preserve the loading math in [chapter 10](10-fifth-wheel-and-towing.md). A size change triggers speedometer recalibration and TPMS wake-up - see below |
+| Covercraft Spacer Mesh PrecisionFit seat covers (front EM / rear AU) |  | Planned | Front and rear sets priced separately |
+| Sam's Club Plus membership (military discount) |  | Planned | Purchasing channel, not a truck part |
+| Lace-on leather steering-wheel cover |  | Planned | |
+
+### Protection
+
+| Item | Price | Status | Notes |
+| --- | --- | --- | --- |
+| Paint protection film |  | Researching | Cost varies widely by coverage area and installer |
+| TowTector |  | Planned | Confirm bracket fitment against the gooseneck/fifth-wheel prep |
+| Console Vault |  | Planned | Must suit the 40/console/40 seat configuration |
+| Wheel-well liners |  | Planned | |
+| Mud flaps |  | Planned | Guide lists flat splash guards SRW at 4 lb total |
+| Window deflectors |  | Planned | |
+| Tailgate lock |  | Planned | |
+| Sill protection |  | Planned | |
+| LampGard |  | Planned | |
+
+### Towing
+
+| Item | Price | Status | Notes |
+| --- | --- | --- | --- |
+| B&W Companion OEM fifth-wheel hitch |  | Planned | **~200 lb** against payload - already deducted in the [chapter 10](10-fifth-wheel-and-towing.md) pin budget. Mates to the factory fifth-wheel prep pucks |
+| Wheel chocks and levelers |  | Planned | |
+| Infrared thermometer |  | Planned | Hub and tire temperature checks on long tows |
+| 7-way extension and adapters |  | Planned | Factory in-bed 7-pin is [still to be confirmed visually](#2-factory-build--operation) |
+| 7-way plug tester |  | Planned | |
+
+### Storage
+
+| Item | Price | Status | Notes |
+| --- | --- | --- | --- |
+| Bed cover |  | Researching | **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware |
+| Dee Zee under-seat drawer |  | Planned | Crew cab rear under-seat |
+| Console and modular organizers | | Planned | DIY - see [chapter 12](12-3d-printed-accessories.md) |
+
+### Maintenance and security
+
+| Item | Price | Status | Notes |
+| --- | --- | --- | --- |
+| Coupler and wheel locks, security cable |  | Planned | |
+| Grease tools and dielectric grease |  | Planned | |
+| Spare adapters and pins |  | Planned | |
+| Cleaning supplies |  | Planned | Motorcraft products listed in REF-001 |
+
+## Rear load support - options under evaluation
+
+Four candidate systems for supporting pin weight and resisting squat under a fifth-wheel. Ranking is the owner's assessment.
+
+| Rank | System | Type | Assessment | Price |
+| --- | --- | --- | --- | --- |
+| 1 | Firestone Ride-Rite Red Label 7,500 | Air spring | **Best overall** | |
+| 2 | Air Lift LoadLifter 7500 XL Ultimate | Air spring | Excellent choice | |
+| 3 | Pacbrake Alpha HD Pro | Air spring | Great value | |
+| 4 | Timbren SES | Rubber progressive spring | Good if you do not want compressors or air lines | $468.32 (`FRTT350J`) |
+
+The trade-off is maintenance surface against adjustability. The three air systems are adjustable on the fly and level a varying load precisely, but add a compressor, air lines, fittings, and a leak path. Timbren has no air system at all - nothing to fail, nothing to plumb - but the rate is fixed and it does less when the truck is empty.
+
+> **None of these raise payload.** Every option here supports and levels a load; none increases GVWR, GAWR, or the cargo weight rating. The ceiling worked out in [chapter 10](10-fifth-wheel-and-towing.md) is unchanged by fitting any of them, and the door label remains the legal limit. Buy them for ride quality and load control, not for capacity.
+
+Points to settle before choosing:
+
+- **Interaction with the snowplow prep / camper package.** That option changes the spring rates this truck left the factory with; confirm compatibility with whichever system is chosen.
+- **Onboard air.** If an air system is chosen, decide whether to add an onboard compressor now - it changes the install scope and the wiring, which belongs in [chapter 7](07-electrical-atlas.md).
+- **Gooseneck and fifth-wheel hardware clearance** at the frame rails.
+
+Record the decision and the reasoning in the [accessory log](../logs/accessory-log.md) once made.
 
 ## Timbren - suspension and brake enhancement
 
