@@ -143,11 +143,9 @@ Two Ford specifications remain worth matching when buying equivalents, because t
 | Product | Price | Status | Notes |
 | --- | --- | --- | --- |
 | [Chemical Guys Total Interior Cleaner, Protectant & Detailer, 16 oz](https://www.amazon.com/dp/B071ZTPRJL) | **$11.97** | Planned | $10.77 on Subscribe & Save. One-step for dash, **cloth seats**, SYNC 4 screen, trim and glass - suits this truck's interior directly, and covers several categories at once |
-| [Meguiar's Gold Class Rich Leather Cleaner & Conditioner 3-in-1, 15.2 oz](https://www.amazon.com/dp/B089Z96JHV) | *no price shown* | Researching | Amazon shows no featured offer - only "See All Buying Options" - and flags the listing as high-priced. See the note below |
+| Meguiar's Gold Class Rich Leather Cleaner & Conditioner | - | **Deferred** | Rejected: no leather in this truck |
 
-> **This truck has no leather.** The build sheet records **Medium Dark Slate cloth** seats and cloth seating surfaces (REF-003), the selected steering wheel cover is neoprene, and the Covercraft seat covers are spacer mesh. Confirm what this product is intended to treat before buying it.
-
-Meguiar's alternatives listed alongside it, if a leather product is wanted anyway: Ultimate Leather Detailer 473 ml **$9.97**, Gold Class Leather Conditioner 16 oz **$7.97**, Weiman Leather Cleaner **$8.98** - all cheaper than the unlisted Gold Class 3-in-1.
+> **No leather products needed.** The build sheet records **Medium Dark Slate cloth** seats (REF-003), the selected steering wheel cover is neoprene, and the Covercraft seat covers are spacer mesh. Interior care here is cloth, plastic, screen and glass - no conditioner required.
 
 Further products and prices to be recorded here once chosen.
 
