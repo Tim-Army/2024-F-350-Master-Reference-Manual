@@ -66,6 +66,7 @@ Four candidate systems for supporting pin weight and resisting squat under a fif
 | 2 | [Air Lift LoadLifter 7500 XL Ultimate](https://www.amazon.com/LoadLifter-7500-Ultimate-Air-Spring/dp/B0CKTWSB8D) | Air spring | Excellent choice | **$762.99** |
 | 3 | [Pacbrake Alpha HD Pro](https://pacbrake.com/hp10677-j-alpha-hd-pro-air-suspension-kit-for-2017-2025-ford-f-250f-350f-450.html) (`HP10677-J`) | Air spring | Great value | **$575.06** |
 | 4 | Timbren SES | Rubber progressive spring | Good if you do not want compressors or air lines | $468.32 (`FRTT350J`) |
+| - | [Firestone Ride-Rite / Airide `2625`](https://www.amazon.com/Firestone-2625/dp/B0BSLXFJ5H) | Air spring, **5,000 lb** | Lighter-duty sibling of the Red Label - not the same kit | **$507.96** |
 
 Prices are as quoted by the owner, checked 6 September 2026. Firestone via an Amazon listing (Midwest Aftermarket, 2017-2025 fitment); Pacbrake `HP10677-J` from the manufacturer directly, also [on Amazon](https://www.amazon.com/Pacbrake-HP10677-J-Suspension-2017-2026-Installation/dp/B0GWNDQ3NC), covering F-250/F-350/F-450 2017-2025.
 
@@ -83,6 +84,26 @@ Three things the spread shows:
 - **The top two ranked systems are 68 cents apart.** Price cannot separate Firestone from Air Lift - decide on kit contents, bracket design, and install effort instead.
 - **Pacbrake is $187 below both** while still being an adjustable air system, which is what earns it the "great value" ranking. If the ranking gap between it and the top two is small in practice, it is the efficient choice.
 - **Timbren is $107 below Pacbrake.** That is the real cost of adjustability: about a hundred dollars, plus a compressor, lines, fittings, and a leak path to maintain.
+
+### Firestone 2625 is not the Red Label
+
+Part `2625` is the standard Firestone Ride-Rite (Airide) kit, and it is **a different product from the Red Label ranked first**, not a cheaper price for the same thing:
+
+| | Ride-Rite `2625` | Red Label 7,500 |
+| --- | --- | --- |
+| Load support capacity | **5,000 lb** | **7,500 lb** |
+| Price | $507.96 | $762.31 |
+
+So the $254 difference buys 2,500 lb of additional support capacity. Listing details for `2625`, worth carrying either way:
+
+- Fits 2017-2026 F-250/F-350 4WD, single and dual rear wheel.
+- **In-bed hitch compatible** - relevant given the factory gooseneck hitch kit and fifth-wheel prep.
+- Includes brackets, air springs, hardware, air line, and **separate valves for manual inflation** - there is no compressor in the box.
+- 5-100 PSI; maximum lifting height 2 inches. Requires spacers on lifted trucks, which does not apply here.
+
+The same listing shows a **Firestone Airide `2716` Red Label** kit as a related product; if the Red Label route is taken, verify that part number against this truck before ordering.
+
+**On compressors.** The `2625` kit inflates manually, like a tire. Amazon pairs it with an Air Lift WirelessONE onboard compressor at **$551.99** - which more than doubles the kit cost and exceeds the entire spread between the four ranked systems. Settle whether onboard air is wanted before comparing sticker prices any further; it is the largest variable in this decision.
 
 Confirm what each kit actually includes before comparing further - whether a compressor and controller are in the box or bought separately can move these numbers by more than the spread between them.
 
