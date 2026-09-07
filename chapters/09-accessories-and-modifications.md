@@ -19,7 +19,6 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Sam's Club Plus membership - military](https://hosted-pages.id.me/sams-club-military-plus) | **$50.00** | Planned | Military rate via ID.me verification. Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
 | [CravenSpeed bullet stubby antenna](https://www.amazon.com/CravenSpeed-Bullet-Antenna-Replacement-2009-2019/dp/B01N3CC9GT) | **$35.00** | Planned | 5.4 in. The listing URL reads 2009-2019, but the product and selected style are **F-250/F-350 Super Duty 2017-2026** - fitment is correct |
 | [Superior 58-0470B Truckline Sport Grip](https://www.amazon.com/Superior-58-0470B-Truckline-Sport-Steering/dp/B00029KA6I) | **$12.99** | **Planned** | **Selected.** Lace-on, neoprene, truck size 17 in - fits 16-18 in wheels with grip circumference up to 3.5 in. Neoprene accepted in place of the original leather spec. **No heated steering wheel on this truck** (REF-003), so the laced fit carries no insulation penalty. Check the rim's grip circumference against the 3.5 in limit before ordering |
-| [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | **Deferred** | Rejected: slip-on, not lace-on. Price kept for reference |
 | **Phase total** | **$1,923.93** | *5 items priced* |
 
 ### Protection
@@ -40,6 +39,18 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 > **Ford accessory promotion may beat the discounter.** Ford.com was showing **20% off accessories up to $1,000** when checked on 6 September 2026. If it applies to the wheel-well liners, both sets from Ford come to **$336.00** (front $160 + rear $176), against **$397.00** buying the front from Levittown and the rear from Ford. Verify the promotion's terms and end date before splitting the order - it is worth about $61.
 >
 > Ford also lists **molded splash guards, rear set for single rear wheel** (`PC3Z16A550BA`) at **$90.00** - an OEM alternative to the $179.90 WeatherTech mud flaps, if a factory look is preferred over the no-drill DigitalFit fit.
+
+### Deferred
+
+Options considered and set aside, kept with the reason so they are not proposed again without it. Excluded from every total.
+
+One further decision is deferred rather than an item: the **onboard air compressor** for whichever load support kit is chosen - see [that section](#rear-load-support---options-under-evaluation).
+
+| Item | Price | Phase | Why not |
+| --- | --- | --- | --- |
+| [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | Immediate | Rejected: slip-on, not lace-on. Price kept for reference |
+| [Dee Zee DZ701 under-seat storage drawer](https://www.amazon.com/Dee-Zee-DZ701-Storage-Drawer/dp/B09M1MB2RB) | $308.69 | Storage | Fits F-150 15+ / Super Duty 17+, so it suits this truck. **Not being bought** - a shop-built wooden box is planned instead. Price kept as the commercial benchmark |
+| Meguiar's Gold Class Rich Leather Cleaner & Conditioner | - | Maintenance and security | No leather in this truck - cloth seats, neoprene wheel cover, mesh seat covers |
 
 ### Researching
 
@@ -159,7 +170,6 @@ Two Ford specifications remain worth matching when buying equivalents, because t
 | Product | Price | Status | Notes |
 | --- | --- | --- | --- |
 | [Chemical Guys Total Interior Cleaner, Protectant & Detailer, 16 oz](https://www.amazon.com/dp/B071ZTPRJL) | **$11.97** | Planned | $10.77 on Subscribe & Save. One-step for dash, **cloth seats**, SYNC 4 screen, trim and glass - suits this truck's interior directly, and covers several categories at once |
-| Meguiar's Gold Class Rich Leather Cleaner & Conditioner | - | **Deferred** | Rejected: no leather in this truck |
 
 > **No leather products needed.** The build sheet records **Medium Dark Slate cloth** seats (REF-003), the selected steering wheel cover is neoprene, and the Covercraft seat covers are spacer mesh. Interior care here is cloth, plastic, screen and glass - no conditioner required.
 
@@ -199,7 +209,6 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
-| [Dee Zee DZ701 under-seat storage drawer](https://www.amazon.com/Dee-Zee-DZ701-Storage-Drawer/dp/B09M1MB2RB) | $308.69 | **Deferred** | Fits F-150 15+ / Super Duty 17+, so it suits this truck. **Not being bought** - a shop-built wooden box is planned instead. Price kept as the commercial benchmark |
 | Under-seat storage box - shop-built | Material cost only | Planned | DIY replacement for the Dee Zee. Measure the crew cab rear under-seat area, allowing for the seat-fold mechanism and the [rear under-seat stow bin](#c02) if fitted. Record the build in the [accessory log](#log-accessory) |
 | Console and modular organizers | | Planned | DIY - see [chapter 12](12-3d-printed-accessories.md) |
 | **Phase total** | - | *nothing priced yet* |
