@@ -25,11 +25,13 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | TowTector |  | Planned | Confirm bracket fitment against the gooseneck/fifth-wheel prep |
 | Console Vault |  | Planned | Must suit the 40/console/40 seat configuration |
 | Wheel-well liners |  | Planned | |
-| Mud flaps |  | Planned | Guide lists flat splash guards SRW at 4 lb total |
-| [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. Five cents under WeatherTech's $100 threshold for half-price shipping |
+| [WeatherTech No-Drill DigitalFit MudFlaps](https://www.weathertech.com/mudflap-no-drill-digitalfit-ford-f-250f-350f-450f-550.html?year=2024&wt_779-244_superdutyclass=779-5433_F250orF350&wt_779-245_superdutydually=779-5438_No&wt_779-463_superdutyfenderflares=779-7957_No&wt_settype=FrontRearSet&ymmSearch=true) | **$179.90** | Planned | Front and rear set, configured F-250/F-350, **not dually**, **no fender flares** - both correct for this truck. No drilling. Camper guide lists flat splash guards SRW at 4 lb total |
+| [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. See the WeatherTech shipping note below |
 | Tailgate lock |  | Planned | |
 | Sill protection |  | Planned | |
 | LampGard |  | Planned | |
+
+> **WeatherTech shipping.** Deflectors ($99.95) and mud flaps ($179.90) come to **$279.85** on one order, clearing WeatherTech's $250 free-shipping threshold. Ordered separately, neither reaches it. Sill protection and wheel-well liners are also WeatherTech lines if more is wanted on the same order.
 
 ### Towing
 
