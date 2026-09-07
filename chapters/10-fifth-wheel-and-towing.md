@@ -59,14 +59,16 @@ Working from roughly 3,950 lb:
 | Deduction | Weight |
 | --- | --- |
 | Payload (estimated) | ~3,950 lb |
-| Fifth-wheel hitch (B&W Companion class) | ~200 lb |
+| Fifth-wheel hitch - B&W Companion `RVK3305`, actual | 161 lb |
 | Two occupants | ~350 lb |
 | Tools, gear, bed cargo | ~200 lb |
-| **Remaining for pin weight** | **~3,200 lb** |
+| **Remaining for pin weight** | **~3,240 lb** |
 
-Fifth-wheel pin weight typically runs 20-25% of loaded trailer weight, which puts the ceiling at roughly a **13,000-16,000 lb loaded trailer** - the lower figure if the trailer is pin-heavy, the higher if it is not.
+Fifth-wheel pin weight typically runs 20-25% of loaded trailer weight, which puts the ceiling at roughly a **13,000-16,200 lb loaded trailer** - the lower figure if the trailer is pin-heavy, the higher if it is not.
 
-**Payload is not the only limit.** Rear GAWR, GCWR, and the hitch's own rating all apply, and the lowest governs. Rear GAWR is still unknown pending the door jamb label.
+**Payload is the binding constraint, not the hitch.** The B&W Companion is rated at 25,000 lb gross towing and 6,250 lb vertical load - roughly double the pin weight this truck's payload can carry. Choosing a higher-rated hitch would not raise the ceiling above.
+
+Rear GAWR and GCWR still apply and could bind before payload does. Rear GAWR is unknown pending the door jamb label.
 
 **The 4,195 lb figure is a starting point, not this truck's payload.** The guide's tables reduce the cargo weight rating pound-for-pound as factory options add weight, and this truck carries a long option list - FX4 package, platform running boards, spray-in bedliner, gooseneck hitch kit, fifth-wheel prep, PowerScope mirrors, 250-amp alternator and more. Work the option table to get a real number, or rely on scale weights.
 

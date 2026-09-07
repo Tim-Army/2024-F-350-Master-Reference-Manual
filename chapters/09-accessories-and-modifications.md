@@ -33,7 +33,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
-| B&W Companion OEM fifth-wheel hitch |  | Planned | **~200 lb** against payload - already deducted in the [chapter 10](10-fifth-wheel-and-towing.md) pin budget. Mates to the factory fifth-wheel prep pucks |
+| [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | **$1,399.00** | Planned | 25,000 lb gross tow / 6,250 lb vertical load; **161 lb**; lifetime warranty. Drops into the factory prep pucks. Bundle is base `RVB3305` + coupler `RVC3006`. Deducted in the [chapter 10](10-fifth-wheel-and-towing.md) pin budget |
 | Wheel chocks and levelers |  | Planned | |
 | Infrared thermometer |  | Planned | Hub and tire temperature checks on long tows |
 | 7-way extension and adapters |  | Planned | Factory in-bed 7-pin is [still to be confirmed visually](#2-factory-build--operation) |
