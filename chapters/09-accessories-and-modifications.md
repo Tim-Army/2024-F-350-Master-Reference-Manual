@@ -12,7 +12,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | --- | --- | --- | --- |
 | [Michelin Defender LTX M/S2, LT275/70R18E](https://www.samsclub.com/ip/lt275-70r18e-dltx2-50000/13606762994) (set of 4) | **$328.99 ea / $1,315.96 set** | Planned | Sam's Club. **Size matches the factory fitment exactly**, so no speedometer recalibration or TPMS wake-up is triggered. $80 gift card back on a set of four - $1,235.96 effective, though the cash outlay is the full $1,315.96 |
 | Covercraft Spacer Mesh PrecisionFit seat covers (front EM / rear AU) |  | Planned | Front and rear sets priced separately |
-| Sam's Club Plus membership (military discount) |  | Planned | Purchasing channel, not a truck part - and the channel for the tires above, so price it against that saving |
+| Sam's Club Plus membership (military discount) |  | Planned | Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
 | Lace-on leather steering-wheel cover |  | Planned | |
 
 ### Protection
