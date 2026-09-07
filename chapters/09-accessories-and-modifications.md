@@ -72,18 +72,20 @@ Prices are as quoted by the owner, checked 6 September 2026. Firestone via an Am
 
 ### How the prices fall
 
-| System | Price | Delta vs. cheapest |
-| --- | --- | --- |
-| Timbren SES | $468.32 | - |
-| Pacbrake Alpha HD Pro | $575.06 | +$106.74 |
-| Firestone Ride-Rite Red Label | $762.31 | +$293.99 |
-| Air Lift LoadLifter 7500 XL | $762.99 | +$294.67 |
+| System | Support capacity | Price | Delta vs. cheapest |
+| --- | --- | --- | --- |
+| Timbren SES (`FRTT350J`) | Fixed rate | $468.32 | - |
+| Firestone Ride-Rite `2625` | 5,000 lb | $507.96 | +$39.64 |
+| Pacbrake Alpha HD Pro (`HP10677-J`) | Air | $575.06 | +$106.74 |
+| Firestone Ride-Rite Red Label | 7,500 lb | $762.31 | +$293.99 |
+| Air Lift LoadLifter 7500 XL | 7,500 lb | $762.99 | +$294.67 |
 
 Three things the spread shows:
 
 - **The top two ranked systems are 68 cents apart.** Price cannot separate Firestone from Air Lift - decide on kit contents, bracket design, and install effort instead.
 - **Pacbrake is $187 below both** while still being an adjustable air system, which is what earns it the "great value" ranking. If the ranking gap between it and the top two is small in practice, it is the efficient choice.
 - **Timbren is $107 below Pacbrake.** That is the real cost of adjustability: about a hundred dollars, plus a compressor, lines, fittings, and a leak path to maintain.
+- **The Firestone `2625` undercuts Timbren's nearest air rival by $67** and sits only $40 above Timbren itself - but at 5,000 lb rather than 7,500 lb of support. It is the cheapest way into an adjustable air system, if that capacity is enough.
 
 ### Firestone 2625 is not the Red Label
 
