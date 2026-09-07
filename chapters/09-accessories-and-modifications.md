@@ -50,7 +50,6 @@ One further decision is deferred rather than an item: the **onboard air compress
 | --- | --- | --- | --- |
 | [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | Immediate | Rejected: slip-on, not lace-on. Price kept for reference |
 | [Dee Zee DZ701 under-seat storage drawer](https://www.amazon.com/Dee-Zee-DZ701-Storage-Drawer/dp/B09M1MB2RB) | $308.69 | Storage | Fits F-150 15+ / Super Duty 17+, so it suits this truck. **Not being bought** - a shop-built wooden box is planned instead. Price kept as the commercial benchmark |
-| Meguiar's Gold Class Rich Leather Cleaner & Conditioner | - | Maintenance and security | No leather in this truck - cloth seats, neoprene wheel cover, mesh seat covers |
 
 ### Researching
 
