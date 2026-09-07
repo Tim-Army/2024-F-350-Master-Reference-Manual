@@ -26,7 +26,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | Console Vault |  | Planned | Must suit the 40/console/40 seat configuration |
 | Wheel-well liners |  | Planned | |
 | Mud flaps |  | Planned | Guide lists flat splash guards SRW at 4 lb total |
-| Window deflectors |  | Planned | |
+| [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. Five cents under WeatherTech's $100 threshold for half-price shipping |
 | Tailgate lock |  | Planned | |
 | Sill protection |  | Planned | |
 | LampGard |  | Planned | |
