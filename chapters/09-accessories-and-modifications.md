@@ -134,6 +134,27 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Researching | Only needed if recording to an external SSD instead of microSD |
 
+#### Cleaning supplies - Ford recommended
+
+The U.S. products Ford lists for this vehicle (REF-001 p. 468). Ford's wording is "these products or products of equivalent quality", so equivalents are acceptable - the value here is knowing which *categories* Ford expects and the specification each must meet.
+
+| Product | Part no. | Specification |
+| --- | --- | --- |
+| Bug and Tar Remover | `ZC-42` | |
+| Custom Bright Metal Cleaner | `ZC-15` | ESR-M5B194-B |
+| Detail Wash | `ZC-3-A` | ESR-M14P4-A |
+| Engine Shampoo and Degreaser | `ZC-20` | ESR-M14P3-A |
+| Premium Leather and Vinyl Cleaner | `ZC-56` | |
+| Professional Strength Carpet & Upholstery Cleaner | `ZC-54` | |
+| Spot and Stain Remover | `ZC-14` | |
+| Ultra-Clear Spray Glass Cleaner | `ZC-23` | ESR-M14P5-A |
+| Wheel and Tire Cleaner | `ZC-37-A` | |
+| Premium Windshield Wash Concentrate with Bitterant | `ZC-32-B2` | WSS-M14P19-A |
+
+Two of these are already accounted for elsewhere: the **windshield wash concentrate** is the washer fluid in [chapter 6](06-fluids-and-capacities.md), and the **leather and vinyl cleaner** is redundant if the Covercraft seat covers go on.
+
+Worth noting for this truck specifically: it has a **spray-in bedliner**, **platform running boards** and **18-inch all-terrain tires**, so wheel and tire cleaner and a general detail wash earn their place; the bright metal cleaner has little to work on given the Carbonized Gray and black trim.
+
 #### Diagnostics
 
 | Item | Price | Status | Notes |
@@ -188,7 +209,7 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 | Harbor Freight [locking grease coupler](https://www.harborfreight.com/locking-grease-coupler-56123.html) (`56123`) | **$22.99** | Planned | Fits the grease gun already owned - no gun needed |
 | Harbor Freight [electronics cleaner 11 oz](https://www.harborfreight.com/11-oz-electronics-cleaner-62228.html) (`62228`) | **$10.99** | Planned | |
 | [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | **$4.98** | Planned | Spare clips for hitch pins |
-| Cleaning supplies |  | Planned | Motorcraft products listed in REF-001 |
+| Cleaning supplies |  | Planned | Ford-recommended Motorcraft products - itemized below |
 
 ## Rear load support - options under evaluation
 
