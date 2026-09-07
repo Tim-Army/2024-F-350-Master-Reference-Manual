@@ -2,7 +2,9 @@
 
 VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Super Duty.
 
-**Edition 1.0 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
+**[Read the manual as a single web page](https://claude.ai/code/artifact/fa076d4c-6201-47bc-96cd-82b7de22938a)** - every chapter and log on one page, with a chapter rail. Built from these sources by `build-html.py`; see [HTML edition](#html-edition) below. The page is private to the repository owner unless shared.
+
+**Edition 1.4 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
 
 :warning: **Read [chapter 14](chapters/14-vehicle-history-and-title.md) first.** This truck is a Ford manufacturer buyback, reacquired 2026-07-01 over a passenger-window fault and **Cross Traffic / Blind Spot sensors that do not operate correctly**. Neither defect is shown as repaired. Odometer 38,278 mi; bumper-to-bumper warranty expired.
 
@@ -93,3 +95,4 @@ Chapters 3 and 6 are populated from the Owner's Manual (REF-001). Much of 5, 7, 
 | 1.1 | September 2026 | Ford document library imported (REF-013 - REF-021); build data verified from window sticker |
 | 1.2 | September 2026 | CARFAX imported (REF-022); chapter 14 added; manufacturer buyback recorded; service history populated |
 | 1.3 | September 2026 | Chapters 3 and 6 populated from the Owner's Manual: Motorcraft parts, engine specs, service intervals, fluid capacities |
+| 1.4 | September 2026 | Accessories roadmap costed: prices, status columns, load support and dash cam options; equipment confirmed not fitted recorded in chapter 2 |
