@@ -22,7 +22,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
 | Paint protection film | $29.99 - $138.91 | Researching | Three approaches under consideration - see the section below |
-| TowTector |  | Planned | Confirm bracket fitment against the gooseneck/fifth-wheel prep |
+| [TowTector Tier 2](https://ruggedgear.com/towtector-main/towtector-tier2) (`T2`) rear mud guard brush | **$374.99** base | Researching | Single brush strip, near-full-width, receiver-mounted. Price rises with configuration - see below |
 | Console Vault |  | Planned | Must suit the 40/console/40 seat configuration |
 | Wheel-well liners |  | Planned | |
 | [WeatherTech No-Drill DigitalFit MudFlaps](https://www.weathertech.com/mudflap-no-drill-digitalfit-ford-f-250f-350f-450f-550.html?year=2024&wt_779-244_superdutyclass=779-5433_F250orF350&wt_779-245_superdutydually=779-5438_No&wt_779-463_superdutyfenderflares=779-7957_No&wt_settype=FrontRearSet&ymmSearch=true) | **$179.90** | Planned | Front and rear set, configured F-250/F-350, **not dually**, **no fender flares** - both correct for this truck. No drilling. Camper guide lists flat splash guards SRW at 4 lb total |
@@ -32,6 +32,30 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Researching | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
 
 > **WeatherTech order.** Deflectors ($99.95), mud flaps ($179.90), SillProtector ($79.95) and LampGard ($79.95) total **$439.75**, well past WeatherTech's $250 free-shipping threshold. Wheel-well liners are also a WeatherTech line if they should go on the same order. Settle the LampGard headlamp-type question before placing it.
+
+#### TowTector Tier 2 - configuration decides the price
+
+The $374.99 base covers the 78-inch width with side gas exhaust at 90 degrees. Four choices to settle, three of which add cost:
+
+| Choice | Options | Cost |
+| --- | --- | --- |
+| Vehicle width | 78 in / 96 in | 96 in **+$75** |
+| Exhaust routing | Side gas 90 degrees | included |
+| | Single gas 45 degrees | +$125 |
+| | Rear-facing angled down | +$125 |
+| | Dual rear-facing | +$120 |
+| Brush height | 14 to 28 in, in 2 in steps | included |
+| Ball mount tube | 2 in / 2.5 in hitch | included |
+
+**Three things to verify on the truck before ordering:**
+
+- **Receiver size.** The kit needs the 2-inch or 2.5-inch tube specified correctly. Measure the factory receiver rather than assuming.
+- **Exhaust routing.** This is the largest price swing, up to $125. The 7.3L gasoline exhaust exit needs identifying; the vendor accepts photo uploads of the rear and rear quarter panel to confirm.
+- **Width.** 78 inches suits an SRW truck; 96 inches is dually territory and adds $75. This truck is SRW.
+
+So the realistic figure is **$374.99** if the exhaust exits to the side, or up to **$499.99** if it needs the 45-degree or rear-facing arrangement.
+
+It mounts in the receiver, which stays free while towing a fifth-wheel from the bed - the two do not conflict. It does hang weight off the back of the truck; add it to the [chapter 10](10-fifth-wheel-and-towing.md) budget once the shipping weight is known.
 
 #### Paint protection film - three approaches
 
