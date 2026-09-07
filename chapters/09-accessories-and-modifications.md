@@ -181,7 +181,7 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 | [PACLOCK 90A-PRO padlock](https://www.amazon.com/dp/B08TPBP8LM) | **$35.65** | Planned | 1/4 in hardened shackle, 7-pin cylinder |
 | Harbor Freight [dielectric tune-up grease 3 oz](https://www.harborfreight.com/3-oz-dielectric-tune-up-grease-74112.html) (`74112`) | *price not captured* | Planned | Harbor Freight denies automated access - prices need adding by hand |
 | Harbor Freight [white lithium grease](https://www.harborfreight.com/high-performance-white-lithium-grease-56817.html) (`56817`) | *price not captured* | Planned | |
-| Harbor Freight [locking grease coupler](https://www.harborfreight.com/locking-grease-coupler-56123.html) (`56123`) | *price not captured* | Planned | For the grease gun |
+| Harbor Freight [locking grease coupler](https://www.harborfreight.com/locking-grease-coupler-56123.html) (`56123`) | *price not captured* | Planned | Fits the grease gun already owned - no gun needed |
 | Harbor Freight [electronics cleaner 11 oz](https://www.harborfreight.com/11-oz-electronics-cleaner-62228.html) (`62228`) | *price not captured* | Planned | |
 | [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | *price not captured* | Planned | Home Depot blocks automated access |
 | Cleaning supplies |  | Planned | Motorcraft products listed in REF-001 |
