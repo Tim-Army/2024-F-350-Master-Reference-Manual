@@ -142,6 +142,7 @@ Two Ford specifications remain worth matching when buying equivalents, because t
 
 | Product | Price | Status | Notes |
 | --- | --- | --- | --- |
+| [Chemical Guys Total Interior Cleaner, Protectant & Detailer, 16 oz](https://www.amazon.com/dp/B071ZTPRJL) | **$11.97** | Planned | $10.77 on Subscribe & Save. One-step for dash, **cloth seats**, SYNC 4 screen, trim and glass - suits this truck's interior directly, and covers several categories at once |
 | [Meguiar's Gold Class Rich Leather Cleaner & Conditioner 3-in-1, 15.2 oz](https://www.amazon.com/dp/B089Z96JHV) | *no price shown* | Researching | Amazon shows no featured offer - only "See All Buying Options" - and flags the listing as high-priced. See the note below |
 
 > **This truck has no leather.** The build sheet records **Medium Dark Slate cloth** seats and cloth seating surfaces (REF-003), the selected steering wheel cover is neoprene, and the Covercraft seat covers are spacer mesh. Confirm what this product is intended to treat before buying it.
