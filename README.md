@@ -81,6 +81,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Recovery-first workflow](chapters/08-forscan-and-module-programming.md#recovery-first-workflow) |
 | | [Change log](chapters/08-forscan-and-module-programming.md#change-log) |
 | **9** | **[Accessories & Modifications](chapters/09-accessories-and-modifications.md)** |
+| | [Purchase plan](chapters/09-accessories-and-modifications.md#purchase-plan) |
 | | [Planned roadmap](chapters/09-accessories-and-modifications.md#planned-roadmap) |
 | | [Rear load support - options under evaluation](chapters/09-accessories-and-modifications.md#rear-load-support---options-under-evaluation) |
 | | [Timbren - suspension and brake enhancement](chapters/09-accessories-and-modifications.md#timbren---suspension-and-brake-enhancement) |
@@ -152,7 +153,7 @@ Each phase table in [chapter 9](chapters/09-accessories-and-modifications.md) ca
 python3 build-totals.py
 ```
 
-It sums the Price column per phase and for the Researching table, skipping `Deferred` rows and unpriced items. Where a cell holds several figures - a shipping charge, or a unit price beside a set price - it takes the largest, which is the item's own cost.
+It sums the Price column per phase and for the Researching table, skipping `Deferred` rows and unpriced items. The **Purchase plan** table at the top of the chapter is maintained by hand; update it if the `When` assignments change. Where a cell holds several figures - a shipping charge, or a unit price beside a set price - it takes the largest, which is the item's own cost.
 
 ## Repository layout
 

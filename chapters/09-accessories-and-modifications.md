@@ -1,5 +1,23 @@
 # 9. Accessories & Modifications
 
+## Purchase plan
+
+Three windows, measured from 7 September 2026. Every item in the tables below carries a **When** column placing it in one of them.
+
+| Window | Target | Items | Cost |
+| --- | --- | --- | --- |
+| **Immediate** | now | 7 | **$2,896.13** |
+| **Short-term** | by 6 December 2026 (90 days) | 18 | **$2,268.25** |
+| **Long-term** | by 12 October 2027 (400 days) | 16 | **$1,228.50** |
+| | | | |
+| Researching | unscheduled - see [Researching](#researching) | 6 | $804.98 |
+
+**How items were placed** - this is a proposal, adjust the `When` column as priorities change:
+
+- **Immediate** - anything the truck needs before it tows or before the buyback defects can be assessed: the fifth-wheel hitch, tires at 38,278 miles, the socket tester, hub thermometer, and the OBDLink EX for pulling codes on the Cross Traffic / Blind Spot fault. The Sam's Club membership sits here only because the tires are bought through it.
+- **Short-term** - protection that stops damage accruing while the truck is in use, and the rest of the towing kit: wheel-well liners, mud flaps, deflectors, sill protection, levelers, wiring adapters, and the dash cam. A dash cam earns its place early on a buyback truck.
+- **Long-term** - security hardware, storage, greases and consumables. Useful, but nothing degrades by waiting.
+
 ## Planned roadmap
 
 **Status vocabulary:** `Planned` - intended, not yet acted on. `Ordered` - purchased, not yet fitted. `Installed` - fitted and logged. `Deferred` - decided against, kept with the reason. `N/A` - does not apply to this truck.
@@ -12,27 +30,27 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 
 > **Sam's Club Plus membership - take the military rate.** [$50 for military](https://hosted-pages.id.me/sams-club-military-plus), verified through ID.me. That beats the $55 general promotional price by $5 and carries no 30 September 2026 expiry, so the membership is not on a deadline.
 
-| Item | Price | Status | Notes |
-| --- | --- | --- | --- |
-| [Michelin Defender LTX M/S2, LT275/70R18E](https://www.samsclub.com/ip/lt275-70r18e-dltx2-50000/13606762994) (set of 4) | **$328.99 ea / $1,315.96 set** | Planned | Sam's Club. **Size matches the factory fitment exactly**, so no speedometer recalibration or TPMS wake-up is triggered. $80 gift card back on a set of four - $1,235.96 effective, though the cash outlay is the full $1,315.96 |
-| [Covercraft Spacer Mesh PrecisionFit seat covers](https://www.covercraft.com/product/spacer-mesh-precisionfit-custom-seat-covers/CGT-GTSM) (front EM / rear AU) | **$509.98** | Planned | Covers **both rows** - front EM and rear AU. Must suit the 40/console/40 seat |
-| [Sam's Club Plus membership - military](https://hosted-pages.id.me/sams-club-military-plus) | **$50.00** | Planned | Military rate via ID.me verification. Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
-| [CravenSpeed bullet stubby antenna](https://www.amazon.com/CravenSpeed-Bullet-Antenna-Replacement-2009-2019/dp/B01N3CC9GT) | **$35.00** | Planned | 5.4 in. The listing URL reads 2009-2019, but the product and selected style are **F-250/F-350 Super Duty 2017-2026** - fitment is correct |
-| [Superior 58-0470B Truckline Sport Grip](https://www.amazon.com/Superior-58-0470B-Truckline-Sport-Steering/dp/B00029KA6I) | **$12.99** | **Planned** | **Selected.** Lace-on, neoprene, truck size 17 in - fits 16-18 in wheels with grip circumference up to 3.5 in. Neoprene accepted in place of the original leather spec. **No heated steering wheel on this truck** (REF-003), so the laced fit carries no insulation penalty. Check the rim's grip circumference against the 3.5 in limit before ordering |
-| **Phase total** | **$1,923.93** | *5 items priced* |
+| Item | Price | When | Status | Notes |
+| --- | --- | --- | --- | --- |
+| [Michelin Defender LTX M/S2, LT275/70R18E](https://www.samsclub.com/ip/lt275-70r18e-dltx2-50000/13606762994) (set of 4) | **$328.99 ea / $1,315.96 set** | Immediate | Planned | Sam's Club. **Size matches the factory fitment exactly**, so no speedometer recalibration or TPMS wake-up is triggered. $80 gift card back on a set of four - $1,235.96 effective, though the cash outlay is the full $1,315.96 |
+| [Covercraft Spacer Mesh PrecisionFit seat covers](https://www.covercraft.com/product/spacer-mesh-precisionfit-custom-seat-covers/CGT-GTSM) (front EM / rear AU) | **$509.98** | Short-term | Planned | Covers **both rows** - front EM and rear AU. Must suit the 40/console/40 seat |
+| [Sam's Club Plus membership - military](https://hosted-pages.id.me/sams-club-military-plus) | **$50.00** | Immediate | Planned | Military rate via ID.me verification. Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
+| [CravenSpeed bullet stubby antenna](https://www.amazon.com/CravenSpeed-Bullet-Antenna-Replacement-2009-2019/dp/B01N3CC9GT) | **$35.00** | Short-term | Planned | 5.4 in. The listing URL reads 2009-2019, but the product and selected style are **F-250/F-350 Super Duty 2017-2026** - fitment is correct |
+| [Superior 58-0470B Truckline Sport Grip](https://www.amazon.com/Superior-58-0470B-Truckline-Sport-Steering/dp/B00029KA6I) | **$12.99** | Short-term | **Planned** | **Selected.** Lace-on, neoprene, truck size 17 in - fits 16-18 in wheels with grip circumference up to 3.5 in. Neoprene accepted in place of the original leather spec. **No heated steering wheel on this truck** (REF-003), so the laced fit carries no insulation penalty. Check the rim's grip circumference against the 3.5 in limit before ordering |
+| **Phase total** | **$1,923.93** |  |  | *5 items priced* |
 
 ### Protection
 
-| Item | Price | Status | Notes |
-| --- | --- | --- | --- |
-| [Console Vault full floor console safe](https://www.consolevault.com/products/ford-f250-f350-f450-super-duty-full-floor-center-console-safe-2023-2026?variant=46103816110254) (`1127-EV`) | **$472.00** | Planned | 2023-2026 Super Duty full floor console - matches the 40/console/40 seat. **Lock selected: VaultLink Enabled Electronic Lock** - the $472.00 reflects that choice. See the note below on its power source and on the safe's construction |
-| [Console Vault LodeStar LED light](https://www.consolevault.com/products/lodestar%E2%84%A2-led-light) (`L`) | **$49.00** | Planned | Auto on/off with the lid, magnetic mount, CR2032. Confirm against Console Vault's LodeStar-compatible safe list |
-| [Ford rear wheel-well liners](https://www.ford.com/product/wheelwell-liners-one-pair-for-rear-wheel-wells-p2904301081) (`PC3Z9927886A`) | **$220.00** | Planned | Charcoal black, 2-piece, 2023-2027. Non-returnable. Dealer installation +$42 optional |
-| Ford front wheel-well liners (`PC3Z-16F099-B`) | **$177.00** | Planned | 2-piece set. [Levittown Ford $177.00](https://www.levittownfordparts.com/sku/pc3z-16f099-b.html) vs [ford.com $200.00](https://www.ford.com/product/wheel-well-liners-2piece-set-black-front-p2878597730) - but see the Ford promotion note below |
-| [WeatherTech No-Drill DigitalFit MudFlaps](https://www.weathertech.com/mudflap-no-drill-digitalfit-ford-f-250f-350f-450f-550.html?year=2024&wt_779-244_superdutyclass=779-5433_F250orF350&wt_779-245_superdutydually=779-5438_No&wt_779-463_superdutyfenderflares=779-7957_No&wt_settype=FrontRearSet&ymmSearch=true) | **$179.90** | Planned | Front and rear set, configured F-250/F-350, **not dually**, **no fender flares** - both correct for this truck. No drilling. Camper guide lists flat splash guards SRW at 4 lb total |
-| [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. See the WeatherTech shipping note below |
-| [WeatherTech SillProtector](https://www.weathertech.com/sillprotector-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_color=Black&wt_settype=4DoorSet&ymmSearch=true) | **$79.95** | Planned | Black, 4-door set, SuperCrew/Crew Cab - matches this truck |
-| **Phase total** | **$1,277.80** | *7 items priced* |
+| Item | Price | When | Status | Notes |
+| --- | --- | --- | --- | --- |
+| [Console Vault full floor console safe](https://www.consolevault.com/products/ford-f250-f350-f450-super-duty-full-floor-center-console-safe-2023-2026?variant=46103816110254) (`1127-EV`) | **$472.00** | Long-term | Planned | 2023-2026 Super Duty full floor console - matches the 40/console/40 seat. **Lock selected: VaultLink Enabled Electronic Lock** - the $472.00 reflects that choice. See the note below on its power source and on the safe's construction |
+| [Console Vault LodeStar LED light](https://www.consolevault.com/products/lodestar%E2%84%A2-led-light) (`L`) | **$49.00** | Long-term | Planned | Auto on/off with the lid, magnetic mount, CR2032. Confirm against Console Vault's LodeStar-compatible safe list |
+| [Ford rear wheel-well liners](https://www.ford.com/product/wheelwell-liners-one-pair-for-rear-wheel-wells-p2904301081) (`PC3Z9927886A`) | **$220.00** | Short-term | Planned | Charcoal black, 2-piece, 2023-2027. Non-returnable. Dealer installation +$42 optional |
+| Ford front wheel-well liners (`PC3Z-16F099-B`) | **$177.00** | Short-term | Planned | 2-piece set. [Levittown Ford $177.00](https://www.levittownfordparts.com/sku/pc3z-16f099-b.html) vs [ford.com $200.00](https://www.ford.com/product/wheel-well-liners-2piece-set-black-front-p2878597730) - but see the Ford promotion note below |
+| [WeatherTech No-Drill DigitalFit MudFlaps](https://www.weathertech.com/mudflap-no-drill-digitalfit-ford-f-250f-350f-450f-550.html?year=2024&wt_779-244_superdutyclass=779-5433_F250orF350&wt_779-245_superdutydually=779-5438_No&wt_779-463_superdutyfenderflares=779-7957_No&wt_settype=FrontRearSet&ymmSearch=true) | **$179.90** | Short-term | Planned | Front and rear set, configured F-250/F-350, **not dually**, **no fender flares** - both correct for this truck. No drilling. Camper guide lists flat splash guards SRW at 4 lb total |
+| [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Short-term | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. See the WeatherTech shipping note below |
+| [WeatherTech SillProtector](https://www.weathertech.com/sillprotector-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_color=Black&wt_settype=4DoorSet&ymmSearch=true) | **$79.95** | Short-term | Planned | Black, 4-door set, SuperCrew/Crew Cab - matches this truck |
+| **Phase total** | **$1,277.80** |  |  | *7 items priced* |
 
 > **WeatherTech order.** Deflectors ($99.95), mud flaps ($179.90), SillProtector ($79.95) and LampGard ($79.95) total **$439.75**, well past WeatherTech's $250 free-shipping threshold. Wheel-well liners are also a WeatherTech line if they should go on the same order. Settle the LampGard headlamp-type question before placing it.
 
@@ -64,7 +82,7 @@ Items with an open question that has to be settled before they can be ordered. T
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Electronics and recording | Only needed if recording to an external SSD instead of microSD |
 | Bed cover |  | Storage | Owner still evaluating options. **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware |
 | [ABUS Granit 37RK/60 padlock](https://www.abususa.com/products/granit%E2%84%A2-37rk-60-high-security-padlock) | **$159.19** | Maintenance and security | Page also showed $176.88, likely a compare-at price - confirm which applies |
-| **Phase total** | **$804.98** | *6 items priced* |
+| **Phase total** | **$804.98** |  | *6 items priced* |
 
 #### Console Vault - the VaultLink option
 
@@ -136,29 +154,29 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 
 ### Towing
 
-| Item | Price | Status | Notes |
-| --- | --- | --- | --- |
-| [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | **$1,399.00** | Planned | 25,000 lb gross tow / 6,250 lb vertical load; **161 lb**; lifetime warranty. Drops into the factory prep pucks. Bundle is base `RVB3305` + coupler `RVC3006`. Deducted in the [chapter 10](10-fifth-wheel-and-towing.md) pin budget |
-| [Beech Lane camper leveler, 2-pack](https://www.amazon.com/Beech-Lane-Camper-Leveler-Pack/dp/B07PM8X48R) | **$69.99** | Planned | Two curved levelers, **two chocks**, two rubber grip mats. Rated to 35,000 lb - well above the ~12,800-16,000 lb trailer ceiling in [chapter 10](10-fifth-wheel-and-towing.md). The included chocks cover that need |
-| [Beech Lane wireless RV leveling system](https://www.amazon.com/Beech-Lane-User-Friendly-Real-Time-Measurements/dp/B0C28VJLG5) | **$99.99** | Planned | Phone app with real-time measurements; AA batteries included. Complements the ramps rather than replacing them - it tells you how far out of level you are, the ramps correct it |
-| [Harbor Freight 12:1 infrared laser thermometer](https://www.harborfreight.com/121-infrared-laser-thermometer-63985.html) (item `63985`) | **$22.99** | Planned | Hub and tire temperature checks on long tows - a hot hub is the early warning for a failing bearing. Takes the 9V battery below |
-| [Amazon Basics 9V lithium batteries, 2-pack](https://www.amazon.com/dp/B082DMR8DJ) | **$15.49** | Planned | $7.75 each; $14.72 on Subscribe & Save. 10-year shelf life. Powers the infrared thermometer |
-| [Hopkins 20049 Endurance 7-blade to 7-blade extension, 8 ft](https://www.walmart.com/ip/Hopkins-20049-Endurance-7-Blade-to-7-Blade-Molded-Cable-5th-Wheel-Extension-8/49346592) | **$81.26** | Planned | Molded cable, fifth-wheel extension. Runs from the in-bed 7-pin to the trailer - factory in-bed socket [still to be confirmed visually](#c02) |
-| [CURT `57240` trailer wiring adapter](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57240/1323822) | **$14.99** | Planned | AutoZone |
-| [CURT `57245` trailer wiring adapter](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57245/1323749) | **$10.29** | Planned | AutoZone |
-| [CURT `57260` trailer wiring adapter](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57260/1282674) | **$8.79** | Planned | AutoZone. All three adapters together $34.07 |
-| [Ford 7 & 4-pin trailer tow socket](https://conquestauto.com/products/ford-mu5z-14489-c-2023-2025-ford-f-250-f-350-trailer-tow-7-and-4-pin-socket-connector-oem-genuine?variant=51118440349983) (`MU5Z-14489-C`) | **$62.20** + $8.97 shipping | Planned | Genuine Ford, 2023-2025 F-250/F-350. Spare for the factory socket - pairs with the plug tester and the in-bed 7-pin still to be confirmed in [chapter 2](02-factory-build-and-operation.md) |
-| [CURT 58272 7-pin RV blade socket tester](https://www.amazon.com/CURT-58272-Trailer-Wiring-Vehicle/dp/B0BVZYBRGM) | **$22.74** | Planned | Tests the tow vehicle socket before hitching |
-| **Phase total** | **$1,807.73** | *11 items priced* |
+| Item | Price | When | Status | Notes |
+| --- | --- | --- | --- | --- |
+| [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | **$1,399.00** | Immediate | Planned | 25,000 lb gross tow / 6,250 lb vertical load; **161 lb**; lifetime warranty. Drops into the factory prep pucks. Bundle is base `RVB3305` + coupler `RVC3006`. Deducted in the [chapter 10](10-fifth-wheel-and-towing.md) pin budget |
+| [Beech Lane camper leveler, 2-pack](https://www.amazon.com/Beech-Lane-Camper-Leveler-Pack/dp/B07PM8X48R) | **$69.99** | Short-term | Planned | Two curved levelers, **two chocks**, two rubber grip mats. Rated to 35,000 lb - well above the ~12,800-16,000 lb trailer ceiling in [chapter 10](10-fifth-wheel-and-towing.md). The included chocks cover that need |
+| [Beech Lane wireless RV leveling system](https://www.amazon.com/Beech-Lane-User-Friendly-Real-Time-Measurements/dp/B0C28VJLG5) | **$99.99** | Short-term | Planned | Phone app with real-time measurements; AA batteries included. Complements the ramps rather than replacing them - it tells you how far out of level you are, the ramps correct it |
+| [Harbor Freight 12:1 infrared laser thermometer](https://www.harborfreight.com/121-infrared-laser-thermometer-63985.html) (item `63985`) | **$22.99** | Immediate | Planned | Hub and tire temperature checks on long tows - a hot hub is the early warning for a failing bearing. Takes the 9V battery below |
+| [Amazon Basics 9V lithium batteries, 2-pack](https://www.amazon.com/dp/B082DMR8DJ) | **$15.49** | Immediate | Planned | $7.75 each; $14.72 on Subscribe & Save. 10-year shelf life. Powers the infrared thermometer |
+| [Hopkins 20049 Endurance 7-blade to 7-blade extension, 8 ft](https://www.walmart.com/ip/Hopkins-20049-Endurance-7-Blade-to-7-Blade-Molded-Cable-5th-Wheel-Extension-8/49346592) | **$81.26** | Short-term | Planned | Molded cable, fifth-wheel extension. Runs from the in-bed 7-pin to the trailer - factory in-bed socket [still to be confirmed visually](#c02) |
+| [CURT `57240` trailer wiring adapter](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57240/1323822) | **$14.99** | Short-term | Planned | AutoZone |
+| [CURT `57245` trailer wiring adapter](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57245/1323749) | **$10.29** | Short-term | Planned | AutoZone |
+| [CURT `57260` trailer wiring adapter](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57260/1282674) | **$8.79** | Short-term | Planned | AutoZone. All three adapters together $34.07 |
+| [Ford 7 & 4-pin trailer tow socket](https://conquestauto.com/products/ford-mu5z-14489-c-2023-2025-ford-f-250-f-350-trailer-tow-7-and-4-pin-socket-connector-oem-genuine?variant=51118440349983) (`MU5Z-14489-C`) | **$62.20** + $8.97 shipping | Short-term | Planned | Genuine Ford, 2023-2025 F-250/F-350. Spare for the factory socket - pairs with the plug tester and the in-bed 7-pin still to be confirmed in [chapter 2](02-factory-build-and-operation.md) |
+| [CURT 58272 7-pin RV blade socket tester](https://www.amazon.com/CURT-58272-Trailer-Wiring-Vehicle/dp/B0BVZYBRGM) | **$22.74** | Immediate | Planned | Tests the tow vehicle socket before hitching |
+| **Phase total** | **$1,807.73** |  |  | *11 items priced* |
 
 ### Electronics and recording
 
-| Item | Price | Status | Notes |
-| --- | --- | --- | --- |
-| [VIOFO A329S 2CH dash cam](https://www.viofo.com/products/viofo-a329s-2ch-4k-60fps-2k-hdr-dash-cam-with-sony-starvis-2-sensor) - **Waterproof** edition | **$459.99** | Planned | 4K 60fps front + 2K 30fps rear, Sony STARVIS 2, HDR, Wi-Fi 6, GPS, hybrid parking mode. The Waterproof edition is VIOFO's pickup/truck/off-road variant - the right choice for an exposed rear camera |
-| [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Planned | Required for parking mode. Best Buy |
-| SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
-| **Phase total** | **$605.97** | *3 items priced* |
+| Item | Price | When | Status | Notes |
+| --- | --- | --- | --- | --- |
+| [VIOFO A329S 2CH dash cam](https://www.viofo.com/products/viofo-a329s-2ch-4k-60fps-2k-hdr-dash-cam-with-sony-starvis-2-sensor) - **Waterproof** edition | **$459.99** | Short-term | Planned | 4K 60fps front + 2K 30fps rear, Sony STARVIS 2, HDR, Wi-Fi 6, GPS, hybrid parking mode. The Waterproof edition is VIOFO's pickup/truck/off-road variant - the right choice for an exposed rear camera |
+| [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Short-term | Planned | Required for parking mode. Best Buy |
+| SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Short-term | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
+| **Phase total** | **$605.97** |  |  | *3 items priced* |
 
 #### Cleaning supplies
 
@@ -176,10 +194,10 @@ Further products and prices to be recorded here once chosen.
 
 #### Diagnostics
 
-| Item | Price | Status | Notes |
-| --- | --- | --- | --- |
-| [OBDLink EX](https://www.amazon.com/OBDLink-EX-FORScan-OBD-Adapter/dp/B081VQVD3F) USB adapter | **$69.95** | Planned | **The FORScan adapter.** USB, purpose-built for FORScan's MS-CAN access - the interface assumed throughout [chapter 8](08-forscan-and-module-programming.md) |
-| [OBDLink MX+](https://www.amazon.com/OBDLink-Bluetooth-Professional-Grade-Diagnostic-Performance/dp/B07JFRFJG6) Bluetooth scanner | **$139.95** | Researching | Wireless, works with iOS, Android and Windows. Twice the price; the EX is the safer choice for module programming, where a wired link is preferable |
+| Item | Price | When | Status | Notes |
+| --- | --- | --- | --- | --- |
+| [OBDLink EX](https://www.amazon.com/OBDLink-EX-FORScan-OBD-Adapter/dp/B081VQVD3F) USB adapter | **$69.95** | Immediate | Planned | **The FORScan adapter.** USB, purpose-built for FORScan's MS-CAN access - the interface assumed throughout [chapter 8](08-forscan-and-module-programming.md) |
+| [OBDLink MX+](https://www.amazon.com/OBDLink-Bluetooth-Professional-Grade-Diagnostic-Performance/dp/B07JFRFJG6) Bluetooth scanner | **$139.95** | Long-term | Researching | Wireless, works with iOS, Android and Windows. Twice the price; the EX is the safer choice for module programming, where a wired link is preferable |
 
 For any module work, [chapter 8](08-forscan-and-module-programming.md) applies: back up As-Built before changing anything, and log every change.
 
@@ -206,28 +224,28 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 
 ### Storage
 
-| Item | Price | Status | Notes |
-| --- | --- | --- | --- |
-| Under-seat storage box - shop-built | Material cost only | Planned | DIY replacement for the Dee Zee. Measure the crew cab rear under-seat area, allowing for the seat-fold mechanism and the [rear under-seat stow bin](#c02) if fitted. Record the build in the [accessory log](#log-accessory) |
-| Console and modular organizers | | Planned | DIY - see [chapter 12](12-3d-printed-accessories.md) |
-| **Phase total** | - | *nothing priced yet* |
+| Item | Price | When | Status | Notes |
+| --- | --- | --- | --- | --- |
+| Under-seat storage box - shop-built | Material cost only | Long-term | Planned | DIY replacement for the Dee Zee. Measure the crew cab rear under-seat area, allowing for the seat-fold mechanism and the [rear under-seat stow bin](#c02) if fitted. Record the build in the [accessory log](#log-accessory) |
+| Console and modular organizers |  | Long-term | Planned | DIY - see [chapter 12](12-3d-printed-accessories.md) |
+| **Phase total** | - |  |  | *nothing priced yet* |
 
 ### Maintenance and security
 
-| Item | Price | Status | Notes |
-| --- | --- | --- | --- |
-| [Trimax TCL75 trailer wheel chock lock](https://trimaxlocks.com/shop/shop-now/locks/wheel-locks/tcl75-trimax-wheel-chock-lock/) | **$179.99** | Planned | Fits 7-11.25 in tires - check against the trailer's tire size, not the truck's |
-| [Trimax TFW80HD coupler lock](https://trimaxlocks.com/shop/shop-now/locks/specialty-locks/tfw80hd/) | **$145.99** | Planned | Fifth-wheel/gooseneck specialty lock |
-| [Trimax VMAX10 cable lock](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/vmax10/) | **$79.99** | Planned | |
-| [Trimax TDL3010 dual-loop cable, 30 ft x 10 mm](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/tdl3010-quadra-braid-trimaflex-cable-30-feet-long-x-10mm/) | **$63.99** | Planned | Quadra-braid Trimaflex |
-| [PACLOCK 90A-PRO padlock](https://www.amazon.com/dp/B08TPBP8LM) | **$35.65** | Planned | 1/4 in hardened shackle, 7-pin cylinder |
-| Harbor Freight [dielectric tune-up grease 3 oz](https://www.harborfreight.com/3-oz-dielectric-tune-up-grease-74112.html) (`74112`) | **$15.99** | Planned | For trailer connector pins and bulb sockets |
-| Harbor Freight [white lithium grease](https://www.harborfreight.com/high-performance-white-lithium-grease-56817.html) (`56817`) | **$6.99** | Planned | Hinges, latches and locks - the six-month check in [chapter 3](03-oem-parts-catalog.md) calls for lubrication |
-| Harbor Freight [locking grease coupler](https://www.harborfreight.com/locking-grease-coupler-56123.html) (`56123`) | **$22.99** | Planned | Fits the grease gun already owned - no gun needed |
-| Harbor Freight [electronics cleaner 11 oz](https://www.harborfreight.com/11-oz-electronics-cleaner-62228.html) (`62228`) | **$10.99** | Planned | |
-| [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | **$4.98** | Planned | Spare clips for hitch pins |
-| Cleaning supplies |  | Planned | Ford-recommended Motorcraft products - itemized below |
-| **Phase total** | **$567.55** | *10 items priced* |
+| Item | Price | When | Status | Notes |
+| --- | --- | --- | --- | --- |
+| [Trimax TCL75 trailer wheel chock lock](https://trimaxlocks.com/shop/shop-now/locks/wheel-locks/tcl75-trimax-wheel-chock-lock/) | **$179.99** | Long-term | Planned | Fits 7-11.25 in tires - check against the trailer's tire size, not the truck's |
+| [Trimax TFW80HD coupler lock](https://trimaxlocks.com/shop/shop-now/locks/specialty-locks/tfw80hd/) | **$145.99** | Long-term | Planned | Fifth-wheel/gooseneck specialty lock |
+| [Trimax VMAX10 cable lock](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/vmax10/) | **$79.99** | Long-term | Planned |  |
+| [Trimax TDL3010 dual-loop cable, 30 ft x 10 mm](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/tdl3010-quadra-braid-trimaflex-cable-30-feet-long-x-10mm/) | **$63.99** | Long-term | Planned | Quadra-braid Trimaflex |
+| [PACLOCK 90A-PRO padlock](https://www.amazon.com/dp/B08TPBP8LM) | **$35.65** | Long-term | Planned | 1/4 in hardened shackle, 7-pin cylinder |
+| Harbor Freight [dielectric tune-up grease 3 oz](https://www.harborfreight.com/3-oz-dielectric-tune-up-grease-74112.html) (`74112`) | **$15.99** | Long-term | Planned | For trailer connector pins and bulb sockets |
+| Harbor Freight [white lithium grease](https://www.harborfreight.com/high-performance-white-lithium-grease-56817.html) (`56817`) | **$6.99** | Long-term | Planned | Hinges, latches and locks - the six-month check in [chapter 3](03-oem-parts-catalog.md) calls for lubrication |
+| Harbor Freight [locking grease coupler](https://www.harborfreight.com/locking-grease-coupler-56123.html) (`56123`) | **$22.99** | Long-term | Planned | Fits the grease gun already owned - no gun needed |
+| Harbor Freight [electronics cleaner 11 oz](https://www.harborfreight.com/11-oz-electronics-cleaner-62228.html) (`62228`) | **$10.99** | Long-term | Planned |  |
+| [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | **$4.98** | Long-term | Planned | Spare clips for hitch pins |
+| Cleaning supplies |  | Long-term | Planned | Ford-recommended Motorcraft products - itemized below |
+| **Phase total** | **$567.55** |  |  | *10 items priced* |
 
 ## Rear load support - options under evaluation
 

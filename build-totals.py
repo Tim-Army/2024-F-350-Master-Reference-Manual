@@ -67,8 +67,9 @@ def main() -> None:
             n = len(cells(table[0]))
             amount = f"**${total:,.2f}**" if counted else "-"
             note = f"*{counted} items priced*" if counted else "*nothing priced yet*"
-            row = f"| {TOTAL_LABEL} | {amount} | " + " | ".join(
-                [note] + [""] * (n - 4)) + " |"
+            # label, amount, then blanks, with the count in the final column
+            row = "| " + " | ".join(
+                [TOTAL_LABEL, amount] + [""] * (n - 3) + [note]) + " |"
             table.append(row)
             out.extend(table)
             changed += 1
