@@ -67,6 +67,7 @@ Four candidate systems for supporting pin weight and resisting squat under a fif
 | 3 | [Pacbrake Alpha HD Pro](https://pacbrake.com/hp10677-j-alpha-hd-pro-air-suspension-kit-for-2017-2025-ford-f-250f-350f-450.html) (`HP10677-J`) | Air spring | Great value | **$575.06** |
 | 4 | Timbren SES | Rubber progressive spring | Good if you do not want compressors or air lines | $468.32 (`FRTT350J`) |
 | - | [Firestone Ride-Rite / Airide `2625`](https://www.amazon.com/Firestone-2625/dp/B0BSLXFJ5H) | Air spring, **5,000 lb** | Lighter-duty sibling of the Red Label - not the same kit | **$507.96** |
+| - | [Pacbrake Alpha XD Pro-S](https://pacbrake.com/hp10677-x-j-s-alpha-xd-pro-s-air-spring-kit-for-2017-2025-ford-f-250f-350f-450.html) (`HP10677-X-J-S`) | Air spring, **7,500 lb** | Step up from the HD Pro: internal bump stop, stainless hardware, runs at 0 PSI unloaded | **$1,006.47** |
 
 Prices are as quoted by the owner, checked 6 September 2026. Firestone via an Amazon listing (Midwest Aftermarket, 2017-2025 fitment); Pacbrake `HP10677-J` from the manufacturer directly, also [on Amazon](https://www.amazon.com/Pacbrake-HP10677-J-Suspension-2017-2026-Installation/dp/B0GWNDQ3NC), covering F-250/F-350/F-450 2017-2025.
 
@@ -79,6 +80,7 @@ Prices are as quoted by the owner, checked 6 September 2026. Firestone via an Am
 | Pacbrake Alpha HD Pro (`HP10677-J`) | Air | $575.06 | +$106.74 |
 | Firestone Ride-Rite Red Label | 7,500 lb | $762.31 | +$293.99 |
 | Air Lift LoadLifter 7500 XL | 7,500 lb | $762.99 | +$294.67 |
+| Pacbrake Alpha XD Pro-S (`HP10677-X-J-S`) | 7,500 lb | $1,006.47 | +$538.15 |
 
 Three things the spread shows:
 
@@ -86,6 +88,25 @@ Three things the spread shows:
 - **Pacbrake is $187 below both** while still being an adjustable air system, which is what earns it the "great value" ranking. If the ranking gap between it and the top two is small in practice, it is the efficient choice.
 - **Timbren is $107 below Pacbrake.** That is the real cost of adjustability: about a hundred dollars, plus a compressor, lines, fittings, and a leak path to maintain.
 - **The Firestone `2625` undercuts Timbren's nearest air rival by $67** and sits only $40 above Timbren itself - but at 5,000 lb rather than 7,500 lb of support. It is the cheapest way into an adjustable air system, if that capacity is enough.
+
+### Pacbrake Alpha XD Pro-S
+
+The `HP10677-X-J-S` is a tier above the HD Pro ranked third, at $431 more. What the extra buys, per Pacbrake:
+
+- **7,500 lb** load levelling capacity, matching the Red Label and Air Lift kits.
+- **Internal polyurethane bump stop**, so the bags can be run at **0 PSI when unloaded** and keep factory ride comfort - the closest an air system gets to Timbren's "nothing to manage when empty" behavior, while staying adjustable when loaded.
+- Stainless steel throughout: mounting hardware, fittings, Schrader valves, roll plates, and 6 ft braided air lines.
+- **No compressor.** Inflation is through Schrader valves, like the Firestone `2625`.
+
+Pricing note: Pacbrake lists this kit at **$1,118.31** direct; the [etrailer listing](https://www.etrailer.com/Vehicle-Suspension/Ford/F-350+Super+Duty/2026/PB47TV.html?VehicleID=202610007400) is **$1,006.47**, or $111.84 less.
+
+Fitment conditions to check before ordering:
+
+- Fits F-250/F-350/F-450 Super Duty, 2WD and 4WD, SRW and DRW, 2017-2026. **Will not fit Chassis Cab** - not an issue here.
+- **Will not fit where the distance from the top of the rear axle to the bottom of the frame at the jounce bumper mounting point exceeds 12 inches.** Measure this before ordering.
+- ALPHA XD kits are not compatible with Pacbrake's 2/4/6-inch air spring spacers, or with their 5-inch rear block kits.
+
+Pacbrake states the capacity figure with its own caveat - *never exceed the manufacturer's recommended Gross Vehicle Weight Rating* - which is the same point made above: these kits level a load, they do not raise it.
 
 ### Firestone 2625 is not the Red Label
 
