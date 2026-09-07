@@ -62,10 +62,12 @@ Four candidate systems for supporting pin weight and resisting squat under a fif
 
 | Rank | System | Type | Assessment | Price |
 | --- | --- | --- | --- | --- |
-| 1 | Firestone Ride-Rite Red Label 7,500 | Air spring | **Best overall** | |
+| 1 | [Firestone Ride-Rite Red Label 7,500](https://www.amazon.com/Firestone-Spring-2017-2025-Midwest-Aftermarket/dp/B0F6QZX5X8) | Air spring | **Best overall** | **$762.31** |
 | 2 | Air Lift LoadLifter 7500 XL Ultimate | Air spring | Excellent choice | |
 | 3 | Pacbrake Alpha HD Pro | Air spring | Great value | |
 | 4 | Timbren SES | Rubber progressive spring | Good if you do not want compressors or air lines | $468.32 (`FRTT350J`) |
+
+Prices are as quoted by the owner; the Firestone figure is from an Amazon listing (Midwest Aftermarket) covering 2017-2025 fitment, checked 6 September 2026. Sources and prices for the remaining two are still to be filled in.
 
 The trade-off is maintenance surface against adjustability. The three air systems are adjustable on the fly and level a varying load precisely, but add a compressor, air lines, fittings, and a leak path. Timbren has no air system at all - nothing to fail, nothing to plumb - but the rate is fixed and it does less when the truck is empty.
 
