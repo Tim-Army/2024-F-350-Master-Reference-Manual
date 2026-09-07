@@ -4,7 +4,9 @@
 
 Three windows, **measured from the date the truck is taken into ownership** rather than from today. The roadmap below is organized by window, each item tagged with the **category** it belongs to.
 
-The dates below assume delivery around 7 September 2026; shift them if the purchase date moves. Nothing here should be bought before the truck is - the [chapter 14](14-vehicle-history-and-title.md) verification list comes first, and its outcome could still change the decision to buy.
+> **No pre-purchases.** Nothing on this roadmap is bought before the truck is acquired. The [chapter 14](14-vehicle-history-and-title.md) verification list comes first, and its outcome may still change the decision to buy at all.
+
+The dates below assume delivery around 7 September 2026; shift them if the purchase date moves.
 
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
