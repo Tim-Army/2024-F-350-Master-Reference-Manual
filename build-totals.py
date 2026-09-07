@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Insert or refresh a total row at the foot of each phase table in chapter 9.
+"""Insert or refresh a total row at the foot of each purchase-window table.
 
-Sums the Price column of every row in a phase table, skipping rows whose Status
+Sums the Price column of every row in a window table, skipping rows whose Status
 is Deferred and rows with no price. Where a price cell holds more than one
 figure - "$62.20 + $8.97 shipping", "$328.99 ea / $1,315.96 set" - the largest
 is taken, which is the item's own cost rather than a shipping charge or unit
@@ -14,10 +14,8 @@ import re
 import sys
 
 CHAPTER = pathlib.Path(__file__).parent / "chapters" / "09-accessories-and-modifications.md"
-PHASES = ["Immediate", "Protection", "Towing",
-          "Electronics and recording", "Storage", "Maintenance and security",
-          # not a phase, but its table is totalled the same way
-          "Researching"]
+# Purchase windows, plus the two tables totalled the same way.
+PHASES = ["Immediate", "Short-term", "Long-term", "Researching"]
 TOTAL_LABEL = "**Phase total**"
 MONEY = re.compile(r"\$([\d,]+\.\d{2})")
 
@@ -80,9 +78,9 @@ def main() -> None:
         i += 1
 
     if not changed:
-        sys.exit("no phase tables found - check the phase names")
+        sys.exit("no window tables found - check the names in PHASES")
     CHAPTER.write_text("\n".join(out) + "\n")
-    print(f"\nupdated {changed} phase tables")
+    print(f"\nupdated {changed} tables")
 
 
 if __name__ == "__main__":
