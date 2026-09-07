@@ -2,11 +2,13 @@
 
 ## Purchase plan
 
-Three windows, measured from 7 September 2026. The roadmap below is organized by window, each item tagged with the **category** it belongs to.
+Three windows, **measured from the date the truck is taken into ownership** rather than from today. The roadmap below is organized by window, each item tagged with the **category** it belongs to.
+
+The dates below assume delivery around 7 September 2026; shift them if the purchase date moves. Nothing here should be bought before the truck is - the [chapter 14](14-vehicle-history-and-title.md) verification list comes first, and its outcome could still change the decision to buy.
 
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
-| **Immediate** | now | 10 | **$2,967.11** |
+| **Immediate** | on taking delivery | 11 | **$2,992.10** |
 | **Short-term** | by 6 December 2026 (90 days) | 16 | **$2,220.26** |
 | **Long-term** | by 12 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
@@ -40,7 +42,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [CravenSpeed bullet stubby antenna](https://www.amazon.com/CravenSpeed-Bullet-Antenna-Replacement-2009-2019/dp/B01N3CC9GT) | **$35.00** | Tires and interior | Planned | 5.4 in. The listing URL reads 2009-2019, but the product and selected style are **F-250/F-350 Super Duty 2017-2026** - fitment is correct |
 | [Superior 58-0470B Truckline Sport Grip](https://www.amazon.com/Superior-58-0470B-Truckline-Sport-Steering/dp/B00029KA6I) | **$12.99** | Tires and interior | **Planned** | **Selected.** Lace-on, neoprene, truck size 17 in - fits 16-18 in wheels with grip circumference up to 3.5 in. Neoprene accepted in place of the original leather spec. **No heated steering wheel on this truck** (REF-003), so the laced fit carries no insulation penalty. Check the rim's grip circumference against the 3.5 in limit before ordering |
 | Harbor Freight [locking grease coupler](https://www.harborfreight.com/locking-grease-coupler-56123.html) (`56123`) | **$22.99** | Maintenance & security | Planned | Fits the grease gun already owned - no gun needed |
-| **Phase total** | **$2,967.11** |  |  | *10 items priced* |
+| [Ford F-350 Super Duty workshop manual, 2023-2025, on USB](https://www.ebay.com/itm/127998926201) | **$24.99** | Documentation | Planned | **Buy on taking delivery.** Free USPS Media Mail. Listed as covering the 7.3L V8. Unblocks the torque atlas in [chapter 5](05-torque-specifications.md), the transmission fluid capacity in [chapter 6](06-fluids-and-capacities.md), the wiring work in [chapter 7](07-electrical-atlas.md) and the whole of [Appendix A](appendix-a-workshop-manual-intake.md). Third-party USB compilation, not a Ford subscription - confirm coverage on arrival |
+| **Phase total** | **$2,992.10** |  |  | *11 items priced* |
 
 ### Short-term
 

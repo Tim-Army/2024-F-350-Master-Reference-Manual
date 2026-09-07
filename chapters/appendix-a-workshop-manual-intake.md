@@ -8,6 +8,10 @@
 - OEM parts diagrams and Ford/Motorcraft part numbers.
 - Service Bulletins, recalls, customer-satisfaction programs, and revision history.
 
+## Intended source
+
+A third-party **2023-2025 F-350 Super Duty workshop manual on USB** is on the [chapter 9](09-accessories-and-modifications.md#immediate) Immediate list at $24.99, to be bought on taking delivery. It is a compilation rather than a Ford subscription, so confirm on arrival that it actually carries the sections listed above - particularly the torque atlas with sequences and angles, and the wiring diagrams. If it falls short, Ford's own subscription service remains the authoritative route.
+
 ## Revision record
 
 | Version | Date | Summary |
