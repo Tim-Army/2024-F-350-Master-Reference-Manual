@@ -35,7 +35,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | **$1,399.00** | Towing | Planned | 25,000 lb gross tow / 6,250 lb vertical load; **161 lb**; lifetime warranty. Drops into the factory prep pucks. Bundle is base `RVB3305` + coupler `RVC3006`. Deducted in the [chapter 10](10-fifth-wheel-and-towing.md) pin budget |
 | [Harbor Freight 12:1 infrared laser thermometer](https://www.harborfreight.com/121-infrared-laser-thermometer-63985.html) (item `63985`) | **$22.99** | Towing | Planned | Hub and tire temperature checks on long tows - a hot hub is the early warning for a failing bearing. Takes the 9V battery below |
 | [CURT 58272 7-pin RV blade socket tester](https://www.amazon.com/CURT-58272-Trailer-Wiring-Vehicle/dp/B0BVZYBRGM) | **$22.74** | Towing | Planned | Tests the tow vehicle socket before hitching |
-| [Amazon Basics 9V lithium batteries, 2-pack](https://www.amazon.com/dp/B082DMR8DJ) | **$15.49** | Towing | Planned | $7.75 each; $14.72 on Subscribe & Save. 10-year shelf life. Powers the infrared thermometer |
+| [Amazon Basics 9V lithium batteries, 2-pack](https://www.amazon.com/dp/B082DMR8DJ) | **$15.49** | Towing | Planned | $7.75 each. 10-year shelf life. Powers the infrared thermometer |
 | [OBDLink EX](https://www.amazon.com/OBDLink-EX-FORScan-OBD-Adapter/dp/B081VQVD3F) USB adapter | **$69.95** | Diagnostics | Planned | **The FORScan adapter.** USB, purpose-built for FORScan's MS-CAN access - the interface assumed throughout [chapter 8](08-forscan-and-module-programming.md) |
 | **Phase total** | **$2,896.13** |  |  | *7 items priced* |
 
@@ -83,7 +83,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | Harbor Freight [white lithium grease](https://www.harborfreight.com/high-performance-white-lithium-grease-56817.html) (`56817`) | **$6.99** | Maintenance & security | Planned | Hinges, latches and locks - the six-month check in [chapter 3](03-oem-parts-catalog.md) calls for lubrication |
 | [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | **$4.98** | Maintenance & security | Planned | Spare clips for hitch pins |
 | Cleaning supplies |  | Maintenance & security | Planned | Ford-recommended Motorcraft products - itemized below |
-| [Chemical Guys Total Interior Cleaner, Protectant & Detailer, 16 oz](https://www.amazon.com/dp/B071ZTPRJL) | **$11.97** | Cleaning | Planned | $10.77 on Subscribe & Save. One-step for dash, **cloth seats**, SYNC 4 screen, trim and glass - suits this truck's interior directly, and covers several categories at once |
+| [Chemical Guys Total Interior Cleaner, Protectant & Detailer, 16 oz](https://www.amazon.com/dp/B071ZTPRJL) | **$11.97** | Cleaning | Planned | One-step for dash, **cloth seats**, SYNC 4 screen, trim and glass - suits this truck's interior directly, and covers several categories at once |
 | **Phase total** | **$1,240.47** |  |  | *14 items priced* |
 
 ### Buying notes
