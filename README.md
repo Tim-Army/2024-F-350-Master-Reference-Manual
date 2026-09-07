@@ -144,6 +144,16 @@ python3 build-toc.py
 
 It rewrites the block between the `<!--CONTENTS-->` markers in this file from the chapter and log headings.
 
+## Accessory totals
+
+Each phase table in [chapter 9](chapters/09-accessories-and-modifications.md) carries a generated total row. After changing any price, refresh them:
+
+```bash
+python3 build-totals.py
+```
+
+It sums the Price column per phase, skipping `Deferred` rows and unpriced items. Where a cell holds several figures - a shipping charge, or a unit price beside a set price - it takes the largest, which is the item's own cost.
+
 ## Repository layout
 
 ```
@@ -154,6 +164,7 @@ source/       The compiled PDF this repository was scaffolded from
 imports/      Local-only staging for uploaded material (gitignored)
 
 build-toc.py    Regenerates the Contents table in this README
+build-totals.py Refreshes the phase total rows in chapter 9
 build-html.py   Generates manual.html from the Markdown sources
 template.html   Page shell and styling for the HTML edition
 manual.html     Built single-page HTML edition

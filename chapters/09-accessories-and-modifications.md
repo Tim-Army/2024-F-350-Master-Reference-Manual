@@ -18,6 +18,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [CravenSpeed bullet stubby antenna](https://www.amazon.com/CravenSpeed-Bullet-Antenna-Replacement-2009-2019/dp/B01N3CC9GT) | **$35.00** | Planned | 5.4 in. The listing URL reads 2009-2019, but the product and selected style are **F-250/F-350 Super Duty 2017-2026** - fitment is correct |
 | [Superior 58-0470B Truckline Sport Grip](https://www.amazon.com/Superior-58-0470B-Truckline-Sport-Steering/dp/B00029KA6I) | **$12.99** | **Planned** | **Selected.** Lace-on, neoprene, truck size 17 in - fits 16-18 in wheels with grip circumference up to 3.5 in. Neoprene accepted in place of the original leather spec. **No heated steering wheel on this truck** (REF-003), so the laced fit carries no insulation penalty. Check the rim's grip circumference against the 3.5 in limit before ordering |
 | [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | **Deferred** | Rejected: slip-on, not lace-on. Price kept for reference |
+| **Phase total** | **$1,923.93** | *5 items priced* |
 
 ### Protection
 
@@ -34,6 +35,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Pop & Lock PL9900 Gate Defender](https://www.amazon.com/Pop-Lock-PL9900-Tailgate-Defender/dp/B00TPXG0NO) | **$34.95** | Researching | Universal manual tailgate lock. Confirm how it interacts with the factory tailgate lock cylinder before ordering |
 | [WeatherTech SillProtector](https://www.weathertech.com/sillprotector-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_color=Black&wt_settype=4DoorSet&ymmSearch=true) | **$79.95** | Planned | Black, 4-door set, SuperCrew/Crew Cab - matches this truck |
 | [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Researching | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
+| **Phase total** | **$1,906.60** | *11 items priced* |
 
 > **WeatherTech order.** Deflectors ($99.95), mud flaps ($179.90), SillProtector ($79.95) and LampGard ($79.95) total **$439.75**, well past WeatherTech's $250 free-shipping threshold. Wheel-well liners are also a WeatherTech line if they should go on the same order. Settle the LampGard headlamp-type question before placing it.
 
@@ -124,6 +126,7 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | [CURT `57260` trailer wiring adapter](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57260/1282674) | **$8.79** | Planned | AutoZone. All three adapters together $34.07 |
 | [Ford 7 & 4-pin trailer tow socket](https://conquestauto.com/products/ford-mu5z-14489-c-2023-2025-ford-f-250-f-350-trailer-tow-7-and-4-pin-socket-connector-oem-genuine?variant=51118440349983) (`MU5Z-14489-C`) | **$62.20** + $8.97 shipping | Planned | Genuine Ford, 2023-2025 F-250/F-350. Spare for the factory socket - pairs with the plug tester and the in-bed 7-pin still to be confirmed in [chapter 2](02-factory-build-and-operation.md) |
 | [CURT 58272 7-pin RV blade socket tester](https://www.amazon.com/CURT-58272-Trailer-Wiring-Vehicle/dp/B0BVZYBRGM) | **$22.74** | Planned | Tests the tow vehicle socket before hitching |
+| **Phase total** | **$1,807.73** | *11 items priced* |
 
 ### Electronics and recording
 
@@ -133,6 +136,7 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Planned | Required for parking mode. Best Buy |
 | SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Researching | Only needed if recording to an external SSD instead of microSD |
+| **Phase total** | **$622.96** | *4 items priced* |
 
 #### Cleaning supplies
 
@@ -187,6 +191,7 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 | [Dee Zee DZ701 under-seat storage drawer](https://www.amazon.com/Dee-Zee-DZ701-Storage-Drawer/dp/B09M1MB2RB) | $308.69 | **Deferred** | Fits F-150 15+ / Super Duty 17+, so it suits this truck. **Not being bought** - a shop-built wooden box is planned instead. Price kept as the commercial benchmark |
 | Under-seat storage box - shop-built | Material cost only | Planned | DIY replacement for the Dee Zee. Measure the crew cab rear under-seat area, allowing for the seat-fold mechanism and the [rear under-seat stow bin](#c02) if fitted. Record the build in the [accessory log](#log-accessory) |
 | Console and modular organizers | | Planned | DIY - see [chapter 12](12-3d-printed-accessories.md) |
+| **Phase total** | - | *nothing priced yet* |
 
 ### Maintenance and security
 
@@ -204,6 +209,7 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 | Harbor Freight [electronics cleaner 11 oz](https://www.harborfreight.com/11-oz-electronics-cleaner-62228.html) (`62228`) | **$10.99** | Planned | |
 | [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | **$4.98** | Planned | Spare clips for hitch pins |
 | Cleaning supplies |  | Planned | Ford-recommended Motorcraft products - itemized below |
+| **Phase total** | **$726.74** | *11 items priced* |
 
 ## Rear load support - options under evaluation
 
