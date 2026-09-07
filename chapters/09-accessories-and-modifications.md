@@ -54,6 +54,10 @@ What it does: the safe **locks automatically when the ignition is switched off a
 
 The module ships with a **USB-C to USB-C cable**; adapters for USB-A or 12-volt ports are **not** included. Check which port type the console actually offers and order an adapter if needed.
 
+Background, from Console Vault's [announcement](https://www.consolevault.com/blogs/console-vault-blog/introducing-vaultlink%E2%84%A2-patent-pending-by-console-vault-a-revolutionary-in-vehicle-security-solution) (5 December 2024): the Elite Electronic Lock launched September 2024 with a keypad and an **8-digit code**, the newer Elite Electronic taking **10 digits**; VaultLink shipped January 2025 and was patent-pending at announcement, with U.S. Patent 12071791 since granted. Console Vault is American-owned and American-made, founded 2002.
+
+Note that the announcement makes no mention of the console-port power requirement or the ignition-cut condition - **those appear only on the product page**, which is why they are worth testing rather than assuming from the marketing.
+
 **Pricing.** The $472.00 recorded above already includes the VaultLink option, so the module's standalone $183.00 price is not additional - that page is the retrofit route for an existing safe. Console Vault's lock upgrade ladder: barrel key $20, 3-digit $20, 4-digit $35, Elite 4-digit $49, Elite Electronic $99, **VaultLink $153**. Dropping to the Elite Electronic lock would save $54 but reinstates the quarterly charging; dropping to a barrel key would save $133.
 
 Recorded from the product page:
