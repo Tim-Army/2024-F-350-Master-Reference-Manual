@@ -21,7 +21,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
-| Paint protection film |  | Researching | Cost varies widely by coverage area and installer |
+| Paint protection film | $29.99 - $138.91 | Researching | Three approaches under consideration - see the section below |
 | TowTector |  | Planned | Confirm bracket fitment against the gooseneck/fifth-wheel prep |
 | Console Vault |  | Planned | Must suit the 40/console/40 seat configuration |
 | Wheel-well liners |  | Planned | |
@@ -32,6 +32,22 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Researching | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
 
 > **WeatherTech order.** Deflectors ($99.95), mud flaps ($179.90), SillProtector ($79.95) and LampGard ($79.95) total **$439.75**, well past WeatherTech's $250 free-shipping threshold. Wheel-well liners are also a WeatherTech line if they should go on the same order. Settle the LampGard headlamp-type question before placing it.
+
+#### Paint protection film - three approaches
+
+These are not straight alternatives; they cover different areas and could be combined.
+
+| Option | Coverage | Price |
+| --- | --- | --- |
+| [Upromax door edge and handle cup set](https://www.amazon.com/Accessories-Protector-Protection-Self-Healing-Upromax/dp/B0FY7FXHKP) (3M film) | 5 precut door edge guards + 5 handle cup protectors | **$29.99** (10-pc set; 5-pc $13.99, 6-pc $17.99) |
+| [VViViD Barricade clear gloss TPU roll](https://www.amazon.com/VViViD-Barricade-Premium-Clear-Protection/dp/B0DRW828J9) | Bulk roll, 17.9 in x 96 in - cut to fit, e.g. the hood leading edge | **$47.99** |
+| [InvisibleMask precut kit](https://www.invisiblemask.com/imask/index.php?product_id=374386&route=product/product) (`VM-30037`) | Hood, fenders, mirrors - 18 inch | **$138.91** (from $154.34) |
+
+**On the InvisibleMask kit.** It is listed for a 2024 F-350 Super Duty **Lariat**; this truck is an **XLT**. Hood and fender contours are very likely shared across trims, but the **mirrors are the risk**: this truck has **PowerScope trailer tow mirrors** (REF-003), which are a different shape from standard mirrors. Confirm the mirror pattern matches before ordering, or order the kit without the mirror sections.
+
+Its film choice also moves the price: ArmorWrap Premium (5-year) at the base $138.91, 3M Scotchgard PRO 200 Series at +5% ($145.86), or ArmorWrap Ultra (lifetime) at +10% ($152.80). Optional installation insurance adds a further 10%. Free U.S. shipping and an install kit apply over $75, so all three qualify.
+
+The Upromax and VViViD options are self-install and cover the cheapest, highest-value areas - door edges, handle cups, and the hood leading edge. The precut kit is the step up to full hood and fender coverage.
 
 ### Towing
 
