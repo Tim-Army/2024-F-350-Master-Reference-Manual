@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Build the single-page HTML edition of the master reference manual.
 
+Writes manual.html and an identical index.html, which GitHub Pages serves at
+the site root.
+
 Reads the Markdown chapters and logs, converts each with pandoc, and wraps the
 result in the manual's HTML template. Chapter anchors are namespaced (#c01,
 #c14, #log-service) so cross-file links in the Markdown keep resolving on the
@@ -16,6 +19,8 @@ import sys
 
 ROOT = pathlib.Path(__file__).parent
 OUT = ROOT / "manual.html"
+# GitHub Pages serves index.html at the site root, so write the manual there too.
+INDEX = ROOT / "index.html"
 
 # (source path, anchor id, rail number, rail label)
 SECTIONS = [
@@ -146,5 +151,7 @@ def build() -> str:
 
 
 if __name__ == "__main__":
-    OUT.write_text(build())
-    print(f"wrote {OUT} ({OUT.stat().st_size // 1024} KB)")
+    page = build()
+    OUT.write_text(page)
+    INDEX.write_text(page)
+    print(f"wrote {OUT.name} and {INDEX.name} ({OUT.stat().st_size // 1024} KB)")

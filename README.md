@@ -2,7 +2,7 @@
 
 VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Super Duty.
 
-**[Read the manual as a single web page](https://claude.ai/code/artifact/fa076d4c-6201-47bc-96cd-82b7de22938a)** - every chapter and log on one page, with a chapter rail. Built from these sources by `build-html.py`; see [HTML edition](#html-edition) below.
+**[Read the manual as a single web page](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/)** - every chapter and log on one page, with a contents block and chapter rail. Built from these sources by `build-html.py`; see [HTML edition](#html-edition) below.
 
 **Edition 1.4 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
 
@@ -130,7 +130,9 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 python3 build-html.py
 ```
 
-It requires `pandoc`. `template.html` holds the page shell and styling; the generator only fills in the navigation and body.
+It requires `pandoc`. `template.html` holds the page shell and styling; the generator only fills in the contents, navigation and body.
+
+The build writes two identical files: `manual.html`, and `index.html`, which GitHub Pages serves at <https://tim-army.github.io/2024-F-350-Master-Reference-Manual/>. Commit both after rebuilding, or the published page falls behind the sources.
 
 ## Table of contents
 
@@ -155,6 +157,7 @@ build-toc.py    Regenerates the Contents table in this README
 build-html.py   Generates manual.html from the Markdown sources
 template.html   Page shell and styling for the HTML edition
 manual.html     Built single-page HTML edition
+index.html      The same page, served by GitHub Pages at the site root
 ```
 
 Ford publications are held locally in `imports/` and cited in
