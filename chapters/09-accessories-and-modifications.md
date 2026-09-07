@@ -117,9 +117,10 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | [Beech Lane wireless RV leveling system](https://www.amazon.com/Beech-Lane-User-Friendly-Real-Time-Measurements/dp/B0C28VJLG5) | **$99.99** | Planned | Phone app with real-time measurements; AA batteries included. Complements the ramps rather than replacing them - it tells you how far out of level you are, the ramps correct it |
 | [Harbor Freight 12:1 infrared laser thermometer](https://www.harborfreight.com/121-infrared-laser-thermometer-63985.html) (item `63985`) | *price not captured* | Planned | Hub and tire temperature checks on long tows. Harbor Freight blocks automated access, so the price needs adding by hand |
 | [Amazon Basics 9V lithium batteries, 2-pack](https://www.amazon.com/dp/B082DMR8DJ) | **$15.49** | Planned | $7.75 each; $14.72 on Subscribe & Save. 10-year shelf life. Powers the infrared thermometer |
-| 7-way extension and adapters |  | Planned | Factory in-bed 7-pin is [still to be confirmed visually](#2-factory-build--operation) |
+| [Hopkins 20049 Endurance 7-blade to 7-blade extension, 8 ft](https://www.walmart.com/ip/Hopkins-20049-Endurance-7-Blade-to-7-Blade-Molded-Cable-5th-Wheel-Extension-8/49346592) | *price not captured* | Planned | Molded cable, fifth-wheel extension. Walmart price did not resolve cleanly - add by hand. Factory in-bed 7-pin is [still to be confirmed visually](#c02) |
+| CURT trailer wiring adapters, AutoZone [`57245`](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57245/1323749) / [`57240`](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57240/1323822) / [`57260`](https://www.autozone.com/p/curt-trailer-wiring-adapter-connector-57260/1282674) | *prices not captured* | Researching | AutoZone pages list several prices per page; confirm which applies to each part |
 | [Ford 7 & 4-pin trailer tow socket](https://conquestauto.com/products/ford-mu5z-14489-c-2023-2025-ford-f-250-f-350-trailer-tow-7-and-4-pin-socket-connector-oem-genuine?variant=51118440349983) (`MU5Z-14489-C`) | **$62.20** + $8.97 shipping | Planned | Genuine Ford, 2023-2025 F-250/F-350. Spare for the factory socket - pairs with the plug tester and the in-bed 7-pin still to be confirmed in [chapter 2](02-factory-build-and-operation.md) |
-| 7-way plug tester |  | Planned | |
+| [CURT 58272 7-pin RV blade socket tester](https://www.amazon.com/CURT-58272-Trailer-Wiring-Vehicle/dp/B0BVZYBRGM) | **$22.74** | Planned | Tests the tow vehicle socket before hitching |
 
 ### Electronics and recording
 
@@ -129,6 +130,15 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Planned | Required for parking mode. Best Buy |
 | SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Researching | Only needed if recording to an external SSD instead of microSD |
+
+#### Diagnostics
+
+| Item | Price | Status | Notes |
+| --- | --- | --- | --- |
+| [OBDLink EX](https://www.amazon.com/OBDLink-EX-FORScan-OBD-Adapter/dp/B081VQVD3F) USB adapter | **$69.95** | Planned | **The FORScan adapter.** USB, purpose-built for FORScan's MS-CAN access - the interface assumed throughout [chapter 8](08-forscan-and-module-programming.md) |
+| [OBDLink MX+](https://www.amazon.com/OBDLink-Bluetooth-Professional-Grade-Diagnostic-Performance/dp/B07JFRFJG6) Bluetooth scanner | **$139.95** | Researching | Wireless, works with iOS, Android and Windows. Twice the price; the EX is the safer choice for module programming, where a wired link is preferable |
+
+For any module work, [chapter 8](08-forscan-and-module-programming.md) applies: back up As-Built before changing anything, and log every change.
 
 **Edition choice.** VIOFO prices the A329S 2CH by edition: Standard from $379.99, Telephoto from $449.99, **Waterproof $459.99**. The $80 step up from Standard buys weather sealing for the rear camera, which matters on a pickup where the rear unit mounts outside the cab. Channel options also vary: 1CH front only $379.99, 2CH front+rear $459.99, 2CH front+cabin $449.99, 3CH $519.99.
 
@@ -163,9 +173,17 @@ Only high-endurance or industrial cards are appropriate here; ordinary microSD c
 
 | Item | Price | Status | Notes |
 | --- | --- | --- | --- |
-| Coupler and wheel locks, security cable |  | Planned | |
-| Grease tools and dielectric grease |  | Planned | |
-| Spare adapters and pins |  | Planned | |
+| [Trimax TCL75 trailer wheel chock lock](https://trimaxlocks.com/shop/shop-now/locks/wheel-locks/tcl75-trimax-wheel-chock-lock/) | **$179.99** | Planned | Fits 7-11.25 in tires - check against the trailer's tire size, not the truck's |
+| [ABUS Granit 37RK/60 padlock](https://www.abususa.com/products/granit%E2%84%A2-37rk-60-high-security-padlock) | **$159.19** | Researching | Page also showed $176.88, likely a compare-at price - confirm which applies |
+| [Trimax TFW80HD coupler lock](https://trimaxlocks.com/shop/shop-now/locks/specialty-locks/tfw80hd/) | **$145.99** | Planned | Fifth-wheel/gooseneck specialty lock |
+| [Trimax VMAX10 cable lock](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/vmax10/) | **$79.99** | Planned | |
+| [Trimax TDL3010 dual-loop cable, 30 ft x 10 mm](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/tdl3010-quadra-braid-trimaflex-cable-30-feet-long-x-10mm/) | **$63.99** | Planned | Quadra-braid Trimaflex |
+| [PACLOCK 90A-PRO padlock](https://www.amazon.com/dp/B08TPBP8LM) | **$35.65** | Planned | 1/4 in hardened shackle, 7-pin cylinder |
+| Harbor Freight [dielectric tune-up grease 3 oz](https://www.harborfreight.com/3-oz-dielectric-tune-up-grease-74112.html) (`74112`) | *price not captured* | Planned | Harbor Freight denies automated access - prices need adding by hand |
+| Harbor Freight [white lithium grease](https://www.harborfreight.com/high-performance-white-lithium-grease-56817.html) (`56817`) | *price not captured* | Planned | |
+| Harbor Freight [locking grease coupler](https://www.harborfreight.com/locking-grease-coupler-56123.html) (`56123`) | *price not captured* | Planned | For the grease gun |
+| Harbor Freight [electronics cleaner 11 oz](https://www.harborfreight.com/11-oz-electronics-cleaner-62228.html) (`62228`) | *price not captured* | Planned | |
+| [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | *price not captured* | Planned | Home Depot blocks automated access |
 | Cleaning supplies |  | Planned | Motorcraft products listed in REF-001 |
 
 ## Rear load support - options under evaluation
