@@ -16,7 +16,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Covercraft Spacer Mesh PrecisionFit seat covers](https://www.covercraft.com/product/spacer-mesh-precisionfit-custom-seat-covers/CGT-GTSM) (front EM / rear AU) | **$509.98** | Planned | Covers **both rows** - front EM and rear AU. Must suit the 40/console/40 seat |
 | [Sam's Club Plus membership - military](https://hosted-pages.id.me/sams-club-military-plus) | **$50.00** | Planned | Military rate via ID.me verification. Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
 | [CravenSpeed bullet stubby antenna](https://www.amazon.com/CravenSpeed-Bullet-Antenna-Replacement-2009-2019/dp/B01N3CC9GT) | **$35.00** | Planned | 5.4 in. The listing URL reads 2009-2019, but the product and selected style are **F-250/F-350 Super Duty 2017-2026** - fitment is correct |
-| Lace-on leather steering-wheel cover |  | Planned | **Lace-on required** - a laced cover is stitched to the rim and cannot rotate. Slip-on covers are excluded |
+| Lace-on leather steering-wheel cover |  | Planned | **Lace-on required** - a laced cover is stitched to the rim and cannot rotate. Slip-on covers are excluded. **No heated steering wheel on this truck** (REF-003), so a laced cover carries no insulation penalty |
 | [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | **Deferred** | Rejected: slip-on, not lace-on. Price kept for reference |
 
 ### Protection

@@ -32,6 +32,14 @@ From the window sticker (REF-003). This supersedes the earlier "recorded in proj
 - Tough Bed spray-in bedliner; cloth 40/console/40 seating; carpet delete.
 - Front license plate bracket; jack; 50-state emissions.
 
+#### Confirmed not fitted
+
+Checked against the window sticker (REF-003) so these are not re-investigated:
+
+- **Heated steering wheel** - not listed as standard or optional. The steering entry reads tilt/telescope with cruise and audio controls only. The owner's manual treats it as a "Vehicles With" option, not standard equipment.
+- **Heated seats** - no heated or cooled seat option appears on the sticker; the truck has cloth seats with an 8-way power driver's seat.
+- **Automatic climate control** - the sticker specifies manual front air conditioning.
+
 ### Known defects of record
 
 From the buyback disclosure (REF-022), not repaired on record:
