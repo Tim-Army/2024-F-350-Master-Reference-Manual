@@ -2,9 +2,9 @@
 
 ## Holdings
 
-Ford publications are **held locally** in `imports/truck-f350/` (gitignored) rather than committed, since they are Ford copyrighted material. This chapter is the authoritative catalog; the files themselves stay out of version control.
+The two **VIN-specific records** - the window sticker and the CARFAX - are committed to [`references/`](../references/). Everything else is a **Ford publication**, held locally in `imports/truck-f350/` (gitignored) rather than committed, since redistributing Ford's copyrighted manuals is not ours to do. This chapter is the authoritative catalog either way.
 
-**Status legend:** *Held* = file present locally. *Catalogued only* = referenced but no copy retained.
+**Status legend:** *In repo* = committed under `references/`. *Held* = present locally in `imports/`, not committed. *Catalogued only* = referenced but no copy retained.
 
 ## Source library
 
@@ -12,7 +12,7 @@ Ford publications are **held locally** in `imports/truck-f350/` (gitignored) rat
 | --- | --- | --- | --- | --- | --- |
 | REF-001 | 2024 Ford Super Duty Owner's Manual, v1.1 EN-US | `2024_Ford_Super_Duty_Owners_Manual_version_1.1_om_EN-US.pdf` | 711 | Ford OEM; operation, maintenance, specifications, safety | Held |
 | REF-002 | 2024 Ford Camper Loading Guide | `2024MYCamperLoading8223.pdf` | 138 | Ford OEM; payload, axle loading, center of gravity | Held |
-| REF-003 | Window sticker / build sheet | `ford.pdf` | 1 | VIN-specific; verified build data, options, MSRP, warranty | Held |
+| REF-003 | Window sticker / build sheet | [`references/REF-003-window-sticker.pdf`](../references/REF-003-window-sticker.pdf) | 1 | VIN-specific; verified build data, options, MSRP, warranty | **In repo** |
 | REF-004 | Original dealer advertisement | - | - | VIN-specific archive; preserve factual metadata and photos | Catalogued only |
 | REF-005 | Vehicle photos | `IMG_1374` - `IMG_1468` (95 files) | - | VIN-specific documentation; captured 2026-09-05 | Held |
 | REF-006 | 2024 Super Duty Quick Reference Guide | `2024_Super_Duty_QRG_English.pdf` | 28 | Ford OEM; operating quick reference | Held |
@@ -38,7 +38,7 @@ Added with the September 2026 import. These were not in the Edition 1.0 catalog.
 | REF-019 | Super Duty Chassis Cab Pro Power Onboard v2 | `2023_CMY_Super_Duty_Chassis_Cab_Pro_Power_Onboard_v2.pdf` | 11 | **Chassis cab** document - not this truck's configuration; retained for reference only |
 | REF-020 | Quick Start Guide with FCC verbiage (11/2024) | `Quickstart_Guide_with_FCC_Verbiage_11_2024.pdf` | 3 | Accessory FCC/regulatory statements |
 | REF-021 | Dealer listing images | 17 files (`*.avif`, `*.webp`) | - | Listing photography; pairs with REF-004 |
-| REF-022 | CARFAX Vehicle History Report, run 2026-09-05 | `CarfaxReport_1FT8W3BNXRED73946.pdf` | 11 | VIN-specific; title, ownership, buyback disclosure, 15 service records. Basis for [chapter 14](14-vehicle-history-and-title.md) |
+| REF-022 | CARFAX Vehicle History Report, run 2026-09-05 | [`references/REF-022-carfax-report.pdf`](../references/REF-022-carfax-report.pdf) | 11 | VIN-specific; title, ownership, buyback disclosure, 15 service records. Basis for [chapter 14](14-vehicle-history-and-title.md) |
 
 ## Future source intake
 

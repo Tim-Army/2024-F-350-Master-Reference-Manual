@@ -2989,13 +2989,17 @@ photos.</li>
 <section class="section chapter" id="c13">
   <div class="section-head"><span class="section-num">13</span><h2>13. Reference Documents</h2></div>
 <h3 id="holdings">Holdings</h3>
-<p>Ford publications are <strong>held locally</strong> in
+<p>The two <strong>VIN-specific records</strong> - the window sticker
+and the CARFAX - are committed to <a
+href="../references/"><code>references/</code></a>. Everything else is a
+<strong>Ford publication</strong>, held locally in
 <code>imports/truck-f350/</code> (gitignored) rather than committed,
-since they are Ford copyrighted material. This chapter is the
-authoritative catalog; the files themselves stay out of version
-control.</p>
-<p><strong>Status legend:</strong> <em>Held</em> = file present locally.
-<em>Catalogued only</em> = referenced but no copy retained.</p>
+since redistributing Ford's copyrighted manuals is not ours to do. This
+chapter is the authoritative catalog either way.</p>
+<p><strong>Status legend:</strong> <em>In repo</em> = committed under
+<code>references/</code>. <em>Held</em> = present locally in
+<code>imports/</code>, not committed. <em>Catalogued only</em> =
+referenced but no copy retained.</p>
 <h3 id="source-library">Source library</h3>
 <div class="tablewrap"><table>
 <thead>
@@ -3028,10 +3032,11 @@ control.</p>
 <tr>
 <td>REF-003</td>
 <td>Window sticker / build sheet</td>
-<td><code>ford.pdf</code></td>
+<td><a
+href="../references/REF-003-window-sticker.pdf"><code>references/REF-003-window-sticker.pdf</code></a></td>
 <td>1</td>
 <td>VIN-specific; verified build data, options, MSRP, warranty</td>
-<td><span class="chip chip-ok">Held</span></td>
+<td><strong>In repo</strong></td>
 </tr>
 <tr>
 <td>REF-004</td>
@@ -3198,7 +3203,8 @@ configuration; retained for reference only</td>
 <tr>
 <td>REF-022</td>
 <td>CARFAX Vehicle History Report, run 2026-09-05</td>
-<td><code>CarfaxReport_1FT8W3BNXRED73946.pdf</code></td>
+<td><a
+href="../references/REF-022-carfax-report.pdf"><code>references/REF-022-carfax-report.pdf</code></a></td>
 <td>11</td>
 <td>VIN-specific; title, ownership, buyback disclosure, 15 service
 records. Basis for <a href="#c14">chapter
