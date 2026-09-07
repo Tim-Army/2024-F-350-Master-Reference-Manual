@@ -125,16 +125,16 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 | --- | --- | --- | --- |
 | [VIOFO A329S 2CH dash cam](https://www.viofo.com/products/viofo-a329s-2ch-4k-60fps-2k-hdr-dash-cam-with-sony-starvis-2-sensor) - **Waterproof** edition | **$459.99** | Planned | 4K 60fps front + 2K 30fps rear, Sony STARVIS 2, HDR, Wi-Fi 6, GPS, hybrid parking mode. The Waterproof edition is VIOFO's pickup/truck/off-road variant - the right choice for an exposed rear camera |
 | [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Planned | Required for parking mode. Best Buy |
-| [SanDisk Max Endurance microSDXC](https://www.amazon.com/SanDisk-Endurance-microSDXC-Adapter-Security/dp/B084CJ96GT) | **$43.99** (64 GB) | Researching | 32 GB $35.99; larger capacities priced higher. Capacity decision below |
+| SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Researching | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter. [64 GB $43.99](https://www.amazon.com/SanDisk-Endurance-microSDXC-Adapter-Security/dp/B084CJ96GT) / 32 GB $35.99 on Amazon. Capacity decision below |
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Researching | Only needed if recording to an external SSD instead of microSD |
 
 **Edition choice.** VIOFO prices the A329S 2CH by edition: Standard from $379.99, Telephoto from $449.99, **Waterproof $459.99**. The $80 step up from Standard buys weather sealing for the rear camera, which matters on a pickup where the rear unit mounts outside the cab. Channel options also vary: 1CH front only $379.99, 2CH front+rear $459.99, 2CH front+cabin $449.99, 3CH $519.99.
 
 **Storage media - decide before ordering.** 4K 60fps on two channels consumes card space quickly, and 64 GB is modest for it. Three routes:
 
-- SanDisk Max Endurance microSD at $43.99 for 64 GB - the linked B&H listing is the 256 GB version, whose price could not be retrieved (the site returned a bot challenge).
-- VIOFO's own industrial U3/A2/V30 card, from **$39.99**, in 64 / 128 / 256 / 512 GB.
-- External SSD via the $16.99 cable, which suits sustained 4K far better than any microSD.
+- **SanDisk Max Endurance microSD.** 64 GB $43.99, or **256 GB $112.99** at B&H. The larger card is four times the capacity for 2.6 times the price - $0.44/GB against $0.69/GB - so 256 GB is the better buy per gigabyte as well as the more usable size for two-channel 4K.
+- **VIOFO's own industrial U3/A2/V30 card**, from $39.99, in 64 / 128 / 256 / 512 GB. Its 256 GB price was not captured; worth comparing against the $112.99 before ordering.
+- **External SSD** via the $16.99 cable, which suits sustained 4K far better than any microSD. Note the cable is only part of that cost - the drive is extra - but a modest SSD is likely to beat 256 GB of high-endurance microSD on both capacity and write life.
 
 Only high-endurance or industrial cards are appropriate here; ordinary microSD cards fail quickly under continuous dashcam writes.
 
