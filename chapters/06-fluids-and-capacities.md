@@ -38,7 +38,7 @@ The owner's manual publishes two front axle variants. This truck is 4X4, but the
 | Front axle 9.25 (4WD, with limited slip) | 2.20 qt (2.08 L) including friction modifier | WSP-M2C197-A + EST-M2C118-A | Add 4.4 fl oz (130 ml) XL-3 within the 2.2 qt total |
 | Front axle 10.08 | 2.75 qt (2.6 L) | WSP-M2C197-A, SAE 80W-90 | XY-80W90-QL |
 
-**Confirm the axle before filling.** The window sticker (REF-003) was reviewed and does **not** identify the axle assembly - it carries only the `4.30 ELECTRONIC-LOCKING AXLE` option line, which gives the ratio and the locker but not the ring gear size. Identify instead from the **axle tag** (on the differential cover) or the **axle code on the door jamb Safety Compliance Certification Label**.
+**Axle code `G`** is recorded on the door jamb label (REF-023), together with a **rear GAWR of 7,230 lb**. The code identifies the axle to Ford but does not itself state the ring gear size - decode it against the Workshop Manual, or read the **axle tag on the differential cover** directly, which is the quickest route now the truck is in hand.
 
 ## Rear axle - confirm which is fitted
 
@@ -51,7 +51,7 @@ The truck has a **4.30 electronic-locking** rear axle (verified, REF-003), which
 
 This is an SRW truck, which points toward one of these two - but **the specification differs between them (75W-85 vs 75W-140), not just the quantity.** The towing interval exception in [chapter 3](03-oem-parts-catalog.md) also depends on which fluid is in the axle.
 
-**The window sticker cannot settle this** - see the front axle note above. The door jamb label is the document to photograph: it carries the axle code *and* both Gross Axle Weight Ratings, closing this gap and the loading gap in [chapter 10](10-fifth-wheel-and-towing.md) at the same time.
+**Narrowing it down.** The door label gives axle code **G** and a **7,230 lb rear GAWR**. Read the axle tag on the differential cover to confirm the ring gear, or decode `G` from the Workshop Manual once it arrives. Until then, do not fill the rear axle - the two candidates take different lubricants.
 
 For reference, the other published variants (not expected on this truck): rear axle 11.8 light/heavy duty, 4.21 qt open or 3.95 qt limited slip; rear axle 12.4, 4.65 qt limited slip.
 
@@ -72,6 +72,7 @@ Every held document that could plausibly carry the axle identification has now b
 
 | Document | Result |
 | --- | --- |
+| **Door jamb label (REF-023)** | **Axle code `G`; front GAWR 5,990 lb, rear GAWR 7,230 lb.** Recorded 8 September 2026 - the code still needs decoding to a ring gear size |
 | Window sticker (REF-003) | Ratio and locker only (`4.30 ELECTRONIC-LOCKING AXLE`); no assembly ID, no GAWR, no fluid capacities |
 | Owner's Manual (REF-001) | All capacities except the transmission; axle variants listed generically, never tied to a VIN |
 | Camper Loading Guide (REF-002) | Loading document only. Contains no gear ratios and no ring gear sizes; every reference to an axle is either a weight rating or the electronic-locking differential's option weight. Does supply front GAWR and cargo ratings - see [chapter 10](10-fifth-wheel-and-towing.md) |
@@ -79,6 +80,6 @@ Every held document that could plausibly carry the axle identification has now b
 
 **Remaining sources, in order of ease:**
 
-1. **Door jamb Safety Compliance Certification Label** - carries the axle code and both GAWRs. One photograph closes this and the [chapter 10](10-fifth-wheel-and-towing.md) loading gap together.
-2. **Axle tag** on the differential cover - stamped with the assembly and ratio.
-3. Ford Workshop Manual or a dealer VIN lookup.
+1. ~~Door jamb label~~ - **done**, 8 September 2026: axle code `G`, GAWRs recorded.
+2. **Axle tag** on the differential cover - stamped with the assembly and ratio. The direct read, and the next step.
+3. Ford Workshop Manual (on the [chapter 9](09-accessories-and-modifications.md#immediate) Immediate list) to decode code `G`, or a dealer VIN lookup.

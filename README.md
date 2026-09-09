@@ -4,7 +4,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 
 **[Read the manual as a single web page](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/)** - every chapter and log on one page, with a contents block and chapter rail. Built from these sources by `build-html.py`; see [HTML edition](#html-edition) below.
 
-**Edition 1.4 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
+**Edition 1.5 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
 
 :warning: **Read [chapter 14](chapters/14-vehicle-history-and-title.md) first.** This truck is a Ford manufacturer buyback, reacquired 2026-07-01 over a passenger-window fault and **Cross Traffic / Blind Spot sensors that do not operate correctly**. Neither defect is shown as repaired. Odometer 38,278 mi; bumper-to-bumper warranty expired.
 
@@ -18,8 +18,11 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | Assembly plant | Kentucky Truck Plant, Louisville, Kentucky |
 | Engine | 7.3L DEVCT NA PFI gasoline V8, 10-speed TorqShift |
 | Bed / towing context | 8-foot bed; factory 5th Wheel Hitch Prep Package, Gooseneck Hitch Kit, 360-Degree Camera Package, and BLIS (verified on window sticker) |
-| Axle / GVWR | 4.30 electronic-locking; 11,900 lb GVWR package |
-| Odometer / title | 38,278 mi; manufacturer buyback (see chapter 14) |
+| Axle / GVWR | 4.30 electronic-locking, axle code G; 11,900 lb GVWR |
+| GAWR front / rear | 5,990 lb / 7,230 lb |
+| Payload | 4,566 lb (door label) |
+| Purchased | 8 September 2026 |
+| Odometer / title | 38,278 mi at purchase; manufacturer buyback (see chapter 14) |
 
 ## How to use this manual
 
@@ -44,6 +47,8 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | --- | --- |
 | **1** | **[Vehicle Information](chapters/01-vehicle-information.md)** |
 | | [Identity and configuration](chapters/01-vehicle-information.md#identity-and-configuration) |
+| | [Safety Compliance Certification Label](chapters/01-vehicle-information.md#safety-compliance-certification-label) |
+| | [Tire and Loading Information Label](chapters/01-vehicle-information.md#tire-and-loading-information-label) |
 | | [Emissions ratings](chapters/01-vehicle-information.md#emissions-ratings) |
 | | [Pricing record (as built)](chapters/01-vehicle-information.md#pricing-record-as-built) |
 | | [Warranty (as delivered)](chapters/01-vehicle-information.md#warranty-as-delivered) |
@@ -108,9 +113,10 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Warranty position](chapters/14-vehicle-history-and-title.md#warranty-position) |
 | | [Ownership and title timeline](chapters/14-vehicle-history-and-title.md#ownership-and-title-timeline) |
 | | [Service history](chapters/14-vehicle-history-and-title.md#service-history) |
-| | [Pre-purchase / pre-use verification list](chapters/14-vehicle-history-and-title.md#pre-purchase-pre-use-verification-list) |
+| | [Verification list](chapters/14-vehicle-history-and-title.md#verification-list) |
 | **A** | **[Future Workshop Manual Intake](chapters/appendix-a-workshop-manual-intake.md)** |
 | | [Required additions](chapters/appendix-a-workshop-manual-intake.md#required-additions) |
+| | [Intended source](chapters/appendix-a-workshop-manual-intake.md#intended-source) |
 | | [Revision record](chapters/appendix-a-workshop-manual-intake.md#revision-record) |
 | | |
 | | **Running records** |
@@ -120,6 +126,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | **L2** | **[Module Change Log](logs/module-change-log.md)** |
 | **L3** | **[Accessory Installation Record](logs/accessory-log.md)** |
 | **L4** | **[Scale Weights](logs/scale-weights.md)** |
+| | [Ticket record](logs/scale-weights.md#ticket-record) |
 
 <!--/CONTENTS-->
 
@@ -188,3 +195,4 @@ Chapters 3 and 6 are populated from the Owner's Manual (REF-001). Much of 5, 7, 
 | 1.2 | September 2026 | CARFAX imported (REF-022); chapter 14 added; manufacturer buyback recorded; service history populated |
 | 1.3 | September 2026 | Chapters 3 and 6 populated from the Owner's Manual: Motorcraft parts, engine specs, service intervals, fluid capacities |
 | 1.4 | September 2026 | Accessories roadmap costed: prices, status columns, load support and dash cam options; equipment confirmed not fitted recorded in chapter 2 |
+| 1.5 | 8 September 2026 | **Vehicle purchased.** Door jamb labels transcribed (GAWRs, axle code, 4,566 lb payload); first CAT scale weights recorded; chapter 10 loading rebuilt on measured figures |

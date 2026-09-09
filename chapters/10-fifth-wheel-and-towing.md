@@ -18,67 +18,49 @@
 
 ## Loading data for this configuration
 
-From the Camper Loading Guide (REF-002, pp. 117-118), for **F-350 4x4, 18-inch all-terrain tires, crew cab, 176-inch wheelbase, 7.3L gasoline, 11,900 lb GVWR** - matching this truck's verified build.
+**These are the truck's own figures, not estimates.** Taken from the door jamb labels (REF-023, REF-024) and a CAT scale ticket, both recorded 8 September 2026.
 
-| Value | Figure |
-| --- | --- |
-| GVWR | 11,900 lb (5,398 kg) |
-| Front GAWR | 5,200 lb |
-| Cargo weight rating, at zero net option weight | 4,195 lb |
-| Cargo center-of-gravity zone, front limit (A) | 65.0 in |
-| Cargo center-of-gravity zone, rear limit (B) | 53.0 in |
+| Rating | Figure | Source |
+| --- | --- | --- |
+| GVWR | 11,900 lb | Door label |
+| Front GAWR | 5,990 lb | Door label |
+| Rear GAWR | 7,230 lb | Door label |
+| **Payload - occupants and cargo** | **4,566 lb** | Tire & Loading label |
+| Seating capacity | 5 (2 front, 3 rear) | Tire & Loading label |
 
-### Estimated payload
+### As-weighed, empty
 
-Ford's tables reduce the cargo weight rating pound-for-pound as options add weight, so this truck's payload is the 4,195 lb base minus its option list.
+CAT Scale ticket 1132726251630, 8 September 2026, Love's Country Stores, I-70 Exit 45, Greenville IL. Truck only, no trailer.
 
-| Option (matched to REF-002 table) | Front | Rear | Total |
+| Axle | Weight | Rating | Margin |
 | --- | --- | --- | --- |
-| Spray-in bedliner | 16 | 31 | 47 |
-| Platform running boards | 4 | 35 | 39 |
-| Skid plates (FX4 - transfer case & fuel tank) | 22 | 18 | 40 |
-| Power 8-way driver seat | 5 | 5 | 10 |
-| Electronic locking differential | 0 | 4 | 4 |
-| XLT trim (gasoline) | 2 | 1 | 3 |
-| Fog lamps | 3 | 0 | 3 |
-| Roof clearance lights | 2 | 0 | 2 |
-| BLIS | 0 | 1 | 1 |
-| Upfitter switches | 1 | 0 | 1 |
-| **Matched subtotal** | | | **150** |
+| Steer | 4,120 lb | 5,990 lb | 1,870 lb |
+| Drive | 3,080 lb | 7,230 lb | **4,150 lb** |
+| **Gross** | **7,200 lb** | 11,900 lb | **4,700 lb** |
 
-Ten further sticker options have no line in the guide's table - gooseneck hitch kit, fifth-wheel prep, snowplow/camper package, PowerScope mirrors, jack, 250-amp alternator, remote start, reverse sensing, license bracket, and carpet delete (which subtracts). Together these plausibly add 100-200 lb net.
+The scale-derived margin of 4,700 lb runs slightly above the 4,566 lb label payload; the label figure is the legal limit and the one to work to. Reweigh loaded, and with the trailer attached, before relying on either.
 
-**Working payload estimate: roughly 3,900-4,050 lb.**
+### Pin weight budget
 
-This is an estimate on Ford's published basis, not a measurement. Two caveats: the guide offers front GAWR blocks at 5,200 / 5,600 / 5,990 lb and instructs using the row with the smaller front GAWR where more than one fits - the snowplow/camper package may move this truck out of the 5,200 block; and at 38,000 miles the actual curb weight may differ from a new-vehicle table.
-
-### What that buys for a fifth-wheel
-
-Working from roughly 3,950 lb:
+Working from the label payload:
 
 | Deduction | Weight |
 | --- | --- |
-| Payload (estimated) | ~3,950 lb |
-| Fifth-wheel hitch - B&W Companion `RVK3305`, actual | 161 lb |
+| Payload (door label) | 4,566 lb |
+| Fifth-wheel hitch - B&W Companion `RVK3305` | 161 lb |
 | Two occupants at 200 lb each | 400 lb |
-| Tools, gear, bed cargo | ~200 lb |
-| **Remaining for pin weight** | **~3,190 lb** |
+| Tools, gear, bed cargo | 200 lb |
+| **Remaining for pin weight** | **~3,805 lb** |
 
-Fifth-wheel pin weight typically runs 20-25% of loaded trailer weight, which puts the ceiling at roughly a **12,800-15,900 lb loaded trailer** - the lower figure if the trailer is pin-heavy, the higher if it is not.
+At a typical 20-25% pin ratio that supports a **15,200-19,000 lb loaded trailer**.
 
-Each additional passenger or 100 lb of gear comes straight off the pin allowance, and at a 25% pin ratio costs about 400 lb of towable trailer.
+**Payload binds before the rear axle does.** The rear axle has 4,150 lb of margin against its 7,230 lb GAWR, but only 3,805 lb of payload remains once hitch, occupants and gear are deducted - so payload is the governing limit, by roughly 345 lb. The hitch is not a limit at all: the B&W Companion is rated 25,000 lb gross tow and 6,250 lb vertical load.
 
-**Measure the pin weight rather than assuming it.** The 20-25% range above is a rule of thumb; a [Sherline tongue weight scale](09-accessories-and-modifications.md#short-term) is on the roadmap to replace it with a reading. The 0-5000 lb gauge is the applicable one - a fifth-wheel pin near 3,190 lb is beyond the 0-2000 lb model.
+GCWR still applies and is not on the door label; source it from the Workshop Manual or Ford's towing guide.
 
-**Payload is the binding constraint, not the hitch.** The B&W Companion is rated at 25,000 lb gross towing and 6,250 lb vertical load - roughly double the pin weight this truck's payload can carry. Choosing a higher-rated hitch would not raise the ceiling above.
+> **The earlier estimate was low.** Working from the Camper Loading Guide, this chapter previously put payload at roughly 3,900-4,050 lb. The real figure is **4,566 lb** - about 600 lb higher. The cause is identifiable: that estimate assumed the guide's 5,200 lb front GAWR block, and this truck is actually a **5,990 lb** front GAWR truck, almost certainly because of the snowplow prep / camper package. The possibility was flagged at the time; the door label settles it.
 
-Rear GAWR and GCWR still apply and could bind before payload does. Rear GAWR is unknown pending the door jamb label.
-
-**The 4,195 lb figure is a starting point, not this truck's payload.** The guide's tables reduce the cargo weight rating pound-for-pound as factory options add weight, and this truck carries a long option list - FX4 package, platform running boards, spray-in bedliner, gooseneck hitch kit, fifth-wheel prep, PowerScope mirrors, 250-amp alternator and more. Work the option table to get a real number, or rely on scale weights.
-
-Rear GAWR is **not** published in the Camper Loading Guide. It appears on the **door jamb Safety Compliance Certification Label**, alongside the axle code that [chapter 6](06-fluids-and-capacities.md) needs. Photograph that label and record both here.
-
-> The truck's own payload label remains authoritative over any guide figure. Where they disagree, the label wins.
+Measure actual pin weight with the [Sherline scale](09-accessories-and-modifications.md#short-term) rather than relying on the 20-25% assumption.
 
 ## Payload and loading
 

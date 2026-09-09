@@ -38,6 +38,9 @@ Added with the September 2026 import. These were not in the Edition 1.0 catalog.
 | REF-019 | Super Duty Chassis Cab Pro Power Onboard v2 | `2023_CMY_Super_Duty_Chassis_Cab_Pro_Power_Onboard_v2.pdf` | 11 | **Chassis cab** document - not this truck's configuration; retained for reference only |
 | REF-020 | Quick Start Guide with FCC verbiage (11/2024) | `Quickstart_Guide_with_FCC_Verbiage_11_2024.pdf` | 3 | Accessory FCC/regulatory statements |
 | REF-021 | Dealer listing images | 17 files (`*.avif`, `*.webp`) | - | Listing photography; pairs with REF-004 |
+| REF-023 | Safety Compliance Certification Label (door jamb), photographed 8 Sep 2026 | - | 1 | VIN-specific; **GVWR, front and rear GAWR, axle code, paint and trim codes, tire pressures**. Transcribed into [chapter 1](01-vehicle-information.md) | Photo, to file |
+| REF-024 | Tire and Loading Information Label (door jamb), photographed 8 Sep 2026 | - | 1 | VIN-specific; **payload 4,566 lb**, seating capacity, tire pressures | Photo, to file |
+| REF-025 | CAT Scale ticket 1132726251630, 8 Sep 2026 | - | 1 | Truck-only axle weights; basis for the margins in [chapter 10](10-fifth-wheel-and-towing.md) and the [scale weights log](../logs/scale-weights.md) | To file |
 | REF-022 | CARFAX Vehicle History Report, run 2026-09-05 | [`references/REF-022-carfax-report.pdf`](../references/REF-022-carfax-report.pdf) | 11 | VIN-specific; title, ownership, buyback disclosure, 15 service records. Basis for [chapter 14](14-vehicle-history-and-title.md) |
 
 ## Future source intake

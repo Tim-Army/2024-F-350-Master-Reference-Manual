@@ -56,6 +56,7 @@ Confirm remaining coverage with Ford by VIN. Buyback vehicles can carry differen
 | 2026-08-17 | | Online listing |
 | 2026-08-25 | 38,278 | Auto auction - **manufacturer buyback disclosed by seller**; vehicle sold |
 | 2026-08-25 | | Offered for sale by Northside Ford Lincoln, Effingham, IL |
+| **2026-09-08** | 38,278 | **Purchased by current owner** |
 
 ### Dealer discrepancy - resolved
 
@@ -81,14 +82,14 @@ Patterns worth noting:
 - **Repeated battery/charging system checks** at 10,914 / 20,571 / 21,321 / 23,725 / 35,930 mi.
 - **Electrical investigation late in life** - electrical system checked at 35,930 and 36,971 mi, outside mirror replaced/repaired and steering wheel centered at 35,930 mi. These immediately precede the buyback and are plausibly related to the cited defects.
 
-## Pre-purchase / pre-use verification list
+## Verification list
 
-Because of the buyback, verify the following before relying on the truck:
+**The truck was purchased on 8 September 2026 with these items outstanding.** They are now post-purchase checks rather than pre-purchase ones, and the first two remain unrepaired on the record:
 
 1. **Passenger-side window** - full up/down cycle from both door and driver master switch.
 2. **BLIS and Cross Traffic Alert** - confirm operation, including trailer-tow BLIS coverage. This matters directly for the fifth-wheel use case in [chapter 10](10-fifth-wheel-and-towing.md).
 3. Pull all module DTCs and check for stored history relating to the sensor faults.
 4. Obtain the Ford repair orders from the buyback period; the CARFAX shows the reacquisition but not the repair attempts behind it.
-5. Confirm the current title's brand and disclosure language in the buying state.
+5. Confirm the title's brand and disclosure language as issued.
 6. Confirm remaining powertrain coverage and any state-mandated buyback warranty, by VIN.
 7. Verify no open recalls or Field Service Actions at time of sale.
