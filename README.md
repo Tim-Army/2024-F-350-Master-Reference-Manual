@@ -6,7 +6,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 
 **Edition 1.5 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
 
-:warning: **Read [chapter 14](chapters/14-vehicle-history-and-title.md) first.** This truck is a Ford manufacturer buyback, reacquired 2026-07-01 over a passenger-window fault and **Cross Traffic / Blind Spot sensors that do not operate correctly**. Neither defect is shown as repaired. Odometer 38,278 mi; bumper-to-bumper warranty expired.
+**Manufacturer buyback.** Ford reacquired this truck on 2026-07-01 over a passenger-window fault and Cross Traffic / Blind Spot sensors; **Ford's paperwork records both as repaired**. Purchased 2026-09-08 at 38,278 mi. The buyback brand on the title is permanent, and the bumper-to-bumper warranty has expired. See [chapter 14](chapters/14-vehicle-history-and-title.md).
 
 ## Vehicle
 
@@ -195,4 +195,4 @@ Chapters 3 and 6 are populated from the Owner's Manual (REF-001). Much of 5, 7, 
 | 1.2 | September 2026 | CARFAX imported (REF-022); chapter 14 added; manufacturer buyback recorded; service history populated |
 | 1.3 | September 2026 | Chapters 3 and 6 populated from the Owner's Manual: Motorcraft parts, engine specs, service intervals, fluid capacities |
 | 1.4 | September 2026 | Accessories roadmap costed: prices, status columns, load support and dash cam options; equipment confirmed not fitted recorded in chapter 2 |
-| 1.5 | 8 September 2026 | **Vehicle purchased.** Door jamb labels transcribed (GAWRs, axle code, 4,566 lb payload); first CAT scale weights recorded; chapter 10 loading rebuilt on measured figures |
+| 1.5 | 8 September 2026 | **Vehicle purchased.** Door jamb labels transcribed (GAWRs, axle code, 4,566 lb payload); first CAT scale weights recorded; chapter 10 loading rebuilt on measured figures; buyback defects recorded as repaired per Ford paperwork |

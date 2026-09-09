@@ -16,7 +16,7 @@ From the window sticker (REF-003). This supersedes the earlier "recorded in proj
 
 - **360-Degree Camera Package** - factory option, $1,150.
 - Rear View Camera (standard).
-- **BLIS (Blind Spot Information System)** - :warning: **fitted, but reported defective.** The 2026 Ford buyback cites Cross Traffic / Blind Spot sensors not operating correctly; no repair is on record. See [chapter 14](14-vehicle-history-and-title.md). Do not rely on BLIS or Cross Traffic Alert until verified.
+- **BLIS (Blind Spot Information System)** - fitted. The 2026 Ford buyback cited Cross Traffic / Blind Spot sensors not operating correctly; **Ford's repair paperwork records the fault as repaired** (REF-026). See [chapter 14](14-vehicle-history-and-title.md). Confirm operation in service, as with any safety system.
 - Reverse Sensing System.
 - Pre-Collision Assist with AEB (standard).
 

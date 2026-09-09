@@ -158,6 +158,10 @@ main{padding:0 0 96px;min-width:0}
   margin:0;padding:26px 44px;
   background:var(--critical-bg);border-bottom:1px solid var(--critical-rule);
 }
+.alert.alert-note{background:var(--surface-2);border-bottom:1px solid var(--rule)}
+.alert.alert-note h2{color:var(--ink-2)}
+.alert.alert-note h2::before{background:var(--ink-3)}
+.alert.alert-note a{color:var(--accent)}
 .alert h2{
   font:700 14px/1.3 var(--disp);letter-spacing:.02em;text-transform:uppercase;
   color:var(--critical);margin:0 0 9px;display:flex;align-items:center;gap:9px;
@@ -364,14 +368,10 @@ html{scroll-behavior:smooth}
     </dl>
   </header>
 
-  <div class="alert">
-    <h2>Manufacturer buyback &mdash; unrepaired defects of record</h2>
-    <p>Ford Motor Company reacquired this truck on <strong>1 July 2026</strong> under state consumer warranty law. Ford cited two defects:</p>
-    <ol>
-      <li>The passenger-side window does not operate correctly.</li>
-      <li><strong>The Cross Traffic / Blind Spot sensors do not operate correctly.</strong></li>
-    </ol>
-    <p>The only repair recorded afterward is a lamp assembly on 10 August 2026, which matches neither fault. <strong>Nothing on record shows either defect was repaired</strong> before the 25 August 2026 auction and resale. Verify both directly &mdash; blind-spot coverage bears on the fifth-wheel workflow in <a href="#c10">chapter 10</a>. Full history and a verification list: <a href="#c14">chapter 14</a>.</p>
+  <div class="alert alert-note">
+    <h2>Manufacturer buyback &mdash; title brand</h2>
+    <p>Ford Motor Company reacquired this truck on <strong>1 July 2026</strong> under state consumer warranty law, citing a passenger-side window fault and Cross Traffic / Blind Spot sensors that did not operate correctly. <strong>Ford's repair paperwork records both as repaired.</strong></p>
+    <p>The truck was bought at auction with the buyback disclosed and purchased by the current owner on <strong>8 September 2026</strong>. The <strong>manufacturer buyback brand on the title is permanent</strong> and unaffected by the repairs. Full history: <a href="#c14">chapter 14</a>.</p>
   </div>
 
 <nav class="toc" aria-label="Table of contents">

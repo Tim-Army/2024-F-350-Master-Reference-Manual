@@ -31,7 +31,7 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 
 > **Dealer discrepancy resolved.** Both dealers are genuine and sequential: *Friendship Ford, Bristol, Tennessee* sold the truck new in 2024; *Northside Ford Lincoln, Effingham, Illinois* listed it in August 2026 after Ford reacquired it. See [chapter 14](14-vehicle-history-and-title.md).
 
-> :warning: **This vehicle is a Ford manufacturer buyback** (reacquired 2026-07-01), with two cited defects not shown as repaired. Read [chapter 14](14-vehicle-history-and-title.md) before acting on anything else in this manual.
+> **This vehicle is a Ford manufacturer buyback** (reacquired 2026-07-01, purchased 2026-09-08). Both cited defects were repaired by Ford (REF-026); the title brand is permanent. See [chapter 14](14-vehicle-history-and-title.md).
 
 ## Safety Compliance Certification Label
 

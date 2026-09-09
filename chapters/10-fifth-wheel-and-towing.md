@@ -11,7 +11,7 @@
 | Step | Action |
 | --- | --- |
 | 1 | Inspect hitch, pins, chains, connector, landing gear, tires, and surrounding area. |
-| 2 | Use bed camera for kingpin alignment and 360-degree view for perimeter awareness. |
+| 2 | Use bed camera for kingpin alignment and 360-degree view for perimeter awareness. Trailer-tow BLIS coverage is available; the sensors were repaired under the buyback (REF-026). |
 | 3 | Confirm coupling/lock engagement and perform a pull test as specified by hitch/trailer instructions. |
 | 4 | Connect breakaway cable, safety equipment, and electrical connector; confirm lights/brakes. |
 | 5 | Use trailer guidance and hitch-angle feedback conservatively; pull forward to correct excessive articulation. |

@@ -158,6 +158,10 @@ main{padding:0 0 96px;min-width:0}
   margin:0;padding:26px 44px;
   background:var(--critical-bg);border-bottom:1px solid var(--critical-rule);
 }
+.alert.alert-note{background:var(--surface-2);border-bottom:1px solid var(--rule)}
+.alert.alert-note h2{color:var(--ink-2)}
+.alert.alert-note h2::before{background:var(--ink-3)}
+.alert.alert-note a{color:var(--accent)}
 .alert h2{
   font:700 14px/1.3 var(--disp);letter-spacing:.02em;text-transform:uppercase;
   color:var(--critical);margin:0 0 9px;display:flex;align-items:center;gap:9px;
@@ -383,14 +387,10 @@ html{scroll-behavior:smooth}
     </dl>
   </header>
 
-  <div class="alert">
-    <h2>Manufacturer buyback &mdash; unrepaired defects of record</h2>
-    <p>Ford Motor Company reacquired this truck on <strong>1 July 2026</strong> under state consumer warranty law. Ford cited two defects:</p>
-    <ol>
-      <li>The passenger-side window does not operate correctly.</li>
-      <li><strong>The Cross Traffic / Blind Spot sensors do not operate correctly.</strong></li>
-    </ol>
-    <p>The only repair recorded afterward is a lamp assembly on 10 August 2026, which matches neither fault. <strong>Nothing on record shows either defect was repaired</strong> before the 25 August 2026 auction and resale. Verify both directly &mdash; blind-spot coverage bears on the fifth-wheel workflow in <a href="#c10">chapter 10</a>. Full history and a verification list: <a href="#c14">chapter 14</a>.</p>
+  <div class="alert alert-note">
+    <h2>Manufacturer buyback &mdash; title brand</h2>
+    <p>Ford Motor Company reacquired this truck on <strong>1 July 2026</strong> under state consumer warranty law, citing a passenger-side window fault and Cross Traffic / Blind Spot sensors that did not operate correctly. <strong>Ford's repair paperwork records both as repaired.</strong></p>
+    <p>The truck was bought at auction with the buyback disclosed and purchased by the current owner on <strong>8 September 2026</strong>. The <strong>manufacturer buyback brand on the title is permanent</strong> and unaffected by the repairs. Full history: <a href="#c14">chapter 14</a>.</p>
   </div>
 
 <nav class="toc" aria-label="Table of contents">
@@ -570,11 +570,10 @@ Illinois</em> listed it in August 2026 after Ford reacquired it. See <a
 href="#c14">chapter 14</a>.</p>
 </blockquote>
 <blockquote>
-<p><span class="emoji" data-emoji="warning">⚠️</span> <strong>This
-vehicle is a Ford manufacturer buyback</strong> (reacquired 2026-07-01),
-with two cited defects not shown as repaired. Read <a
-href="#c14">chapter 14</a> before acting on
-anything else in this manual.</p>
+<p><strong>This vehicle is a Ford manufacturer buyback</strong>
+(reacquired 2026-07-01, purchased 2026-09-08). Both cited defects were
+repaired by Ford (REF-026); the title brand is permanent. See <a
+href="#c14">chapter 14</a>.</p>
 </blockquote>
 <h3 id="safety-compliance-certification-label">Safety Compliance
 Certification Label</h3>
@@ -853,12 +852,12 @@ standard.</li>
 <li><strong>360-Degree Camera Package</strong> - factory option,
 $1,150.</li>
 <li>Rear View Camera (standard).</li>
-<li><strong>BLIS (Blind Spot Information System)</strong> - <span
-class="emoji" data-emoji="warning">⚠️</span> <strong>fitted, but
-reported defective.</strong> The 2026 Ford buyback cites Cross Traffic /
-Blind Spot sensors not operating correctly; no repair is on record. See
-<a href="#c14">chapter 14</a>. Do not rely on
-BLIS or Cross Traffic Alert until verified.</li>
+<li><strong>BLIS (Blind Spot Information System)</strong> - fitted. The
+2026 Ford buyback cited Cross Traffic / Blind Spot sensors not operating
+correctly; <strong>Ford's repair paperwork records the fault as
+repaired</strong> (REF-026). See <a
+href="#c14">chapter 14</a>. Confirm operation
+in service, as with any safety system.</li>
 <li>Reverse Sensing System.</li>
 <li>Pre-Collision Assist with AEB (standard).</li>
 </ul>
@@ -1533,8 +1532,7 @@ tagged with the <strong>category</strong> it belongs to.</p>
 <p><strong>Truck purchased 8 September 2026</strong>, so the windows
 below run from that date. Work through the <a
 href="#c14">chapter 14</a> verification list
-alongside the Immediate purchases - the passenger window and the Cross
-Traffic / Blind Spot fault are both still unrepaired on the record.</p>
+alongside the Immediate purchases.</p>
 <div class="tablewrap"><table>
 <thead>
 <tr>
@@ -2923,7 +2921,8 @@ surrounding area.</td>
 <tr>
 <td>2</td>
 <td>Use bed camera for kingpin alignment and 360-degree view for
-perimeter awareness.</td>
+perimeter awareness. Trailer-tow BLIS coverage is available; the sensors
+were repaired under the buyback (REF-026).</td>
 </tr>
 <tr>
 <td>3</td>
@@ -3123,17 +3122,17 @@ fault</td>
 </tr>
 <tr>
 <td><strong>BLIS / Cross Traffic Alert inoperative</strong></td>
-<td>Known defect of record - see <a
-href="#c14">chapter 14</a>. Pull DTCs; check
-sensor connectors, rear bumper sensor mounting, and trailer-tow BLIS
-configuration</td>
-<td>Ford WSM / REF-015 / buyback disclosure</td>
+<td>Repaired by Ford under the buyback (REF-026); treat a recurrence as
+a repeat fault. Pull DTCs; check sensor connectors, rear bumper sensor
+mounting, and trailer-tow BLIS configuration</td>
+<td>Ford WSM / REF-015 / REF-026</td>
 </tr>
 <tr>
 <td><strong>Passenger-side window inoperative</strong></td>
-<td>Known defect of record. Check door module, switch, regulator, and
-window motor; test from both door and master switch</td>
-<td>Ford WSM / buyback disclosure</td>
+<td>Repaired by Ford under the buyback (REF-026); treat a recurrence as
+a repeat fault. Check door module, switch, regulator, and window motor;
+test from both door and master switch</td>
+<td>Ford WSM / REF-026</td>
 </tr>
 </tbody>
 </table></div>
@@ -3403,7 +3402,8 @@ configuration; retained for reference only</td>
 <td>REF-023</td>
 <td>Safety Compliance Certification Label (door jamb), photographed 8
 Sep 2026</td>
-<td>-</td>
+<td><a
+href="../references/REF-023-safety-compliance-label.jpeg"><code>references/REF-023-safety-compliance-label.jpeg</code></a></td>
 <td>1</td>
 <td>VIN-specific; <strong>GVWR, front and rear GAWR, axle code, paint
 and trim codes, tire pressures</strong>. Transcribed into <a
@@ -3413,7 +3413,8 @@ href="#c01">chapter 1</a></td>
 <td>REF-024</td>
 <td>Tire and Loading Information Label (door jamb), photographed 8 Sep
 2026</td>
-<td>-</td>
+<td><a
+href="../references/REF-024-tire-and-loading-label.jpeg"><code>references/REF-024-tire-and-loading-label.jpeg</code></a></td>
 <td>1</td>
 <td>VIN-specific; <strong>payload 4,566 lb</strong>, seating capacity,
 tire pressures</td>
@@ -3421,11 +3422,21 @@ tire pressures</td>
 <tr>
 <td>REF-025</td>
 <td>CAT Scale ticket 1132726251630, 8 Sep 2026</td>
-<td>-</td>
+<td><a
+href="../references/REF-025-cat-scale-2026-09-08.jpg"><code>references/REF-025-cat-scale-2026-09-08.jpg</code></a></td>
 <td>1</td>
 <td>Truck-only axle weights; basis for the margins in <a
 href="#c10">chapter 10</a> and the <a
 href="#log-scale">scale weights log</a></td>
+</tr>
+<tr>
+<td>REF-026</td>
+<td>Ford repair documentation, buyback period</td>
+<td><em>held by owner - not yet filed</em></td>
+<td>-</td>
+<td>VIN-specific; records the passenger-window and Cross Traffic / Blind
+Spot repairs. <strong>Supersedes the CARFAX silence on those
+repairs</strong></td>
 </tr>
 <tr>
 <td>REF-022</td>
@@ -3477,11 +3488,11 @@ configuration</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>Now a priority given the buyback:</strong> the Ford repair
-orders from the reacquisition period, and any Field Service Action or
-recall history by VIN. CARFAX records that Ford took the truck back and
-why, but not what was attempted or fixed. See <a
-href="#c14">chapter 14</a>.</p>
+<p><strong>Obtained:</strong> the Ford repair documentation from the
+reacquisition period is held by the owner as REF-026 and records both
+cited defects as repaired - add a scan to <code>references/</code> to
+complete the record. Still worth pulling: any Field Service Action or
+recall history by VIN.</p>
 
 </section>
 <section class="section chapter" id="c14">
@@ -3494,22 +3505,26 @@ reference 20262471852110.</p>
 2026-07-01 Ford Motor Company reacquired the vehicle "pursuant to
 applicable state consumer warranty laws or to promote customer
 satisfaction." It was retitled to the manufacturer in Michigan, sold at
-auction on 2026-08-25 with the buyback disclosed, and is now listed by
-Northside Ford Lincoln in Effingham, Illinois.</p>
+auction on 2026-08-25 with the buyback disclosed, and bought by the
+current owner on 2026-09-08. <strong>The title carries a manufacturer
+buyback brand; that is permanent and unaffected by the repairs
+below.</strong></p>
 </blockquote>
 <blockquote>
-<p><strong>The reason Ford gave for the buyback names two
-defects:</strong></p>
+<p><strong>The two cited defects were repaired by Ford.</strong> The
+reasons Ford gave for the reacquisition were:</p>
 <ol type="1">
-<li>The passenger-side window does not operate correctly.</li>
-<li><strong>The Cross Traffic / Blind Spot sensors do not operate
-correctly.</strong></li>
+<li>The passenger-side window did not operate correctly.</li>
+<li>The Cross Traffic / Blind Spot sensors did not operate
+correctly.</li>
 </ol>
-<p>The report shows one repair afterward - a lamp assembly replaced on
-2026-08-10 - which does not obviously correspond to either defect.
-<strong>There is no record that either fault was repaired before
-resale.</strong> Verify both directly before purchase or before relying
-on BLIS while towing.</p>
+<p><strong>Ford repair documentation held by the owner (REF-026) records
+both as repaired.</strong> This supersedes the earlier reading of this
+chapter, which noted only that CARFAX showed no corresponding repair -
+the CARFAX record ends at a lamp assembly on 2026-08-10 and does not
+reflect the manufacturer's own repair work during the reacquisition
+period. Manufacturer repairs on a reacquired vehicle are frequently
+absent from CARFAX.</p>
 </blockquote>
 <h3 id="status-summary">Status summary</h3>
 <div class="tablewrap"><table>
@@ -3737,10 +3752,9 @@ and steering wheel centered at 35,930 mi. These immediately precede the
 buyback and are plausibly related to the cited defects.</li>
 </ul>
 <h3 id="verification-list">Verification list</h3>
-<p><strong>The truck was purchased on 8 September 2026 with these items
-outstanding.</strong> They are now post-purchase checks rather than
-pre-purchase ones, and the first two remain unrepaired on the
-record:</p>
+<p>Purchased 8 September 2026. Ford's repair paperwork (REF-026) records
+both cited defects as repaired, so items 1 and 2 are confirmation of
+work already done rather than fault-finding. The rest still stand:</p>
 <ol type="1">
 <li><strong>Passenger-side window</strong> - full up/down cycle from
 both door and driver master switch.</li>
@@ -3750,8 +3764,9 @@ fifth-wheel use case in <a href="#c10">chapter
 10</a>.</li>
 <li>Pull all module DTCs and check for stored history relating to the
 sensor faults.</li>
-<li>Obtain the Ford repair orders from the buyback period; the CARFAX
-shows the reacquisition but not the repair attempts behind it.</li>
+<li><del>Obtain the Ford repair orders from the buyback period</del> -
+<strong>done</strong>, held as REF-026. Scan them into
+<code>references/</code> to complete the record.</li>
 <li>Confirm the title's brand and disclosure language as issued.</li>
 <li>Confirm remaining powertrain coverage and any state-mandated buyback
 warranty, by VIN.</li>

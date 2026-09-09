@@ -38,9 +38,10 @@ Added with the September 2026 import. These were not in the Edition 1.0 catalog.
 | REF-019 | Super Duty Chassis Cab Pro Power Onboard v2 | `2023_CMY_Super_Duty_Chassis_Cab_Pro_Power_Onboard_v2.pdf` | 11 | **Chassis cab** document - not this truck's configuration; retained for reference only |
 | REF-020 | Quick Start Guide with FCC verbiage (11/2024) | `Quickstart_Guide_with_FCC_Verbiage_11_2024.pdf` | 3 | Accessory FCC/regulatory statements |
 | REF-021 | Dealer listing images | 17 files (`*.avif`, `*.webp`) | - | Listing photography; pairs with REF-004 |
-| REF-023 | Safety Compliance Certification Label (door jamb), photographed 8 Sep 2026 | - | 1 | VIN-specific; **GVWR, front and rear GAWR, axle code, paint and trim codes, tire pressures**. Transcribed into [chapter 1](01-vehicle-information.md) | Photo, to file |
-| REF-024 | Tire and Loading Information Label (door jamb), photographed 8 Sep 2026 | - | 1 | VIN-specific; **payload 4,566 lb**, seating capacity, tire pressures | Photo, to file |
-| REF-025 | CAT Scale ticket 1132726251630, 8 Sep 2026 | - | 1 | Truck-only axle weights; basis for the margins in [chapter 10](10-fifth-wheel-and-towing.md) and the [scale weights log](../logs/scale-weights.md) | To file |
+| REF-023 | Safety Compliance Certification Label (door jamb), photographed 8 Sep 2026 | [`references/REF-023-safety-compliance-label.jpeg`](../references/REF-023-safety-compliance-label.jpeg) | 1 | VIN-specific; **GVWR, front and rear GAWR, axle code, paint and trim codes, tire pressures**. Transcribed into [chapter 1](01-vehicle-information.md) | **In repo** |
+| REF-024 | Tire and Loading Information Label (door jamb), photographed 8 Sep 2026 | [`references/REF-024-tire-and-loading-label.jpeg`](../references/REF-024-tire-and-loading-label.jpeg) | 1 | VIN-specific; **payload 4,566 lb**, seating capacity, tire pressures | **In repo** |
+| REF-025 | CAT Scale ticket 1132726251630, 8 Sep 2026 | [`references/REF-025-cat-scale-2026-09-08.jpg`](../references/REF-025-cat-scale-2026-09-08.jpg) | 1 | Truck-only axle weights; basis for the margins in [chapter 10](10-fifth-wheel-and-towing.md) and the [scale weights log](../logs/scale-weights.md) | **In repo** |
+| REF-026 | Ford repair documentation, buyback period | *held by owner - not yet filed* | - | VIN-specific; records the passenger-window and Cross Traffic / Blind Spot repairs. **Supersedes the CARFAX silence on those repairs** | Held by owner |
 | REF-022 | CARFAX Vehicle History Report, run 2026-09-05 | [`references/REF-022-carfax-report.pdf`](../references/REF-022-carfax-report.pdf) | 11 | VIN-specific; title, ownership, buyback disclosure, 15 service records. Basis for [chapter 14](14-vehicle-history-and-title.md) |
 
 ## Future source intake
@@ -59,4 +60,4 @@ Three held documents cover other vehicles or configurations. They are retained f
 | REF-010 | Accessory wheel/tire kit for P275/55R20; this truck runs LT275/70R18E |
 | REF-019 | Pro Power Onboard for chassis cab, not this pickup configuration |
 
-**Now a priority given the buyback:** the Ford repair orders from the reacquisition period, and any Field Service Action or recall history by VIN. CARFAX records that Ford took the truck back and why, but not what was attempted or fixed. See [chapter 14](14-vehicle-history-and-title.md).
+**Obtained:** the Ford repair documentation from the reacquisition period is held by the owner as REF-026 and records both cited defects as repaired - add a scan to `references/` to complete the record. Still worth pulling: any Field Service Action or recall history by VIN.

@@ -4,13 +4,14 @@ Source: CARFAX Vehicle History Report (REF-022), run 2026-09-05, reference 20262
 
 ## Headline findings
 
-> **This truck is a Ford manufacturer buyback.** On 2026-07-01 Ford Motor Company reacquired the vehicle "pursuant to applicable state consumer warranty laws or to promote customer satisfaction." It was retitled to the manufacturer in Michigan, sold at auction on 2026-08-25 with the buyback disclosed, and is now listed by Northside Ford Lincoln in Effingham, Illinois.
+> **This truck is a Ford manufacturer buyback.** On 2026-07-01 Ford Motor Company reacquired the vehicle "pursuant to applicable state consumer warranty laws or to promote customer satisfaction." It was retitled to the manufacturer in Michigan, sold at auction on 2026-08-25 with the buyback disclosed, and bought by the current owner on 2026-09-08. **The title carries a manufacturer buyback brand; that is permanent and unaffected by the repairs below.**
 
-> **The reason Ford gave for the buyback names two defects:**
-> 1. The passenger-side window does not operate correctly.
-> 2. **The Cross Traffic / Blind Spot sensors do not operate correctly.**
+> **The two cited defects were repaired by Ford.** The reasons Ford gave for the reacquisition were:
 >
-> The report shows one repair afterward - a lamp assembly replaced on 2026-08-10 - which does not obviously correspond to either defect. **There is no record that either fault was repaired before resale.** Verify both directly before purchase or before relying on BLIS while towing.
+> 1. The passenger-side window did not operate correctly.
+> 2. The Cross Traffic / Blind Spot sensors did not operate correctly.
+>
+> **Ford repair documentation held by the owner (REF-026) records both as repaired.** This supersedes the earlier reading of this chapter, which noted only that CARFAX showed no corresponding repair - the CARFAX record ends at a lamp assembly on 2026-08-10 and does not reflect the manufacturer's own repair work during the reacquisition period. Manufacturer repairs on a reacquired vehicle are frequently absent from CARFAX.
 
 ## Status summary
 
@@ -84,12 +85,12 @@ Patterns worth noting:
 
 ## Verification list
 
-**The truck was purchased on 8 September 2026 with these items outstanding.** They are now post-purchase checks rather than pre-purchase ones, and the first two remain unrepaired on the record:
+Purchased 8 September 2026. Ford's repair paperwork (REF-026) records both cited defects as repaired, so items 1 and 2 are confirmation of work already done rather than fault-finding. The rest still stand:
 
 1. **Passenger-side window** - full up/down cycle from both door and driver master switch.
 2. **BLIS and Cross Traffic Alert** - confirm operation, including trailer-tow BLIS coverage. This matters directly for the fifth-wheel use case in [chapter 10](10-fifth-wheel-and-towing.md).
 3. Pull all module DTCs and check for stored history relating to the sensor faults.
-4. Obtain the Ford repair orders from the buyback period; the CARFAX shows the reacquisition but not the repair attempts behind it.
+4. ~~Obtain the Ford repair orders from the buyback period~~ - **done**, held as REF-026. Scan them into `references/` to complete the record.
 5. Confirm the title's brand and disclosure language as issued.
 6. Confirm remaining powertrain coverage and any state-mandated buyback warranty, by VIN.
 7. Verify no open recalls or Field Service Actions at time of sale.

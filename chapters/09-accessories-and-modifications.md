@@ -4,7 +4,7 @@
 
 Three windows, measured from the purchase date of **8 September 2026**. The roadmap below is organized by window, each item tagged with the **category** it belongs to.
 
-**Truck purchased 8 September 2026**, so the windows below run from that date. Work through the [chapter 14](14-vehicle-history-and-title.md) verification list alongside the Immediate purchases - the passenger window and the Cross Traffic / Blind Spot fault are both still unrepaired on the record.
+**Truck purchased 8 September 2026**, so the windows below run from that date. Work through the [chapter 14](14-vehicle-history-and-title.md) verification list alongside the Immediate purchases.
 
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
