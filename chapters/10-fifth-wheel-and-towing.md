@@ -83,6 +83,67 @@ The hitch is not a constraint either - the B&W Companion is rated 25,000 lb gros
 
 Measure actual pin weight with the [Sherline scale](09-accessories-and-modifications.md#short-term) rather than relying on the 20-25% assumption.
 
+## Front-mounted motorcycle carrier
+
+A proposal under consideration: carry a scooter on a front hitch receiver, so the fifth-wheel search is not restricted to toy haulers.
+
+| Component | Model | Weight |
+| --- | --- | --- |
+| Front receiver | EcoHitch front mount | ~47 lb |
+| Carrier | Black Widow / Discount Ramps `AMC-400-DLX` | 58 lb |
+| Motorcycle | Yamaha Zuma 125 (wet) | ~282 lb |
+| **Total added at the front** | | **~387 lb** |
+
+Carrier breakdown: aluminum track 28-32 lb, steel receiver assembly 15-18 lb, steel wheel chock 7-9 lb, aluminum ramp 7-9 lb, hardware 1-2 lb.
+
+### What it does to the axle loads
+
+**A front-mounted load is a cantilever ahead of the front axle, so it does not behave like cargo in the bed.** It adds *more* than its own weight to the front axle, and *lifts* weight off the rear.
+
+Taking the moment about the rear axle, with a 176-inch wheelbase:
+
+| Carrier overhang ahead of front axle | Front axle | Rear axle |
+| --- | --- | --- |
+| 30 in | 4,573 lb (+453) | 3,014 lb (-66) |
+| **40 in** | **4,595 lb (+475)** | **2,992 lb (-88)** |
+| 50 in | 4,617 lb (+497) | 2,970 lb (-110) |
+
+**The front axle is comfortable** - about 4,600 lb against a 5,990 lb GAWR, leaving roughly 1,400 lb of margin. Front axle capacity is not the problem.
+
+### What it does to pin weight
+
+With the carrier fitted, and the working case of 400 lb people plus 200 lb cargo:
+
+| Limit | Allows |
+| --- | --- |
+| Payload | **3,418 lb** |
+| GVWR | 3,552 lb |
+| Rear GAWR | 3,717 lb |
+| **Max pin** | **3,418 lb** - governed by **payload** |
+
+**The governing constraint flips.** Without the carrier the rear axle binds at 3,629 lb; with it, payload binds at 3,418 lb, because the 387 lb counts fully against the 4,566 lb payload while the cantilever *reduces* rear-axle load.
+
+**Net cost to pin weight: about 211 lb, not 387 lb** - the rear-axle unloading gives roughly 176 lb back. At a 25% pin ratio that is a **13,700 lb trailer** rather than 14,500 lb: roughly 800 lb of trailer given up to carry the scooter.
+
+### Points to verify
+
+| Item | Note |
+| --- | --- |
+| **Front receiver tongue-weight rating** | The binding spec, and not yet confirmed. Front receivers are commonly rated around 500 lb; at ~340 lb of carrier plus scooter this should pass, but confirm EcoHitch's published figure before ordering |
+| Carrier capacity | `AMC-400-DLX` implies a 400 lb rating against a 282 lb scooter - adequate |
+| Fitment against this VIN | Appears compatible; no aftermarket coolers fitted |
+| Ground clearance when loading | A longer curved ramp would ease the approach angle |
+| Headlight obstruction | Likely minimal given the Zuma's narrow profile - check on low beam at night |
+| Radiator and intercooler airflow | Should be acceptable for a 125, but monitor coolant temperature on hot days while towing |
+| Front license plate | May need relocating depending on carrier position. The truck has the factory front plate bracket (REF-003) |
+| Legal overhang and lighting | Front overhang limits and any obstruction of lighting or the plate vary by state - check for the states routinely driven |
+
+### Assessment
+
+The weight case holds up. The front axle has ample margin, the rear axle is *helped* rather than hurt, and the real cost is 211 lb of pin allowance - around 800 lb of trailer at a typical pin ratio.
+
+Against that, it removes the toy-hauler requirement from the fifth-wheel search entirely, which is worth considerably more than 800 lb of trailer capacity in floorplan terms. Verify the front receiver's tongue rating and the state overhang rules, and it is a sound direction.
+
 ## Payload and loading
 
 - Ford's Camper Loading Guide remains relevant even when towing: factory options, front/rear axle loading, center of gravity, payload labels, and actual scale weights govern safe loading.

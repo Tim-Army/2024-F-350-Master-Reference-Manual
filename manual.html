@@ -421,7 +421,8 @@ record</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c10"><span class="toc-num">10</span>10. Fifth-Wheel & Towing</a><ul><li><a href="#oem-fifth-wheel-hitch-guidance">OEM fifth-wheel hitch
 guidance</a></li><li><a href="#hitching-and-backing-checklist">Hitching and backing
 checklist</a></li><li><a href="#loading-data-for-this-configuration">Loading data for this
-configuration</a></li><li><a href="#payload-and-loading">Payload and loading</a></li></ul></div>
+configuration</a></li><li><a href="#front-mounted-motorcycle-carrier">Front-mounted motorcycle
+carrier</a></li><li><a href="#payload-and-loading">Payload and loading</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c11"><span class="toc-num">11</span>11. Troubleshooting</a><ul><li><a href="#placeholder-symptom-index">Placeholder symptom index</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c12"><span class="toc-num">12</span>12. 3D-Printed Accessories</a><ul><li><a href="#design-library">Design library</a></li><li><a href="#design-record-template">Design record template</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c13"><span class="toc-num">13</span>13. Reference Documents</a><ul><li><a href="#holdings">Holdings</a></li><li><a href="#source-library">Source library</a></li><li><a href="#accessory-and-kit-documentation">Accessory and kit
@@ -2242,6 +2243,22 @@ SSD data connection cable</a> (1.8 m / 2.5 m)</td>
 <td>Only needed if recording to an external SSD instead of microSD</td>
 </tr>
 <tr>
+<td>EcoHitch front mount receiver</td>
+<td></td>
+<td>Towing</td>
+<td><strong>Front receiver tongue-weight rating not yet
+confirmed</strong> - the binding spec for the front carrier proposal in
+<a href="#c10">chapter 10</a>. ~47 lb</td>
+</tr>
+<tr>
+<td>Black Widow / Discount Ramps <code>AMC-400-DLX</code> motorcycle
+carrier</td>
+<td></td>
+<td>Towing</td>
+<td>58 lb, 400 lb capacity against a 282 lb Yamaha Zuma 125. Depends on
+the receiver above</td>
+</tr>
+<tr>
 <td>Bed cover</td>
 <td></td>
 <td>Storage</td>
@@ -3146,6 +3163,179 @@ label settles it.</p>
 <p>Measure actual pin weight with the <a
 href="#c09">Sherline scale</a>
 rather than relying on the 20-25% assumption.</p>
+<h3 id="front-mounted-motorcycle-carrier">Front-mounted motorcycle
+carrier</h3>
+<p>A proposal under consideration: carry a scooter on a front hitch
+receiver, so the fifth-wheel search is not restricted to toy
+haulers.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Model</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Front receiver</td>
+<td>EcoHitch front mount</td>
+<td>~47 lb</td>
+</tr>
+<tr>
+<td>Carrier</td>
+<td>Black Widow / Discount Ramps <code>AMC-400-DLX</code></td>
+<td>58 lb</td>
+</tr>
+<tr>
+<td>Motorcycle</td>
+<td>Yamaha Zuma 125 (wet)</td>
+<td>~282 lb</td>
+</tr>
+<tr>
+<td><strong>Total added at the front</strong></td>
+<td></td>
+<td><strong>~387 lb</strong></td>
+</tr>
+</tbody>
+</table></div>
+<p>Carrier breakdown: aluminum track 28-32 lb, steel receiver assembly
+15-18 lb, steel wheel chock 7-9 lb, aluminum ramp 7-9 lb, hardware 1-2
+lb.</p>
+<h4 id="what-it-does-to-the-axle-loads">What it does to the axle
+loads</h4>
+<p><strong>A front-mounted load is a cantilever ahead of the front axle,
+so it does not behave like cargo in the bed.</strong> It adds
+<em>more</em> than its own weight to the front axle, and <em>lifts</em>
+weight off the rear.</p>
+<p>Taking the moment about the rear axle, with a 176-inch wheelbase:</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Carrier overhang ahead of front axle</th>
+<th>Front axle</th>
+<th>Rear axle</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>30 in</td>
+<td>4,573 lb (+453)</td>
+<td>3,014 lb (-66)</td>
+</tr>
+<tr>
+<td><strong>40 in</strong></td>
+<td><strong>4,595 lb (+475)</strong></td>
+<td><strong>2,992 lb (-88)</strong></td>
+</tr>
+<tr>
+<td>50 in</td>
+<td>4,617 lb (+497)</td>
+<td>2,970 lb (-110)</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>The front axle is comfortable</strong> - about 4,600 lb
+against a 5,990 lb GAWR, leaving roughly 1,400 lb of margin. Front axle
+capacity is not the problem.</p>
+<h4 id="what-it-does-to-pin-weight">What it does to pin weight</h4>
+<p>With the carrier fitted, and the working case of 400 lb people plus
+200 lb cargo:</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Limit</th>
+<th>Allows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Payload</td>
+<td><strong>3,418 lb</strong></td>
+</tr>
+<tr>
+<td>GVWR</td>
+<td>3,552 lb</td>
+</tr>
+<tr>
+<td>Rear GAWR</td>
+<td>3,717 lb</td>
+</tr>
+<tr>
+<td><strong>Max pin</strong></td>
+<td><strong>3,418 lb</strong> - governed by
+<strong>payload</strong></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>The governing constraint flips.</strong> Without the carrier
+the rear axle binds at 3,629 lb; with it, payload binds at 3,418 lb,
+because the 387 lb counts fully against the 4,566 lb payload while the
+cantilever <em>reduces</em> rear-axle load.</p>
+<p><strong>Net cost to pin weight: about 211 lb, not 387 lb</strong> -
+the rear-axle unloading gives roughly 176 lb back. At a 25% pin ratio
+that is a <strong>13,700 lb trailer</strong> rather than 14,500 lb:
+roughly 800 lb of trailer given up to carry the scooter.</p>
+<h4 id="points-to-verify">Points to verify</h4>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Front receiver tongue-weight rating</strong></td>
+<td>The binding spec, and not yet confirmed. Front receivers are
+commonly rated around 500 lb; at ~340 lb of carrier plus scooter this
+should pass, but confirm EcoHitch's published figure before
+ordering</td>
+</tr>
+<tr>
+<td>Carrier capacity</td>
+<td><code>AMC-400-DLX</code> implies a 400 lb rating against a 282 lb
+scooter - adequate</td>
+</tr>
+<tr>
+<td>Fitment against this VIN</td>
+<td>Appears compatible; no aftermarket coolers fitted</td>
+</tr>
+<tr>
+<td>Ground clearance when loading</td>
+<td>A longer curved ramp would ease the approach angle</td>
+</tr>
+<tr>
+<td>Headlight obstruction</td>
+<td>Likely minimal given the Zuma's narrow profile - check on low beam
+at night</td>
+</tr>
+<tr>
+<td>Radiator and intercooler airflow</td>
+<td>Should be acceptable for a 125, but monitor coolant temperature on
+hot days while towing</td>
+</tr>
+<tr>
+<td>Front license plate</td>
+<td>May need relocating depending on carrier position. The truck has the
+factory front plate bracket (REF-003)</td>
+</tr>
+<tr>
+<td>Legal overhang and lighting</td>
+<td>Front overhang limits and any obstruction of lighting or the plate
+vary by state - check for the states routinely driven</td>
+</tr>
+</tbody>
+</table></div>
+<h4 id="assessment">Assessment</h4>
+<p>The weight case holds up. The front axle has ample margin, the rear
+axle is <em>helped</em> rather than hurt, and the real cost is 211 lb of
+pin allowance - around 800 lb of trailer at a typical pin ratio.</p>
+<p>Against that, it removes the toy-hauler requirement from the
+fifth-wheel search entirely, which is worth considerably more than 800
+lb of trailer capacity in floorplan terms. Verify the front receiver's
+tongue rating and the state overhang rules, and it is a sound
+direction.</p>
 <h3 id="payload-and-loading">Payload and loading</h3>
 <ul>
 <li>Ford's Camper Loading Guide remains relevant even when towing:
