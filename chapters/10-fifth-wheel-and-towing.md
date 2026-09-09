@@ -50,24 +50,24 @@ Two limits apply at once, and **whichever is lower governs**:
 | Load in the truck | Payload allows | Rear GAWR allows | **Max pin** | Governed by |
 | --- | --- | --- | --- | --- |
 | Hitch only, cab empty | 4,405 lb | 3,989 lb | **3,989 lb** | Rear GAWR |
-| **Hitch, 200 lb people, 200 lb cargo** | 4,005 lb | 3,709 lb | **3,709 lb** | **Rear GAWR** |
-| Hitch, 400 lb people, 200 lb cargo | 3,805 lb | 3,629 lb | **3,629 lb** | Rear GAWR |
+| Hitch, 200 lb people, 200 lb cargo | 4,005 lb | 3,709 lb | **3,709 lb** | Rear GAWR |
+| **Hitch, 400 lb people, 200 lb cargo** | 3,805 lb | 3,629 lb | **3,629 lb** | **Rear GAWR** |
 | Hitch, 800 lb people, 400 lb cargo | 3,205 lb | 3,269 lb | **3,205 lb** | Payload |
 
 ### Working case
 
-The planning assumption for this truck is **200 lb of people and 200 lb of cargo**, which gives a **maximum pin weight of 3,709 lb** - call it **3,700 lb**.
+The planning assumption for this truck is **400 lb of people and 200 lb of cargo**, which gives a **maximum pin weight of 3,629 lb** - call it **3,600 lb**.
 
 | Pin ratio | Loaded trailer supported |
 | --- | --- |
-| 30% | 12,400 lb |
-| **25%** | **14,800 lb** |
-| 20% | 18,500 lb |
-| 15% | 24,700 lb |
+| 30% | 12,100 lb |
+| **25%** | **14,500 lb** |
+| 20% | 18,100 lb |
+| 15% | 24,200 lb |
 
-At that load the truck grosses **11,470 lb of its 11,900 lb GVWR**, with the front axle at 4,120 of 5,990 lb.
+At that load the truck grosses **11,590 lb of its 11,900 lb GVWR**, with the front axle at 4,120 of 5,990 lb.
 
-The figure is not sensitive to how the occupants sit: varying their split between axles from 35% to 45% rearward moves the answer only between 3,699 and 3,719 lb, because at 200 lb total they are a small part of the rear-axle load. The **hitch and bed cargo matter more** - every pound in the bed comes straight off the pin allowance.
+The figure is not sensitive to how the occupants sit: varying their split between axles from 35% to 45% rearward moves the answer only between 3,609 and 3,649 lb. **Bed cargo matters more** - every pound in the bed comes straight off the pin allowance, since both land on the rear axle.
 
 **The rear axle is the binding limit in most of the range, not payload.** Payload only takes over once the cab is full, because occupants sit largely forward of the rear axle and so consume payload faster than they consume rear-axle capacity. An earlier version of this chapter compared payload remaining against total rear-axle margin and concluded payload governs; that was wrong, because the rear margin must also absorb the hitch, the bed cargo and part of the occupants before any pin weight is added.
 
