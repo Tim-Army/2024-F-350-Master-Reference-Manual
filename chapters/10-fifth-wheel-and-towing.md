@@ -40,23 +40,30 @@ CAT Scale ticket 1132726251630, 8 September 2026, Love's Country Stores, I-70 Ex
 
 The scale-derived margin of 4,700 lb runs slightly above the 4,566 lb label payload; the label figure is the legal limit and the one to work to. Reweigh loaded, and with the trailer attached, before relying on either.
 
-### Pin weight budget
+### Maximum pin weight
 
-Working from the label payload:
+Two limits apply at once, and **whichever is lower governs**:
 
-| Deduction | Weight |
-| --- | --- |
-| Payload (door label) | 4,566 lb |
-| Fifth-wheel hitch - B&W Companion `RVK3305` | 161 lb |
-| Two occupants at 200 lb each | 400 lb |
-| Tools, gear, bed cargo | 200 lb |
-| **Remaining for pin weight** | **~3,805 lb** |
+- **Payload** - 4,566 lb covers *everything* added to the truck: hitch, occupants, cargo, and pin weight.
+- **Rear GAWR** - 7,230 lb, against 3,080 lb as weighed empty. A fifth-wheel pin sits over or just ahead of the rear axle, so essentially all of it lands on that axle, as does the hitch and anything in the bed.
 
-At a typical 20-25% pin ratio that supports a **15,200-19,000 lb loaded trailer**.
+| Load in the truck | Payload allows | Rear GAWR allows | **Max pin** | Governed by |
+| --- | --- | --- | --- | --- |
+| Hitch only, cab empty | 4,405 lb | 3,989 lb | **3,989 lb** | Rear GAWR |
+| Hitch, 2 occupants, 200 lb gear | 3,805 lb | 3,629 lb | **3,629 lb** | Rear GAWR |
+| Hitch, 4 occupants, 400 lb gear | 3,205 lb | 3,269 lb | **3,205 lb** | Payload |
 
-**Payload binds before the rear axle does.** The rear axle has 4,150 lb of margin against its 7,230 lb GAWR, but only 3,805 lb of payload remains once hitch, occupants and gear are deducted - so payload is the governing limit, by roughly 345 lb. The hitch is not a limit at all: the B&W Companion is rated 25,000 lb gross tow and 6,250 lb vertical load.
+**Plan on about 3,600 lb** for normal use - two up with gear. That supports a **14,500 lb loaded trailer at a 25% pin ratio**, or 18,100 lb at 20%.
 
-GCWR still applies and is not on the door label; source it from the Workshop Manual or Ford's towing guide.
+**The rear axle is the binding limit in most of the range, not payload.** Payload only takes over once the cab is full, because occupants sit largely forward of the rear axle and so consume payload faster than they consume rear-axle capacity. An earlier version of this chapter compared payload remaining against total rear-axle margin and concluded payload governs; that was wrong, because the rear margin must also absorb the hitch, the bed cargo and part of the occupants before any pin weight is added.
+
+The front axle is not a constraint: it carries 4,120 lb against a 5,990 lb rating, and a fifth-wheel pin slightly *unloads* the front rather than adding to it.
+
+The hitch is not a constraint either - the B&W Companion is rated 25,000 lb gross tow and 6,250 lb vertical load, well above anything the truck can carry.
+
+**GCWR is not yet known** and could bind before either figure above on a long grade; source it from the Workshop Manual or Ford's towing guide.
+
+> **Verify by weighing, not by arithmetic.** The occupant split between axles above is an estimate. Weigh the truck loaded and coupled, and measure actual pin weight with the [Sherline scale](09-accessories-and-modifications.md#short-term) - a fifth wheel's pin can run well above the nominal 20-25% depending on how the trailer is loaded.
 
 > **The earlier estimate was low.** Working from the Camper Loading Guide, this chapter previously put payload at roughly 3,900-4,050 lb. The real figure is **4,566 lb** - about 600 lb higher. The cause is identifiable: that estimate assumed the guide's 5,200 lb front GAWR block, and this truck is actually a **5,990 lb** front GAWR truck, almost certainly because of the snowplow prep / camper package. The possibility was flagged at the time; the door label settles it.
 
