@@ -106,6 +106,8 @@ One further decision is deferred rather than an item: the **onboard air compress
 
 | Item | Price | Phase | Why not |
 | --- | --- | --- | --- |
+| EcoHitch front mount receiver | - | Towing | Archived - front carrier idea not pursued. Analysis kept in [chapter 10](10-fifth-wheel-and-towing.md) |
+| Black Widow `AMC-400-DLX` motorcycle carrier | - | Towing | Archived with the front receiver above |
 | [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | Immediate | Rejected: slip-on, not lace-on. Price kept for reference |
 | [Dee Zee DZ701 under-seat storage drawer](https://www.amazon.com/Dee-Zee-DZ701-Storage-Drawer/dp/B09M1MB2RB) | $308.69 | Storage | Fits F-150 15+ / Super Duty 17+, so it suits this truck. **Not being bought** - a shop-built wooden box is planned instead. Price kept as the commercial benchmark |
 
@@ -120,8 +122,6 @@ Items with an open question that has to be settled before they can be ordered. T
 | [Pop & Lock PL9900 Gate Defender](https://www.amazon.com/Pop-Lock-PL9900-Tailgate-Defender/dp/B00TPXG0NO) | **$34.95** | Protection | Universal manual tailgate lock. Confirm how it interacts with the factory tailgate lock cylinder before ordering |
 | [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Protection | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Electronics and recording | Only needed if recording to an external SSD instead of microSD |
-| EcoHitch front mount receiver | | Towing | **Front receiver tongue-weight rating not yet confirmed** - the binding spec for the front carrier proposal in [chapter 10](10-fifth-wheel-and-towing.md). ~47 lb |
-| Black Widow / Discount Ramps `AMC-400-DLX` motorcycle carrier | | Towing | 58 lb, 400 lb capacity against a 282 lb Yamaha Zuma 125. Depends on the receiver above |
 | Bed cover |  | Storage | Owner still evaluating options. **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware |
 | [ABUS Granit 37RK/60 padlock](https://www.abususa.com/products/granit%E2%84%A2-37rk-60-high-security-padlock) | **$159.19** | Maintenance and security | Page also showed $176.88, likely a compare-at price - confirm which applies |
 | **Phase total** | **$804.98** |  | *6 items priced* |

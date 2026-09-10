@@ -83,9 +83,11 @@ The hitch is not a constraint either - the B&W Companion is rated 25,000 lb gros
 
 Measure actual pin weight with the [Sherline scale](09-accessories-and-modifications.md#short-term) rather than relying on the 20-25% assumption.
 
-## Front-mounted motorcycle carrier
+## Front-mounted motorcycle carrier - archived
 
-A proposal under consideration: carry a scooter on a front hitch receiver, so the fifth-wheel search is not restricted to toy haulers.
+> **Not being pursued.** Archived 9 September 2026. The analysis is kept because the numbers are sound and the question may come back - if it does, this is the starting point rather than a fresh calculation.
+
+The idea: carry a scooter on a front hitch receiver, so the fifth-wheel search is not restricted to toy haulers.
 
 | Component | Model | Weight |
 | --- | --- | --- |
@@ -138,11 +140,11 @@ With the carrier fitted, and the working case of 400 lb people plus 200 lb cargo
 | Front license plate | May need relocating depending on carrier position. The truck has the factory front plate bracket (REF-003) |
 | Legal overhang and lighting | Front overhang limits and any obstruction of lighting or the plate vary by state - check for the states routinely driven |
 
-### Assessment
+### Assessment as archived
 
-The weight case holds up. The front axle has ample margin, the rear axle is *helped* rather than hurt, and the real cost is 211 lb of pin allowance - around 800 lb of trailer at a typical pin ratio.
+The weight case held up. The front axle had ample margin at roughly 4,600 of 5,990 lb, the rear axle was *helped* rather than hurt, and the real cost was 211 lb of pin allowance - around 800 lb of trailer at a typical pin ratio.
 
-Against that, it removes the toy-hauler requirement from the fifth-wheel search entirely, which is worth considerably more than 800 lb of trailer capacity in floorplan terms. Verify the front receiver's tongue rating and the state overhang rules, and it is a sound direction.
+Nothing in the numbers ruled it out. It was set aside as a direction, not rejected on weight. The one specification never confirmed was the front receiver's tongue-weight rating, which would need checking before any revival.
 
 ## Payload and loading
 
