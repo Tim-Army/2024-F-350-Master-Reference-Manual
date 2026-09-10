@@ -131,7 +131,7 @@ With the carrier fitted, and the working case of 400 lb people plus 200 lb cargo
 
 | Item | Note |
 | --- | --- |
-| **Front receiver tongue-weight rating** | The binding spec, and not yet confirmed. Front receivers are commonly rated around 500 lb; at ~340 lb of carrier plus scooter this should pass, but confirm EcoHitch's published figure before ordering |
+| **Front receiver tongue-weight rating** | **Confirmed: 1,000 lb.** The carrier and scooter together put ~340 lb on it (58 + 282; the receiver's own weight is part of the truck, not tongue load), so it runs at about **a third of its rating** |
 | Carrier capacity | `AMC-400-DLX` implies a 400 lb rating against a 282 lb scooter - adequate |
 | Fitment against this VIN | Appears compatible; no aftermarket coolers fitted |
 | Ground clearance when loading | A longer curved ramp would ease the approach angle |
@@ -144,7 +144,9 @@ With the carrier fitted, and the working case of 400 lb people plus 200 lb cargo
 
 The weight case held up. The front axle had ample margin at roughly 4,600 of 5,990 lb, the rear axle was *helped* rather than hurt, and the real cost was 211 lb of pin allowance - around 800 lb of trailer at a typical pin ratio.
 
-Nothing in the numbers ruled it out. It was set aside as a direction, not rejected on weight. The one specification never confirmed was the front receiver's tongue-weight rating, which would need checking before any revival.
+Nothing in the numbers ruled it out. It was set aside as a direction, not rejected on weight - and the one specification that had been outstanding is now confirmed: the **front receiver is rated 1,000 lb**, against roughly 340 lb of carrier and scooter, so it runs at about a third of its capacity.
+
+**No open technical questions remain on this idea.** Payload governs the towing consequence, at 3,418 lb of pin rather than 3,629 lb, and that is a trade rather than an obstacle. If it is revived, the only items left are practical: ground clearance on loading, headlight and plate obstruction, radiator airflow on hot days, and state overhang rules.
 
 ## Payload and loading
 
