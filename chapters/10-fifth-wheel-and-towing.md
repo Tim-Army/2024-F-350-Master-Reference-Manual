@@ -38,9 +38,11 @@ CAT Scale ticket 1132726251630, 8 September 2026, Love's Country Stores, I-70 Ex
 | Drive | 3,080 lb | 7,230 lb | **4,150 lb** |
 | **Gross** | **7,200 lb** | 11,900 lb | **4,700 lb** |
 
-**The two payload figures reconcile.** GVWR less the weighed gross gives 4,700 lb, against the label's 4,566 lb - a 134 lb difference. Ford computes the label payload from a **full-fuel** curb weight, which works out at 7,334 lb; the truck weighed 7,200 lb, i.e. **134 lb light, or roughly 22 gallons down on a 48 gallon tank.** That is consistent with a part-full tank at the weigh-in and confirms both numbers rather than contradicting them.
+**The two payload figures differ by 134 lb, and the truck is the lighter one.** GVWR less the weighed gross gives 4,700 lb; the label says 4,566 lb. Ford derives the label figure from its own curb weight for the build, which works out at 7,334 lb - **the truck weighed 7,200 lb with a full tank**, so it came in 134 lb under what Ford assumed. Manufacturer curb figures are computed for the configuration rather than the individual vehicle, and are generally rounded conservatively.
 
-**Use 4,566 lb.** It is the legal figure and it already assumes a full tank; the scale-derived 4,700 lb would borrow capacity from fuel not yet in the tank.
+**Work to 4,566 lb.** It is Ford's certified figure, it is the more conservative of the two, and the 134 lb is a margin rather than capacity worth spending. The hard legal limits are GVWR (11,900 lb) and the two GAWRs; the label payload is derived from them.
+
+**This does not change the maximum pin weight.** Pin is governed by rear GAWR at 3,629 lb, and payload does not bind until well past that - 3,805 lb on the label figure, 3,939 lb on the scale-derived one. Either way the rear axle runs out first.
 
 The ticket is internally consistent: 4,120 + 3,080 = 7,200 lb, matching the printed certified gross.
 

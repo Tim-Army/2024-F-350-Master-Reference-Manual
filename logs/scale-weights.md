@@ -14,6 +14,6 @@ Related chapter: [10. Fifth-Wheel & Towing](../chapters/10-fifth-wheel-and-towin
 | --- | --- | --- | --- | --- |
 | 2026-09-08 17:51 | 1132726251630 (weigh no. 1630) | 1327 | Love's Country Stores, I-70 Exit 45, Greenville IL | $15.25 |
 
-Ticket recorded under Derg Enterprises, tractor 1 / trailer 0, commodity "freight all kinds". Fuel was roughly 22 gallons below full at the weigh-in, inferred from the 134 lb gap against Ford's full-fuel curb - see [chapter 10](../chapters/10-fifth-wheel-and-towing.md).
+Ticket recorded under Derg Enterprises, tractor 1 / trailer 0, commodity "freight all kinds". **Weighed with a full tank.** The 7,200 lb gross is therefore 134 lb below Ford's assumed curb weight for this build - see [chapter 10](../chapters/10-fifth-wheel-and-towing.md). Record the fuel state on every future ticket; it is the largest single variable between weigh-ins.
 
 Still to weigh: loaded truck, and truck with trailer coupled - the second is what establishes actual pin weight and the real margin against the 7,230 lb rear GAWR.
