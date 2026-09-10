@@ -63,26 +63,30 @@ Two limits apply at once, and **whichever is lower governs**:
 | --- | --- | --- | --- | --- | --- | --- |
 | Nothing aboard - ratings only | 0 | 4,566 | 4,150 | **4,150** | 16,600 | Rear GAWR |
 | Hitch only, cab empty | 161 | 4,405 | 3,989 | **3,989** | 16,000 | Rear GAWR |
-| Hitch + driver | 361 | 4,205 | 3,909 | **3,909** | 15,600 | Rear GAWR |
-| Hitch + 2 up front | 561 | 4,005 | 3,829 | **3,829** | 15,300 | Rear GAWR |
-| **Hitch + 2 up front + 200 lb bed** | **761** | **3,805** | **3,629** | **3,629** | **14,500** | **Rear GAWR** |
-| Hitch + 2 up front + 200 lb bed + 100 lb cab | 861 | 3,705 | 3,579 | **3,579** | 14,300 | Rear GAWR |
-| Hitch + 2 front + 2 rear seat | 961 | 3,605 | 3,589 | **3,589** | 14,400 | Rear GAWR |
-| Hitch + 2 up front + 400 lb bed | 961 | 3,605 | 3,429 | **3,429** | 13,700 | Rear GAWR |
-| Hitch + 2 up front + 500 lb bed (tools, generator) | 1,061 | 3,505 | 3,329 | **3,329** | 13,300 | Rear GAWR |
-| Hitch + 2 front + 2 rear + 200 lb bed | 1,161 | 3,405 | 3,389 | **3,389** | 13,600 | Rear GAWR |
-| Hitch + 2 up front + 600 lb bed | 1,161 | 3,405 | 3,229 | **3,229** | 12,900 | Rear GAWR |
-| Hitch + 5 occupants + 200 lb bed | 1,361 | 3,205 | 3,269 | **3,205** | 12,800 | **Payload** |
+| Hitch + driver | 361 | 4,205 | ~3,900 | **~3,900** | ~15,625 | Rear GAWR |
+| Hitch + 2 up front | 561 | 4,005 | ~3,825 | **~3,825** | ~15,325 | Rear GAWR |
+| **Hitch + 2 up front + 200 lb bed** | **761** | **3,805** | ~3,625 | **~3,625** | ~14,525 | **Rear GAWR** |
+| Hitch + 2 up front + 200 lb bed + 100 lb cab | 861 | 3,705 | ~3,575 | **~3,575** | ~14,325 | Rear GAWR |
+| Hitch + 2 front + 2 rear seat | 961 | 3,605 | ~3,600 | **~3,600** | ~14,350 | Rear GAWR |
+| Hitch + 2 up front + 400 lb bed | 961 | 3,605 | ~3,425 | **~3,425** | ~13,725 | Rear GAWR |
+| Hitch + 2 up front + 500 lb bed (tools, generator) | 1,061 | 3,505 | ~3,325 | **~3,325** | ~13,325 | Rear GAWR |
+| Hitch + 2 front + 2 rear + 200 lb bed | 1,161 | 3,405 | ~3,400 | **~3,400** | ~13,550 | Rear GAWR |
+| Hitch + 2 up front + 600 lb bed | 1,161 | 3,405 | ~3,225 | **~3,225** | ~12,925 | Rear GAWR |
+| Hitch + 5 occupants + 200 lb bed | 1,361 | 3,205 | ~3,275 | **~3,200** | ~12,825 | **Payload** |
 
-Where each load type is assumed to sit on the rear axle: hitch and bed cargo **100%**, front-seat occupants **40%**, rear-seat occupants **60%**, cab cargo **50%**.
+> **Every row below the second is an estimate, and the tilde marks it.** Only the first two rows follow from measurement alone - they need no assumption about where weight sits. The rest depend on estimated rear-axle shares: hitch and bed cargo **100%**, front-seat occupants **40%**, rear-seat occupants **60%**, cab cargo **50%**. Those splits are physically reasonable but they are not measured, and they could plausibly be 35/65 or 45/55 depending on seat position and geometry. Figures are rounded to 25 lb to avoid implying precision the method does not have.
+>
+> **Bed cargo at 100% is itself an approximation.** Weight ahead of the rear axle transfers less than 100% to it; weight behind the axle - a tailgate-mounted generator, an aft toolbox - can transfer *more* than its own weight while unloading the front. Where in the bed a load sits changes the answer.
+>
+> **A loaded CAT ticket replaces all of this.** Weigh the truck with the hitch fitted and the people and gear actually carried, then again with the trailer coupled. Measured axle loads remove the need for any assumption about distribution.
 
 ### Reading the table
 
 - **The rear axle governs in eleven of the twelve rows.** Only a full five-occupant cab tips it to payload, and only by 64 lb.
-- **Bed weight is the expensive kind.** Every pound in the bed costs a pound of pin, one for one. 400 lb of bed cargo costs 400 lb of pin - roughly 1,600 lb of trailer.
+- **Bed weight is the expensive kind.** Every pound in the bed costs a pound of pin, one for one, where cab weight costs a fraction of itself.
 - **Cab weight is cheaper.** 400 lb of front-seat occupants costs only 160 lb of pin, because most of their weight sits forward of the rear axle. Compare the two 961 lb rows: four occupants leave 3,589 lb of pin, while two occupants plus 400 lb of bed cargo leave 3,429 lb - **160 lb worse for identical total weight.**
 - **Rear-seat passengers cost more than front-seat ones**, sitting closer to the axle at roughly 60% versus 40%.
-- **Where the load sits matters as much as how much it weighs.** A 500 lb toolbox and generator in the bed costs 500 lb of pin - about 1,200 lb of trailer capacity. The same 500 lb spread across the cab would cost roughly half that.
+- **Where the load sits matters as much as how much it weighs.** 500 lb of bed cargo costs 500 lb of pin; the same 500 lb carried in the cab costs roughly half that. What that converts to in trailer capacity depends on the trailer's own pin percentage - at 25% it is about 2,000 lb of trailer, at 20% about 2,500 lb - so the conversion is a rule of thumb, not a fixed exchange rate.
 
 **The first row is the ratings alone.** With nothing aboard - no hitch, no occupants, no cargo - the rear axle has 4,150 lb spare against 4,566 lb of payload, so the rear axle governs from the outset. That row is theoretical rather than usable, since a fifth wheel cannot be towed without a hitch; every row below it is the same calculation with real weight added. **The rear axle governs in every case.**
 
