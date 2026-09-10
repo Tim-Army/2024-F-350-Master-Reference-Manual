@@ -61,6 +61,7 @@ Two limits apply at once, and **whichever is lower governs**:
 
 | Load in the truck | Payload allows | Rear GAWR allows | **Max pin** | Governed by |
 | --- | --- | --- | --- | --- |
+| Nothing aboard - ratings only | 4,566 lb | 4,150 lb | **4,150 lb** | Rear GAWR |
 | Hitch only, cab empty | 4,405 lb | 3,989 lb | **3,989 lb** | Rear GAWR |
 | Hitch, 200 lb people, 200 lb cargo | 4,005 lb | 3,709 lb | **3,709 lb** | Rear GAWR |
 | **Hitch, 400 lb people, 200 lb cargo** | 3,805 lb | 3,629 lb | **3,629 lb** | **Rear GAWR** |
@@ -105,6 +106,8 @@ The planning assumption for this truck is **400 lb of people and 200 lb of cargo
 At that load the truck grosses **11,590 lb of its 11,900 lb GVWR**, with the front axle at 4,120 of 5,990 lb.
 
 The figure is not sensitive to how the occupants sit: varying their split between axles from 35% to 45% rearward moves the answer only between 3,609 and 3,649 lb. **Bed cargo matters more** - every pound in the bed comes straight off the pin allowance, since both land on the rear axle.
+
+**The first row is the ratings alone.** With nothing aboard - no hitch, no occupants, no cargo - the rear axle has 4,150 lb spare against 4,566 lb of payload, so the rear axle governs from the outset. That row is theoretical rather than usable, since a fifth wheel cannot be towed without a hitch; every row below it is the same calculation with real weight added. **The rear axle governs in every case.**
 
 **The rear axle is the binding limit in most of the range, not payload.** Payload only takes over once the cab is full, because occupants sit largely forward of the rear axle and so consume payload faster than they consume rear-axle capacity. An earlier version of this chapter compared payload remaining against total rear-axle margin and concluded payload governs; that was wrong, because the rear margin must also absorb the hitch, the bed cargo and part of the occupants before any pin weight is added.
 
