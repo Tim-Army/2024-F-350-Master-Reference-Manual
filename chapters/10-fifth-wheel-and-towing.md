@@ -38,7 +38,9 @@ CAT Scale ticket 1132726251630, 8 September 2026, Love's Country Stores, I-70 Ex
 | Drive | 3,080 lb | 7,230 lb | **4,150 lb** |
 | **Gross** | **7,200 lb** | 11,900 lb | **4,700 lb** |
 
-**The two payload figures differ by 134 lb, and the truck is the lighter one.** GVWR less the weighed gross gives 4,700 lb; the label says 4,566 lb. Ford derives the label figure from its own curb weight for the build, which works out at 7,334 lb - **the truck weighed 7,200 lb with a full tank**, so it came in 134 lb under what Ford assumed. Manufacturer curb figures are computed for the configuration rather than the individual vehicle, and are generally rounded conservatively.
+**The two payload figures differ by 134 lb, and the truck is the lighter one.** GVWR less the weighed gross gives 4,700 lb; the label says 4,566 lb.
+
+Stated as what the numbers show rather than as an account of Ford's internal method: the label payload **implies a reference vehicle weight of 7,334 lb** (11,900 - 4,566). **This truck weighed 7,200 lb with a full tank** - about 134 lb less. Manufacturers do not publish the intermediate calculation, so the gap is an observation about this vehicle against the certified figure, not a derivation of how the figure was reached.
 
 **Work to 4,566 lb.** It is Ford's certified figure, it is the more conservative of the two, and the 134 lb is a margin rather than capacity worth spending. The hard legal limits are GVWR (11,900 lb) and the two GAWRs; the label payload is derived from them.
 
@@ -49,6 +51,8 @@ The ticket is internally consistent: 4,120 + 3,080 = 7,200 lb, matching the prin
 Reweigh loaded, and with the trailer attached, before relying on either.
 
 ### Maximum pin weight
+
+**3,629 lb** in the working case below. The derivation is set out in full under [where the rear-axle figure comes from](#where-the-rear-axle-figure-comes-from) - in short, 4,150 lb of spare rear-axle capacity less 521 lb taken by the hitch, bed cargo and the occupants' rearward share.
 
 Two limits apply at once, and **whichever is lower governs**:
 
