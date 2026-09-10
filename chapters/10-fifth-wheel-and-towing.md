@@ -54,6 +54,31 @@ Two limits apply at once, and **whichever is lower governs**:
 | **Hitch, 400 lb people, 200 lb cargo** | 3,805 lb | 3,629 lb | **3,629 lb** | **Rear GAWR** |
 | Hitch, 800 lb people, 400 lb cargo | 3,205 lb | 3,269 lb | **3,205 lb** | Payload |
 
+### Where the rear-axle figure comes from
+
+Set out step by step, because 4,150 lb and 3,629 lb are both correct numbers describing different things, and the two are easy to conflate.
+
+| Step | Weight |
+| --- | --- |
+| Rear GAWR | 7,230 lb |
+| Less rear axle as measured, empty (REF-025) | -3,080 lb |
+| **= spare rear axle capacity** | **4,150 lb** |
+| Less fifth-wheel hitch, sitting over the axle | -161 lb |
+| Less cargo in the bed | -200 lb |
+| Less rearward share of 400 lb of occupants (~40%) | -160 lb |
+| **= available for pin weight** | **3,629 lb** |
+
+**4,150 lb is the spare capacity on the rear axle. 3,629 lb is what is left of it for the pin**, once the hitch, the bed cargo and the occupants' share have taken theirs. Quoting 4,150 lb as the pin limit double-counts that capacity.
+
+The intermediate figure - a **3,601 lb** rear axle with hitch, people and cargo aboard but no trailer - is calculated, not measured. The CAT ticket records the truck **empty**; no scale reading of that loaded state exists yet.
+
+Two refinements, both in the truck's favor and both deliberately left out:
+
+- A fifth-wheel pin mounted slightly ahead of the rear axle sends a small fraction of its weight to the front axle rather than the rear, so treating it as 100% rear is conservative.
+- The occupant split is an estimate. At 400 lb it moves the answer by only about 20 lb across any plausible assumption.
+
+**A loaded CAT ticket supersedes all of this.** Weigh the rig hitched, with people, fuel and gear aboard, and use the measured rear axle figure instead.
+
 ### Working case
 
 The planning assumption for this truck is **400 lb of people and 200 lb of cargo**, which gives a **maximum pin weight of 3,629 lb** - call it **3,600 lb**.
