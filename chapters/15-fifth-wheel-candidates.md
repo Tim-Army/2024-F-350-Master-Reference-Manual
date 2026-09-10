@@ -52,17 +52,30 @@ Pin weight ceiling **3,629 lb**, from [chapter 10](10-fifth-wheel-and-towing.md)
 | Vengeance Rogue SUT 323SUT | 3,018 | 3,772 | Needs pin under 24% |
 | **2018 Triton 3351** | 3,300 | 4,125 | **Over even at 22%** |
 
-> **The 2018 Triton 3351 does not fit this truck loaded.** At its 16,500 lb GVWR the pin would have to stay below **22%** to keep the rear axle legal, and fifth wheels routinely run 20-25%. There is no margin for error, and none at all for loading forward tanks. It is also the only candidate whose combined weight at GVWR reaches **28,400 lb** - see the GCWR note below. Treat it as out unless it can be run well under its GVWR.
+> **The 2018 Triton 3351 has the least margin and demands disciplined loading.** At its 16,500 lb GVWR the pin must stay below **22%** to keep the rear axle legal. That is achievable - many fifth wheels run 20-22% - but it leaves nothing for a heavy forward load, and it is the only candidate whose combined weight at GVWR reaches **28,400 lb**. It is not ruled out on arithmetic; it is the one that would have to be weighed loaded before being trusted, and run below its GVWR rather than at it.
 
-**The two favorites diverge on this test.** The XLR Boost 286B fits to a full 25% pin; the Nightfall 270N is over at 25% and needs to stay under it. Both are workable, but the 286B has the wider operating window despite being the shorter trailer.
+**The two favorites differ in operating window, not in viability.** The XLR Boost 286B fits to a full 25% pin. The Nightfall 270N exceeds the ceiling by about 60 lb at 25%, but 25% is the top of the usual range - at a more typical 21-23% it has useful margin. Neither is problematic; the 286B simply tolerates a wider spread of loading before the question arises.
+
+> **Do not eliminate a trailer on calculated pin percentage alone.** Loaded pin is not a fixed fraction of loaded weight. On a toy hauler it moves several hundred pounds depending on where cargo sits - garage load behind the axles reduces pin, forward tanks and storage increase it. Two identically weighted trailers can differ substantially at the pin. These percentages rank candidates and flag which need care; a CAT scale ticket with the rig loaded settles it.
 
 **The two lightest - XLR Micro Boost 301LRLE and Cherokee Black Label 256RRBL - are the only ones with genuine slack**, tolerating pin ratios above 30% before the truck objects. The Micro Boost also carries the second-largest garage on the list, which makes it the standout on numbers.
 
-> **GCWR is still unknown and may bind before any of this.** Combined weight with each trailer at its GVWR and the truck at its own runs from 23,395 lb (Micro Boost) to 28,400 lb (Triton). A gas Super Duty's GCWR is materially lower than a diesel's, and the top of that range is where it would be tested. Source the GCWR for this VIN from the Workshop Manual before committing to anything at the heavy end.
+> **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but the GCWR figure for it has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,395 lb (Micro Boost) to 28,400 lb (Triton). Until the actual GCWR is in hand from Ford's towing guide for this configuration, this ranks as something to check at the heavy end rather than a limit that has been shown to bind.
+
+### Weight is one axis of three
+
+The shortlist is balancing three things that pull against each other:
+
+- an **enclosed garage**, in the strict sense of a wall and door;
+- **overall length**, ideally at or under 35 ft;
+- **payload margin** against this truck.
+
+The three enclosed-garage candidates are also the three heaviest, and the two with the most margin have no enclosed garage. No model on the list is strong on all three at once, which is why the search has been difficult. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
 
 ### Still needed per candidate
 
 - **Dry weight**, to establish cargo carrying capacity - GVWR alone does not show how much can actually be loaded.
+- **Fresh water capacity**, and tank positions relative to the axles.
 - Garage door dimensions and floor length, to confirm the scooter fits.
 - Model year for each figure, and the brochure it came from. Only the Stealth (2021) and Triton (2018) are year-qualified so far.
 
