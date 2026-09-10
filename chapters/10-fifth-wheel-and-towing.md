@@ -38,7 +38,13 @@ CAT Scale ticket 1132726251630, 8 September 2026, Love's Country Stores, I-70 Ex
 | Drive | 3,080 lb | 7,230 lb | **4,150 lb** |
 | **Gross** | **7,200 lb** | 11,900 lb | **4,700 lb** |
 
-The scale-derived margin of 4,700 lb runs slightly above the 4,566 lb label payload; the label figure is the legal limit and the one to work to. Reweigh loaded, and with the trailer attached, before relying on either.
+**The two payload figures reconcile.** GVWR less the weighed gross gives 4,700 lb, against the label's 4,566 lb - a 134 lb difference. Ford computes the label payload from a **full-fuel** curb weight, which works out at 7,334 lb; the truck weighed 7,200 lb, i.e. **134 lb light, or roughly 22 gallons down on a 48 gallon tank.** That is consistent with a part-full tank at the weigh-in and confirms both numbers rather than contradicting them.
+
+**Use 4,566 lb.** It is the legal figure and it already assumes a full tank; the scale-derived 4,700 lb would borrow capacity from fuel not yet in the tank.
+
+The ticket is internally consistent: 4,120 + 3,080 = 7,200 lb, matching the printed certified gross.
+
+Reweigh loaded, and with the trailer attached, before relying on either.
 
 ### Maximum pin weight
 

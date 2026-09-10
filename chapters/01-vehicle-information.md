@@ -52,6 +52,8 @@ Transcribed from the driver's door jamb label (REF-023), photographed 8 Septembe
 | Transmission / power steering | TP/PS 5 |
 | Rear / spring / trim codes | R 4M, TR RRNN, SPR ULC |
 | RC | 47 |
+| Vehicle type | Truck |
+| Label codes | F1439 / T0969 |
 | Label part number | 5U5A-3520472-AA |
 
 Front and rear GAWR sum to 13,220 lb, which exceeds the 11,900 lb GVWR - normal, and GVWR governs. Neither axle may be loaded past its own rating regardless.
