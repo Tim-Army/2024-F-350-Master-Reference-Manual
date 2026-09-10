@@ -38,6 +38,7 @@ SECTIONS = [
     ("chapters/12-3d-printed-accessories.md",         "c12", "12", "3D-Printed Accessories"),
     ("chapters/13-reference-documents.md",            "c13", "13", "Reference Documents"),
     ("chapters/14-vehicle-history-and-title.md",      "c14", "14", "Vehicle History &amp; Title"),
+    ("chapters/15-fifth-wheel-candidates.md",         "c15", "15", "Fifth-Wheel Candidates"),
     ("chapters/appendix-a-workshop-manual-intake.md", "apxa", "A", "Appendix A. WSM Intake"),
     ("logs/service-log.md",                           "log-service",   "L1", "Service Log"),
     ("logs/module-change-log.md",                     "log-module",    "L2", "Module Change Log"),
