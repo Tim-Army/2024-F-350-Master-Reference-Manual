@@ -22,18 +22,35 @@ From [chapter 10](10-fifth-wheel-and-towing.md), on the truck's measured figures
 
 ## Shortlist
 
-| Model | Type | Length | Cargo / Garage | Enclosed garage | Beaver tail | Status |
-| --- | --- | --- | --- | --- | --- | --- |
-| Forest River **Nightfall 270N / 270NF** | Fifth wheel | ~32 ft | ~15 ft | No | Yes | **Favorite** |
-| Forest River **XLR Boost 286B** | Fifth wheel | ~33 ft | ~15 ft | No | Yes | **Favorite** |
-| Forest River **Cherokee Black Label 256RRBL** | Fifth wheel | 30 ft 7 in | 14 ft 6 in (174.25 in) | No | Yes | Strong contender |
-| Forest River **Vengeance Rogue SUT 323SUT** | Fifth wheel | 34 ft 10 in | ~11 ft | **Yes** | No | Strong contender |
-| Forest River **XLR Micro Boost 301LRLE** | Fifth wheel | 32 ft 6 in | ~17 ft | No | Yes | Strong contender |
-| Forest River **Stealth SA3019G** | Fifth wheel | ~36 ft 6 in | ~19 ft | **Yes** | Yes | Strong contender - over the 35 ft preference |
-| **2018 Dutchmen Triton 3351** | Fifth wheel | ~36 ft 6 in | 20 ft 3 in | **Yes** | Yes | Worth investigating |
-| Keystone **Carbon 321LT** | Fifth wheel | ~32 ft | 15 ft 8 in | No | Yes | Research candidate |
+Dry pin weights added 10 September 2026. **Headroom** is what remains of the truck's 3,629 lb pin ceiling once the trailer's dry pin is deducted - the budget available for loading before the rear axle reaches its GAWR.
 
-Weights are not yet recorded for any candidate. Add GVWR, dry weight and dry pin weight per model as the brochures are gathered; those are the figures the shortlist should ultimately be sorted on.
+| Model | Type | Length | Cargo / garage | Enclosed garage | Beaver tail | Dry pin | Headroom | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Forest River **Nightfall 270N / 270NF** | Fifth wheel | ~32 ft | ~15 ft | No | Yes | *TBD* | - | **Favorite** |
+| Forest River **XLR Boost 286B** | Fifth wheel | **31 ft 4 in** | ~15 ft | No | Yes | **2,090 lb** | 1,539 lb | **Favorite** |
+| Forest River **Cherokee Black Label 256RRBL** | Fifth wheel | 30 ft 7 in | 14 ft 6 in (174.25 in) | No | Yes | *TBD* | - | Strong contender |
+| Forest River **Vengeance Rogue SUT 323SUT** | Fifth wheel | 34 ft 10 in | ~11 ft | **Yes** | No | **2,090 lb** | 1,539 lb | Strong contender |
+| Forest River **XLR Micro Boost 301LRLE** | Fifth wheel | 32 ft 6 in | ~17 ft | No | Yes | **1,645 lb** | **1,984 lb** | Strong contender |
+| Forest River **Stealth SA3019G** | Fifth wheel | ~36 ft 6 in | ~19 ft | **Yes** | Yes | *TBD* | - | Strong contender - over the 35 ft preference |
+| **2018 Dutchmen Triton 3351** | Fifth wheel | ~36 ft 6 in | 20 ft 3 in | **Yes** | Yes | **~2,750-2,870 lb** | **759-879 lb** | Worth investigating - tightest of the list |
+| Keystone **Carbon 321LT** | Fifth wheel | ~32 ft | 15 ft 8 in | No | Yes | **~2,000 lb** | 1,629 lb | Research candidate |
+
+### Reading the headroom
+
+**Every candidate with a published figure clears the pin ceiling dry.** The differences show up in what is left for loading.
+
+- **XLR Micro Boost 301LRLE** has the most headroom at 1,984 lb, and the second-largest garage on the list. On the numbers alone it is the strongest of the four measured.
+- **XLR Boost 286B** and **Vengeance Rogue SUT 323SUT** both sit at 1,539 lb - comfortable.
+- **2018 Dutchmen Triton 3351** has 759-879 lb, roughly half the headroom of the others. It is also the longest and has the largest garage, which is the trade being made. Not disqualifying, but it is the one where loading has to be watched.
+
+> **Dry pin is not loaded pin, and the direction of change is not obvious on a toy hauler.** The garage sits *behind* the trailer axles, so weight loaded there acts as a lever that **reduces** pin weight, while water, propane and forward storage **increase** it. A heavily loaded garage with empty forward tanks can push pin *below* the safe 20% range and induce sway - the opposite failure from overloading the truck. Weigh the loaded rig; do not infer loaded pin from dry pin.
+
+### Still needed per candidate
+
+- **GVWR** - none recorded yet. Dry pin alone does not establish whether the loaded trailer stays within what the truck can pull, and the [GCWR](10-fifth-wheel-and-towing.md) for this truck is itself still unknown.
+- Dry weight, and cargo carrying capacity.
+- Garage door dimensions and floor length, to confirm the scooter fits.
+- Model year for each figure, and the brochure it came from.
 
 ## Rejected
 
