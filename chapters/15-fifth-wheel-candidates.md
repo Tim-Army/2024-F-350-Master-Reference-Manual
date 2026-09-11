@@ -63,6 +63,29 @@ The Triton 3351 stays on the list, marked unverified, rather than being removed 
 
 Forest River's pages for the 2027 Sandstorm 2710 and 2027 Nightfall 270N list identical hitch weight, GVWR, UVW, CCC, length, height, width and tank capacities, and the floorplans follow the same shared-garage layout. They are sister-brand versions of one trailer. Treat them as one candidate with two badges - which doubles the dealer inventory to search for that floorplan.
 
+### Rogue SUT 323SUT floorplan - verified
+
+This was checked against Forest River's [2026 floorplan](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) on 11 September 2026:
+
+- **The garage is enclosed.** A wall runs across the trailer, and a hinged door leads from the garage into the kitchen. That wall carries gear storage and a TV mount on the garage side and the pantry on the kitchen side.
+- **The garage is advertised at 11 ft, but the clear floor looks nearer 8½ ft.** On the drawing, the 11 ft arrow runs from the rear wall past the gear-storage wall to about the pantry. The gray garage floor covers only about three-quarters of that span, roughly 8½ ft at the arrow's own scale. The KZ's 10 ft arrow, by contrast, spans exactly its garage floor. Floorplans are not to scale, so this is an estimate, but the **"11 ft" garage may have less clear floor than the KZ's 10 ft.** Measure it on a real unit before relying on either figure.
+- **The garage is furnished.** It has two flip-up sofas, one along each side wall, and a free-standing table. The sofas fold up against the walls and the table comes out, which clears the floor for bikes.
+- **Forest River publishes neither the ramp door size nor the tie-down rating.** The KZ's figures are 88 x 91 in.
+- Everything else matches what is recorded: 2,090 lb hitch, 14,090 lb GVWR, 9,613 lb UVW, 4,477 lb cargo capacity, 96 gal fresh water, and a 30 gal fuel station with generator prep. The spec table gives 34 ft 10 in and the description says 34 ft 11 in overall.
+
+It compares with the KZ 311TH10 like this:
+
+| | KZ 311TH10 | Rogue SUT 323SUT |
+| --- | --- | --- |
+| Garage, as advertised | 10 ft | 11 ft |
+| Clear floor, estimated from the drawing | ~10 ft | **~8½ ft** |
+| Garage fit-out | Optional power bed overhead | Flip-up sofas and table |
+| Cargo capacity | 3,690 lb | 4,477 lb |
+| Pin at GVWR (est.) | ~2,275 lb | ~3,050 lb at the UVW ratio |
+| Availability | Used only, 2021-2023 | Current production |
+
+The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ gives about 775 lb more pin margin and, going by the drawings, probably more clear garage floor. A tape measure on each settles the second point.
+
 ### How they screen against the truck
 
 Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md).
