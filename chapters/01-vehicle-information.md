@@ -13,7 +13,7 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 | Model | 2024 F-350 SRW 4X4 Crew Cab, XLT, 176" wheelbase Styleside | REF-003 |
 | Engine | 7.3L DEVCT NA PFI V8, gasoline | REF-003 |
 | Transmission | 10-speed automatic TorqShift | REF-003 |
-| Rear axle | 4.30 electronic-locking | REF-003 |
+| Rear axle | **11.6 in**, 4.30 electronic-locking - tag `4E30 - 11.6` | REF-003; axle tag, 11 Sep 2026 |
 | Tires | LT275/70R18E BSW all-terrain | REF-003 |
 | Exterior / interior | Carbonized Gray / Medium Dark Slate cloth | REF-003 |
 | Equipment package | Preferred Equipment Package 613A | REF-003 |

@@ -410,8 +410,8 @@ gasoline</a></li><li><a href="#engine-specifications---73l-gasoline">Engine spec
 quick list - confirm with Ford WSM</a></li><li><a href="#torque-atlas-placeholder">Torque Atlas placeholder</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c06"><span class="toc-num">06</span>6. Fluids & Capacities</a><ul><li><a href="#status">Status</a></li><li><a href="#capacities-and-specifications">Capacities and
 specifications</a></li><li><a href="#front-axle---confirm-which-is-fitted">Front axle - confirm which
-is fitted</a></li><li><a href="#rear-axle---confirm-which-is-fitted">Rear axle - confirm which
-is fitted</a></li><li><a href="#fluid-level-checks">Fluid level checks</a></li><li><a href="#open-items">Open items</a></li></ul></div>
+is fitted</a></li><li><a href="#rear-axle---116-in-confirmed">Rear axle - 11.6 in,
+confirmed</a></li><li><a href="#fluid-level-checks">Fluid level checks</a></li><li><a href="#open-items">Open items</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c07"><span class="toc-num">07</span>7. Electrical Atlas</a><ul><li><a href="#apim--bcm-rear-camera-configuration">APIM / BCM rear-camera
 configuration</a></li><li><a href="#electrical-work-placeholders">Electrical work placeholders</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c08"><span class="toc-num">08</span>8. FORScan & Module Programming</a><ul><li><a href="#recovery-first-workflow">Recovery-first workflow</a></li><li><a href="#change-log">Change log</a></li></ul></div>
@@ -490,8 +490,9 @@ locally as <code>imports/truck-f350/ford.pdf</code>).</p>
 </tr>
 <tr>
 <td>Rear axle</td>
-<td>4.30 electronic-locking</td>
-<td>REF-003</td>
+<td><strong>11.6 in</strong>, 4.30 electronic-locking - tag
+<code>4E30 - 11.6</code></td>
+<td>REF-003; axle tag, 11 Sep 2026</td>
 </tr>
 <tr>
 <td>Tires</td>
@@ -1127,9 +1128,11 @@ km/h), change the rear axle fluid every <strong>30,000 mi (48,000
 km)</strong> if the rear axle is filled with non-synthetic fluid. This
 interval is <strong>waived, and the 150,000 mi (240,000 km) interval
 continues</strong>, if the axle is filled with 75W-140 synthetic gear
-lubricant meeting WSL-M2C192-A. Given the fifth-wheel use case in <a
-href="#c10">chapter 10</a>, confirm which fluid
-is in the axle.</p>
+lubricant meeting WSL-M2C192-A. <strong>This truck's axle is the 11.6
+in, which Ford specifies with 75W-140 synthetic (WSL-M2C192-A)</strong>
+- identified 11 September 2026, see <a
+href="#c06">chapter 6</a>. The waiver applies
+provided any refill uses that fluid.</p>
 </blockquote>
 <p>Ford also classifies towing as severe service: follow the severe
 service items in the scheduled maintenance chart, not the normal
@@ -1252,9 +1255,9 @@ reference.</li>
 <p>Populated from the <strong>7.3L gasoline</strong> capacity tables of
 the 2024 Super Duty Owner's Manual (REF-001, v1.1, edition 202307, pp.
 520-545). Diesel and 6.8L values are excluded.</p>
-<p>Two items remain <strong>configuration-dependent</strong> and are not
-yet resolved for this VIN - the front and rear axle assemblies. Both are
-flagged below.</p>
+<p>The <strong>rear axle is resolved</strong>: it is an 11.6 in axle,
+identified from its tag on 11 September 2026. The <strong>front
+axle</strong> is still configuration-dependent and is flagged below.</p>
 <blockquote>
 <p><strong>Do not substitute across similar-sounding fluids.</strong>
 The transmission takes MERCON <strong>ULV</strong>; the transfer case
@@ -1384,54 +1387,70 @@ is fitted</h3>
 </tr>
 </tbody>
 </table></div>
-<p><strong>Axle code <code>4M</code></strong> is recorded on the door
-jamb label (REF-023), together with a <strong>rear GAWR of 7,230
-lb</strong>. It was misread as <code>G</code> until 11 September 2026;
-<code>G</code> is the transmission code. The axle code identifies the
-axle to Ford but does not itself state the ring gear size - decode it
-against the Workshop Manual, or read the <strong>axle tag on the
-differential cover</strong> directly, which is the quickest route now
-the truck is in hand.</p>
-<h3 id="rear-axle---confirm-which-is-fitted">Rear axle - confirm which
-is fitted</h3>
-<p>The truck has a <strong>4.30 electronic-locking</strong> rear axle
-(verified, REF-003), which narrows the options but does not resolve the
-ring gear size. Four rear axle families appear in the manual; the two
-consistent with an electronic locker are:</p>
+<p>The front axle's identity is not yet confirmed. Look for a similar
+bar-code tag on the front axle housing.</p>
+<h3 id="rear-axle---116-in-confirmed">Rear axle - 11.6 in,
+confirmed</h3>
+<p><strong>Identified 11 September 2026</strong> from the owner's photos
+of the axle tag (IMG_1548-1557). The tag is a white and yellow bar-code
+label wrapped around the passenger-side rear axle tube, beside the
+differential. It reads:</p>
+<pre><code>…467B 23 007025
+TC05A 4E30 - 11.6</code></pre>
+<ul>
+<li><strong><code>4E30</code></strong> - a 4.30 ratio with the
+electronic locker (the <code>E</code>). This matches the window
+sticker's <code>4.30 ELECTRONIC-LOCKING AXLE</code> (REF-003).</li>
+<li><strong><code>11.6</code></strong> - the ring gear size, 11.6
+in.</li>
+<li>The housing casting is marked
+<strong><code>RFPC3H-4025AC</code></strong> (IMG_1557-1558).</li>
+</ul>
+<p>The door label's axle code <strong><code>4M</code></strong> (REF-023)
+and the <strong>7,230 lb rear GAWR</strong> are consistent with this
+axle.</p>
 <div class="tablewrap"><table>
 <thead>
 <tr>
-<th>Variant</th>
+<th>Rear axle 11.6</th>
 <th>Capacity</th>
 <th>Specification</th>
+<th>Motorcraft product</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Rear axle 10.5, with electronic locking differential</td>
-<td>3.3-3.5 qt (3.1-3.3 L)</td>
-<td>WSS-M2C942-A, SAE 75W-85 synthetic hypoid (XY-75W85-QL)</td>
+<td><strong>4.30 final drive ratio - this truck</strong></td>
+<td><strong>4.44-4.54 qt (4.2-4.3 L)</strong></td>
+<td>WSL-M2C192-A, <strong>SAE 75W-140 synthetic</strong></td>
+<td>XY-75W140-QL</td>
 </tr>
 <tr>
-<td>Rear axle 11.8 single rear wheel, electric locking differential</td>
-<td>4.05 qt (3.83 L)</td>
-<td>WSL-M2C192-A, SAE 75W-140 synthetic (XY-75W140-QL)</td>
+<td>Other ratios (3.31/3.55/3.73) - for reference</td>
+<td>4.33-4.44 qt (4.1-4.2 L)</td>
+<td>WSL-M2C192-A</td>
+<td>XY-75W140-QL</td>
 </tr>
 </tbody>
 </table></div>
-<p>This is an SRW truck, which points toward one of these two - but
-<strong>the specification differs between them (75W-85 vs 75W-140), not
-just the quantity.</strong> The towing interval exception in <a
-href="#c03">chapter 3</a> also depends on which fluid
-is in the axle.</p>
-<p><strong>Narrowing it down.</strong> The door label gives axle code
-<strong>4M</strong> and a <strong>7,230 lb rear GAWR</strong>. Read the
-axle tag to confirm the ring gear, or decode <code>4M</code> from the
-Workshop Manual once it arrives. Until then, do not fill the rear axle -
-the two candidates take different lubricants.</p>
-<p>For reference, the other published variants (not expected on this
-truck): rear axle 11.8 light/heavy duty, 4.21 qt open or 3.95 qt limited
-slip; rear axle 12.4, 4.65 qt limited slip.</p>
+<p>Source: REF-001, "Rear Axle - 11.6", p. 542. Unlike the manual's
+limited-slip entries, this one lists <strong>no friction modifier
+additive</strong>.</p>
+<p><strong>The 75W-140 synthetic also settles the towing
+exception</strong> in <a href="#c03">chapter 3</a>.
+If the axle holds WSL-M2C192-A 75W-140 synthetic, as Ford specifies for
+it, the 30,000 mi towing change interval is <strong>waived</strong> and
+the 150,000 mi interval applies. When the axle is serviced, make sure
+the refill is 75W-140 synthetic, not the 75W-85 some other Super Duty
+axles take.</p>
+<blockquote>
+<p><strong>Correction, 11 September 2026.</strong> This chapter
+previously listed only four rear axle families and short-listed the 10.5
+and the 11.8 single-rear-wheel axles as the likely fits. The owner's
+manual actually lists six rear axles: 10.5, 10.8, <strong>11.6</strong>,
+11.8 light/heavy duty, 11.8 single-rear-wheel and 12.4. The 11.6, the
+one fitted, had been missed.</p>
+</blockquote>
 <h3 id="fluid-level-checks">Fluid level checks</h3>
 <p>Included in the multi-point inspection at every scheduled maintenance
 interval: brake, coolant recovery reservoir, automatic transmission, and
@@ -1447,72 +1466,46 @@ those conditions. Towing a fifth-wheel qualifies.</p>
 published in the owner's manual, and is <strong>not</strong> on the
 window sticker. It requires the Workshop Manual - see <a
 href="#apxa">Appendix A</a>.</li>
-<li>Front and rear axle assemblies to be identified from the axle tag or
-door jamb label, then the tables above reduced to the single applicable
-row.</li>
+<li>Front axle assembly to be identified from its tag, then the front
+axle table reduced to the single applicable row. The rear axle is
+resolved (11.6 in).</li>
 </ul>
-<h4 id="sources-checked-and-ruled-out">Sources checked and ruled
-out</h4>
-<p>Every held document that could plausibly carry the axle
-identification has now been searched. None does.</p>
+<h4 id="how-the-rear-axle-was-identified">How the rear axle was
+identified</h4>
 <div class="tablewrap"><table>
 <thead>
 <tr>
-<th>Document</th>
+<th>Source</th>
 <th>Result</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>Door jamb label (REF-023)</strong></td>
-<td><strong>Axle code <code>4M</code>; front GAWR 5,990 lb, rear GAWR
-7,230 lb.</strong> Recorded 8 September 2026 and corrected 11 September
-from a clearer photo, which showed <code>G</code> is the transmission
-code. The axle code still needs decoding to a ring gear size</td>
+<td>Window sticker (REF-003)</td>
+<td>Ratio and locker only
+(<code>4.30 ELECTRONIC-LOCKING AXLE</code>)</td>
 </tr>
 <tr>
-<td>Window sticker (REF-003)</td>
-<td>Ratio and locker only (<code>4.30 ELECTRONIC-LOCKING AXLE</code>);
-no assembly ID, no GAWR, no fluid capacities</td>
+<td>Door jamb label (REF-023)</td>
+<td>Axle code <code>4M</code> and the GAWRs. Misread as <code>G</code>
+until 11 September 2026; <code>G</code> is the transmission code</td>
+</tr>
+<tr>
+<td><strong>Axle tag</strong></td>
+<td><strong><code>4E30 - 11.6</code></strong>, which settles it. The 4
+September photos showed only the bar-code side; the 11 September photos
+show the printed side</td>
 </tr>
 <tr>
 <td>Owner's Manual (REF-001)</td>
-<td>All capacities except the transmission; axle variants listed
-generically, never tied to a VIN</td>
+<td>The capacity and specification for the 11.6 axle at 4.30</td>
 </tr>
 <tr>
-<td>Camper Loading Guide (REF-002)</td>
-<td>Loading document only. Contains no gear ratios and no ring gear
-sizes; every reference to an axle is either a weight rating or the
-electronic-locking differential's option weight. Does supply front GAWR
-and cargo ratings - see <a href="#c10">chapter
-10</a></td>
-</tr>
-<tr>
-<td>Wheel / Tire Kit (REF-010)</td>
-<td>Generic 2020 accessory sheet for P275/55R20; not applicable to this
-truck and contains no axle data</td>
+<td>Camper Loading Guide (REF-002), Wheel / Tire Kit (REF-010)</td>
+<td>No axle identification</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>Remaining sources, in order of ease:</strong></p>
-<ol type="1">
-<li><del>Door jamb label</del> - <strong>done</strong>, 8 September
-2026: axle code <code>4M</code> (corrected 11 September from
-<code>G</code>), GAWRs recorded.</li>
-<li><strong>Axle tag</strong> - stamped or printed with the assembly and
-ratio. The direct read, and the next step. The owner's 4 September 2026
-photos (IMG_1459-1461) show a <strong>bar-code label wrapped around the
-right-hand rear axle tube</strong> beside the differential. Its printed
-side faces away from the camera, so only a fragment ending "678" is
-legible, and no metal tag is visible on the cover bolts.
-<strong>Photograph the printed side of that label close
-up.</strong></li>
-<li>Ford Workshop Manual (on the <a
-href="#c09">chapter 9</a>
-Immediate list) to decode code <code>4M</code>, or a dealer VIN
-lookup.</li>
-</ol>
 
 </section>
 <section class="section chapter" id="c07">
@@ -5885,8 +5878,9 @@ Manual into <a href="#c03">chapter 3</a> and <a
 href="#c06">chapter 6</a>. Still outstanding:
 <strong>automatic transmission fluid capacity</strong> (absent from both
 the owner's manual and the window sticker - WSM only), and fill/drain
-procedures. The <strong>axle assembly identification</strong> no longer
-needs the WSM: the axle tag or door jamb label supplies it.</li>
+procedures. The <strong>rear axle</strong> no longer needs the WSM: its
+tag identified it as the 11.6 in on 11 September 2026. The front axle
+still needs identifying.</li>
 <li>Wiring diagrams, connector views, fuse/relay functions, diagnostic
 tests, and module/programming references.</li>
 <li>OEM parts diagrams and Ford/Motorcraft part numbers.</li>

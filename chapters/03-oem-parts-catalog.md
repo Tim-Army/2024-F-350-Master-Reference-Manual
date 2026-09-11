@@ -43,7 +43,7 @@ Reference data for parts selection and diagnosis (REF-001 p. 522).
 | Axle and transfer case fluid | **No change or level check required** unless a leak is suspected or the assembly has been submerged | REF-001 p. 592 |
 | Rear axle fluid - heavy trailer towing | See the towing exception below | REF-001 p. 592 |
 
-> **Towing exception - applies directly to this truck.** During long periods of trailer towing with outside temperatures above 70°F (21°C), or at wide-open throttle for long periods above 45 mph (72 km/h), change the rear axle fluid every **30,000 mi (48,000 km)** if the rear axle is filled with non-synthetic fluid. This interval is **waived, and the 150,000 mi (240,000 km) interval continues**, if the axle is filled with 75W-140 synthetic gear lubricant meeting WSL-M2C192-A. Given the fifth-wheel use case in [chapter 10](10-fifth-wheel-and-towing.md), confirm which fluid is in the axle.
+> **Towing exception - applies directly to this truck.** During long periods of trailer towing with outside temperatures above 70°F (21°C), or at wide-open throttle for long periods above 45 mph (72 km/h), change the rear axle fluid every **30,000 mi (48,000 km)** if the rear axle is filled with non-synthetic fluid. This interval is **waived, and the 150,000 mi (240,000 km) interval continues**, if the axle is filled with 75W-140 synthetic gear lubricant meeting WSL-M2C192-A. **This truck's axle is the 11.6 in, which Ford specifies with 75W-140 synthetic (WSL-M2C192-A)** - identified 11 September 2026, see [chapter 6](06-fluids-and-capacities.md). The waiver applies provided any refill uses that fluid.
 
 Ford also classifies towing as severe service: follow the severe service items in the scheduled maintenance chart, not the normal schedule.
 
