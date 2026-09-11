@@ -138,6 +138,37 @@ These fit to a 25% pin on the proposed figures and deserve a manufacturer check:
 
 **The enclosed-garage candidates that fit the truck all have 10-12 ft garages.** Every model offering a 15 ft or longer enclosed garage in this proposal is either marginal on weight or ruled out. That is the same three-way tension as the verified list, now seen across a much wider field: enclosed, long garage, or towable by this truck - pick two.
 
+### Ten further candidates proposed 11 September 2026 - researched
+
+Ten more models were proposed. **None is sold under that name for 2026 or 2027.** Seven are discontinued, one was renamed, and only the Seismic 359 and Valor 36V11 are current. Current models were checked against the manufacturer's 2027 page. Discontinued models no longer have one, so their figures come from third-party spec databases (RVGuide) or dealer listings, marked **3P**.
+
+**Pin at GVWR (est.)** scales the dry pin share of dry weight up to GVWR. It is a rough screen: loading the garage, behind the axles, pulls pin weight down, while loading the front storage pushes it up. Ceiling ~3,625 lb.
+
+| Trailer | Year used | Length | Garage | Garage type | GVWR | Dry pin | Pin at GVWR (est.) | Max pin % | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Alliance Valor All-Access 31A10 | 2025, discontinued | 34 ft 8 in | 10 ft | **Shared** | 16,500 | 2,100 | ~3,100 | 22% | 3P |
+| Alliance Valor All-Access 32A10 (31A10's successor) | 2027 | 35 ft 11 in | ~10 ft | **Shared** | 16,800 | 2,300 | ~3,200 | 22% | [Alliance](https://www.alliancerv.com/floorplan/valor/32a10) |
+| Heartland Cyclone 3110 | 2016, discontinued | 38 ft 2 in | 10 ft | Enclosed | 16,250 | 3,180 | ~3,600 | 22% | 3P - only 1,865 lb cargo capacity |
+| Prime Time Spartan 300 3210 | 2017, discontinued ~2018 | 36 ft 2 in | 10 ft | Enclosed | 16,616 | 2,612 | ~3,700 | 22% | 3P |
+| Jayco Seismic 359 | 2027 | 40 ft (41 ft 8 in overall) | 11 ft | Enclosed | 17,500 | 2,875 | ~3,725 | 21% | [Jayco](https://www.jayco.com/rvs/toy-haulers/2027-seismic/359/) |
+| Keystone Raptor 351 | 2024, discontinued | 39 ft | 11 ft | Enclosed | 17,000 | 3,020 | ~3,725 | 21% | 3P |
+| Alliance Valor 36V11 | 2027 | 39 ft 7 in | 11 ft | Enclosed | 18,000 | 2,995 | ~3,775 | 20% | [Alliance](https://www.alliancerv.com/floorplan/valor/36v11) - 2026 units rated 16,950 lb |
+| Heartland Torque TQ371 | 2025, discontinued | 42 ft 11 in | 13 ft | Enclosed | 17,000 | 3,205 | ~3,850 | 21% | Dealer listing |
+| Keystone Raptor 361LEV | 2011, discontinued | 39 ft 7 in | 12 ft | Enclosed | 18,000 | 2,795 | ~3,925 | 20% | 3P - triple axle |
+| Keystone Carbon 347 | 2020, discontinued | 38 ft 2 in | 12 ft 6 in | Enclosed | 17,000 | 3,050 | ~4,125 | 21% | 3P - sources disagree on weights |
+| Jayco Seismic Luxury 4113 | 2025, last year | 46 ft 1 in | 13 ft | Enclosed | 20,900 | **3,670** | - | 17% | [Jayco](https://www.jayco.com/rvs/toy-haulers/2025-seismic-luxury-series/4113/) - **over the ceiling empty** |
+| Jayco Seismic 413 (4113's successor) | 2027 | 45 ft 5 in | 14 ft | Enclosed | 21,000 | 3,430 | ~4,500 | 17% | [Jayco](https://www.jayco.com/rvs/toy-haulers/2027-seismic/413/) |
+
+**Verdict:**
+
+- **Only the Valor All-Access models fit on weight**, with about 400-500 lb of margin, and their garages are shared, not enclosed. They are comparable to the Nightfall and 286B, with a shorter garage.
+- **The Cyclone 3110 and Spartan 3210 sit at the ceiling.** Both have enclosed 10 ft garages, are more than 35 ft long and are about ten years old. The Cyclone can carry only 1,865 lb of cargo, which is less than two bikes plus water and gear.
+- **The rest are ruled out.** They are longer than 38 ft and would load past the rear axle rating well before reaching GVWR. The Seismic 4113 is over it empty.
+
+**This list confirms the conclusion above.** No towable trailer in it has an enclosed garage longer than 10 ft.
+
+Alternatives the research turned up, which are not screened here: the Keystone Raptor 352 (2027, hitch 3,475 lb, over the ceiling on a normal load) and the Heartland Cyclone 3511 (2027, 17,800 lb GVWR, hitch 2,960 lb, 41 ft 2 in). Neither changes the picture.
+
 ### Weight is one axis of three
 
 The shortlist is balancing three things that pull against each other:
