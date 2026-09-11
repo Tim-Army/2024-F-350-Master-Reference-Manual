@@ -87,6 +87,57 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 
 > **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,530 lb (Cherokee) to 28,400 lb (Triton).
 
+### Candidates proposed 11 September 2026 - screened, not verified
+
+A revised comparison table proposed twenty models. The figures below are **as proposed and not yet verified**; they are screened here because several fail by margins no plausible correction could close. Ceiling ~3,625 lb pin.
+
+**Where the proposal contradicts verified figures, the verified shortlist above stands.** Four rows disagree with the very Forest River pages they cite:
+
+| Trailer | Proposed | Forest River page (verified) |
+| --- | --- | --- |
+| Rogue SUT 323SUT | 36 ft 11 in, 10 ft garage, CCC 2,955, GVWR 13,995, pin 2,395 | 34 ft 10 in, 11 ft, CCC 4,477, GVWR 14,090, pin 2,090 |
+| XLR Boost 286B | 33 ft, 13 ft garage, CCC ~3,000, GVWR ~11,300 | 31 ft 4 in, 16 ft, CCC 5,000, GVWR 14,094, pin 2,090 |
+| XLR Micro Boost 301LRLE | 35 ft, 10 ft garage, GVWR 11,495 | 32 ft 6 in, GVWR 11,845, pin 1,645 |
+| Sandstorm 2710SRX (2024) | 34 ft, 13 ft garage, CCC 4,728, GVWR 14,139 | Cited page is the 2027 2710: 32 ft 3 in, 15 ft 7 in, CCC 5,300, GVWR 14,759 - the 2024 SRX trim may differ, but the link does not support these figures |
+
+The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as unknown, is 2,165 lb.
+
+#### Ruled out by the truck
+
+| Trailer | Length | GVWR | Dry pin | Max pin % | Why |
+| --- | --- | --- | --- | --- | --- |
+| Grand Design Momentum 381MS | 43 ft 11 in | 23,500 | 3,726 | 15% | **Over the pin ceiling empty** |
+| Grand Design Momentum 392M | 45 ft 11 in | 23,500 | 3,650 | 15% | **Over the pin ceiling empty** |
+| Grand Design Momentum 395MT | 46 ft 4 in | 23,500 | 3,760 | 15% | **Over the pin ceiling empty** |
+| Grand Design Momentum 396DB | 46 ft 4 in | 23,500 | 3,760 | 15% | **Over the pin ceiling empty** |
+| Grand Design Momentum 344M | 39 ft 11 in | 19,000 | 3,500 | 19% | Cannot be loaded to GVWR at a normal 20-25% pin; 125 lb of headroom dry |
+| Grand Design Momentum 351MS | 39 ft 11 in | 19,000 | 3,000 | 19% | Cannot be loaded to GVWR at a normal pin ratio |
+| Grand Design Momentum 394G | 44 ft 11 in | 22,500 | 3,500 | 16% | Cannot be loaded to GVWR at a normal pin ratio |
+| Grand Design Momentum 399M | 44 ft 10 in | 23,500 | 3,406 | 15% | Cannot be loaded to GVWR at a normal pin ratio |
+| Grand Design Momentum 350G | 39 ft 9 in | 18,000 | 2,600 | 20% | Needs pin at or under 20% - no working margin; also 39 ft 9 in |
+
+**The Momentum line is built for a heavier truck.** At 22,500-23,500 lb GVWR the combined weight with this truck would reach **34,400-35,400 lb** - diesel dually territory, well beyond any gasoline F-350. Four of these trailers would put the truck over its rear axle rating before anything is loaded into them. Nothing about their length, garage or layout needs examining.
+
+#### Marginal
+
+| Trailer | Length | GVWR | Dry pin | Max pin % | Note |
+| --- | --- | --- | --- | --- | --- |
+| Grand Design Momentum 320G | 36 ft 3 in | 16,400 | 2,300 | 22% | Same position as the Triton - workable only well under GVWR |
+| Grand Design Momentum 325G | 35 ft 6 in | 16,400 | 2,474 | 22% | As above |
+| Dutchmen Voltage Triton 3351 (2018) | 36 ft 5 in | **16,800** | 2,872 | 22% | Proposed from [J.D. Power](https://www.jdpower.com/rvs/2018/voltage/m-3351/specs): 16,800 lb GVWR and a **15 ft 6 in** garage, against the 16,500 lb and 20 ft 3 in previously carried. If confirmed, slightly worse than recorded |
+
+#### Worth verifying
+
+These fit to a 25% pin on the proposed figures and deserve a manufacturer check:
+
+| Trailer | Length | Garage | Garage type | GVWR | Dry pin | Max pin % | Note |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| KZ Sportster 311TH10 (2021-2023) | 34 ft | 10 ft | Enclosed | 12,995 | 2,180 | 28% | An earlier note gave 12,500 lb GVWR and 3,690 lb CCC - verify the year. 10 ft garage is tight for two bikes |
+| Forest River XLR Nitro 321 (2021) | 36 ft 10 in | 10 ft | Enclosed | 13,995 | 2,510 | 26% | Over the 35 ft preference; 10 ft garage |
+| Forest River Wolf Pack 315PACK12 | **40 ft 7 in** | 12 ft | Enclosed | 14,260 | 2,260 | 25% | Weight fits; **length is 5 ft 7 in over** the 35 ft preference |
+
+**The enclosed-garage candidates that fit the truck all have 10-12 ft garages.** Every model offering a 15 ft or longer enclosed garage in this proposal is either marginal on weight or ruled out. That is the same three-way tension as the verified list, now seen across a much wider field: enclosed, long garage, or towable by this truck - pick two.
+
 ### Weight is one axis of three
 
 The shortlist is balancing three things that pull against each other:
