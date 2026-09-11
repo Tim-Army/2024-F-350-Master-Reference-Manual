@@ -81,5 +81,5 @@ Every held document that could plausibly carry the axle identification has now b
 **Remaining sources, in order of ease:**
 
 1. ~~Door jamb label~~ - **done**, 8 September 2026: axle code `G`, GAWRs recorded.
-2. **Axle tag** on the differential cover - stamped with the assembly and ratio. The direct read, and the next step.
+2. **Axle tag** - stamped or printed with the assembly and ratio. The direct read, and the next step. The owner's 4 September 2026 photos (IMG_1459-1461) show a **bar-code label wrapped around the right-hand rear axle tube** beside the differential. Its printed side faces away from the camera, so only a fragment ending "678" is legible, and no metal tag is visible on the cover bolts. **Photograph the printed side of that label close up.**
 3. Ford Workshop Manual (on the [chapter 9](09-accessories-and-modifications.md#immediate) Immediate list) to decode code `G`, or a dealer VIN lookup.
