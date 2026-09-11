@@ -93,6 +93,27 @@ A research note elsewhere had it listed as a travel trailer; that is wrong. The 
 
 It is the lightest candidate with published figures, and its 4,522 lb CCC is ample for two motorcycles and gear.
 
+#### Unit for sale - 2024, Camping World Albuquerque
+
+| Field | Value |
+| --- | --- |
+| Listing | [Used 2024 Cherokee Black Label 256RRBL](https://rv.campingworld.com/rv/2024-forest-river-cherokee-black-label-256rrbl-2657506c-albuquerque-nm), stock **#2657506C** |
+| Dealer | Camping World, 14303 Central Ave NW, Albuquerque NM 87121 - (888) 630-8978 |
+| **Price** | **$45,594** |
+| Length / height | 30 ft 7 in / 12 ft 10 in |
+| Dry weight | 7,108 lb |
+| Fresh water | 49 gal |
+| Type | Fifth wheel - confirmed by the listing photograph: front pin-box overhang, landing legs, kingpin |
+| Recorded | 10 September 2026 |
+
+Listing errors to discount: garage length is shown as **"174 ft"** - it is **174 in**, the 14 ft 6 in already recorded - and **"Sleeps 1"**, which is implausible for this floorplan.
+
+**Treat the listing's weights as brochure figures, not this unit's.** The 7,108 lb dry weight matches Forest River's 2026 page to the pound, which suggests it was copied from a specification sheet rather than taken from the trailer. The fresh water capacity already differs from the 2026 page (49 gal against 52), so the model year matters. **Before committing, read the trailer's own federal certification label** - GVWR, GAWR and actual UVW for this specific unit, the same way the truck's door label superseded Ford's brochure figures.
+
+The advertised finance terms - 8.99% over 236 months with $6,839 down, at $351 a month - total **about $89,700** paid for a $45,594 trailer: roughly 1.97 times the price, over nearly 20 years.
+
+It is about 1,050 miles from the truck's home area, so factor collection into the cost.
+
 ### Still needed per candidate
 
 - **Dry weight**, to establish cargo carrying capacity - GVWR alone does not show how much can actually be loaded.
