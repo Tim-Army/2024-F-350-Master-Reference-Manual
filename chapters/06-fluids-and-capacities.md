@@ -38,7 +38,7 @@ The owner's manual publishes two front axle variants. This truck is 4X4, but the
 | Front axle 9.25 (4WD, with limited slip) | 2.20 qt (2.08 L) including friction modifier | WSP-M2C197-A + EST-M2C118-A | Add 4.4 fl oz (130 ml) XL-3 within the 2.2 qt total |
 | Front axle 10.08 | 2.75 qt (2.6 L) | WSP-M2C197-A, SAE 80W-90 | XY-80W90-QL |
 
-**Axle code `4M`** is recorded on the door jamb label (REF-023). It was misread as `G` until 11 September 2026; `G` is the transmission code, together with a **rear GAWR of 7,230 lb**. The code identifies the axle to Ford but does not itself state the ring gear size - decode it against the Workshop Manual, or read the **axle tag on the differential cover** directly, which is the quickest route now the truck is in hand.
+**Axle code `4M`** is recorded on the door jamb label (REF-023), together with a **rear GAWR of 7,230 lb**. It was misread as `G` until 11 September 2026; `G` is the transmission code. The axle code identifies the axle to Ford but does not itself state the ring gear size - decode it against the Workshop Manual, or read the **axle tag on the differential cover** directly, which is the quickest route now the truck is in hand.
 
 ## Rear axle - confirm which is fitted
 
