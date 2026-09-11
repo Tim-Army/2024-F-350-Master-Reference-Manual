@@ -73,18 +73,19 @@ This was checked against Forest River's [2026 floorplan](https://forestriverinc.
 - **Forest River publishes neither the ramp door size nor the tie-down rating.** The KZ's figures are 88 x 91 in.
 - Everything else matches what is recorded: 2,090 lb hitch, 14,090 lb GVWR, 9,613 lb UVW, 4,477 lb cargo capacity, 96 gal fresh water, and a 30 gal fuel station with generator prep. The spec table gives 34 ft 10 in and the description says 34 ft 11 in overall.
 
-It compares with the KZ 311TH10 like this:
+It compares with the other two verified enclosed garages like this:
 
-| | KZ 311TH10 | Rogue SUT 323SUT |
-| --- | --- | --- |
-| Garage, as advertised | 10 ft | 11 ft |
-| Clear floor, estimated from the drawing | ~10 ft | **~8½ ft** |
-| Garage fit-out | Optional power bed overhead | Flip-up sofas and table |
-| Cargo capacity | 3,690 lb | 4,477 lb |
-| Pin at GVWR (est.) | ~2,275 lb | ~3,050 lb at the UVW ratio |
-| Availability | Used only, 2021-2023 | Current production |
+| | KZ 311TH10 | Rogue SUT 323SUT | Wolf Pack 315PACK12 (2023-24) |
+| --- | --- | --- | --- |
+| Garage, as advertised | 10 ft | 11 ft | 12 ft |
+| Clear floor, estimated from the drawing | ~10 ft | **~8½ ft** | ~12 ft |
+| Garage fit-out | Optional power bed overhead | Flip-up sofas and table | HappiJac bed lift, folding dinette |
+| Cargo capacity | 3,690 lb | 4,477 lb | 3,040 lb |
+| Pin at GVWR (est.) | ~2,275 lb | ~3,050 lb at the UVW ratio | ~2,875 lb |
+| Length | 34 ft | 34 ft 10 in | **40 ft 7 in** |
+| Availability | Used only, 2021-2023 | Current production | Used only, 2020-2024 |
 
-The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ gives about 775 lb more pin margin and, going by the drawings, probably more clear garage floor. A tape measure on each settles the second point.
+The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ gives about 775 lb more pin margin and, going by the drawings, probably more clear garage floor. A tape measure on each settles the second point. The Wolf Pack has by far the longest clear garage, about 12 ft, but it is 40 ft 7 in long, carries the least cargo of the three, and is used-only.
 
 ### How they screen against the truck
 
@@ -159,7 +160,7 @@ The three that fit on the proposed figures were checked. **All three are discont
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [KZ Sportster 311TH10](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) | 2021-2023 (last) | 34 ft | **10 ft** (floorplan); ramp door 88 x 91 in | **Enclosed** - floorplan shows a wall and door | **12,500** | 8,810 / **1,600** | 3,690 | 75 gal | ~2,275 | **29%** |
 | [Forest River XLR Nitro 321](https://www.rvguide.com/specs/forest-river/toy-hauler/2023/xlr-nitro/321.html) | 2021-2024 | **37 ft 10 in** | **11 ft** (132 in) | Enclosed - "separate garage" in Forest River listing text | **16,585** | 12,234 / 2,585 | 4,351 | 102 gal | ~3,500 | **22%** |
-| [Forest River Wolf Pack 315PACK12](https://www.rvguide.com/specs/forest-river/toy-hauler/2024/cherokee-wolf-pack/315pack12.html) | 2023-2024 | 40 ft 7 in | 12 ft (144 in) | Probably enclosed - floorplan not seen | 14,260 | 11,220 / 2,260 | 3,040 | 96 gal | ~2,875 | 25% |
+| [Forest River Wolf Pack 315PACK12](https://www.rvguide.com/specs/forest-river/toy-hauler/2024/cherokee-wolf-pack/315pack12.html) | 2023-2024 | 40 ft 7 in | 12 ft (144 in) | **Enclosed** - 2021 floorplan shows a wall and door | 14,260 | 11,220 / 2,260 | 3,040 | 96 gal | ~2,875 | 25% |
 | [Forest River Wolf Pack 315PACK12](https://www.rvguide.com/specs/forest-river/toy-hauler/2021/cherokee-wolf-pack/315pack12.html) | 2020-2022 | 39 ft 3 in | 12 ft (144 in) | As above | 14,036 | 10,762 / 2,036 | 3,274 | 100 gal | ~2,650 | 26% |
 
 What changed:
@@ -169,7 +170,13 @@ What changed:
   - **The 34 ft length runs from the rear bumper to the center of the coupler.** It is not overall length, so the trailer is slightly longer overall.
   - **Exterior height is 12 ft 7 in with the A/C.** The weights are rolling averages for the model, so read the unit's own label before buying.
 - **XLR Nitro 321 - moves to marginal.** It is 1 ft longer, has a 1 ft longer garage and is rated **2,590 lb heavier** than proposed. At 16,585 lb it is in the same position as the Triton: workable only well under GVWR.
-- **Wolf Pack 315PACK12 - confirmed for 2023-2024.** The proposed figures match those years exactly. It fits on weight, but it is 5 ft 7 in over the 35 ft preference and has the least cargo capacity of the three. Its garage wall still needs confirming from a floorplan.
+- **Wolf Pack 315PACK12 - confirmed for 2023-2024.** The proposed figures match those years exactly. It fits on weight, but it is 5 ft 7 in over the 35 ft preference and has the least cargo capacity of the three.
+  - **The garage is enclosed.** This comes from the [2021 Forest River floorplan](https://www.petesrv.com/product/used-2021-forest-river-rv-cherokee-wolf-pack-315pack12-3364464-26) on a dealer listing. Forest River's own page for this discontinued model is gone. A wall with a hinged door separates the garage from the living area, and the feature text calls it a "12' Separate Garage". RVGuide also lists a soft cargo wall as standard for 2024, so confirm whether a unit has the solid wall or only the soft one.
+  - **The garage measures 12 ft by 97.5 in.** The 12 ft arrow spans the garage floor itself, like the KZ's and unlike the Rogue's, so this appears to be real clear length.
+  - **The garage is furnished** with a HappiJac bed lift and a folding dinette table with side sofas. The wall carries overhead cabinets and washer/dryer prep.
+  - **The ramp door looks to be 96 x 96 in**, though the label is small and hard to read.
+  - **Other features:** a 30 gal fuel station, two entry doors and an outside kitchen.
+  - The 2023-2024 trailer is 16 in longer than the 2021, so its layout may differ slightly.
 
 **The enclosed-garage candidates that fit the truck all have 10-12 ft garages.** Every model offering a 15 ft or longer enclosed garage in this proposal is either marginal on weight or ruled out. That is the same three-way tension as the verified list, now seen across a much wider field: enclosed, long garage, or towable by this truck - pick two.
 
