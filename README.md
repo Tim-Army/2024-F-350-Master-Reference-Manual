@@ -18,7 +18,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | Assembly plant | Kentucky Truck Plant, Louisville, Kentucky |
 | Engine | 7.3L DEVCT NA PFI gasoline V8, 10-speed TorqShift |
 | Bed / towing context | 8-foot bed; factory 5th Wheel Hitch Prep Package, Gooseneck Hitch Kit, 360-Degree Camera Package, and BLIS (verified on window sticker) |
-| Axle / GVWR | 4.30 electronic-locking, axle code G; 11,900 lb GVWR |
+| Axle / GVWR | 4.30 electronic-locking, axle code 4M; 11,900 lb GVWR |
 | GAWR front / rear | 5,990 lb / 7,230 lb |
 | Payload | 4,566 lb (door label) |
 | Purchased | 8 September 2026 |

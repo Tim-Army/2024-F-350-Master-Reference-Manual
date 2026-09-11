@@ -35,7 +35,7 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 
 ## Safety Compliance Certification Label
 
-Transcribed from the driver's door jamb label (REF-023), photographed 8 September 2026. This is the authoritative source for weight ratings.
+Transcribed from the driver's door jamb label (REF-023). It was photographed 8 September 2026 and re-photographed more clearly 11 September 2026. This is the authoritative source for weight ratings.
 
 | Field | Value |
 | --- | --- |
@@ -48,13 +48,17 @@ Transcribed from the driver's door jamb label (REF-023), photographed 8 Septembe
 | Wheelbase | 176 in |
 | Exterior paint code | M7 (Carbonized Gray) |
 | Interior trim code | 2S (Medium Dark Slate cloth) |
-| **Axle code** | **G** |
-| Transmission / power steering | TP/PS 5 |
-| Rear / spring / trim codes | R 4M, TR RRNN, SPR ULC |
+| Tire pressure / power steering (TP/PS) | blank |
+| Radio (R) | 5 |
+| **Axle code (AXLE)** | **4M** |
+| Transmission code (TR) | G |
+| Spring codes (SPR) | RRNN / ULC |
 | RC | 47 |
 | Vehicle type | Truck |
 | Label codes | F1439 / T0969 |
 | Label part number | 5U5A-3520472-AA |
+
+> **Correction, 11 September 2026.** The first transcription misaligned the code row and recorded the axle code as **G**. The clearer photo shows the columns WB / INT TR / TP/PS / R / AXLE / TR / SPR reading 176 / 2S / blank / 5 / **4M** / G / RRNN ULC. **G is the transmission code; the axle code is 4M.**
 
 Front and rear GAWR sum to 13,220 lb, which exceeds the 11,900 lb GVWR - normal, and GVWR governs. Neither axle may be loaded past its own rating regardless.
 
