@@ -30,7 +30,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Forest River **Cherokee Black Label 256RRBL**](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) (2026) | 30 ft 7 in | 11,630 | 1,430 | 4,522 | 14 ft 6¼ in | Not verified | **31%** | Strong contender |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | ~17 ft | Not verified | **31%** | Strong contender |
-| [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | ~10 ft (not published) | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
+| [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
 | Keystone **Carbon 321LT** | ~32 ft | ~14,000 | ~2,000 | - | 15 ft 8 in | Not verified | **26%** | Research candidate - not yet verified |
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | **Strong contender - verified enclosed, fits to 25%; the only current-production one** |
 | [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | **Favorite** |
@@ -79,7 +79,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | Stealth SA3019G | 3,000 | 3,750 | Needs pin under 24% |
 | **2018 Triton 3351** | 3,300 | 4,125 | **Over even at 22%** |
 
-**The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. With its enclosed garage, it is verified enclosed *and* comfortable at 25% pin - the combination the search has been looking for. The KZ Sportster 311TH10, verified later the same day, is the only other one; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
+**The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. With its enclosed garage, it is verified enclosed *and* comfortable at 25% pin - the combination the search has been looking for. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other one; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
 
 **Both favorites have shared garages, not enclosed ones.** The Nightfall 270N and XLR Boost 286B were shortlisted as favorites; by the owner's definition neither meets the enclosed-garage requirement. That is worth deciding on explicitly rather than by default.
 
@@ -134,14 +134,14 @@ The three that fit on the proposed figures were checked. **All three are discont
 
 | Trailer | Years | Length | Garage | Garage type | GVWR | Dry / pin | CCC | Fresh | Pin at GVWR (est.) | Max pin % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [KZ Sportster 311TH10](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) | 2021-2023 (last) | 34 ft | ~10 ft - KZ does not publish it | **Enclosed** - KZ lists a door to the garage | **12,500** | 8,810 / **1,600** | 3,690 | 75 gal | ~2,275 | **29%** |
+| [KZ Sportster 311TH10](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) | 2021-2023 (last) | 34 ft | **10 ft** (floorplan); ramp door 88 x 91 in | **Enclosed** - floorplan shows a wall and door | **12,500** | 8,810 / **1,600** | 3,690 | 75 gal | ~2,275 | **29%** |
 | [Forest River XLR Nitro 321](https://www.rvguide.com/specs/forest-river/toy-hauler/2023/xlr-nitro/321.html) | 2021-2024 | **37 ft 10 in** | **11 ft** (132 in) | Enclosed - "separate garage" in Forest River listing text | **16,585** | 12,234 / 2,585 | 4,351 | 102 gal | ~3,500 | **22%** |
 | [Forest River Wolf Pack 315PACK12](https://www.rvguide.com/specs/forest-river/toy-hauler/2024/cherokee-wolf-pack/315pack12.html) | 2023-2024 | 40 ft 7 in | 12 ft (144 in) | Probably enclosed - floorplan not seen | 14,260 | 11,220 / 2,260 | 3,040 | 96 gal | ~2,875 | 25% |
 | [Forest River Wolf Pack 315PACK12](https://www.rvguide.com/specs/forest-river/toy-hauler/2021/cherokee-wolf-pack/315pack12.html) | 2020-2022 | 39 ft 3 in | 12 ft (144 in) | As above | 14,036 | 10,762 / 2,036 | 3,274 | 100 gal | ~2,650 | 26% |
 
 What changed:
 
-- **KZ 311TH10 - better than proposed.** The proposed 12,995 lb GVWR and 2,180 lb pin appear on none of KZ's pages; the earlier note (12,500 lb, 3,690 lb CCC) was right. It is the **lightest enclosed-garage trailer found so far, with the most margin** - loaded to GVWR it should sit around 2,300 lb of pin, over 1,300 lb under the ceiling. 2020 units are rated only 11,000 lb, so avoid that year. The garage length is inferred from the model name and must be measured. KZ's 2023 spec table, confirmed by the owner the same day, adds three details:
+- **KZ 311TH10 - better than proposed.** The proposed 12,995 lb GVWR and 2,180 lb pin appear on none of KZ's pages; the earlier note (12,500 lb, 3,690 lb CCC) was right. It is the **lightest enclosed-garage trailer found so far, with the most margin** - loaded to GVWR it should sit around 2,300 lb of pin, over 1,300 lb under the ceiling. 2020 units are rated only 11,000 lb, so avoid that year. The floorplan settles the garage: **10 ft** from the screen door to the front wall, an **88 x 91 in ramp door**, and a wall with a hinged door between the garage and the kitchen. Options that matter: a 60 x 84 in power bed over the garage, which reduces headroom when it is lowered, and a 30 gal fuel station, which adds about 185 lb of gasoline when full. KZ's 2023 spec table, confirmed by the owner the same day, adds three details:
   - **Dry axle weight is 7,210 lb.** The dry pin is therefore 18.2% of UVW, the basis of the ~2,275 lb estimate.
   - **The 34 ft length runs from the rear bumper to the center of the coupler.** It is not overall length, so the trailer is slightly longer overall.
   - **Exterior height is 12 ft 7 in with the A/C.** The weights are rolling averages for the model, so read the unit's own label before buying.
@@ -189,7 +189,7 @@ The shortlist is balancing three things that pull against each other:
 - **overall length**, ideally at or under 35 ft;
 - **payload margin** against this truck.
 
-Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinued KZ Sportster 311TH10 (~10 ft) fit to 25% pin, and they have the smallest garages on the list. Both favorites turn out to have shared garages. No model on the list is strong on all three at once, which is why the search has been difficult. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
+Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinued KZ Sportster 311TH10 (10 ft) fit to 25% pin, and they have the smallest garages on the list. Both favorites turn out to have shared garages. No model on the list is strong on all three at once, which is why the search has been difficult. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
 
 ### Cherokee Black Label 256RRBL - confirmed
 
