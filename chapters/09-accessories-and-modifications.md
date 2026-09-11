@@ -9,7 +9,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 11 | **$2,992.10** |
-| **Short-term** | by 7 December 2026 (90 days) | 17 | **$2,420.76** |
+| **Short-term** | by 7 December 2026 (90 days) | 20 | **$2,852.75** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 6 | $804.98 |
@@ -40,7 +40,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Amazon Basics 9V lithium batteries, 2-pack](https://www.amazon.com/dp/B082DMR8DJ) | **$15.49** | Towing | Planned | $7.75 each. 10-year shelf life. Powers the infrared thermometer |
 | [OBDLink EX](https://www.amazon.com/OBDLink-EX-FORScan-OBD-Adapter/dp/B081VQVD3F) USB adapter | **$69.95** | Diagnostics | Planned | **The FORScan adapter.** USB, purpose-built for FORScan's MS-CAN access - the interface assumed throughout [chapter 8](08-forscan-and-module-programming.md) |
 | [CravenSpeed bullet stubby antenna](https://www.amazon.com/CravenSpeed-Bullet-Antenna-Replacement-2009-2019/dp/B01N3CC9GT) | **$35.00** | Tires and interior | Planned | 5.4 in. The listing URL reads 2009-2019, but the product and selected style are **F-250/F-350 Super Duty 2017-2026** - fitment is correct |
-| [Superior 58-0470B Truckline Sport Grip](https://www.amazon.com/Superior-58-0470B-Truckline-Sport-Steering/dp/B00029KA6I) | **$12.99** | Tires and interior | **Planned** | **Selected.** Lace-on, neoprene, truck size 17 in - fits 16-18 in wheels with grip circumference up to 3.5 in. Neoprene accepted in place of the original leather spec. **No heated steering wheel on this truck** (REF-003), so the laced fit carries no insulation penalty. Check the rim's grip circumference against the 3.5 in limit before ordering |
+| [Superior 58-0470B Truckline Sport Grip](https://www.amazon.com/Superior-58-0470B-Truckline-Sport-Steering/dp/B00029KA6I) | **$12.99** | Tires and interior | **Planned** | **Selected.** Lace-on, neoprene, truck size 17 in - fits 16-18 in wheels with grip circumference up to 3.5 in. Neoprene accepted in place of the original leather spec. **No heated steering wheel on this truck** (REF-003), so the laced fit carries no insulation penalty. :warning: **Fit is in doubt.** Owner's research notes put the 2023-2024 F-350 wheel at about **15.5 in outside diameter and 4.25 in grip circumference** - which would miss the Superior on both counts (16-18 in, grip up to 3.5 in). **Measure the rim before ordering** |
 | Harbor Freight [locking grease coupler](https://www.harborfreight.com/locking-grease-coupler-56123.html) (`56123`) | **$22.99** | Maintenance & security | Planned | Fits the grease gun already owned - no gun needed |
 | [Ford F-350 Super Duty workshop manual, 2023-2025, on USB](https://www.ebay.com/itm/127998926201) | **$24.99** | Documentation | Planned | **Buy now - truck is in hand.** Free USPS Media Mail. Listed as covering the 7.3L V8. Unblocks the torque atlas in [chapter 5](05-torque-specifications.md), the transmission fluid capacity in [chapter 6](06-fluids-and-capacities.md), the wiring work in [chapter 7](07-electrical-atlas.md) and the whole of [Appendix A](appendix-a-workshop-manual-intake.md). Third-party USB compilation, not a Ford subscription - confirm coverage on arrival |
 | **Phase total** | **$2,992.10** |  |  | *11 items priced* |
@@ -66,7 +66,10 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Electronics | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
 | [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Electronics | Planned | Required for parking mode. Best Buy |
 | [Sherline trailer tongue weight scale](https://www.sherline.com/product/sherline-trailer-tongue-weight-scale/) | **$200.50** | Towing | Planned | **0-5000 lb gauge** - the range Sherline specifies for fifth wheels, and the only one that covers this truck's ~3,190 lb pin allowance ([chapter 10](10-fifth-wheel-and-towing.md)). Price is for that range. Hydraulic, no electronics or batteries, 4.4 lb, one-year guarantee |
-| **Phase total** | **$2,420.76** |  |  | *17 items priced* |
+| [Bolt It On Condor / Wheel Dock chock bracket](https://boltiton.com/products/condor-bracket) | **$69.99** | Towing | Planned | Tool-free crossbar that clamps a Condor chock to the **factory D-rings**, removable in seconds. **Requires drilling two 3/8 in holes in the chock.** Fits the Condor Pit Stop, Trailer-Only, Chopper and Scooter chocks |
+| [Condor SC-2000 trailer-only motorcycle chock](https://www.condor-lift.com/product/trailer-only-chock-part-sc-2000/) | **$187.00** | Towing | Planned | Sale price; list $259.00. All-steel, 26 lb, folds to 7 in high. :warning: **Fits 14-22 in wheels, 80-230 mm wide.** The Yamaha Zuma 125 is commonly listed on **13 in** wheels, below that minimum - confirm the Zuma's wheel size before ordering, since the SCC-4000 below is the chock built for scooters |
+| [Condor SCC-4000 scooter chock](https://www.condor-lift.com/product/scooter-chock-part-scc-4000/) | **$175.00** | Towing | Planned | Sale price; list $215.00. Built for scooters and mopeds in a van, truck or trailer. **Floor adapter not included** - price it separately if the bracket above isn't used |
+| **Phase total** | **$2,852.75** |  |  | *20 items priced* |
 
 ### Long-term
 
