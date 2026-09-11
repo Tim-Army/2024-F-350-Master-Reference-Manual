@@ -16,15 +16,15 @@ From [chapter 10](10-fifth-wheel-and-towing.md), on the truck's measured figures
 
 | Limit | Figure |
 | --- | --- |
-| Maximum pin weight | **3,629 lb** (rear GAWR governs) |
+| Maximum pin weight | **~3,625 lb** estimated, rear GAWR governs - plan on 3,600 lb |
 | Loaded trailer at 25% pin | ~14,500 lb |
 | Loaded trailer at 20% pin | ~18,100 lb |
 
-> **Screen every candidate on pin weight, not on length.** Toy haulers carry a high pin percentage - the garage is behind the axles but the living space and tanks are ahead of them, and a loaded garage shifts weight rearward in a way that varies with how it is packed. A 15-20 ft garage on a 32-36 ft box puts most of these candidates at the heavy end of their class. **Obtain each model's GVWR and dry pin weight from the manufacturer brochure**, then check loaded pin against 3,629 lb.
+> **Screen every candidate on pin weight, not on length.** Toy haulers carry a high pin percentage - the garage is behind the axles but the living space and tanks are ahead of them, and a loaded garage shifts weight rearward in a way that varies with how it is packed. A 15-20 ft garage on a 32-36 ft box puts most of these candidates at the heavy end of their class. **Obtain each model's GVWR and dry pin weight from the manufacturer brochure**, then check loaded pin against ~3,625 lb.
 
 ## Shortlist
 
-GVWR and dry pin recorded 10 September 2026. **Max pin %** is the pin ratio at which a trailer loaded to its GVWR would exactly reach this truck's 3,629 lb pin ceiling - above that ratio, the truck is over its rear axle rating.
+GVWR and dry pin recorded 10 September 2026. **Max pin %** is the pin ratio at which a trailer loaded to its GVWR would exactly reach this truck's ~3,625 lb pin ceiling - above that ratio, the truck is over its rear axle rating.
 
 | Model | Length | GVWR | Dry pin | Garage | Enclosed | Beaver tail | Max pin % | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Sorted by GVWR ascending, which is also the order of decreasing margin against t
 
 ### How they screen against the truck
 
-Pin weight ceiling **3,629 lb**, from [chapter 10](10-fifth-wheel-and-towing.md).
+Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md).
 
 | Model | Pin at 20% | Pin at 25% | Verdict |
 | --- | --- | --- | --- |

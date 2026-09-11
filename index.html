@@ -3093,7 +3093,7 @@ is the more conservative of the two, and the 134 lb is a margin rather
 than capacity worth spending. The hard legal limits are GVWR (11,900 lb)
 and the two GAWRs; the label payload is derived from them.</p>
 <p><strong>This does not change the maximum pin weight.</strong> Pin is
-governed by rear GAWR at 3,629 lb, and payload does not bind until well
+governed by rear GAWR at ~3,625 lb, and payload does not bind until well
 past that - 3,805 lb on the label figure, 3,939 lb on the scale-derived
 one. Either way the rear axle runs out first.</p>
 <p>The ticket is internally consistent: 4,120 + 3,080 = 7,200 lb,
@@ -3101,8 +3101,8 @@ matching the printed certified gross.</p>
 <p>Reweigh loaded, and with the trailer attached, before relying on
 either.</p>
 <h4 id="maximum-pin-weight">Maximum pin weight</h4>
-<p><strong>3,629 lb</strong> in the working case below. The derivation
-is set out in full under <a
+<p><strong>~3,625 lb</strong> in the working case below - plan on 3,600
+lb. The derivation is set out in full under <a
 href="#where-the-rear-axle-figure-comes-from">where the rear-axle figure
 comes from</a> - in short, 4,150 lb of spare rear-axle capacity less 521
 lb taken by the hitch, bed cargo and the occupants' rearward share.</p>
@@ -3260,6 +3260,158 @@ truck with the hitch fitted and the people and gear actually carried,
 then again with the trailer coupled. Measured axle loads remove the need
 for any assumption about distribution.</p>
 </blockquote>
+<h4 id="where-the-rear-axle-figure-comes-from">Where the rear-axle
+figure comes from</h4>
+<p>Set out step by step, because 4,150 lb and ~3,625 lb are both correct
+numbers describing different things, and the two are easy to conflate.
+The first three rows are measured or rated; the occupant share is
+estimated, which is why the result carries a tilde everywhere it is
+quoted as a headline.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rear GAWR</td>
+<td>7,230 lb</td>
+</tr>
+<tr>
+<td>Less rear axle as measured, empty (REF-025)</td>
+<td>-3,080 lb</td>
+</tr>
+<tr>
+<td><strong>= spare rear axle capacity</strong></td>
+<td><strong>4,150 lb</strong></td>
+</tr>
+<tr>
+<td>Less fifth-wheel hitch, sitting over the axle</td>
+<td>-161 lb</td>
+</tr>
+<tr>
+<td>Less cargo in the bed</td>
+<td>-200 lb</td>
+</tr>
+<tr>
+<td>Less rearward share of 400 lb of occupants (~40%)</td>
+<td>-160 lb</td>
+</tr>
+<tr>
+<td><strong>= available for pin weight</strong></td>
+<td><strong>3,629 lb</strong> - <em>estimate, rounded to ~3,625 lb
+elsewhere</em></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>4,150 lb is the spare capacity on the rear axle. ~3,625 lb is
+what is left of it for the pin</strong>, once the hitch, the bed cargo
+and the occupants' share have taken theirs. Quoting 4,150 lb as the pin
+limit double-counts that capacity.</p>
+<p>The intermediate figure - a <strong>3,601 lb</strong> rear axle with
+hitch, people and cargo aboard but no trailer - is calculated, not
+measured. The CAT ticket records the truck <strong>empty</strong>; no
+scale reading of that loaded state exists yet.</p>
+<p>Two refinements, both in the truck's favor and both deliberately left
+out:</p>
+<ul>
+<li>A fifth-wheel pin mounted slightly ahead of the rear axle sends a
+small fraction of its weight to the front axle rather than the rear, so
+treating it as 100% rear is conservative.</li>
+<li>The occupant split is an estimate. At 400 lb it moves the answer by
+only about 20 lb across any plausible assumption.</li>
+</ul>
+<p><strong>A loaded CAT ticket supersedes all of this.</strong> Weigh
+the rig hitched, with people, fuel and gear aboard, and use the measured
+rear axle figure instead.</p>
+<h4 id="working-case">Working case</h4>
+<p>The planning assumption for this truck is <strong>400 lb of people
+and 200 lb of cargo</strong>, which gives an <strong>estimated maximum
+pin weight of ~3,625 lb</strong> - plan on <strong>3,600
+lb</strong>.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Pin ratio</th>
+<th>Loaded trailer supported</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>30%</td>
+<td>12,100 lb</td>
+</tr>
+<tr>
+<td><strong>25%</strong></td>
+<td><strong>14,500 lb</strong></td>
+</tr>
+<tr>
+<td>20%</td>
+<td>18,100 lb</td>
+</tr>
+<tr>
+<td>15%</td>
+<td>24,200 lb</td>
+</tr>
+</tbody>
+</table></div>
+<p>At that load the truck grosses <strong>11,590 lb of its 11,900 lb
+GVWR</strong>, with the front axle at 4,120 of 5,990 lb.</p>
+<p>The figure is not sensitive to how the occupants sit: varying their
+split between axles from 35% to 45% rearward moves the answer only
+between about 3,610 and 3,650 lb. <strong>Bed cargo matters
+more</strong> - every pound in the bed comes straight off the pin
+allowance, since both land on the rear axle.</p>
+<p><strong>The first row is the ratings alone.</strong> With nothing
+aboard - no hitch, no occupants, no cargo - the rear axle has 4,150 lb
+spare against 4,566 lb of payload, so the rear axle governs from the
+outset. That row is theoretical rather than usable, since a fifth wheel
+cannot be towed without a hitch; every row below it is the same
+calculation with real weight added. <strong>The rear axle governs in
+every case.</strong></p>
+<p><strong>The rear axle is the binding limit in most of the range, not
+payload.</strong> Payload only takes over once the cab is full, because
+occupants sit largely forward of the rear axle and so consume payload
+faster than they consume rear-axle capacity. An earlier version of this
+chapter compared payload remaining against total rear-axle margin and
+concluded payload governs; that was wrong, because the rear margin must
+also absorb the hitch, the bed cargo and part of the occupants before
+any pin weight is added.</p>
+<p>The front axle is not a constraint: it carries 4,120 lb against a
+5,990 lb rating, and a fifth-wheel pin slightly <em>unloads</em> the
+front rather than adding to it.</p>
+<p>The hitch is not a constraint either - the B&amp;W Companion is rated
+25,000 lb gross tow and 6,250 lb vertical load, well above anything the
+truck can carry.</p>
+<p><strong>GCWR is not yet known</strong> and could bind before either
+figure above on a long grade; source it from the Workshop Manual or
+Ford's towing guide.</p>
+<p>Candidate trailers are shortlisted in <a
+href="#c15">chapter 15</a>; screen each on pin
+weight against the figures above.</p>
+<blockquote>
+<p><strong>Verify by weighing, not by arithmetic.</strong> The occupant
+split between axles above is an estimate. Weigh the truck loaded and
+coupled, and measure actual pin weight with the <a
+href="#c09">Sherline scale</a>
+- a fifth wheel's pin can run well above the nominal 20-25% depending on
+how the trailer is loaded.</p>
+</blockquote>
+<blockquote>
+<p><strong>The earlier estimate was low.</strong> Working from the
+Camper Loading Guide, this chapter previously put payload at roughly
+3,900-4,050 lb. The real figure is <strong>4,566 lb</strong> - about 600
+lb higher. The cause is identifiable: that estimate assumed the guide's
+5,200 lb front GAWR block, and this truck is actually a <strong>5,990
+lb</strong> front GAWR truck, almost certainly because of the snowplow
+prep / camper package. The possibility was flagged at the time; the door
+label settles it.</p>
+</blockquote>
+<p>Measure actual pin weight with the <a
+href="#c09">Sherline scale</a>
+rather than relying on the 20-25% assumption.</p>
 <h4 id="reading-the-table">Reading the table</h4>
 <ul>
 <li><strong>The rear axle governs in eleven of the twelve rows.</strong>
@@ -3443,7 +3595,7 @@ capacity is not the problem.</p>
 </tbody>
 </table></div>
 <p><strong>The governing constraint flips.</strong> Without the carrier
-the rear axle binds at 3,629 lb; with it, payload binds at 3,418 lb,
+the rear axle binds at ~3,625 lb; with it, payload binds at 3,418 lb,
 because the 387 lb counts fully against the 4,566 lb payload while the
 cantilever <em>reduces</em> rear-axle load.</p>
 <p><strong>Net cost to pin weight: about 211 lb, not 387 lb</strong> -
@@ -3512,9 +3664,9 @@ outstanding is now confirmed: the <strong>front receiver is rated 1,000
 lb</strong>, against roughly 340 lb of carrier and scooter, so it runs
 at about a third of its capacity.</p>
 <p><strong>No open technical questions remain on this idea.</strong>
-Payload governs the towing consequence, at 3,418 lb of pin rather than
-3,629 lb, and that is a trade rather than an obstacle. If it is revived,
-the only items left are practical: ground clearance on loading,
+Payload governs the towing consequence, at ~3,420 lb of pin rather than
+~3,625 lb, and that is a trade rather than an obstacle. If it is
+revived, the only items left are practical: ground clearance on loading,
 headlight and plate obstruction, radiator airflow on hot days, and state
 overhang rules.</p>
 <h3 id="payload-and-loading">Payload and loading</h3>
@@ -4251,7 +4403,8 @@ truck's measured figures:</p>
 <tbody>
 <tr>
 <td>Maximum pin weight</td>
-<td><strong>3,629 lb</strong> (rear GAWR governs)</td>
+<td><strong>~3,625 lb</strong> estimated, rear GAWR governs - plan on
+3,600 lb</td>
 </tr>
 <tr>
 <td>Loaded trailer at 25% pin</td>
@@ -4271,12 +4424,12 @@ shifts weight rearward in a way that varies with how it is packed. A
 15-20 ft garage on a 32-36 ft box puts most of these candidates at the
 heavy end of their class. <strong>Obtain each model's GVWR and dry pin
 weight from the manufacturer brochure</strong>, then check loaded pin
-against 3,629 lb.</p>
+against ~3,625 lb.</p>
 </blockquote>
 <h3 id="shortlist">Shortlist</h3>
 <p>GVWR and dry pin recorded 10 September 2026. <strong>Max pin
 %</strong> is the pin ratio at which a trailer loaded to its GVWR would
-exactly reach this truck's 3,629 lb pin ceiling - above that ratio, the
+exactly reach this truck's ~3,625 lb pin ceiling - above that ratio, the
 truck is over its rear axle rating.</p>
 <div class="tablewrap"><table>
 <thead>
@@ -4391,7 +4544,7 @@ below</td>
 margin against this truck.</p>
 <h4 id="how-they-screen-against-the-truck">How they screen against the
 truck</h4>
-<p>Pin weight ceiling <strong>3,629 lb</strong>, from <a
+<p>Pin weight ceiling <strong>~3,625 lb</strong>, from <a
 href="#c10">chapter 10</a>.</p>
 <div class="tablewrap"><table>
 <thead>
