@@ -141,7 +141,10 @@ The three that fit on the proposed figures were checked. **All three are discont
 
 What changed:
 
-- **KZ 311TH10 - better than proposed.** The proposed 12,995 lb GVWR and 2,180 lb pin appear on none of KZ's pages; the earlier note (12,500 lb, 3,690 lb CCC) was right. It is the **lightest enclosed-garage trailer found so far, with the most margin** - loaded to GVWR it should sit around 2,300 lb of pin, over 1,300 lb under the ceiling. 2020 units are rated only 11,000 lb, so avoid that year. The garage length is inferred from the model name and must be measured.
+- **KZ 311TH10 - better than proposed.** The proposed 12,995 lb GVWR and 2,180 lb pin appear on none of KZ's pages; the earlier note (12,500 lb, 3,690 lb CCC) was right. It is the **lightest enclosed-garage trailer found so far, with the most margin** - loaded to GVWR it should sit around 2,300 lb of pin, over 1,300 lb under the ceiling. 2020 units are rated only 11,000 lb, so avoid that year. The garage length is inferred from the model name and must be measured. KZ's 2023 spec table, confirmed by the owner the same day, adds three details:
+  - **Dry axle weight is 7,210 lb.** The dry pin is therefore 18.2% of UVW, the basis of the ~2,275 lb estimate.
+  - **The 34 ft length runs from the rear bumper to the center of the coupler.** It is not overall length, so the trailer is slightly longer overall.
+  - **Exterior height is 12 ft 7 in with the A/C.** The weights are rolling averages for the model, so read the unit's own label before buying.
 - **XLR Nitro 321 - moves to marginal.** It is 1 ft longer, has a 1 ft longer garage and is rated **2,590 lb heavier** than proposed. At 16,585 lb it is in the same position as the Triton: workable only well under GVWR.
 - **Wolf Pack 315PACK12 - confirmed for 2023-2024.** The proposed figures match those years exactly. It fits on weight, but it is 5 ft 7 in over the 35 ft preference and has the least cargo capacity of the three. Its garage wall still needs confirming from a floorplan.
 
