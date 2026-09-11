@@ -274,6 +274,36 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 - Garage door dimensions and floor length, to confirm the scooter fits.
 - Model year for each figure, and the brochure it came from. Only the Stealth (2021) and Triton (2018) are year-qualified so far.
 
+## Manufacturers
+
+This table lists the brands that have built fifth-wheel toy haulers since 2018. It is a starting point for the search, not a candidate list; individual floorplans are not listed here yet. It combines a list proposed on 11 September 2026 with corrections from the research above. **Status is verified only where the Notes column says so.** Everything else is as proposed.
+
+**Weight class** is a rough screen against the truck's ~3,625 lb pin ceiling. A trailer needs about 14,500 lb GVWR or less at a 25% pin, and 16,000 lb at most on a light pin.
+- **Heavy:** the line is built for heavier trucks, and almost every model is over the ceiling.
+- **Possible:** the line has, or had, models in range.
+
+| Manufacturer | Fifth-wheel toy hauler lines | Status | Weight class | Notes |
+| --- | --- | --- | --- | --- |
+| Alliance RV | Valor, Valor All-Access | Current | Possible | **Verified:** All-Access models have **shared** garages; the 36V11 is enclosed but heavy. 31A10 replaced by 32A10 |
+| Brinkley RV | Model G | Current | Heavy | Proposed as introduced in 2025 - the year is unverified |
+| DRV Luxury Suites | Full House | Limited production | Heavy | Luxury class |
+| Dutchmen | Voltage (incl. Triton) | Proposed as current - **unverified** | Heavy to marginal | 2018 Triton 3351 is on the shortlist; the garage changed after 2018 |
+| Eclipse RV | Attitude, Stellar, Iconic | Mostly western US | Possible | Builds lighter toy haulers. **Iconic 2814SG verified as a travel trailer** - confirm which lines include fifth wheels |
+| Forest River | Cherokee Wolf Pack, XLR Boost, XLR Micro Boost, XLR Nitro, XLR Thunderbolt, Vengeance, Vengeance Rogue SUT, Rogue Armored, Shockwave, Sandstorm, Stealth, Nightfall | Current, varies by region | Possible | **Verified:** Rogue SUT, Wolf Pack, Nitro 321, Boost 286B, Micro Boost, Sandstorm and Nightfall are all in this chapter. The proposal omitted XLR Boost, Micro Boost, Thunderbolt and Rogue SUT |
+| Genesis Supreme | Genesis Supreme | Current | Possible | G3215FSXL verified as a travel trailer - confirm fifth-wheel models |
+| Grand Design | Momentum, Momentum G-Class, Momentum M-Class | Current | Heavy | **Verified:** nine Momentum models screened above - four over the ceiling empty; 320G/325G marginal |
+| Gulf Stream | Wide Open | Limited production | Possible | |
+| Heartland | Cyclone, Torque, Road Warrior, Fuel, Gravity | **Only Cyclone current** | Heavy | **Verified:** the 2026-2027 site shows only Cyclone; Torque, Road Warrior, Fuel and Gravity are discontinued |
+| Jayco | Seismic; Seismic Luxury | **Seismic current; Seismic Luxury ended after 2025** | Heavy | **Verified:** the 2026-2027 Seismic (359, 395, 399, 413) replaced Seismic Luxury |
+| Keystone | Raptor, Fuzion, Fuzion Impact, Carbon | **Carbon is current**; Fuzion and Impact unverified | Raptor heavy; Carbon possible | **Verified:** the 2027 Carbon lineup is 310, 330, 361LT, 363, 368 and 420 - the proposal's "Carbon discontinued" is wrong. Carbon 347 discontinued |
+| KZ RV | Sportster (now Sportster X), Venom | Sportster X current; Venom discontinued | Possible | **Verified:** Sportster 311TH10 ended in 2023 and is on the shortlist |
+| Luxe (The RV Factory) | Luxe Toy Hauler | Current | Heavy | Luxury class |
+| New Horizons | Summit, Majestic toy haulers | Current - custom-built | Heavy | Custom-built, so weight depends on the build |
+| Northwood | Desert Fox | Regional availability | Possible, probably heavy | Off-road construction adds weight |
+| Outdoors RV | Trail Series | Limited production | Possible, probably heavy | Off-road construction adds weight |
+| Palomino | Puma Unleashed | Discontinued | Possible | Used market only |
+| Winnebago | Spyder | Proposed as discontinued - **existence unverified** | - | No Winnebago fifth-wheel toy hauler by this name is known. Treat as doubtful until a brochure is found |
+
 ## Rejected
 
 | Model | Reason |

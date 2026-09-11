@@ -119,6 +119,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Requirement](chapters/15-fifth-wheel-candidates.md#requirement) |
 | | [What this truck can pull](chapters/15-fifth-wheel-candidates.md#what-this-truck-can-pull) |
 | | [Shortlist](chapters/15-fifth-wheel-candidates.md#shortlist) |
+| | [Manufacturers](chapters/15-fifth-wheel-candidates.md#manufacturers) |
 | | [Rejected](chapters/15-fifth-wheel-candidates.md#rejected) |
 | | [Notes on the current list](chapters/15-fifth-wheel-candidates.md#notes-on-the-current-list) |
 | | [Verification standard](chapters/15-fifth-wheel-candidates.md#verification-standard) |
