@@ -161,7 +161,7 @@ The three that fit on the proposed figures were checked. **All three are discont
 | [KZ Sportster 311TH10](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) | 2021-2023 (last) | 34 ft | **10 ft** (floorplan); ramp door 88 x 91 in | **Enclosed** - floorplan shows a wall and door | **12,500** | 8,810 / **1,600** | 3,690 | 75 gal | ~2,275 | **29%** |
 | [Forest River XLR Nitro 321](https://www.rvguide.com/specs/forest-river/toy-hauler/2023/xlr-nitro/321.html) | 2021-2024 | **37 ft 10 in** | **11 ft** (132 in) | Enclosed - "separate garage" in Forest River listing text | **16,585** | 12,234 / 2,585 | 4,351 | 102 gal | ~3,500 | **22%** |
 | [Forest River Wolf Pack 315PACK12](https://www.rvguide.com/specs/forest-river/toy-hauler/2024/cherokee-wolf-pack/315pack12.html) | 2023-2024 | 40 ft 7 in | 12 ft (144 in) | **Enclosed** - 2021 floorplan shows a wall and door | 14,260 | 11,220 / 2,260 | 3,040 | 96 gal | ~2,875 | 25% |
-| [Forest River Wolf Pack 315PACK12](https://www.rvguide.com/specs/forest-river/toy-hauler/2021/cherokee-wolf-pack/315pack12.html) | 2020-2022 | 39 ft 3 in | 12 ft (144 in) | As above | 14,036 | 10,762 / 2,036 | 3,274 | 100 gal | ~2,650 | 26% |
+| [Forest River Wolf Pack 315PACK12](https://www.rvguide.com/specs/forest-river/toy-hauler/2021/cherokee-wolf-pack/315pack12.html) | 2019-2022 | 39 ft 3 in | 12 ft (144 in) | As above | 14,036 | 10,762 / 2,036 | 3,274 | 100 gal | ~2,650 | 26% |
 
 What changed:
 
@@ -174,7 +174,8 @@ What changed:
   - **The garage is enclosed.** This comes from the [2021 Forest River floorplan](https://www.petesrv.com/product/used-2021-forest-river-rv-cherokee-wolf-pack-315pack12-3364464-26) on a dealer listing. Forest River's own page for this discontinued model is gone. A wall with a hinged door separates the garage from the living area, and the feature text calls it a "12' Separate Garage". RVGuide also lists a soft cargo wall as standard for 2024, so confirm whether a unit has the solid wall or only the soft one.
   - **The garage measures 12 ft by 97.5 in.** The 12 ft arrow spans the garage floor itself, like the KZ's and unlike the Rogue's, so this appears to be real clear length.
   - **The garage is furnished** with a HappiJac bed lift and a folding dinette table with side sofas. The wall carries overhead cabinets and washer/dryer prep.
-  - **The ramp door looks to be 96 x 96 in**, though the label is small and hard to read.
+  - **The ramp door is 96 x 96 in.** The 2019 floorplan on a [Kunes RV listing](https://kunesrv.com/inventory/Used-2019-Forest_River-Cherokee_Wolf_Pack-315Pack12-5ZT3CTXB0K1212213-153) labels it clearly. That door is 8 in wider than the KZ's 88 in.
+  - The same 2019 plan has the same layout: a 12 ft garage, HappiJac power beds over the sofas, a removable dinette table, and a partition carrying overhead cabinets, washer/dryer prep and a TV mount. The listing's 2019 figures (14,036 lb GVWR, 10,762 lb dry, 100 gal fresh water) match the 2020-2022 row, so **2019-2022 is one specification**.
   - **Other features:** a 30 gal fuel station, two entry doors and an outside kitchen.
   - The 2023-2024 trailer is 16 in longer than the 2021, so its layout may differ slightly.
 
