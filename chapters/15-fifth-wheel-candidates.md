@@ -6,6 +6,8 @@ Shortlist of fifth wheels under consideration, and the screening arithmetic that
 
 An **enclosed garage** - a wall and door separating the garage from the main living area, not merely a cargo area. This is a stricter definition than most manufacturers use in their marketing, and it is the criterion that has moved models on and off this list.
 
+**The garage has to carry two bikes**: a Yamaha Zuma 125 (~282 lb wet) and a large motorcycle, chocked with the Condor SCC-4000 and SC-2000 respectively ([chapter 9](09-accessories-and-modifications.md)). That sets a floor on garage length and on cargo carrying capacity - record the large motorcycle's weight and length here once known.
+
 The requirement stands because the [front-mounted motorcycle carrier](10-fifth-wheel-and-towing.md#front-mounted-motorcycle-carrier---archived) was archived on 9 September 2026. That proposal would have removed the need for a garage entirely; without it, the scooter travels in the trailer.
 
 ## What this truck can pull
@@ -27,7 +29,7 @@ GVWR and dry pin recorded 10 September 2026. **Max pin %** is the pin ratio at w
 | Model | Length | GVWR | Dry pin | Garage | Enclosed | Beaver tail | Max pin % | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Forest River **XLR Micro Boost 301LRLE** | 32 ft 6 in | **11,495** | 1,645 | ~17 ft | No | Yes | **32%** | Strong contender |
-| Forest River **Cherokee Black Label 256RRBL** | 30 ft 7 in | **11,630** | 1,430 | 14 ft 6¼ in | No | Yes | **31%** | Strong contender |
+| [Forest River **Cherokee Black Label 256RRBL**](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) (2026, dealer stock only) | 30 ft 7 in | **11,630** | 1,430 | 14 ft 6¼ in | No | Yes | **31%** | Strong contender |
 | Forest River **XLR Boost 286B** | 31 ft 4 in | **13,994** | 2,090 | ~15 ft | No | Yes | **26%** | **Favorite** |
 | Keystone **Carbon 321LT** | ~32 ft | **14,000** | ~2,000 | 15 ft 8 in | No | Yes | **26%** | Research candidate |
 | Forest River **Nightfall 270N / 270NF** | 32 ft 3 in | **14,759** | 2,165 | 16 ft | No | Yes | **25%** | **Favorite** |
@@ -71,6 +73,25 @@ The shortlist is balancing three things that pull against each other:
 - **payload margin** against this truck.
 
 The three enclosed-garage candidates are also the three heaviest, and the two with the most margin have no enclosed garage. No model on the list is strong on all three at once, which is why the search has been difficult. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
+
+### Cherokee Black Label 256RRBL - confirmed
+
+Verified against [Forest River's model page](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) on 10 September 2026, for the **2026** model (sold as dealer stock only). The figures in the table above match it exactly.
+
+| Specification | Value |
+| --- | --- |
+| Type | **Fifth wheel** |
+| Hitch weight | 1,430 lb |
+| GVWR | 11,630 lb |
+| UVW (dry) | 7,108 lb |
+| Cargo carrying capacity | 4,522 lb |
+| Length / height / width | 30 ft 7 in / 12 ft 10 in / 96 in |
+| Fresh / gray / black water | 52 / 38 / 38 gal |
+| Awning | 15 ft |
+
+A research note elsewhere had it listed as a travel trailer; that is wrong. The manufacturer page does not state the type in words, but the numbers settle it - a 1,430 lb hitch weight on a 7,108 lb dry trailer is **20%**, which is fifth-wheel territory; a travel trailer's tongue typically runs 10-15%.
+
+It is the lightest candidate with published figures, and its 4,522 lb CCC is ample for two motorcycles and gear.
 
 ### Still needed per candidate
 
