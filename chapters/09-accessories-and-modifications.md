@@ -9,7 +9,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 11 | **$2,992.10** |
-| **Short-term** | by 7 December 2026 (90 days) | 20 | **$2,852.75** |
+| **Short-term** | by 7 December 2026 (90 days) | 22 | **$4,049.69** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 6 | $804.98 |
@@ -55,6 +55,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | Ford front wheel-well liners (`PC3Z-16F099-B`) | **$177.00** | Protection | Planned | 2-piece set. [Levittown Ford $177.00](https://www.levittownfordparts.com/sku/pc3z-16f099-b.html) vs [ford.com $200.00](https://www.ford.com/product/wheel-well-liners-2piece-set-black-front-p2878597730) - but see the Ford promotion note below |
 | [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Protection | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. See the WeatherTech shipping note below |
 | [WeatherTech SillProtector](https://www.weathertech.com/sillprotector-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_color=Black&wt_settype=4DoorSet&ymmSearch=true) | **$79.95** | Protection | Planned | Black, 4-door set, SuperCrew/Crew Cab - matches this truck |
+| [Haloview BT7 TPMS-6 Plus ATS-4 camera and TPMS system](https://www.haloview.com/bt7-tpms-6-plus-ats-4-1080p-wireless-backup-camera-system-with-integrated-tpms.html) | **$1,071.95** | Towing | Planned | Combined trailer camera and tire pressure monitoring. Includes the BT7 monitor, a BTC128W rear camera, a BTC133 side-marker light camera, **6 TPMS sensors**, **4 axle temperature sensors** and 2 signal boosters, all 1080p. The axle sensors read bearing spindle temperature at each wheel, which warns of a failing bearing before it strands the rig. Six TPMS sensors cover a **tandem-axle trailer (4 wheels) with two to spare**, or a triple axle; the four axle sensors suit a tandem axle. The **IR thermometer in the Immediate list stays useful** as a spot check and for the truck's own hubs. Haloview advises **brass metal valve stems**, not rubber, plastic or aluminum |
+| [Haloview BTC128 extra camera](https://www.haloview.com/btc128-byte-tango-camera.html) | **$124.99** | Towing | Planned | Second 1080p wireless camera for the BT7 above - a side or interior garage view. **Not compatible with 720p monitors**, and rated for vehicles up to 65 ft. Full-color low-light with remote-controlled fill lights. Haloview advises against wiring the trigger wire for long-hour viewing |
 | [Beech Lane wireless RV leveling system](https://www.amazon.com/Beech-Lane-User-Friendly-Real-Time-Measurements/dp/B0C28VJLG5) | **$99.99** | Towing | Planned | Phone app with real-time measurements; AA batteries included. Complements the ramps rather than replacing them - it tells you how far out of level you are, the ramps correct it |
 | [Hopkins 20049 Endurance 7-blade to 7-blade extension, 8 ft](https://www.walmart.com/ip/Hopkins-20049-Endurance-7-Blade-to-7-Blade-Molded-Cable-5th-Wheel-Extension-8/49346592) | **$81.26** | Towing | Planned | Molded cable, fifth-wheel extension. Runs from the in-bed 7-pin to the trailer - factory in-bed socket [still to be confirmed visually](#c02) |
 | [Beech Lane camper leveler, 2-pack](https://www.amazon.com/Beech-Lane-Camper-Leveler-Pack/dp/B07PM8X48R) | **$69.99** | Towing | Planned | Two curved levelers, **two chocks**, two rubber grip mats. Rated to 35,000 lb - well above the ~12,800-16,000 lb trailer ceiling in [chapter 10](10-fifth-wheel-and-towing.md). The included chocks cover that need |
@@ -69,7 +71,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Bolt It On Condor / Wheel Dock chock bracket](https://boltiton.com/products/condor-bracket) | **$69.99** | Towing | Planned | Tool-free crossbar that clamps a Condor chock to the **factory D-rings**, removable in seconds. **Requires drilling two 3/8 in holes in the chock.** Fits both chocks below. One bracket - order a second if both bikes travel at once |
 | [Condor SC-2000 trailer-only motorcycle chock](https://www.condor-lift.com/product/trailer-only-chock-part-sc-2000/) | **$187.00** | Towing | Planned | **For the large motorcycle.** Sale price; list $259.00. All-steel, 26 lb, folds to 7 in high. Fits 14-22 in wheels, 80-230 mm wide, bikes up to 3,000 lb |
 | [Condor SCC-4000 scooter chock](https://www.condor-lift.com/product/scooter-chock-part-scc-4000/) | **$175.00** | Towing | Planned | **For the Yamaha Zuma 125.** Sale price; list $215.00. Built for scooters and mopeds. **Floor adapter not included** - price it separately if the bracket isn't used |
-| **Phase total** | **$2,852.75** |  |  | *20 items priced* |
+| **Phase total** | **$4,049.69** |  |  | *22 items priced* |
 
 ### Long-term
 
