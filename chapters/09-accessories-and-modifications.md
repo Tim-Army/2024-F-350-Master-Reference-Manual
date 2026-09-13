@@ -12,7 +12,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | **Short-term** | by 7 December 2026 (90 days) | 23 | **$4,389.69** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
-| Researching | unscheduled - see [Researching](#researching) | 6 | $804.98 |
+| Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
 
 **How items were placed** - this is a proposal, adjust the `When` column as priorities change:
 
@@ -127,10 +127,11 @@ Items with an open question that has to be settled before they can be ordered. T
 | [TowTector Tier 2](https://ruggedgear.com/towtector-main/towtector-tier2) (`T2`) rear mud guard brush | **$374.99** base | Protection | Single brush strip, near-full-width, receiver-mounted. Price rises with configuration - see below |
 | [Pop & Lock PL9900 Gate Defender](https://www.amazon.com/Pop-Lock-PL9900-Tailgate-Defender/dp/B00TPXG0NO) | **$34.95** | Protection | Universal manual tailgate lock. Confirm how it interacts with the factory tailgate lock cylinder before ordering |
 | [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Protection | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
+| [Diesel Current 23+ Super Duty integration module harness](https://dieselcurrent.com/products/23-superduty-integration-module-harness) | **$45.00** - $125.00 | Electronics | **Which gauge and length?** Supplies a **constant 12V feed behind the lower glovebox** with no splicing into the truck's wiring - the clean way to power the [VIOFO dash cam](#short-term), the Haloview BT7 monitor, USB ports or a GPS. Ten variants by wire gauge, length and current: from `16ga/16ga 3ft (10a/10a)` at $45.00, through `16ga 3ft/12ga 13ft (10a/25a)` at $70.00, to `12ga x2/12ga x2 13ft (50a/50a)` at $125.00. The 13 ft runs reach beyond the dash. **Add up the expected load first**, then pick the variant - the linked one is the 10a/10a |
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Electronics and recording | Only needed if recording to an external SSD instead of microSD |
 | Bed cover |  | Storage | Owner still evaluating options. **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware |
 | [ABUS Granit 37RK/60 padlock](https://www.abususa.com/products/granit%E2%84%A2-37rk-60-high-security-padlock) | **$159.19** | Maintenance and security | Page also showed $176.88, likely a compare-at price - confirm which applies |
-| **Phase total** | **$804.98** |  | *6 items priced* |
+| **Phase total** | **$929.98** |  | *7 items priced* |
 
 ### Console Vault - the VaultLink option
 
