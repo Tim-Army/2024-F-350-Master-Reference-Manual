@@ -329,9 +329,9 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 
 | Model | Reason |
 | --- | --- |
-| Forest River Stealth SA2816G | Open cargo area, not an enclosed garage. :warning: Rejected **on garage type alone**, which is no longer a requirement - candidate to reconsider |
+| Forest River Stealth SA2816G | Open cargo area. Rejection confirmed by the owner on 14 September 2026 |
 | Forest River Stealth SA2316G | Layout does not suit |
-| 2019+ Dutchmen Triton 3351 | Open / shared cargo area - the garage layout changed after 2018. :warning: Rejected **on garage type alone** - candidate to reconsider |
+| 2019+ Dutchmen Triton 3351 | Open / shared cargo area - the garage layout changed after 2018. Rejection confirmed by the owner on 14 September 2026 |
 | Forest River Wildcat eXtraLite 311THX | Side-ramp layout |
 | Forest River Rogue Armored 371A13 | Too long |
 | Grand Design Momentum G-Class 315G | Too long for the target |
@@ -341,9 +341,9 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 
 ## Notes on the current list
 
-- **SA2816G removed** - it does not have an enclosed garage. That was the only reason, and garage type became a data point rather than a requirement on 14 September 2026.
+- **SA2816G removed** - it does not have an enclosed garage. Rejection confirmed by the owner on 14 September 2026, after garage type became a data point.
 - **SA3019G restored** - it does have an enclosed garage, though it exceeds the 35 ft preference.
-- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 (enclosed) and 2019+ (shared) are different propositions. Only the 2018 was kept, on garage type alone.
+- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 (enclosed) and 2019+ (shared) are different propositions. Only the 2018 is kept; the 2019+ rejection was confirmed on 14 September 2026.
 
 ## Verification standard
 
