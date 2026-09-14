@@ -36,7 +36,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | **Favorite** |
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
 | [Forest River **Sandstorm 2710**](https://forestriverinc.com/rvs/sandstorm/2710/15775) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 15 ft 7 in | **Shared** | **25%** | Same trailer as the Nightfall 270N - see below |
-| **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | - | ~19 ft | Enclosed - not verified | **24%** | Strong contender |
+| **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | 4,105 | 19 ft 10 in | **Shared** | **24%** | Strong contender |
 | **2018 Dutchmen Triton 3351** | 36 ft 6 in | ~16,500 | ~2,750-2,870 | - | 20 ft 3 in - unverified | Enclosed - not verified | **22%** | :warning: Marginal - not yet verified |
 
 Sorted by GVWR ascending, which is also the order of decreasing margin against this truck.
@@ -238,6 +238,16 @@ This is the 2021 floorplan and specifications from a Krenek RV Center listing (s
 - **The body is 8 ft (96 in) wide and 10 ft 9 in high**, the lowest trailer in this chapter. It has 50 / 38 / 38 gal tanks, two axles, 50 amp service and a 13,500 BTU A/C.
 - The model is discontinued, so this is a used-market search. At $34,992 for a new-old-stock 2021, the Krenek unit gives a reference price.
 
+### Stealth SA3019G - verified
+
+These are the 2021 figures from a Rowley White RV listing (stock #U22546W, Phoenix, AZ; used, deal pending, **$52,900** out the door with no dealer fees, 161 generator hours). The owner confirmed the shared garage from the interior photo on 14 September 2026.
+
+- **The garage is shared, not enclosed.** The chapter had recorded it as enclosed. The rear power dinette, electric bed and chairs sit in a 19 ft 10 in cargo area that opens straight into the kitchen and living area.
+- **The weights match the shortlist:** 2,416 lb hitch and 14,999 lb GVWR, plus **4,105 lb CCC**. The dry weight is given as 10,894 lb in the specifications but **10,670 lb** UVW in the dealer's description. Read the trailer's own label.
+- **The fresh water tank is 140 gal**, about 1,170 lb when full, the largest in this chapter. Towing with it full eats most of the cargo capacity and adds pin weight. Travel with it low.
+- **Tie-downs are rated 1,200 lb each**, the lowest in this chapter; the Micro Boost's are 5,000 lb and the Nightfall's 5,000 lb. That is adequate for the Zuma, but check that four points give enough margin for the large motorcycle.
+- **Other features:** a 3,000 lb ramp door with a patio cable kit, a 35 gal fuel station with a 5.5 kW Onan generator, two slides, a king bed, 95 / 40 gal gray / black tanks, a 102 in wide body and a **13 ft 4 in height**.
+
 ### Cherokee Black Label 256RRBL - confirmed
 
 Verified against [Forest River's model page](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) on 10 September 2026, for the **2026** model (sold as dealer stock only). The figures in the table above match it exactly.
@@ -342,7 +352,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 ## Notes on the current list
 
 - **SA2816G removed** - it does not have an enclosed garage. Rejection confirmed by the owner on 14 September 2026, after garage type became a data point.
-- **SA3019G restored** - it does have an enclosed garage, though it exceeds the 35 ft preference.
+- **SA3019G restored** - originally on the belief that its garage was enclosed. **That was wrong: the garage is shared** (confirmed 14 September 2026). It stays on the list because garage type is a data point, not a requirement. It exceeds the 35 ft preference.
 - **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 (enclosed) and 2019+ (shared) are different propositions. Only the 2018 is kept; the 2019+ rejection was confirmed on 14 September 2026.
 
 ## Verification standard
