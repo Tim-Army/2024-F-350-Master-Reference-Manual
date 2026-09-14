@@ -30,7 +30,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | 17 ft (204 in) | **Shared** | **31%** | Strong contender |
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
-| Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | ~2,000 - not verified | - | 15 ft 8 in | **Shared** | **26%** | Research candidate - dry pin and CCC still unverified |
+| Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | 2,000 (dealer) | 4,845 | 15 ft 8 in | **Shared** | **26%** | Candidate - weights from dealer listings, not yet from Keystone |
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | **Strong contender - verified enclosed, fits to 25%; the only current-production one** |
 | [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | **Favorite** |
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
@@ -254,6 +254,23 @@ This is the 2026 floorplan and listing from [SR1 RV, Turner, ME](https://www.sr1
 - **The rear garage door is 8 ft**, most likely its width. It is the only published door dimension, so the height is still unknown.
 - **The listing confirms a 14,000 lb GVWR and a 32 ft length.** It publishes **no dry pin, UVW or CCC**, so the ~2,000 lb pin is still an estimate. Get Keystone's figures or the unit's label before relying on the 26% screen.
 - **The unit's options:** Intense Interior, Extreme Exterior and Ramp Door Patio packages, electric 4-point leveling, a 10 cu ft 12V refrigerator, a second 8K A/C and Solar Flex Protect. The listing also names a MORryde CRE3000 suspension, a tankless water heater, a 20 ft awning and generator prep.
+- **Second listing, 14 September 2026:** Sunshine RV, Lake Havasu, AZ (stock #KY484, new 2026, **$56,995** against $86,298 MSRP, model-year closeout). It supplies the weights the SR1 listing lacked:
+
+  | Spec | Value |
+  | --- | --- |
+  | Hitch / dry weight | **2,000 / 9,100 lb** (22.0% dry pin ratio) |
+  | CCC | **4,845 lb**; dry weight plus CCC is 13,945 lb, within 55 lb of the 14,000 lb GVWR |
+  | Fresh / gray / black | 94 / 88 / 44 gal |
+  | Pin at GVWR (dry-ratio estimate) | **~3,075 lb**, about 550 lb under the ~3,625 lb ceiling |
+
+- **Garage dimensions from the dealer:**
+  - **15 ft 8 in x 78 in** at the narrowest point, beside the sofa.
+  - **13 ft 4 in x 87 in** up to the flip-up counter.
+  - **10 ft 4 in at full width.**
+
+  The garage is long but narrow where the furniture sits, about the same as the Micro Boost's 66 in and the Cherokee's 67 in pinch points.
+- **The ramp door is full size, 8 ft.** The unit also has **5,000 lb frame-welded tie-downs**, a 30 gal fuel cell, 7,000 lb Dexter axles, G-rated Maxxis tires, a 10 in I-beam frame and a Girard tankless water heater.
+- **Price spread:** the same 2026 model is listed at $44,900 in Maine and $56,995 in Arizona.
 - **The 2027 lineup has no 321LT.** The 2027 Carbon lineup recorded in the [Manufacturers](#manufacturers) table is the 310, 330, 361LT, 363, 368 and 420, so **2026 appears to be the last model year** for this floorplan.
 
 ### Dutchmen Voltage Triton 3351 - 2021 listing
