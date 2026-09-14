@@ -36,7 +36,6 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
 | [Forest River **Sandstorm 2710**](https://forestriverinc.com/rvs/sandstorm/2710/15775) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 15 ft 7 in | **Shared** | **25%** | Same trailer as the Nightfall 270N - see below |
 | **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | 4,105 | 19 ft 10 in | **Shared** | **24%** | Strong contender |
-| **2018 Dutchmen Triton 3351** ([Dutchmen brochure](https://assets-cdn.interactcp.com/interactrv/brand_brochure/brand_brochure_201803230347493917546925.pdf)) | 36 ft 5 in | **16,800** | 2,750 | 5,600 | 20 ft 3 in | **Shared** | **22%** | :x: **Fails on weight** - its 24.6% dry pin ratio puts ~4,125 lb on the hitch at GVWR |
 
 Sorted by GVWR ascending, which is also the order of decreasing margin against this truck.
 
@@ -56,7 +55,7 @@ A research summary proposed several corrections. Each was checked against the ma
 | Rogue SUT 323SUT pin is 2,090 lb | **Correct** - already recorded | Forest River 2026 |
 | "Genesis Supreme Sandstorm 2710" replaces the Triton 3351, whose 20 ft 3 in garage is marketing | **Wrong on three counts** | The Sandstorm is a **Forest River** product, not Genesis Supreme; it is a **different trailer** from the Dutchmen Triton, not a renamed entry; and its 15 ft 7 in garage is the Sandstorm's own, so it says nothing about the Triton's |
 
-The Triton 3351 stays on the list, marked unverified, rather than being removed on the strength of that conflation. Whether to drop it is the owner's call.
+The Triton 3351 stayed on the list rather than being removed on the strength of that conflation. It was later verified against the Dutchmen brochure and **rejected by the owner on 14 September 2026** for failing on weight.
 
 ### The Sandstorm 2710 is the Nightfall 270N
 
@@ -99,17 +98,16 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | XLR Boost 286B | 2,819 | 3,524 | Fits to 25% |
 | Nightfall 270N / Sandstorm 2710 | 2,952 | 3,690 | Over at 25% - needs pin under ~24.5% |
 | Stealth SA3019G | 3,000 | 3,750 | Needs pin under 24% |
-| **2018 Triton 3351** | 3,360 | 4,200 | **Over at 22%; the brochure's 24.6% dry ratio gives ~4,125 lb** |
 
 **The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. It is verified enclosed *and* comfortable at 25% pin. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other verified enclosed garage that fits at 25%; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
 
 **Both favorites have shared garages.** The Nightfall 270N and XLR Boost 286B have 16 ft shared garages. Garage type is a data point, not a requirement, so this does not count against them. In return for the open layout, they offer the longest verified garage floors that fit the truck at 25% pin.
 
-> **The 2018 Triton 3351 fails on weight.** Dutchmen's brochure gives a 16,800 lb GVWR, so the pin would have to stay below **21.6%** at full load. Its own dry pin ratio is **24.6%** (2,750 lb on an 11,200 lb trailer), which puts about 4,125 lb on the hitch at GVWR, roughly 500 lb over the ceiling. Its combined weight at GVWR would reach **28,700 lb**.
+> **Rejected 14 September 2026.** The 2018 Triton 3351 failed on weight. Dutchmen's brochure gives a 16,800 lb GVWR, so the pin would have to stay below **21.6%** at full load. Its own dry pin ratio is **24.6%** (2,750 lb on an 11,200 lb trailer), which puts about 4,125 lb on the hitch at GVWR, roughly 500 lb over the ceiling. Its combined weight at GVWR would reach **28,700 lb**.
 
 > **Do not eliminate a trailer on calculated pin percentage alone.** Loaded pin is not a fixed fraction of loaded weight. On a toy hauler it moves several hundred pounds depending on where cargo sits - garage load behind the axles reduces pin, forward tanks and storage increase it. These percentages rank candidates and flag which need care; a CAT scale ticket with the rig loaded settles it.
 
-> **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,745 lb (Micro Boost, the lightest remaining after the Cherokee was rejected) to 28,700 lb (Triton, at its brochure 16,800 lb GVWR).
+> **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,745 lb (Micro Boost, the lightest remaining after the Cherokee was rejected) to 26,899 lb (Stealth SA3019G, the heaviest remaining after the Triton was rejected).
 
 ### Candidates proposed 11 September 2026 - screened, not verified
 
@@ -290,7 +288,9 @@ This is a Lemke RV listing (Rocklin, CA; used **2021**, **$49,995**, about 69 ge
 
 **The dimension is the one chapter 15 records for the 2018.** The shortlist's 20 ft 3 in garage for the 2018 appears to come from this same drawing. If so, the **2018 garage is shared too**, and the premise that only 2019+ units have an open layout does not hold. The Dutchmen brochure has since **confirmed it: the 2018 garage is shared** (see below).
 
-#### 2018 Triton 3351 - verified against the Dutchmen brochure
+#### 2018 Triton 3351 - verified against the Dutchmen brochure, rejected
+
+**Rejected by the owner on 14 September 2026.** The model fails on weight: about 4,125 lb on the hitch at GVWR. The details below are kept for reference.
 
 These figures come from the owner on 14 September 2026: the [Dutchmen Triton brochure](https://assets-cdn.interactcp.com/interactrv/brand_brochure/brand_brochure_201803230347493917546925.pdf) (form TRI-HM0117, which does not print the model year) and a used 2018 unit at Blue Compass RV, Buffalo, NY (stock #UT21855, **$39,900**, $40,770 with fees), **later confirmed to be a 3551 listed under the wrong model**.
 
@@ -397,7 +397,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Alliance RV | Valor, Valor All-Access | Current | Possible | **Verified:** All-Access models have **shared** garages; the 36V11 is enclosed but heavy. 31A10 replaced by 32A10 |
 | Brinkley RV | Model G | Current | Heavy | Proposed as introduced in 2025 - the year is unverified |
 | DRV Luxury Suites | Full House | Limited production | Heavy | Luxury class |
-| Dutchmen | Voltage (incl. Triton) | Proposed as current - **unverified** | Heavy to marginal | 2018 Triton 3351 is on the shortlist but fails on weight; its garage is shared, like the 2019+. The 3551 and 3561 have enclosed garages but fail on length and weight |
+| Dutchmen | Voltage (incl. Triton) | Proposed as current - **unverified** | Heavy to marginal | 2018 Triton 3351 rejected (fails on weight); its garage is shared, like the 2019+. The 3551 and 3561 have enclosed garages but fail on length and weight |
 | Eclipse RV | Attitude, Stellar, Iconic | Mostly western US | Possible | Builds lighter toy haulers. **Iconic 2814SG verified as a travel trailer** - confirm which lines include fifth wheels |
 | Forest River | Cherokee Wolf Pack, XLR Boost, XLR Micro Boost, XLR Nitro, XLR Thunderbolt, Vengeance, Vengeance Rogue SUT, Rogue Armored, Shockwave, Sandstorm, Stealth, Nightfall | Current, varies by region | Possible | **Verified:** Rogue SUT, Wolf Pack, Nitro 321, Boost 286B, Micro Boost, Sandstorm and Nightfall are all in this chapter. The proposal omitted XLR Boost, Micro Boost, Thunderbolt and Rogue SUT |
 | Genesis Supreme | Genesis Supreme | Current | Possible | G3215FSXL verified as a travel trailer - confirm fifth-wheel models |
@@ -420,6 +420,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | --- | --- |
 | Forest River Stealth SA2816G | Open cargo area. Rejection confirmed by the owner on 14 September 2026 |
 | Forest River Stealth SA2316G | Layout does not suit |
+| 2018 Dutchmen Triton 3351 | Fails on weight - 24.6% dry pin ratio, ~4,125 lb at its 16,800 lb GVWR; shared garage; 36 ft 5 in. Rejected by the owner 14 September 2026 |
 | 2019+ Dutchmen Triton 3351 | Open / shared cargo area - the garage layout changed after 2018. Rejection confirmed by the owner on 14 September 2026 |
 | Forest River Wildcat eXtraLite 311THX | Side-ramp layout |
 | Forest River Rogue Armored 371A13 | Too long |
@@ -435,7 +436,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 
 - **SA2816G removed** - it does not have an enclosed garage. Rejection confirmed by the owner on 14 September 2026, after garage type became a data point.
 - **SA3019G restored** - originally on the belief that its garage was enclosed. **That was wrong: the garage is shared** (confirmed 14 September 2026). It stays on the list because garage type is a data point, not a requirement. It exceeds the 35 ft preference.
-- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 and 2019+ were treated as different propositions. Only the 2018 is kept; the 2019+ rejection was confirmed on 14 September 2026. The Dutchmen brochure (14 September 2026) shows the 2018 is shared as well, so the year split turned out not to matter for garage type.
+- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 and 2019+ were treated as different propositions. Both are now rejected: the 2019+ and the 2018, both on 14 September 2026. The Dutchmen brochure (14 September 2026) shows the 2018 is shared as well, so the year split turned out not to matter for garage type.
 
 ## Verification standard
 
