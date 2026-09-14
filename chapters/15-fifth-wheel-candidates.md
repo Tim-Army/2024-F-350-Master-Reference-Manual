@@ -135,6 +135,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 
 | Trailer | Length | GVWR | Dry pin | Pin share that would reach the limit at full GVWR | Why |
 | --- | --- | --- | --- | --- | --- |
+| Keystone Raptor Carbon 330 (2027; RVingPlanet / PleasureLand RV listing, $93,995) | 35 ft 11 in | 16,765 (12,405 dry + 4,360 CCC) | 2,765 | 22% | 22.3% dry pin ratio gives **~3,740 lb at GVWR - over the ceiling**. Enclosed 10 ft garage (wall, washer/dryer prep, loft bunks, 5,000 lb tie-downs). Added 14 September 2026 |
 | Grand Design Momentum 381MS | 43 ft 11 in | 23,500 | 3,726 | 15% | **Over the pin ceiling empty** |
 | Grand Design Momentum 392M | 45 ft 11 in | 23,500 | 3,650 | 15% | **Over the pin ceiling empty** |
 | Grand Design Momentum 395MT | 46 ft 4 in | 23,500 | 3,760 | 15% | **Over the pin ceiling empty** |
