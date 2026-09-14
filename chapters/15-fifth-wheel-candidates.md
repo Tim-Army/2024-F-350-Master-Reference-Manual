@@ -193,7 +193,7 @@ Ten more models were proposed. **None is sold under that name for 2026 or 2027.*
 
 | Trailer | Year used | Length | Garage | Garage type | GVWR | Dry pin | Pin at GVWR (est.) | Pin share that would reach the limit at full GVWR | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Alliance Valor All-Access 31A10 | 2025, discontinued | 34 ft 8 in | 10 ft | **Shared** | 16,500 | 2,100 | ~3,100 | 22% | 3P |
+| Alliance Valor All-Access 31A10 | 2025, discontinued | 34 ft 8 in | 10 ft | **Shared** | 16,500 | 2,100 | ~3,100 | 22% | 3P - **no used units for sale** (owner, 14 September 2026) |
 | Alliance Valor All-Access 32A10 (31A10's successor) | 2027 | 35 ft 11 in | ~10 ft | **Shared** | 16,800 | 2,300 | ~3,200 | 22% | [Alliance](https://www.alliancerv.com/floorplan/valor/32a10) |
 | Heartland Cyclone 3110 | 2016, discontinued | 38 ft 2 in | 10 ft | Enclosed | 16,250 | 3,180 | ~3,600 | 22% | 3P - only 1,865 lb cargo capacity |
 | Prime Time Spartan 300 3210 | 2017, discontinued ~2018 | 36 ft 2 in | 10 ft | Enclosed | 16,616 | 2,612 | ~3,700 | 22% | 3P |
