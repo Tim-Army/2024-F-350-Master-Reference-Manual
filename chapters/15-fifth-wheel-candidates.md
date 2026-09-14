@@ -24,9 +24,9 @@ From [chapter 10](10-fifth-wheel-and-towing.md), on the truck's measured figures
 
 ## Shortlist
 
-Verified against manufacturer pages and floorplans on 11 September 2026; model year shown where the source states it. **Max pin %** is the pin ratio at which a trailer loaded to its GVWR would exactly reach this truck's ~3,625 lb pin ceiling - above that ratio, the rear axle is over its rating. **Garage** distinguishes an *enclosed* garage (wall and door) from a *shared* one, where dinettes, beds or a fireplace sit in the garage and it opens straight into the kitchen.
+Verified against manufacturer pages and floorplans on 11 September 2026; model year shown where the source states it. **Pin share that would reach the limit at full GVWR** (formerly "Max pin %") is the pin ratio at which a trailer loaded to its GVWR would exactly reach this truck's ~3,625 lb pin ceiling - above that ratio, the rear axle is over its rating. **Garage** distinguishes an *enclosed* garage (wall and door) from a *shared* one, where dinettes, beds or a fireplace sit in the garage and it opens straight into the kitchen.
 
-| Model | Length | GVWR | Dry pin | CCC | Garage | Garage type | Max pin % | Status |
+| Model | Length | GVWR | Dry pin | CCC | Garage | Garage type | Pin share that would reach the limit at full GVWR | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Forest River **Cherokee Black Label 256RRBL**](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) (2026) | 30 ft 7 in | 11,630 | 1,430 | 4,522 | 14 ft 6¼ in | **Shared** | **31%** | Strong contender |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | 17 ft (204 in) | **Shared** | **31%** | Strong contender |
@@ -130,7 +130,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 
 #### Ruled out by the truck
 
-| Trailer | Length | GVWR | Dry pin | Max pin % | Why |
+| Trailer | Length | GVWR | Dry pin | Pin share that would reach the limit at full GVWR | Why |
 | --- | --- | --- | --- | --- | --- |
 | Grand Design Momentum 381MS | 43 ft 11 in | 23,500 | 3,726 | 15% | **Over the pin ceiling empty** |
 | Grand Design Momentum 392M | 45 ft 11 in | 23,500 | 3,650 | 15% | **Over the pin ceiling empty** |
@@ -146,7 +146,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 
 #### Marginal
 
-| Trailer | Length | GVWR | Dry pin | Max pin % | Note |
+| Trailer | Length | GVWR | Dry pin | Pin share that would reach the limit at full GVWR | Note |
 | --- | --- | --- | --- | --- | --- |
 | Grand Design Momentum 320G | 36 ft 3 in | 16,400 | 2,300 | 22% | Same position as the Triton - workable only well under GVWR |
 | Grand Design Momentum 325G | 35 ft 6 in | 16,400 | 2,474 | 22% | As above |
@@ -156,7 +156,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 
 The three that fit on the proposed figures were checked. **All three are discontinued, and the proposed figures were partly wrong for each.** KZ's own pages loaded, so the KZ figures are the manufacturer's. Forest River's site refused every request, so the Nitro and Wolf Pack figures come from RVGuide and dealer listings, which agree with each other but are not manufacturer-confirmed.
 
-| Trailer | Years | Length | Garage | Garage type | GVWR | Dry / pin | CCC | Fresh | Pin at GVWR (est.) | Max pin % |
+| Trailer | Years | Length | Garage | Garage type | GVWR | Dry / pin | CCC | Fresh | Pin at GVWR (est.) | Pin share that would reach the limit at full GVWR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [KZ Sportster 311TH10](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) | 2021-2023 (last) | 34 ft | **10 ft** (floorplan); ramp door 88 x 91 in | **Enclosed** - floorplan shows a wall and door | **12,500** | 8,810 / **1,600** | 3,690 | 75 gal | ~2,275 | **29%** |
 | [Forest River XLR Nitro 321](https://assets-cdn.interactcp.com/interactrv/brand_brochure/brand_brochure_20230828110357554499640.pdf) (2023 XLR brochure) | 2021-2024 | **37 ft 10 in** | **11 ft** (132 in) | Enclosed - "separated garage", partition on plan | **16,585** | 12,234 / 2,585 | 4,351 | 102 gal | ~3,500 | **22%** |
@@ -192,7 +192,7 @@ Ten more models were proposed. **None is sold under that name for 2026 or 2027.*
 
 **Pin at GVWR (est.)** scales the dry pin share of dry weight up to GVWR. It is a rough screen: loading the garage, behind the axles, pulls pin weight down, while loading the front storage pushes it up. Ceiling ~3,625 lb.
 
-| Trailer | Year used | Length | Garage | Garage type | GVWR | Dry pin | Pin at GVWR (est.) | Max pin % | Source |
+| Trailer | Year used | Length | Garage | Garage type | GVWR | Dry pin | Pin at GVWR (est.) | Pin share that would reach the limit at full GVWR | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Alliance Valor All-Access 31A10 | 2025, discontinued | 34 ft 8 in | 10 ft | **Shared** | 16,500 | 2,100 | ~3,100 | 22% | 3P |
 | Alliance Valor All-Access 32A10 (31A10's successor) | 2027 | 35 ft 11 in | ~10 ft | **Shared** | 16,800 | 2,300 | ~3,200 | 22% | [Alliance](https://www.alliancerv.com/floorplan/valor/32a10) |
