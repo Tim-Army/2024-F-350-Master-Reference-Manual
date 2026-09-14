@@ -31,7 +31,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [Forest River **Cherokee Black Label 256RRBL**](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) (2026) | 30 ft 7 in | 11,630 | 1,430 | 4,522 | 14 ft 6¼ in | **Shared** | **31%** | Strong contender |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | 17 ft (204 in) | **Shared** | **31%** | Strong contender |
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
-| Keystone **Carbon 321LT** | ~32 ft | ~14,000 | ~2,000 | - | 15 ft 8 in | Not verified | **26%** | Research candidate - not yet verified |
+| Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | ~2,000 - not verified | - | 15 ft 8 in | **Shared** | **26%** | Research candidate - dry pin and CCC still unverified |
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | **Strong contender - verified enclosed, fits to 25%; the only current-production one** |
 | [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | **Favorite** |
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
@@ -247,6 +247,16 @@ These are the 2021 figures from a Rowley White RV listing (stock #U22546W, Phoen
 - **The fresh water tank is 140 gal**, about 1,170 lb when full, the largest in this chapter. Towing with it full eats most of the cargo capacity and adds pin weight. Travel with it low.
 - **Tie-downs are rated 1,200 lb each**, the lowest in this chapter; the Micro Boost's are 5,000 lb and the Nightfall's 5,000 lb. That is adequate for the Zuma, but check that four points give enough margin for the large motorcycle.
 - **Other features:** a 3,000 lb ramp door with a patio cable kit, a 35 gal fuel station with a 5.5 kW Onan generator, two slides, a king bed, 95 / 40 gal gray / black tanks, a 102 in wide body and a **13 ft 4 in height**.
+
+### Keystone Raptor Carbon Series 321LT - floorplan verified
+
+This is the 2026 floorplan and listing from [SR1 RV, Turner, ME](https://www.sr1rv.com/product/new-2026-keystone-rv-raptor-carbon-series-321lt-2963643-26), via RV Trader, supplied by the owner on 14 September 2026. The trailer is new, priced at **$44,900** ("$39K off"), negotiable, and has been listed for 120+ days. The dealer is about 1,094 miles away.
+
+- **The garage is shared.** The 15 ft 8 in garage area opens straight into the kitchen, with no wall or door. It holds a sofa with a queen bed above, two flip-up countertops and the fireplace. The garage floor runs up to the refrigerator.
+- **The rear garage door is 8 ft**, most likely its width. It is the only published door dimension, so the height is still unknown.
+- **The listing confirms a 14,000 lb GVWR and a 32 ft length.** It publishes **no dry pin, UVW or CCC**, so the ~2,000 lb pin is still an estimate. Get Keystone's figures or the unit's label before relying on the 26% screen.
+- **The unit's options:** Intense Interior, Extreme Exterior and Ramp Door Patio packages, electric 4-point leveling, a 10 cu ft 12V refrigerator, a second 8K A/C and Solar Flex Protect. The listing also names a MORryde CRE3000 suspension, a tankless water heater, a 20 ft awning and generator prep.
+- **The 2027 lineup has no 321LT.** The 2027 Carbon lineup recorded in the [Manufacturers](#manufacturers) table is the 310, 330, 361LT, 363, 368 and 420, so **2026 appears to be the last model year** for this floorplan.
 
 ### Cherokee Black Label 256RRBL - confirmed
 
