@@ -18,6 +18,6 @@ Related chapter: [10. Fifth-Wheel & Towing](../chapters/10-fifth-wheel-and-towin
 
 Ticket recorded under Derg Enterprises, tractor 1 / trailer 0, commodity "freight all kinds". **Weighed with a full tank.** The 7,200 lb gross is therefore 134 lb below Ford's assumed curb weight for this build - see [chapter 10](../chapters/10-fifth-wheel-and-towing.md). Record the fuel state on every future ticket; it is the largest single variable between weigh-ins.
 
-**11 September ticket:** two people in the front seats (REF-027). The ticket is internally consistent: 4,380 + 3,200 = 7,580 lb. **Fuel level, occupant weights and loose cargo were not recorded.** Since 8 September the cab has gained floor liners and the on-board kit (inflator, socket set, first aid kit, tool bag), so the +380 lb is not purely the two occupants.
+**11 September ticket:** two people in the front seats (REF-027). The ticket is internally consistent: 4,380 + 3,200 = 7,580 lb. **Fuel: full tank assumed** (owner, 14 September 2026), the same as on 8 September. **Occupant weights and loose cargo were not recorded.** Since 8 September the cab has gained floor liners and the on-board kit (inflator, socket set, first aid kit, tool bag), so the +380 lb is not purely the two occupants.
 
 Still to weigh: loaded truck with the hitch fitted, and truck with trailer coupled - the second is what establishes actual pin weight and the real margin against the 7,230 lb rear GAWR.

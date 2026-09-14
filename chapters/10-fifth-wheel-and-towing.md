@@ -66,11 +66,11 @@ The ticket is internally consistent: 4,380 + 3,200 = 7,580 lb.
 
 **It is not a clean occupant measurement**, for three reasons:
 
-- **Fuel level was not recorded.** The 8 September ticket was on a full tank. Gasoline weighs about 6.1 lb/gal, so a quarter tank less (12 gal) is about 75 lb.
+- **Fuel: a full tank is assumed** (owner, 14 September 2026). That matches the 8 September ticket, so fuel is not part of the change.
 - **Occupant weights were not recorded.** The working case assumes 400 lb for two people, but the gross rose only 380 lb.
 - **The cab gained weight between tickets.** Floor liners and the on-board kit (tire inflator, socket set, first aid kit, tool bag) were added, much of it on the rear floor.
 
-These partly cancel. Treat 32% as indicative, not exact.
+With fuel equal on both tickets, the +380 lb is the two occupants plus the cab additions. If the liners and kit weigh about 50-80 lb, the occupants weighed roughly **300-330 lb** together, below the 400 lb working case. Treat 32% as indicative, not exact.
 
 **Maximum pin weight on the measured rear axle:**
 
@@ -83,7 +83,7 @@ These partly cancel. Treat 32% as indicative, not exact.
 | Less cargo in the bed | -200 lb |
 | **= available for pin weight** | **~3,669 lb** |
 
-That is **about 45 lb better than the ~3,625 lb estimate**, and it comes from measuring the occupants rather than estimating them. **The planning figure stays at ~3,625 lb, plan on 3,600 lb,** until a ticket records the fuel level and is taken with the hitch fitted. The measurement confirms the estimate was on the safe side. Payload still does not bind: 4,320 lb spare gross, less the hitch and bed cargo, leaves about 3,959 lb, more than the rear axle allows.
+That is **about 45 lb better than the ~3,625 lb estimate**, and it comes from measuring the occupants rather than estimating them. Scaling the measured occupants up to the 400 lb working case (about another 70-100 lb at the measured 32% rear share, so roughly 25-30 lb more on the rear axle) gives **~3,640 lb**, still above the estimate. **The planning figure stays at ~3,625 lb, plan on 3,600 lb,** until a ticket is taken with the hitch fitted. The measurement confirms the estimate was on the safe side. Payload still does not bind: 4,320 lb spare gross, less the hitch and bed cargo, leaves about 3,959 lb, more than the rear axle allows.
 
 ### Maximum pin weight
 
