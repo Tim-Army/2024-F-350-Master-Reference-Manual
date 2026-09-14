@@ -142,7 +142,7 @@ Two refinements, both in the truck's favor and both deliberately left out:
 
 ### Working case
 
-The planning assumption for this truck is **400 lb of people and 200 lb of cargo**, which gives an **estimated maximum pin weight of ~3,625 lb** - plan on **3,600 lb**.
+The planning assumption for this truck is **400 lb of people and 200 lb of cargo** (the 400 lb passenger figure confirmed by the owner on 14 September 2026, after the 11 September weigh suggested lighter actual occupants), which gives an **estimated maximum pin weight of ~3,625 lb** - plan on **3,600 lb**.
 
 | Pin ratio | Loaded trailer supported |
 | --- | --- |
