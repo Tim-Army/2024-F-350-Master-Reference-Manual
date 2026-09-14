@@ -31,6 +31,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [KZ **Sportster 280TH**](https://www.kz-rv.com/2024-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/floorplans.html) (2024) | 32 ft 6 in | **11,500** | 1,680 | 3,190 | 12 ft 3 in (18 ft 11 in to the entry steps) | **Shared** | **32%** | Candidate - the lightest GVWR on the list; lowest CCC |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | 17 ft (204 in) | **Shared** | **31%** | Strong contender |
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
+| [KZ **Sportster 331TH13**](https://www.kz-rv.com/2024-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/floorplans.html) (2022) | **38 ft 6 in** | **12,995** | 2,180 | 3,215 | 13 ft | **Enclosed** | **28%** | Candidate - enclosed 13 ft garage that fits on weight; :warning: 38 ft 6 in, close to the 39 ft 5 in rejected as too long |
 | Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | 2,000 (dealer) | 4,845 | 15 ft 8 in | **Shared** | **26%** | Candidate - weights from dealer listings, not yet from Keystone |
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | :star: **Current favorite - the 2025 model** (owner, 14 September 2026). [Forest River's 2025 page](https://www.forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/10613) (dealer stock only) lists **identical** figures to 2026: 2,090 / 14,090 / 9,613 UVW / 4,477 CCC, 34 ft 10 in, 101 in wide, 96 / 44 / 44 gal |
 | [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | Strong contender - previously a co-favorite |
@@ -96,6 +97,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | Model | Pin at 20% | Pin at 25% | Verdict |
 | --- | --- | --- | --- |
 | KZ Sportster 280TH | 2,300 | 2,875 | Comfortable at any realistic ratio |
+| KZ Sportster 331TH13 | 2,599 | 3,249 | Comfortable at any realistic ratio |
 | XLR Micro Boost 301LRLE | 2,369 | 2,961 | Comfortable at any realistic ratio |
 | **KZ Sportster 311TH10** | 2,500 | 3,125 | **Comfortable at any realistic ratio** |
 | Carbon 321LT | 2,800 | 3,500 | Fits to 25% |
@@ -246,6 +248,24 @@ This is KZ's 2024 spec table and floorplan, supplied by the owner on 14 Septembe
 - **Options:** a 60 x 84 in power bed with sit-and-sleep over the rear (headroom when lowered), and a 30 gal fuel tank.
 - **Its CCC is the lowest on the shortlist: 3,190 lb.** Full fresh water (~625 lb), both bikes and gear will use a large share of it. Get the large motorcycle's weight before relying on it.
 - Like the 311TH10, the weights are KZ's rolling averages, so read the unit's label. Whether a used or new-stock unit is for sale has not been checked.
+
+### KZ Sportster 331TH13 - verified
+
+This is KZ's 2022 spec table and floorplan, supplied by the owner on 14 September 2026.
+
+| Spec | Value |
+| --- | --- |
+| GVWR / UVW / CCC | **12,995** / 9,780 / 3,215 lb |
+| Dry hitch / dry axle | **2,180** / 7,600 lb - dry pin ratio 22.3% |
+| Pin at GVWR (dry-ratio estimate) | **~2,900 lb**, about 725 lb under the ceiling |
+| Length (rear bumper to coupler center) / width / height | **38 ft 6 in** / 102 in / 12 ft 7 in with A/C |
+| Fresh / gray / waste | 75 / 32 / 32 gal |
+
+- **The garage is enclosed, 13 ft long.** A wall with a hinged door separates it from the living area, with washer/dryer prep on the garage side. The garage also has its own exterior side door. Of the verified garages that fit the truck, that makes it the **longest enclosed one**, 1 ft longer than the Wolf Pack 315PACK12's 12 ft, on a lighter trailer.
+- **The ramp door is 88 x 91 in**, with a screen door just inside. Options are a 60 x 84 in power bed over the garage, which takes headroom when lowered, and a 30 gal fuel tank.
+- **The living area is outside the garage:** an 80 in U-dinette and a 64 in tri-fold sofa in a slide, a rear-side bathroom and a front queen bedroom.
+- **This model explains the mystery 311TH10 figures.** The 12,995 lb GVWR and 2,180 lb pin that the 11 September proposal attributed to the 311TH10 are this model's figures.
+- **It has two drawbacks.** It is **38 ft 6 in** long, only 11 in shorter than the Wolf Pack 290PACK13 rejected as too long, and its CCC is low at 3,215 lb. KZ dropped it after 2024 (the current line is Sportster X), so this is a used-market search.
 
 ### XLR Micro Boost 301LRLE floorplan - verified
 
