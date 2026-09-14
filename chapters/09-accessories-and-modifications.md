@@ -102,7 +102,7 @@ Photographed in the truck on 13 September 2026. These are in hand, so they are n
 
 | Item | Where | Notes |
 | --- | --- | --- |
-| LASFIT all-weather floor liners | Front footwells, driver and passenger; rear-row liner | Molded TPE liners. The rear-row liner runs the full width under the 40/console/40 seat |
+| LASFIT all-weather floor liners | Front footwells, driver and passenger; rear-row liner | **Arrived by mail and installed 13 September 2026.** Molded TPE liners. The rear-row liner runs the full width under the 40/console/40 seat |
 | Husky digital tire inflator | Rear floor | Runs on 12V DC or 120V AC, with a digital pressure readout. It tops up tires, including the 60 / 80 PSI truck pressures in [chapter 1](01-vehicle-information.md). It is **not** the onboard air compressor [deferred](#deferred) for the load support kits |
 | Husky socket and ratchet set | Rear floor | Hard case, ¼ in and ⅜ in drive, SAE and metric |
 | Johnson & Johnson all-purpose first aid kit, 140 pieces | Rear floor | Hard case |
