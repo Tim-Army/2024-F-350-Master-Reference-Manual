@@ -36,7 +36,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
 | [Forest River **Sandstorm 2710**](https://forestriverinc.com/rvs/sandstorm/2710/15775) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 15 ft 7 in | **Shared** | **25%** | Same trailer as the Nightfall 270N - see below |
 | **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | 4,105 | 19 ft 10 in | **Shared** | **24%** | Strong contender |
-| **2018 Dutchmen Triton 3351** | 36 ft 6 in | ~16,500 | ~2,750-2,870 | - | 20 ft 3 in - unverified | **Probably shared** - see below | **22%** | :warning: Marginal - not yet verified |
+| **2018 Dutchmen Triton 3351** ([Dutchmen brochure](https://assets-cdn.interactcp.com/interactrv/brand_brochure/brand_brochure_201803230347493917546925.pdf)) | 36 ft 5 in | **16,800** | 2,750 | 5,600 | 20 ft 3 in | **Shared** | **22%** | :x: **Fails on weight** - its 24.6% dry pin ratio puts ~4,125 lb on the hitch at GVWR |
 
 Sorted by GVWR ascending, which is also the order of decreasing margin against this truck.
 
@@ -99,13 +99,13 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | XLR Boost 286B | 2,819 | 3,524 | Fits to 25% |
 | Nightfall 270N / Sandstorm 2710 | 2,952 | 3,690 | Over at 25% - needs pin under ~24.5% |
 | Stealth SA3019G | 3,000 | 3,750 | Needs pin under 24% |
-| **2018 Triton 3351** | 3,300 | 4,125 | **Over even at 22%** |
+| **2018 Triton 3351** | 3,360 | 4,200 | **Over at 22%; the brochure's 24.6% dry ratio gives ~4,125 lb** |
 
 **The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. It is verified enclosed *and* comfortable at 25% pin. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other verified enclosed garage that fits at 25%; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
 
 **Both favorites have shared garages.** The Nightfall 270N and XLR Boost 286B have 16 ft shared garages. Garage type is a data point, not a requirement, so this does not count against them. In return for the open layout, they offer the longest verified garage floors that fit the truck at 25% pin.
 
-> **The 2018 Triton 3351 has the least margin and demands disciplined loading.** At a 16,500 lb GVWR the pin must stay below **22%** to keep the rear axle legal. That is achievable - many fifth wheels run 20-22% - but it leaves nothing for a heavy forward load, and it is the only candidate whose combined weight at GVWR reaches **28,400 lb**. Its figures are not yet verified against a Dutchmen brochure.
+> **The 2018 Triton 3351 fails on weight.** Dutchmen's brochure gives a 16,800 lb GVWR, so the pin would have to stay below **21.6%** at full load. Its own dry pin ratio is **24.6%** (2,750 lb on an 11,200 lb trailer), which puts about 4,125 lb on the hitch at GVWR, roughly 500 lb over the ceiling. Its combined weight at GVWR would reach **28,700 lb**.
 
 > **Do not eliminate a trailer on calculated pin percentage alone.** Loaded pin is not a fixed fraction of loaded weight. On a toy hauler it moves several hundred pounds depending on where cargo sits - garage load behind the axles reduces pin, forward tanks and storage increase it. These percentages rank candidates and flag which need care; a CAT scale ticket with the rig loaded settles it.
 
@@ -148,7 +148,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 | --- | --- | --- | --- | --- | --- |
 | Grand Design Momentum 320G | 36 ft 3 in | 16,400 | 2,300 | 22% | Same position as the Triton - workable only well under GVWR |
 | Grand Design Momentum 325G | 35 ft 6 in | 16,400 | 2,474 | 22% | As above |
-| Dutchmen Voltage Triton 3351 (2018) | 36 ft 5 in | **16,800** | 2,872 | 22% | Proposed from [J.D. Power](https://www.jdpower.com/rvs/2018/voltage/m-3351/specs): 16,800 lb GVWR and a **15 ft 6 in** garage, against the 16,500 lb and 20 ft 3 in previously carried. If confirmed, slightly worse than recorded |
+| Dutchmen Voltage Triton 3351 (2018) | 36 ft 5 in | **16,800** | 2,872 | 22% | Proposed from [J.D. Power](https://www.jdpower.com/rvs/2018/voltage/m-3351/specs): 16,800 lb GVWR and a **15 ft 6 in** garage, against the 16,500 lb and 20 ft 3 in previously carried. **The Dutchmen brochure (14 September 2026) confirms the 16,800 lb GVWR and the 20 ft 3 in garage.** The 15 ft 6 in figure was wrong |
 
 #### Verified 11 September 2026
 
@@ -288,7 +288,26 @@ This is a Lemke RV listing (Rocklin, CA; used **2021**, **$49,995**, about 69 ge
 
 **The attached floorplan shows a shared garage.** The 20 ft 3 in dimension runs from the spring-assist ramp door to the kitchen. It covers a table, a lay-flat HappiJac power bunk and two chairs, with no wall or door. The dealer labels it "for example only", and it carries no year.
 
-**The dimension is the one chapter 15 records for the 2018.** The shortlist's 20 ft 3 in garage for the 2018 appears to come from this same drawing. If so, the **2018 garage is shared too**, and the premise that only 2019+ units have an open layout does not hold. The 2018 is now marked **probably shared** until a 2018 Dutchmen brochure confirms it. Either way it stays marginal on weight at 16,500-16,800 lb GVWR, and garage type is only a data point.
+**The dimension is the one chapter 15 records for the 2018.** The shortlist's 20 ft 3 in garage for the 2018 appears to come from this same drawing. If so, the **2018 garage is shared too**, and the premise that only 2019+ units have an open layout does not hold. The Dutchmen brochure has since **confirmed it: the 2018 garage is shared** (see below).
+
+#### 2018 Triton 3351 - verified against the Dutchmen brochure
+
+These figures come from the owner on 14 September 2026: the [Dutchmen Triton brochure](https://assets-cdn.interactcp.com/interactrv/brand_brochure/brand_brochure_201803230347493917546925.pdf) (form TRI-HM0117, which does not print the model year) and a used 2018 unit at Blue Compass RV, Buffalo, NY (stock #UT21855, **$39,900**, $40,770 with fees).
+
+| 3351 | Dutchmen brochure | 2018 dealer listing |
+| --- | --- | --- |
+| Length (hitch pin to rear bumper) / width / height | 36 ft 5 in / 100 in / 160 in (13 ft 4 in) | 36 ft 5 in / 8 ft 4 in / 13 ft 4 in |
+| Dry weight | 11,200 lb (average shipping weight) | 11,286 lb |
+| Dry hitch | **2,750 lb** | 2,872 lb |
+| CCC | 5,600 lb | 5,514 lb |
+| GVWR (dry + CCC) | **16,800 lb** | 16,800 lb |
+| Fresh / gray / black | 160 (including water heater) / 38 / 38 gal | 92 / 38 / 38 gal |
+| Garage | 20 ft 3 in, 8 ft spring-assist ramp door | 20 ft 3 in |
+
+- **The garage is shared, and that is now confirmed for the 2018.** The brochure floorplan shows a lay-flat HappiJac power bunk with sofas and a table in the 20 ft 3 in space, with no wall. Dutchmen describes the rear as multi-functional, usable as a bunkhouse, dining area or garage. So the earlier idea that only 2019+ units had an open layout was wrong.
+- **It fails on weight.** Both sources put the dry pin at about 25% of dry weight: 24.6% in the brochure and 25.4% in the listing. At the 16,800 lb GVWR that is **~4,125-4,275 lb on the hitch**, over the ~3,625 lb ceiling. To stay legal the load would have to sit behind the axles, or the trailer would have to run well under GVWR.
+- **Tie-downs are rated 2,500 lb.** It has 7,000 lb axles, a 30 gal fuel station and an optional Onan 5.5 kW generator.
+- **The brochure's fresh water figure is double the dealer's** (160 gal against 92). Dutchmen's figure includes the water heater, but that does not account for the gap, so check the unit's tank.
 
 ### Cherokee Wolf Pack 290PACK13 - floorplan verified, rejected
 
@@ -362,7 +381,7 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 - **Dry weight**, to establish cargo carrying capacity - GVWR alone does not show how much can actually be loaded.
 - **Fresh water capacity**, and tank positions relative to the axles.
 - Garage door dimensions and floor length, to confirm the scooter fits.
-- Model year for each figure, and the brochure it came from. Only the Stealth (2021) and Triton (2018) are year-qualified so far.
+- Model year for each figure, and the brochure it came from. Only the Stealth (2021) and Triton (2018; weights from the Dutchmen brochure) are year-qualified so far.
 
 ## Manufacturers
 
@@ -377,7 +396,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Alliance RV | Valor, Valor All-Access | Current | Possible | **Verified:** All-Access models have **shared** garages; the 36V11 is enclosed but heavy. 31A10 replaced by 32A10 |
 | Brinkley RV | Model G | Current | Heavy | Proposed as introduced in 2025 - the year is unverified |
 | DRV Luxury Suites | Full House | Limited production | Heavy | Luxury class |
-| Dutchmen | Voltage (incl. Triton) | Proposed as current - **unverified** | Heavy to marginal | 2018 Triton 3351 is on the shortlist; the garage changed after 2018 |
+| Dutchmen | Voltage (incl. Triton) | Proposed as current - **unverified** | Heavy to marginal | 2018 Triton 3351 is on the shortlist but fails on weight; its garage is shared, like the 2019+ |
 | Eclipse RV | Attitude, Stellar, Iconic | Mostly western US | Possible | Builds lighter toy haulers. **Iconic 2814SG verified as a travel trailer** - confirm which lines include fifth wheels |
 | Forest River | Cherokee Wolf Pack, XLR Boost, XLR Micro Boost, XLR Nitro, XLR Thunderbolt, Vengeance, Vengeance Rogue SUT, Rogue Armored, Shockwave, Sandstorm, Stealth, Nightfall | Current, varies by region | Possible | **Verified:** Rogue SUT, Wolf Pack, Nitro 321, Boost 286B, Micro Boost, Sandstorm and Nightfall are all in this chapter. The proposal omitted XLR Boost, Micro Boost, Thunderbolt and Rogue SUT |
 | Genesis Supreme | Genesis Supreme | Current | Possible | G3215FSXL verified as a travel trailer - confirm fifth-wheel models |
@@ -415,7 +434,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 
 - **SA2816G removed** - it does not have an enclosed garage. Rejection confirmed by the owner on 14 September 2026, after garage type became a data point.
 - **SA3019G restored** - originally on the belief that its garage was enclosed. **That was wrong: the garage is shared** (confirmed 14 September 2026). It stays on the list because garage type is a data point, not a requirement. It exceeds the 35 ft preference.
-- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 and 2019+ were treated as different propositions. Only the 2018 is kept; the 2019+ rejection was confirmed on 14 September 2026. A 2021 dealer floorplan with the same 20 ft 3 in garage (14 September 2026) suggests the 2018 is shared as well - see the Triton section.
+- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 and 2019+ were treated as different propositions. Only the 2018 is kept; the 2019+ rejection was confirmed on 14 September 2026. The Dutchmen brochure (14 September 2026) shows the 2018 is shared as well, so the year split turned out not to matter for garage type.
 
 ## Verification standard
 
