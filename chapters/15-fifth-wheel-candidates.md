@@ -4,11 +4,11 @@ Shortlist of fifth wheels under consideration, and the screening arithmetic that
 
 ## Requirement
 
-An **enclosed garage** - a wall and door separating the garage from the main living area, not merely a cargo area. This is a stricter definition than most manufacturers use in their marketing, and it is the criterion that has moved models on and off this list.
+**Garage type is a data point, not a requirement** (owner, 14 September 2026). Each candidate records whether its garage is *enclosed* (a wall and door separating it from the living area) or *shared* (open to the living area), so the layouts can be compared. Neither type rules a trailer in or out.
 
 **The garage has to carry two bikes**: a Yamaha Zuma 125 (~282 lb wet) and a large motorcycle, chocked with the Condor SCC-4000 and SC-2000 respectively ([chapter 9](09-accessories-and-modifications.md)). That sets a floor on garage length and on cargo carrying capacity - record the large motorcycle's weight and length here once known.
 
-The requirement stands because the [front-mounted motorcycle carrier](10-fifth-wheel-and-towing.md#front-mounted-motorcycle-carrier---archived) was archived on 9 September 2026. That proposal would have removed the need for a garage entirely; without it, the scooter travels in the trailer.
+A garage of some kind is needed because the [front-mounted motorcycle carrier](10-fifth-wheel-and-towing.md#front-mounted-motorcycle-carrier---archived) was archived on 9 September 2026. That proposal would have removed the need for a garage entirely; without it, the scooter travels in the trailer.
 
 ## What this truck can pull
 
@@ -24,7 +24,7 @@ From [chapter 10](10-fifth-wheel-and-towing.md), on the truck's measured figures
 
 ## Shortlist
 
-Verified against manufacturer pages and floorplans on 11 September 2026; model year shown where the source states it. **Max pin %** is the pin ratio at which a trailer loaded to its GVWR would exactly reach this truck's ~3,625 lb pin ceiling - above that ratio, the rear axle is over its rating. **Garage** distinguishes an *enclosed* garage (wall and door, the owner's requirement) from a *shared* one, where dinettes, beds or a fireplace sit in the garage and it opens straight into the kitchen.
+Verified against manufacturer pages and floorplans on 11 September 2026; model year shown where the source states it. **Max pin %** is the pin ratio at which a trailer loaded to its GVWR would exactly reach this truck's ~3,625 lb pin ceiling - above that ratio, the rear axle is over its rating. **Garage** distinguishes an *enclosed* garage (wall and door) from a *shared* one, where dinettes, beds or a fireplace sit in the garage and it opens straight into the kitchen.
 
 | Model | Length | GVWR | Dry pin | CCC | Garage | Garage type | Max pin % | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -103,9 +103,9 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | Stealth SA3019G | 3,000 | 3,750 | Needs pin under 24% |
 | **2018 Triton 3351** | 3,300 | 4,125 | **Over even at 22%** |
 
-**The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. With its enclosed garage, it is verified enclosed *and* comfortable at 25% pin - the combination the search has been looking for. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other one; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
+**The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. It is verified enclosed *and* comfortable at 25% pin. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other verified enclosed garage that fits at 25%; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
 
-**Both favorites have shared garages, not enclosed ones.** The Nightfall 270N and XLR Boost 286B were shortlisted as favorites; by the owner's definition neither meets the enclosed-garage requirement. That is worth deciding on explicitly rather than by default.
+**Both favorites have shared garages.** The Nightfall 270N and XLR Boost 286B have 16 ft shared garages. Garage type is a data point, not a requirement, so this does not count against them. In return for the open layout, they offer the longest verified garage floors that fit the truck at 25% pin.
 
 > **The 2018 Triton 3351 has the least margin and demands disciplined loading.** At a 16,500 lb GVWR the pin must stay below **22%** to keep the rear axle legal. That is achievable - many fifth wheels run 20-22% - but it leaves nothing for a heavy forward load, and it is the only candidate whose combined weight at GVWR reaches **28,400 lb**. Its figures are not yet verified against a Dutchmen brochure.
 
@@ -184,7 +184,7 @@ What changed:
   - **Other features:** a 30 gal fuel station, two entry doors and an outside kitchen.
   - The 2023-2024 trailer is 16 in longer than the 2021, so its layout may differ slightly.
 
-**The enclosed-garage candidates that fit the truck all have 10-12 ft garages.** Every model offering a 15 ft or longer enclosed garage in this proposal is either marginal on weight or ruled out. That is the same three-way tension as the verified list, now seen across a much wider field: enclosed, long garage, or towable by this truck - pick two.
+**The enclosed-garage candidates that fit the truck all have 10-12 ft garages.** Every model offering a 15 ft or longer enclosed garage in this proposal is either marginal on weight or ruled out. The pattern holds across a much wider field: the long garages that fit this truck are shared, and the enclosed ones that fit are short.
 
 ### Ten further candidates proposed 11 September 2026 - researched
 
@@ -213,19 +213,19 @@ Ten more models were proposed. **None is sold under that name for 2026 or 2027.*
 - **The Cyclone 3110 and Spartan 3210 sit at the ceiling.** Both have enclosed 10 ft garages, are more than 35 ft long and are about ten years old. The Cyclone can carry only 1,865 lb of cargo, which is less than two bikes plus water and gear.
 - **The rest are ruled out.** They are longer than 38 ft and would load past the rear axle rating well before reaching GVWR. The Seismic 4113 is over it empty.
 
-**This list confirms the conclusion above.** No towable trailer in it has an enclosed garage longer than 10 ft.
+**The same pattern appears here.** No towable trailer in this list has an enclosed garage longer than 10 ft.
 
 Alternatives the research turned up, which are not screened here: the Keystone Raptor 352 (2027, hitch 3,475 lb, over the ceiling on a normal load) and the Heartland Cyclone 3511 (2027, 17,800 lb GVWR, hitch 2,960 lb, 41 ft 2 in). Neither changes the picture.
 
 ### Weight is one axis of three
 
-The shortlist is balancing three things that pull against each other:
+The shortlist balances two things that pull against each other, and records a third alongside them:
 
-- an **enclosed garage**, in the strict sense of a wall and door;
 - **overall length**, ideally at or under 35 ft;
-- **payload margin** against this truck.
+- **payload margin** against this truck;
+- **garage type**, enclosed or shared, which is recorded for comparison but is not a requirement.
 
-Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinued KZ Sportster 311TH10 (10 ft) fit to 25% pin, and they have the smallest garages on the list. Both favorites turn out to have shared garages. No model on the list is strong on all three at once, which is why the search has been difficult. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
+Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinued KZ Sportster 311TH10 (10 ft) fit to 25% pin, and they have the smallest garages on the list. Both favorites have shared garages and longer garage floors. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
 
 ### Cherokee Black Label 256RRBL - confirmed
 
@@ -308,9 +308,9 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 
 | Model | Reason |
 | --- | --- |
-| Forest River Stealth SA2816G | Open cargo area, not an enclosed garage |
+| Forest River Stealth SA2816G | Open cargo area, not an enclosed garage. :warning: Rejected **on garage type alone**, which is no longer a requirement - candidate to reconsider |
 | Forest River Stealth SA2316G | Layout does not suit |
-| 2019+ Dutchmen Triton 3351 | Open / shared cargo area - the garage layout changed after 2018 |
+| 2019+ Dutchmen Triton 3351 | Open / shared cargo area - the garage layout changed after 2018. :warning: Rejected **on garage type alone** - candidate to reconsider |
 | Forest River Wildcat eXtraLite 311THX | Side-ramp layout |
 | Forest River Rogue Armored 371A13 | Too long |
 | Grand Design Momentum G-Class 315G | Too long for the target |
@@ -320,9 +320,9 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 
 ## Notes on the current list
 
-- **SA2816G removed** - it does not have an enclosed garage.
+- **SA2816G removed** - it does not have an enclosed garage. That was the only reason, and garage type became a data point rather than a requirement on 14 September 2026.
 - **SA3019G restored** - it does have an enclosed garage, though it exceeds the 35 ft preference.
-- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 and 2019+ are different propositions and only the 2018 qualifies.
+- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 (enclosed) and 2019+ (shared) are different propositions. Only the 2018 was kept, on garage type alone.
 
 ## Verification standard
 
