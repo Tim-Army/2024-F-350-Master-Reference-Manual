@@ -34,6 +34,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | ~2,000 - not verified | - | 15 ft 8 in | **Shared** | **26%** | Research candidate - dry pin and CCC still unverified |
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | **Strong contender - verified enclosed, fits to 25%; the only current-production one** |
 | [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | **Favorite** |
+| Forest River **Cherokee Wolf Pack 290PACK13** (2027; weights from [RV Wholesalers](https://www.rvwholesalers.com/forest-river-rvs/cherokee-wolfpack-fifth-wheel/290pack13), year not stated) | 39 ft 5 in | **14,470** | 2,470 | 3,297 | 13 ft (156 in) | **Shared** | **25%** | Candidate - fits to 25% with almost no margin; over the 35 ft preference |
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
 | [Forest River **Sandstorm 2710**](https://forestriverinc.com/rvs/sandstorm/2710/15775) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 15 ft 7 in | **Shared** | **25%** | Same trailer as the Nightfall 270N - see below |
 | **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | 4,105 | 19 ft 10 in | **Shared** | **24%** | Strong contender |
@@ -99,6 +100,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | Carbon 321LT | 2,800 | 3,500 | Fits to 25% |
 | **Vengeance Rogue SUT 323SUT** | 2,818 | 3,522 | **Fits to 25%** |
 | XLR Boost 286B | 2,819 | 3,524 | Fits to 25% |
+| Wolf Pack 290PACK13 | 2,894 | 3,618 | Fits to 25%, with 7 lb to spare; the dry pin ratio (22.1%) puts it at ~3,200 lb |
 | Nightfall 270N / Sandstorm 2710 | 2,952 | 3,690 | Over at 25% - needs pin under ~24.5% |
 | Stealth SA3019G | 3,000 | 3,750 | Needs pin under 24% |
 | **2018 Triton 3351** | 3,300 | 4,125 | **Over even at 22%** |
@@ -274,6 +276,19 @@ This is a Lemke RV listing (Rocklin, CA; used **2021**, **$49,995**, about 69 ge
 **The attached floorplan shows a shared garage.** The 20 ft 3 in dimension runs from the spring-assist ramp door to the kitchen. It covers a table, a lay-flat HappiJac power bunk and two chairs, with no wall or door. The dealer labels it "for example only", and it carries no year.
 
 **The dimension is the one chapter 15 records for the 2018.** The shortlist's 20 ft 3 in garage for the 2018 appears to come from this same drawing. If so, the **2018 garage is shared too**, and the premise that only 2019+ units have an open layout does not hold. The 2018 is now marked **probably shared** until a 2018 Dutchmen brochure confirms it. Either way it stays marginal on weight at 16,500-16,800 lb GVWR, and garage type is only a data point.
+
+### Cherokee Wolf Pack 290PACK13 - floorplan verified
+
+This is the 2027 floorplan and listing from Camping World, Greenwood, IN (stock #2727124, new, **$62,250** against $108,692 MSRP, about 221 miles away), supplied by the owner on 14 September 2026. The same store also lists a second new 2027 unit, stock #2676768, at **$55,250**. The weights come from RV Wholesalers, which does not state a model year: 14,470 lb GVWR, 11,173 lb dry (this matches the Camping World listing), 2,470 lb hitch and 3,297 lb CCC.
+
+- **The garage is shared.** A short partial wall with ladder access marks the front of the garage, but there is no door. Two flip-up countertops with stools sit across the opening, and the garage runs straight into the kitchen and living area.
+- **The garage measures 13 ft (156 in) long by 97.5 in wide.** The dimension arrow covers the garage floor itself. The listing's "156 ft" is a typo for 156 in.
+- **The garage is overhead-heavy.** A quick-set bed system hangs above the rear half, with a loft and storage above the front and a TV on the back of the loft. **Check the headroom** under the loft for the large motorcycle.
+- **The ramp door is a patio deck.** Its size is not published.
+- **Other features:** two slides, an RV king bed, washer/dryer prep, an XL pantry, a 12 ft garage-side awning and a 15 ft main awning. It is 13 ft 5 in high with 96 gal fresh water and 50 amp service.
+- **The weight margin is thin but real.** Loaded to GVWR at a 25% pin it would put 3,618 lb on the hitch, just under the ~3,625 lb ceiling. At its 22.1% dry pin ratio the estimate is about 3,200 lb. It is **39 ft 5 in**, 4 ft 5 in over the 35 ft preference, and its 3,297 lb CCC is on the low side.
+
+The same Camping World list included larger Wolf Pack floorplans: the 350PACK15 (45 ft, 12,263 lb dry), 352PACK15 (45 ft, 12,768 lb) and 365PACK15.5 (44 ft, 12,443 lb), plus a Triton 3911 (43 ft, 14,120 lb). Their GVWRs are not published there. All are 43-45 ft long, and they are not screened here.
 
 ### Cherokee Black Label 256RRBL - confirmed
 
