@@ -28,7 +28,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 
 | Model | Length | GVWR | Dry pin | CCC | Garage | Garage type | Max pin % | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Forest River **Cherokee Black Label 256RRBL**](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) (2026) | 30 ft 7 in | 11,630 | 1,430 | 4,522 | 14 ft 6¼ in | Not verified | **31%** | Strong contender |
+| [Forest River **Cherokee Black Label 256RRBL**](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) (2026) | 30 ft 7 in | 11,630 | 1,430 | 4,522 | 14 ft 6¼ in | **Shared** | **31%** | Strong contender |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | ~17 ft | Not verified | **31%** | Strong contender |
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
 | Keystone **Carbon 321LT** | ~32 ft | ~14,000 | ~2,000 | - | 15 ft 8 in | Not verified | **26%** | Research candidate - not yet verified |
@@ -245,6 +245,16 @@ Verified against [Forest River's model page](https://forestriverinc.com/rvs/cher
 A research note elsewhere had it listed as a travel trailer; that is wrong. The manufacturer page does not state the type in words, but the numbers settle it - a 1,430 lb hitch weight on a 7,108 lb dry trailer is **20%**, which is fifth-wheel territory; a travel trailer's tongue typically runs 10-15%.
 
 It is the lightest candidate with published figures, and its 4,522 lb CCC is ample for two motorcycles and gear.
+
+**Floorplan, confirmed by the owner 14 September 2026** (Forest River 2026 drawing):
+
+- **The garage is shared.** No wall or door separates the garage from the living area. The kitchen (refrigerator, sink, stove with air fryer) runs along one side of the garage span, and the TV mount and pantry mark its front end.
+- **The garage measures 174.25 in (14 ft 6¼ in)** from the rear wall to the pantry. The kitchen counter sits inside that length.
+- **The garage width varies.** It is **92 in** across the fold-down sofas, **82.5 in** between the overhead cabinets, and **67 in** at the kitchen counter. That narrow point matters for handlebars if a bike parks beside the kitchen.
+- **The ramp door is 90 x 76 in.** At **76 in high** it is the lowest ramp door recorded in this chapter. The KZ's is 91 in and the Wolf Pack's 96 in. Check the large motorcycle's height, windshield included, against it.
+- **The garage is furnished** with two fold-down sofas, a removable table and overhead cabinets on both sides.
+- **Other features:** a USB port in the garage, a 15 ft awning, an outside TV mount, outside storage, a stable step and a battery disconnect.
+- The body is **96 in wide**, 6 in narrower than the 102 in Wolf Pack and Nitro. That narrower body is why the garage is 92 in across rather than wider.
 
 #### Unit for sale - 2024, Camping World Albuquerque
 
