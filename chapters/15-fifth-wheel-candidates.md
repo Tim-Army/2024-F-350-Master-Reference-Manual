@@ -28,6 +28,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 
 | Model | Length | GVWR | Dry pin | CCC | Garage | Garage type | Pin share that would reach the limit at full GVWR | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [KZ **Sportster 280TH**](https://www.kz-rv.com/2024-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/floorplans.html) (2024) | 32 ft 6 in | **11,500** | 1,680 | 3,190 | 12 ft 3 in (18 ft 11 in to the entry steps) | **Shared** | **32%** | Candidate - the lightest GVWR on the list; lowest CCC |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | 17 ft (204 in) | **Shared** | **31%** | Strong contender |
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
 | Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | 2,000 (dealer) | 4,845 | 15 ft 8 in | **Shared** | **26%** | Candidate - weights from dealer listings, not yet from Keystone |
@@ -94,6 +95,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 
 | Model | Pin at 20% | Pin at 25% | Verdict |
 | --- | --- | --- | --- |
+| KZ Sportster 280TH | 2,300 | 2,875 | Comfortable at any realistic ratio |
 | XLR Micro Boost 301LRLE | 2,369 | 2,961 | Comfortable at any realistic ratio |
 | **KZ Sportster 311TH10** | 2,500 | 3,125 | **Comfortable at any realistic ratio** |
 | Carbon 321LT | 2,800 | 3,500 | Fits to 25% |
@@ -225,6 +227,25 @@ The shortlist balances two things that pull against each other, and records a th
 - **garage type**, enclosed or shared, which is recorded for comparison but is not a requirement.
 
 Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinued KZ Sportster 311TH10 (10 ft) fit to 25% pin, and they have the smallest garages on the list. The current favorite is the enclosed-garage Rogue SUT; the Nightfall 270NF and XLR Boost 286B have shared garages and longer garage floors. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
+
+### KZ Sportster 280TH - verified
+
+This is KZ's 2024 spec table and floorplan, supplied by the owner on 14 September 2026.
+
+| Spec | Value |
+| --- | --- |
+| GVWR / UVW / CCC | **11,500** / 8,310 / 3,190 lb |
+| Dry hitch / dry axle | **1,680** / 6,630 lb - dry pin ratio 20.2% |
+| Pin at GVWR (dry-ratio estimate) | **~2,325 lb**, about 1,300 lb under the ceiling |
+| Length (rear bumper to coupler center) / width / height | 32 ft 6 in / 102 in / 12 ft 7 in with A/C |
+| Fresh / gray / waste | 75 / 50 / 50 gal; tankless water heater |
+
+- **The garage is shared.** No wall or door separates it. The floor has a 70 in Jiffy sofa, a table and two chairs, and runs straight into the kitchen.
+- **The garage measures 12 ft 3 in** from the rear screen door to the kitchen, or **18 ft 11 in** to the entry steps with the living area cleared. The rear screen door sits just inside the ramp.
+- **The ramp door is 88 x 91 in**, the same as the 311TH10's.
+- **Options:** a 60 x 84 in power bed with sit-and-sleep over the rear (headroom when lowered), and a 30 gal fuel tank.
+- **Its CCC is the lowest on the shortlist: 3,190 lb.** Full fresh water (~625 lb), both bikes and gear will use a large share of it. Get the large motorcycle's weight before relying on it.
+- Like the 311TH10, the weights are KZ's rolling averages, so read the unit's label. Whether a used or new-stock unit is for sale has not been checked.
 
 ### XLR Micro Boost 301LRLE floorplan - verified
 
