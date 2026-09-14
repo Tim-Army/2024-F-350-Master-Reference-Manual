@@ -8,6 +8,8 @@ Shortlist of fifth wheels under consideration, and the screening arithmetic that
 
 **The garage has to carry two bikes**: a Yamaha Zuma 125 (~282 lb wet) and a large motorcycle, chocked with the Condor SCC-4000 and SC-2000 respectively ([chapter 9](09-accessories-and-modifications.md)). That sets a floor on garage length and on cargo carrying capacity - record the large motorcycle's weight and length here once known.
 
+**Maximum length: 35 ft** (owner, 14 September 2026). Any toy hauler longer than 35 ft is rejected. This is a hard limit, not a preference. Use each manufacturer's published length; where a model lists both a spec-table figure and a longer "overall" figure, check the unit.
+
 A garage of some kind is needed because the [front-mounted motorcycle carrier](10-fifth-wheel-and-towing.md#front-mounted-motorcycle-carrier---archived) was archived on 9 September 2026. That proposal would have removed the need for a garage entirely; without it, the scooter travels in the trailer.
 
 ## What this truck can pull
@@ -31,12 +33,10 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [KZ **Sportster 280TH**](https://www.kz-rv.com/2024-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/floorplans.html) (2024) | 32 ft 6 in | **11,500** | 1,680 | 3,190 | 12 ft 3 in (18 ft 11 in to the entry steps) | **Shared** | **32%** | Candidate - the lightest GVWR on the list; lowest CCC |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | 17 ft (204 in) | **Shared** | **31%** | Strong contender |
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
-| [KZ **Sportster 331TH13**](https://www.kz-rv.com/2024-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/floorplans.html) (2022) | **38 ft 6 in** | **12,995** | 2,180 | 3,215 | 13 ft | **Enclosed** | **28%** | Candidate - enclosed 13 ft garage that fits on weight; :warning: 38 ft 6 in, close to the 39 ft 5 in rejected as too long |
 | Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | 2,000 (dealer) | 4,845 | 15 ft 8 in | **Shared** | **26%** | Candidate - weights from dealer listings, not yet from Keystone |
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | :star: **Current favorite - the 2025 model** (owner, 14 September 2026). [Forest River's 2025 page](https://www.forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/10613) (dealer stock only) lists **identical** figures to 2026: 2,090 / 14,090 / 9,613 UVW / 4,477 CCC, 34 ft 10 in, 101 in wide, 96 / 44 / 44 gal |
 | [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | Strong contender - previously a co-favorite |
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | Strong contender - the 270NF was the favorite until the 2025 Rogue SUT 323SUT, 14 September 2026 |
-| **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | 4,105 | 19 ft 10 in | **Shared** | **24%** | Strong contender |
 
 Sorted by GVWR ascending, which is also the order of decreasing margin against this truck.
 
@@ -97,14 +97,12 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | Model | Pin at 20% | Pin at 25% | Verdict |
 | --- | --- | --- | --- |
 | KZ Sportster 280TH | 2,300 | 2,875 | Comfortable at any realistic ratio |
-| KZ Sportster 331TH13 | 2,599 | 3,249 | Comfortable at any realistic ratio |
 | XLR Micro Boost 301LRLE | 2,369 | 2,961 | Comfortable at any realistic ratio |
 | **KZ Sportster 311TH10** | 2,500 | 3,125 | **Comfortable at any realistic ratio** |
 | Carbon 321LT | 2,800 | 3,500 | Fits to 25% |
 | **Vengeance Rogue SUT 323SUT** | 2,818 | 3,522 | **Fits to 25%** |
 | XLR Boost 286B | 2,819 | 3,524 | Fits to 25% |
 | Nightfall 270N | 2,952 | 3,690 | Over at 25% - needs pin under ~24.5% |
-| Stealth SA3019G | 3,000 | 3,750 | Needs pin under 24% |
 
 **The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. It is verified enclosed *and* comfortable at 25% pin. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other verified enclosed garage that fits at 25%; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
 
@@ -114,7 +112,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 
 > **Do not eliminate a trailer on calculated pin percentage alone.** Loaded pin is not a fixed fraction of loaded weight. On a toy hauler it moves several hundred pounds depending on where cargo sits - garage load behind the axles reduces pin, forward tanks and storage increase it. These percentages rank candidates and flag which need care; a CAT scale ticket with the rig loaded settles it.
 
-> **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,400 lb (KZ Sportster 280TH, the lightest on the list) to 26,899 lb (Stealth SA3019G, the heaviest remaining after the Triton was rejected).
+> **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,400 lb (KZ Sportster 280TH, the lightest on the list) to 26,659 lb (Nightfall 270N, the heaviest remaining under the 35 ft limit).
 
 ### Candidates proposed 11 September 2026 - screened, not verified
 
@@ -226,7 +224,7 @@ Alternatives the research turned up, which are not screened here: the Keystone R
 
 The shortlist balances two things that pull against each other, and records a third alongside them:
 
-- **overall length**, ideally at or under 35 ft;
+- **overall length**, a hard limit of 35 ft since 14 September 2026;
 - **payload margin** against this truck;
 - **garage type**, enclosed or shared, which is recorded for comparison but is not a requirement.
 
@@ -251,7 +249,9 @@ This is KZ's 2024 spec table and floorplan, supplied by the owner on 14 Septembe
 - **Its CCC is the lowest on the shortlist: 3,190 lb.** Full fresh water (~625 lb), both bikes and gear will use a large share of it. Get the large motorcycle's weight before relying on it.
 - Like the 311TH10, the weights are KZ's rolling averages, so read the unit's label. Whether a used or new-stock unit is for sale has not been checked.
 
-### KZ Sportster 331TH13 - verified
+### KZ Sportster 331TH13 - verified, rejected
+
+**Rejected 14 September 2026: over the 35 ft length limit** (38 ft 6 in). The details below are kept for reference.
 
 This is KZ's 2022 spec table and floorplan, supplied by the owner on 14 September 2026.
 
@@ -280,7 +280,9 @@ This is the 2021 floorplan and specifications from a Krenek RV Center listing (s
 - **The body is 8 ft (96 in) wide and 10 ft 9 in high**, the lowest trailer in this chapter. It has 50 / 38 / 38 gal tanks, two axles, 50 amp service and a 13,500 BTU A/C.
 - The model is discontinued, so this is a used-market search. At $34,992 for a new-old-stock 2021, the Krenek unit gives a reference price.
 
-### Stealth SA3019G - verified
+### Stealth SA3019G - verified, rejected
+
+**Rejected 14 September 2026: over the 35 ft length limit** (36 ft 5 in). The details below are kept for reference.
 
 These are the 2021 figures from a Rowley White RV listing (stock #U22546W, Phoenix, AZ; used, deal pending, **$52,900** out the door with no dealer fees, 161 generator hours). The owner confirmed the shared garage from the interior photo on 14 September 2026.
 
@@ -475,6 +477,13 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Genesis Supreme G3215FSXL | Travel trailer, not a fifth wheel |
 | Eclipse Iconic 2814SG | Travel trailer, not a fifth wheel |
 | Grand Design Momentum 320G | Too expensive; also marginal on weight (16,400 lb GVWR) and 36 ft 3 in. Rejected by the owner 14 September 2026 |
+| KZ Sportster 331TH13 | Over 35 ft (38 ft 6 in). Rejected 14 September 2026 under the length limit |
+| 2021 Forest River Stealth SA3019G | Over 35 ft (36 ft 5 in). Rejected 14 September 2026 under the length limit |
+| Keystone Raptor Carbon 310 | Over 35 ft (35 ft 11 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
+| Forest River XLR Nitro 321 | Over 35 ft (37 ft 10 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
+| Forest River Cherokee Wolf Pack 315PACK12 | Over 35 ft (39 ft 3 in-40 ft 7 in). Rejected 14 September 2026 under the length limit |
+| Grand Design Momentum 325G | Over 35 ft (35 ft 6 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
+| Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
 | Forest River Cherokee Black Label 256RRBL | Too expensive. Rejected by the owner 14 September 2026; it had the most weight margin of any candidate (see the section above) |
 | 2026 Alliance Valor 32A10 | Too expensive - $72,995 used (Campers Inn RV of Davenport, IA). Rejected by the owner 14 September 2026 |
