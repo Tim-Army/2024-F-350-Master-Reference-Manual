@@ -147,7 +147,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 
 | Trailer | Length | GVWR | Dry pin | Pin share that would reach the limit at full GVWR | Note |
 | --- | --- | --- | --- | --- | --- |
-| Grand Design Momentum 320G | 36 ft 3 in | 16,400 | 2,300 | 22% | Same position as the Triton - workable only well under GVWR |
+| Grand Design Momentum 320G | 36 ft 3 in | 16,400 | 2,300 | 22% | Workable only well under GVWR - **rejected by the owner 14 September 2026: too expensive** |
 | Grand Design Momentum 325G | 35 ft 6 in | 16,400 | 2,474 | 22% | As above - **no used units for sale** (owner, 14 September 2026) |
 | Dutchmen Voltage Triton 3351 (2018) | 36 ft 5 in | **16,800** | 2,872 | 22% | Proposed from [J.D. Power](https://www.jdpower.com/rvs/2018/voltage/m-3351/specs): 16,800 lb GVWR and a **15 ft 6 in** garage, against the 16,500 lb and 20 ft 3 in previously carried. **The Dutchmen brochure (14 September 2026) confirms the 16,800 lb GVWR and the 20 ft 3 in garage.** The 15 ft 6 in figure was wrong |
 
@@ -431,6 +431,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Heartland Torque TQ327 | Does not meet requirements |
 | Genesis Supreme G3215FSXL | Travel trailer, not a fifth wheel |
 | Eclipse Iconic 2814SG | Travel trailer, not a fifth wheel |
+| Grand Design Momentum 320G | Too expensive; also marginal on weight (16,400 lb GVWR) and 36 ft 3 in. Rejected by the owner 14 September 2026 |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
 | Forest River Cherokee Black Label 256RRBL | Too expensive. Rejected by the owner 14 September 2026; it had the most weight margin of any candidate (see the section above) |
 | 2026 Alliance Valor 32A10 | Too expensive - $72,995 used (Campers Inn RV of Davenport, IA). Rejected by the owner 14 September 2026 |
