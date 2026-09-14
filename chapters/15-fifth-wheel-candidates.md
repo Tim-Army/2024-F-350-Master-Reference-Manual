@@ -265,7 +265,7 @@ This is KZ's 2022 spec table and floorplan, supplied by the owner on 14 Septembe
 - **The ramp door is 88 x 91 in**, with a screen door just inside. Options are a 60 x 84 in power bed over the garage, which takes headroom when lowered, and a 30 gal fuel tank.
 - **The living area is outside the garage:** an 80 in U-dinette and a 64 in tri-fold sofa in a slide, a rear-side bathroom and a front queen bedroom.
 - **This model explains the mystery 311TH10 figures.** The 12,995 lb GVWR and 2,180 lb pin that the 11 September proposal attributed to the 311TH10 are this model's figures.
-- **It has two drawbacks.** It is **38 ft 6 in** long, only 11 in shorter than the Wolf Pack 290PACK13 rejected as too long, and its CCC is low at 3,215 lb. KZ dropped it after 2024 (the current line is Sportster X), so this is a used-market search.
+- **It has two drawbacks.** It is **38 ft 6 in** long, only 11 in shorter than the Wolf Pack 290PACK13 rejected as too long, and its CCC is low at 3,215 lb. It appears in KZ's 2022 and 2024 Sportster lineups; the current toy hauler line is the Sportster X, so treat this as a used-market search until a current model is confirmed.
 
 ### XLR Micro Boost 301LRLE floorplan - verified
 
