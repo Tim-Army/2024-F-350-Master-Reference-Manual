@@ -37,7 +37,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
 | [Forest River **Sandstorm 2710**](https://forestriverinc.com/rvs/sandstorm/2710/15775) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 15 ft 7 in | **Shared** | **25%** | Same trailer as the Nightfall 270N - see below |
 | **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | 4,105 | 19 ft 10 in | **Shared** | **24%** | Strong contender |
-| **2018 Dutchmen Triton 3351** | 36 ft 6 in | ~16,500 | ~2,750-2,870 | - | 20 ft 3 in - unverified | Enclosed - not verified | **22%** | :warning: Marginal - not yet verified |
+| **2018 Dutchmen Triton 3351** | 36 ft 6 in | ~16,500 | ~2,750-2,870 | - | 20 ft 3 in - unverified | **Probably shared** - see below | **22%** | :warning: Marginal - not yet verified |
 
 Sorted by GVWR ascending, which is also the order of decreasing margin against this truck.
 
@@ -258,6 +258,23 @@ This is the 2026 floorplan and listing from [SR1 RV, Turner, ME](https://www.sr1
 - **The unit's options:** Intense Interior, Extreme Exterior and Ramp Door Patio packages, electric 4-point leveling, a 10 cu ft 12V refrigerator, a second 8K A/C and Solar Flex Protect. The listing also names a MORryde CRE3000 suspension, a tankless water heater, a 20 ft awning and generator prep.
 - **The 2027 lineup has no 321LT.** The 2027 Carbon lineup recorded in the [Manufacturers](#manufacturers) table is the 310, 330, 361LT, 363, 368 and 420, so **2026 appears to be the last model year** for this floorplan.
 
+### Dutchmen Voltage Triton 3351 - 2021 listing
+
+This is a Lemke RV listing (Rocklin, CA; used **2021**, **$49,995**, about 69 generator hours) supplied by the owner on 14 September 2026. The unit is a 2019+ model, so it falls in the **rejected** year range. It matters for the 2018 because of the floorplan the dealer attached.
+
+| 2021 figure (dealer, "estimated") | Value |
+| --- | --- |
+| GVWR | **16,800 lb** |
+| Dry weight / hitch | 11,286 / 2,496 lb |
+| Length / height | 36 ft overall (33 ft floor) / 13 ft 4 in |
+| Cargo area | 22 ft claimed; the floorplan shows 20 ft 3 in |
+| Fresh / gray / black | **156** / 40 / 40 gal |
+| Pin at GVWR (dry-ratio estimate) | ~3,715 lb - **over the ~3,625 lb ceiling** |
+
+**The attached floorplan shows a shared garage.** The 20 ft 3 in dimension runs from the spring-assist ramp door to the kitchen. It covers a table, a lay-flat HappiJac power bunk and two chairs, with no wall or door. The dealer labels it "for example only", and it carries no year.
+
+**The dimension is the one chapter 15 records for the 2018.** The shortlist's 20 ft 3 in garage for the 2018 appears to come from this same drawing. If so, the **2018 garage is shared too**, and the premise that only 2019+ units have an open layout does not hold. The 2018 is now marked **probably shared** until a 2018 Dutchmen brochure confirms it. Either way it stays marginal on weight at 16,500-16,800 lb GVWR, and garage type is only a data point.
+
 ### Cherokee Black Label 256RRBL - confirmed
 
 Verified against [Forest River's model page](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) on 10 September 2026, for the **2026** model (sold as dealer stock only). The figures in the table above match it exactly.
@@ -363,7 +380,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 
 - **SA2816G removed** - it does not have an enclosed garage. Rejection confirmed by the owner on 14 September 2026, after garage type became a data point.
 - **SA3019G restored** - originally on the belief that its garage was enclosed. **That was wrong: the garage is shared** (confirmed 14 September 2026). It stays on the list because garage type is a data point, not a requirement. It exceeds the 35 ft preference.
-- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 (enclosed) and 2019+ (shared) are different propositions. Only the 2018 is kept; the 2019+ rejection was confirmed on 14 September 2026.
+- **Dutchmen Triton 3351 split by year** - the garage layout changed, so 2018 and 2019+ were treated as different propositions. Only the 2018 is kept; the 2019+ rejection was confirmed on 14 September 2026. A 2021 dealer floorplan with the same 20 ft 3 in garage (14 September 2026) suggests the 2018 is shared as well - see the Triton section.
 
 ## Verification standard
 
