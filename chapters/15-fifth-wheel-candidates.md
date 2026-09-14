@@ -109,7 +109,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 
 > **Do not eliminate a trailer on calculated pin percentage alone.** Loaded pin is not a fixed fraction of loaded weight. On a toy hauler it moves several hundred pounds depending on where cargo sits - garage load behind the axles reduces pin, forward tanks and storage increase it. These percentages rank candidates and flag which need care; a CAT scale ticket with the rig loaded settles it.
 
-> **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,745 lb (Micro Boost, the lightest remaining after the Cherokee was rejected) to 28,400 lb (Triton).
+> **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,745 lb (Micro Boost, the lightest remaining after the Cherokee was rejected) to 28,700 lb (Triton, at its brochure 16,800 lb GVWR).
 
 ### Candidates proposed 11 September 2026 - screened, not verified
 
