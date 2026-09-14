@@ -28,7 +28,6 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 
 | Model | Length | GVWR | Dry pin | CCC | Garage | Garage type | Pin share that would reach the limit at full GVWR | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Forest River **Cherokee Black Label 256RRBL**](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) (2026) | 30 ft 7 in | 11,630 | 1,430 | 4,522 | 14 ft 6¼ in | **Shared** | **31%** | Strong contender |
 | Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | 17 ft (204 in) | **Shared** | **31%** | Strong contender |
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
 | Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | ~2,000 - not verified | - | 15 ft 8 in | **Shared** | **26%** | Research candidate - dry pin and CCC still unverified |
@@ -93,7 +92,6 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 
 | Model | Pin at 20% | Pin at 25% | Verdict |
 | --- | --- | --- | --- |
-| Cherokee Black Label 256RRBL | 2,326 | 2,908 | Comfortable at any realistic ratio |
 | XLR Micro Boost 301LRLE | 2,369 | 2,961 | Comfortable at any realistic ratio |
 | **KZ Sportster 311TH10** | 2,500 | 3,125 | **Comfortable at any realistic ratio** |
 | Carbon 321LT | 2,800 | 3,500 | Fits to 25% |
@@ -290,7 +288,9 @@ This is the 2027 floorplan and listing from Camping World, Greenwood, IN (stock 
 
 The same Camping World list included larger Wolf Pack floorplans: the 350PACK15 (45 ft, 12,263 lb dry), 352PACK15 (45 ft, 12,768 lb) and 365PACK15.5 (44 ft, 12,443 lb), plus a Triton 3911 (43 ft, 14,120 lb). Their GVWRs are not published there. All are 43-45 ft long, and they are not screened here.
 
-### Cherokee Black Label 256RRBL - confirmed
+### Cherokee Black Label 256RRBL - confirmed, rejected
+
+**Rejected by the owner on 14 September 2026: too expensive.** Listings seen: a 2024 unit at $45,594 (Camping World Albuquerque) and a used 2025 unit at $49,998 (Reliable RV, Springfield, MO). The details below are kept for reference.
 
 Verified against [Forest River's model page](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) on 10 September 2026, for the **2026** model (sold as dealer stock only). The figures in the table above match it exactly.
 
@@ -390,6 +390,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Heartland Torque TQ327 | Does not meet requirements |
 | Genesis Supreme G3215FSXL | Travel trailer, not a fifth wheel |
 | Eclipse Iconic 2814SG | Travel trailer, not a fifth wheel |
+| Forest River Cherokee Black Label 256RRBL | Too expensive. Rejected by the owner 14 September 2026; it had the most weight margin of any candidate (see the section above) |
 | 2026 Alliance Valor 32A10 | Too expensive - $72,995 used (Campers Inn RV of Davenport, IA). Rejected by the owner 14 September 2026 |
 | 2027 Forest River Cherokee Wolf Pack 290PACK13 | Too long - 39 ft 5 in. Rejected by the owner 14 September 2026; it fit on weight (see the section above) |
 
