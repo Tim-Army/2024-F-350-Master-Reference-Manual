@@ -229,7 +229,7 @@ Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinue
 
 ### XLR Micro Boost 301LRLE floorplan - verified
 
-This is the 2021 floorplan and specifications from a [Krenek RV Center listing](https://www.krenekrv.com/) (stock #4104, Coloma, MI; new 2021 unit, sale pending, $34,992 against $50,180 retail), supplied by the owner on 14 September 2026. The figures match the Forest River spec sheet in the shortlist: 1,645 lb hitch, 7,938 lb dry, 3,907 lb CCC, 32 ft 6 in.
+This is the 2021 floorplan and specifications from a Krenek RV Center listing (stock #4104, Coloma, MI; new 2021 unit, sale pending, $34,992 against $50,180 retail), supplied by the owner on 14 September 2026. The figures match the Forest River spec sheet in the shortlist: 1,645 lb hitch, 7,938 lb dry, 3,907 lb CCC, 32 ft 6 in.
 
 - **The garage is shared, and it is effectively the whole living area.** The 17 ft (204 in) dimension runs from the rear ramp to the bathroom wall. Sofas, optional Euro chairs and the kitchen all sit inside it, and no wall or door separates any of them. The bedroom and bathroom are the only closed rooms.
 - **The garage is 96 in wide at the rear and 66 in wide at the kitchen counter.** The 66 in narrow point is about the same as the Cherokee's 67 in.
