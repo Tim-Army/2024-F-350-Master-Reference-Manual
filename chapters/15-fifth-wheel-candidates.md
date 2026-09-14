@@ -34,7 +34,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | **Strong contender - verified enclosed, fits to 25%; the only current-production one** |
 | [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | **Favorite** |
 | [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
-| [Forest River **Sandstorm 2710**](https://forestriverinc.com/rvs/sandstorm/2710/15775) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 15 ft 7 in | **Shared** | **25%** | Same trailer as the Nightfall 270N - see below |
+| [Forest River **Sandstorm 2710**](https://forestriverinc.com/rvs/sandstorm/2710/15775) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 15 ft 7 in | **Shared** | **25%** | Candidate - a separate trailer from the Nightfall 270N, though the published specifications match |
 | **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | 4,105 | 19 ft 10 in | **Shared** | **24%** | Strong contender |
 
 Sorted by GVWR ascending, which is also the order of decreasing margin against this truck.
@@ -57,9 +57,11 @@ A research summary proposed several corrections. Each was checked against the ma
 
 The Triton 3351 stayed on the list rather than being removed on the strength of that conflation. It was later verified against the Dutchmen brochure and **rejected by the owner on 14 September 2026** for failing on weight.
 
-### The Sandstorm 2710 is the Nightfall 270N
+### The Sandstorm 2710 and Nightfall 270N - two different campers
 
-Forest River's pages for the 2027 Sandstorm 2710 and 2027 Nightfall 270N list identical hitch weight, GVWR, UVW, CCC, length, height, width and tank capacities, and the floorplans follow the same shared-garage layout. They are sister-brand versions of one trailer. Treat them as one candidate with two badges - which doubles the dealer inventory to search for that floorplan.
+**Correction, 14 September 2026:** the owner confirmed these are **two different campers**. The chapter had treated them as one trailer under two badges, and that was wrong.
+
+What the published figures show: Forest River's pages for the 2027 Sandstorm 2710 and 2027 Nightfall 270N list the same hitch weight, GVWR, UVW, CCC, length, height, width and tank capacities, and both have shared garages. Matching specification sheets do not make them the same trailer, though. The garage lengths are already recorded differently (16 ft for the Nightfall, 15 ft 7 in for the Sandstorm), and layout, furnishings and equipment can differ. **Evaluate each on its own floorplan and a unit's label.**
 
 ### Rogue SUT 323SUT floorplan - verified
 
@@ -96,7 +98,8 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | Carbon 321LT | 2,800 | 3,500 | Fits to 25% |
 | **Vengeance Rogue SUT 323SUT** | 2,818 | 3,522 | **Fits to 25%** |
 | XLR Boost 286B | 2,819 | 3,524 | Fits to 25% |
-| Nightfall 270N / Sandstorm 2710 | 2,952 | 3,690 | Over at 25% - needs pin under ~24.5% |
+| Nightfall 270N | 2,952 | 3,690 | Over at 25% - needs pin under ~24.5% |
+| Sandstorm 2710 | 2,952 | 3,690 | Over at 25% - needs pin under ~24.5% (same published GVWR as the Nightfall) |
 | Stealth SA3019G | 3,000 | 3,750 | Needs pin under 24% |
 
 **The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. It is verified enclosed *and* comfortable at 25% pin. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other verified enclosed garage that fits at 25%; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
