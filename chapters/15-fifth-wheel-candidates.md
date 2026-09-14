@@ -29,7 +29,7 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | Model | Length | GVWR | Dry pin | CCC | Garage | Garage type | Max pin % | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Forest River **Cherokee Black Label 256RRBL**](https://forestriverinc.com/rvs/cherokee-black-label/256RRBL/12903) (2026) | 30 ft 7 in | 11,630 | 1,430 | 4,522 | 14 ft 6¼ in | **Shared** | **31%** | Strong contender |
-| Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | ~17 ft | Not verified | **31%** | Strong contender |
+| Forest River **XLR Micro Boost 301LRLE** (discontinued; [FR spec sheet](https://carolinaadventureworld.com/wp-content/uploads/2023/12/Vehicle-Specs-XLR-Boost-301LRLE-XLR-MICRO-BOOST.pdf)) | 32 ft 6 in | **11,845** | 1,645 | 3,907 | 17 ft (204 in) | **Shared** | **31%** | Strong contender |
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
 | Keystone **Carbon 321LT** | ~32 ft | ~14,000 | ~2,000 | - | 15 ft 8 in | Not verified | **26%** | Research candidate - not yet verified |
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | **Strong contender - verified enclosed, fits to 25%; the only current-production one** |
@@ -226,6 +226,17 @@ The shortlist balances two things that pull against each other, and records a th
 - **garage type**, enclosed or shared, which is recorded for comparison but is not a requirement.
 
 Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinued KZ Sportster 311TH10 (10 ft) fit to 25% pin, and they have the smallest garages on the list. Both favorites have shared garages and longer garage floors. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
+
+### XLR Micro Boost 301LRLE floorplan - verified
+
+This is the 2021 floorplan and specifications from a [Krenek RV Center listing](https://www.krenekrv.com/) (stock #4104, Coloma, MI; new 2021 unit, sale pending, $34,992 against $50,180 retail), supplied by the owner on 14 September 2026. The figures match the Forest River spec sheet in the shortlist: 1,645 lb hitch, 7,938 lb dry, 3,907 lb CCC, 32 ft 6 in.
+
+- **The garage is shared, and it is effectively the whole living area.** The 17 ft (204 in) dimension runs from the rear ramp to the bathroom wall. Sofas, optional Euro chairs and the kitchen all sit inside it, and no wall or door separates any of them. The bedroom and bathroom are the only closed rooms.
+- **The garage is 96 in wide at the rear and 66 in wide at the kitchen counter.** The 66 in narrow point is about the same as the Cherokee's 67 in.
+- **The ramp door size is not published.** The rear opening appears to be close to the full 96 in width.
+- **The floor has no wheel wells**, and there are **5,000 lb D-rings**, an oil- and gas-resistant linoleum floor, a magnetic screen wall at the ramp, and a Sleep N Store manual bed lift, which is mandatory on the fifth wheel. No fireplace is offered on this floorplan.
+- **The body is 8 ft (96 in) wide and 10 ft 9 in high**, the lowest trailer in this chapter. It has 50 / 38 / 38 gal tanks, two axles, 50 amp service and a 13,500 BTU A/C.
+- The model is discontinued, so this is a used-market search. At $34,992 for a new-old-stock 2021, the Krenek unit gives a reference price.
 
 ### Cherokee Black Label 256RRBL - confirmed
 
