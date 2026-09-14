@@ -292,9 +292,9 @@ This is a Lemke RV listing (Rocklin, CA; used **2021**, **$49,995**, about 69 ge
 
 #### 2018 Triton 3351 - verified against the Dutchmen brochure
 
-These figures come from the owner on 14 September 2026: the [Dutchmen Triton brochure](https://assets-cdn.interactcp.com/interactrv/brand_brochure/brand_brochure_201803230347493917546925.pdf) (form TRI-HM0117, which does not print the model year) and a used 2018 unit at Blue Compass RV, Buffalo, NY (stock #UT21855, **$39,900**, $40,770 with fees).
+These figures come from the owner on 14 September 2026: the [Dutchmen Triton brochure](https://assets-cdn.interactcp.com/interactrv/brand_brochure/brand_brochure_201803230347493917546925.pdf) (form TRI-HM0117, which does not print the model year) and a used 2018 unit at Blue Compass RV, Buffalo, NY (stock #UT21855, **$39,900**, $40,770 with fees), **later confirmed to be a 3551 listed under the wrong model**.
 
-| 3351 | Dutchmen brochure | 2018 dealer listing |
+| 3351 | Dutchmen brochure | 2018 dealer listing (actually a 3551 - see below) |
 | --- | --- | --- |
 | Length (hitch pin to rear bumper) / width / height | 36 ft 5 in / 100 in / 160 in (13 ft 4 in) | 36 ft 5 in / 8 ft 4 in / 13 ft 4 in |
 | Dry weight | 11,200 lb (average shipping weight) | 11,286 lb |
@@ -307,7 +307,7 @@ These figures come from the owner on 14 September 2026: the [Dutchmen Triton bro
 - **The garage is shared, and that is now confirmed for the 2018.** The brochure floorplan shows a lay-flat HappiJac power bunk with sofas and a table in the 20 ft 3 in space, with no wall. Dutchmen describes the rear as multi-functional, usable as a bunkhouse, dining area or garage. So the earlier idea that only 2019+ units had an open layout was wrong.
 - **It fails on weight.** Both sources put the dry pin at about 25% of dry weight: 24.6% in the brochure and 25.4% in the listing. At the 16,800 lb GVWR that is **~4,125-4,275 lb on the hitch**, over the ~3,625 lb ceiling. To stay legal the load would have to sit behind the axles, or the trailer would have to run well under GVWR.
 - **Tie-downs are rated 2,500 lb.** It has 7,000 lb axles, a 30 gal fuel station and an optional Onan 5.5 kW generator.
-- **The Blue Compass listing may not be a 3351.** The owner's photo of that unit's garage (14 September 2026) shows an **enclosed** garage: a rear wall with a single door and a pair of glass doors, fold-up sofas on both side walls, and a floor visibly shorter than 20 ft 3 in. That matches the brochure's **3561** (13 ft garage with glass patio doors) or **3551** (11 ft garage with wall, door and twin bed loft), not the 3351 drawing. The listing's VIN, `4YDF35521JZ990272`, also carries **355** where a model code would sit. That is suggestive, not proof, since Dutchmen's VIN layout is not verified here. **Confirm the model on the trailer's own label before relying on this listing.** Either way, the 3551 and 3561 are 39 ft and 38 ft 10 in with 2,980 and 2,729 lb dry pins, so they fail on length and weight.
+- **The Blue Compass listing is a 3551, not a 3351** (confirmed by the owner, 14 September 2026). The dealer listed it as a 3351, but the owner's photo of the unit's garage shows an **enclosed** garage: a rear wall with doors, fold-up sofas on both walls, and a floor far shorter than 20 ft 3 in. That matches the brochure's 3551, with its 11 ft garage behind a wall, door and twin bed loft. The VIN `4YDF35521JZ990272` also carries 355. **The listing's weights (11,286 lb dry, 2,872 lb hitch, 5,514 lb CCC) probably belong to the 3351 page, not to this trailer.** The brochure gives the 3551 as 39 ft, 12,784 lb, a 2,980 lb dry pin, 4,016 lb CCC (16,800 lb GVWR) and 124 / 76 / 86 gal tanks. It **fails on length and weight**: its 23.3% dry pin ratio gives about 3,915 lb at GVWR. The dealer-listing column in the table above is therefore not a genuine 3351 data point. The 3351's figures rest on the Dutchmen brochure alone.
 - **The brochure's fresh water figure is double the dealer's** (160 gal against 92). Dutchmen's figure includes the water heater, but that does not account for the gap, so check the unit's tank.
 
 ### Cherokee Wolf Pack 290PACK13 - floorplan verified, rejected
@@ -397,7 +397,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Alliance RV | Valor, Valor All-Access | Current | Possible | **Verified:** All-Access models have **shared** garages; the 36V11 is enclosed but heavy. 31A10 replaced by 32A10 |
 | Brinkley RV | Model G | Current | Heavy | Proposed as introduced in 2025 - the year is unverified |
 | DRV Luxury Suites | Full House | Limited production | Heavy | Luxury class |
-| Dutchmen | Voltage (incl. Triton) | Proposed as current - **unverified** | Heavy to marginal | 2018 Triton 3351 is on the shortlist but fails on weight; its garage is shared, like the 2019+ |
+| Dutchmen | Voltage (incl. Triton) | Proposed as current - **unverified** | Heavy to marginal | 2018 Triton 3351 is on the shortlist but fails on weight; its garage is shared, like the 2019+. The 3551 and 3561 have enclosed garages but fail on length and weight |
 | Eclipse RV | Attitude, Stellar, Iconic | Mostly western US | Possible | Builds lighter toy haulers. **Iconic 2814SG verified as a travel trailer** - confirm which lines include fifth wheels |
 | Forest River | Cherokee Wolf Pack, XLR Boost, XLR Micro Boost, XLR Nitro, XLR Thunderbolt, Vengeance, Vengeance Rogue SUT, Rogue Armored, Shockwave, Sandstorm, Stealth, Nightfall | Current, varies by region | Possible | **Verified:** Rogue SUT, Wolf Pack, Nitro 321, Boost 286B, Micro Boost, Sandstorm and Nightfall are all in this chapter. The proposal omitted XLR Boost, Micro Boost, Thunderbolt and Rogue SUT |
 | Genesis Supreme | Genesis Supreme | Current | Possible | G3215FSXL verified as a travel trailer - confirm fifth-wheel models |
