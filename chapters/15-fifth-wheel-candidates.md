@@ -32,8 +32,8 @@ Verified against manufacturer pages and floorplans on 11 September 2026; model y
 | [KZ **Sportster 311TH10**](https://www.kz-rv.com/2023-products/sportster-travel-trailer-and-fifth-wheel-toy-haulers/fifth-wheel-toy-hauler-311TH10.html) (2021-2023, discontinued) | 34 ft | **12,500** | 1,600 | 3,690 | 10 ft | **Enclosed** | **29%** | **Strong contender - the lightest verified enclosed garage** |
 | Keystone **Raptor Carbon Series 321LT** (2026) | 32 ft | **14,000** | 2,000 (dealer) | 4,845 | 15 ft 8 in | **Shared** | **26%** | Candidate - weights from dealer listings, not yet from Keystone |
 | [Forest River **Vengeance Rogue SUT 323SUT**](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843) (2026) | 34 ft 10 in | **14,090** | 2,090 | 4,477 | 11 ft | **Enclosed** | **26%** | **Strong contender - verified enclosed, fits to 25%; the only current-production one** |
-| [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | **Favorite** |
-| [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | **Favorite** |
+| [Forest River **XLR Boost 286B**](https://forestriverinc.com/rvs/xlr-boost/286B/12880) (2026) | 31 ft 4 in | **14,094** | 2,090 | 5,000 | 16 ft | **Shared** | **26%** | Strong contender - previously a co-favorite |
+| [Forest River **Nightfall 270N / 270NF**](https://forestriverinc.com/rvs/nightfall/270N/15652) (2027) | 32 ft 3 in | 14,759 | 2,165 | 5,300 | 16 ft | **Shared** | **25%** | :star: **Current favorite - the 270NF** (owner, 14 September 2026) |
 | **2021 Forest River Stealth SA3019G** | 36 ft 5 in | 14,999 | 2,416 | 4,105 | 19 ft 10 in | **Shared** | **24%** | Strong contender |
 
 Sorted by GVWR ascending, which is also the order of decreasing margin against this truck.
@@ -104,7 +104,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 
 **The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. It is verified enclosed *and* comfortable at 25% pin. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other verified enclosed garage that fits at 25%; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
 
-**Both favorites have shared garages.** The Nightfall 270N and XLR Boost 286B have 16 ft shared garages. Garage type is a data point, not a requirement, so this does not count against them. In return for the open layout, they offer the longest verified garage floors that fit the truck at 25% pin.
+**The current favorite, the Nightfall 270NF, has a shared garage, as does the former co-favorite XLR Boost 286B.** Both have 16 ft shared garages. Garage type is a data point, not a requirement, so this does not count against them. In return for the open layout, they offer the longest verified garage floors that fit the truck at 25% pin.
 
 > **Rejected 14 September 2026.** The 2018 Triton 3351 failed on weight. Dutchmen's brochure gives a 16,800 lb GVWR, so the pin would have to stay below **21.6%** at full load. Its own dry pin ratio is **24.6%** (2,750 lb on an 11,200 lb trailer), which puts about 4,125 lb on the hitch at GVWR, roughly 500 lb over the ceiling. Its combined weight at GVWR would reach **28,700 lb**.
 
@@ -224,7 +224,7 @@ The shortlist balances two things that pull against each other, and records a th
 - **payload margin** against this truck;
 - **garage type**, enclosed or shared, which is recorded for comparison but is not a requirement.
 
-Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinued KZ Sportster 311TH10 (10 ft) fit to 25% pin, and they have the smallest garages on the list. Both favorites have shared garages and longer garage floors. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
+Of the verified enclosed garages, only the Rogue SUT (11 ft) and the discontinued KZ Sportster 311TH10 (10 ft) fit to 25% pin, and they have the smallest garages on the list. The current favorite (Nightfall 270NF) and the XLR Boost 286B both have shared garages and longer garage floors. Weight margin ranks candidates; it does not decide between them on its own - fresh water capacity, cargo carrying capacity, garage dimensions and layout all carry weight in the decision and are not yet recorded here.
 
 ### XLR Micro Boost 301LRLE floorplan - verified
 
