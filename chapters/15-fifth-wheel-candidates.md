@@ -134,7 +134,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 
 > **Do not eliminate a trailer on calculated pin percentage alone.** Loaded pin is not a fixed fraction of loaded weight. On a toy hauler it moves several hundred pounds depending on where cargo sits - garage load behind the axles reduces pin, forward tanks and storage increase it. These percentages rank candidates and flag which need care; a CAT scale ticket with the rig loaded settles it.
 
-> **GCWR is a conditional caution, not a demonstrated constraint.** The truck's configuration is fully known - 7.3L gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined weight with each trailer at its GVWR runs from 23,400 lb (KZ Sportster 280TH, the lightest on the list) to 26,659 lb (Nightfall 270N, the heaviest remaining under the 35 ft limit).
+> **GCWR is 29,000 lb and is not the binding limit** (REF-029, 7.3L V8 with 4.30 axle). Combined weight with each shortlisted trailer at its GVWR runs from 23,400 lb (KZ Sportster 280TH) to 26,659 lb (Nightfall 270N), all under GCWR. The rear axle's ~3,625 lb pin limit remains the constraint.
 
 ### Candidates proposed 11 September 2026 - screened, not verified
 

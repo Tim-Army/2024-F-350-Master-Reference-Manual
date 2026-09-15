@@ -406,8 +406,8 @@ guidance quick reference</a></li><li><a href="#driving-systems-notes">Driving sy
 gasoline</a></li><li><a href="#engine-specifications---73l-gasoline">Engine specifications -
 7.3L gasoline</a></li><li><a href="#service-intervals">Service intervals</a></li><li><a href="#every-six-months">Every six months</a></li><li><a href="#still-to-source">Still to source</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c04"><span class="toc-num">04</span>4. Maintenance & Service Log</a><ul><li><a href="#maintenance-framework">Maintenance framework</a></li><li><a href="#service-log">Service log</a></li></ul></div>
-<div class="toc-group"><a class="toc-chapter" href="#c05"><span class="toc-num">05</span>5. Torque Specifications</a><ul><li><a href="#verified-status-note">Verified-status note</a></li><li><a href="#provisional-quick-list---confirm-with-ford-wsm">Provisional
-quick list - confirm with Ford WSM</a></li><li><a href="#torque-atlas-placeholder">Torque Atlas placeholder</a></li></ul></div>
+<div class="toc-group"><a class="toc-chapter" href="#c05"><span class="toc-num">05</span>5. Torque Specifications</a><ul><li><a href="#source-and-scope">Source and scope</a></li><li><a href="#corrections-to-the-provisional-list">Corrections to the
+provisional list</a></li><li><a href="#wheels-and-tires">Wheels and tires</a></li><li><a href="#engine---73l-v8">Engine - 7.3L V8</a></li><li><a href="#transmission---10r140">Transmission - 10R140</a></li><li><a href="#transfer-case-and-4wd">Transfer case and 4WD</a></li><li><a href="#driveshafts">Driveshafts</a></li><li><a href="#front-axle---dana-m235">Front axle - Dana M235</a></li><li><a href="#rear-axle---ford-116-in">Rear axle - Ford 11.6 in</a></li><li><a href="#brakes">Brakes</a></li><li><a href="#steering">Steering</a></li><li><a href="#suspension">Suspension</a></li><li><a href="#towing-hardware-and-frame">Towing hardware and frame</a></li><li><a href="#electrical">Electrical</a></li><li><a href="#body">Body</a></li><li><a href="#not-yet-extracted">Not yet extracted</a></li></ul></div>
 <div class="toc-group"><a class="toc-chapter" href="#c06"><span class="toc-num">06</span>6. Fluids & Capacities</a><ul><li><a href="#status">Status</a></li><li><a href="#capacities-and-specifications">Capacities and
 specifications</a></li><li><a href="#front-axle---dana-m235-925-in">Front axle - Dana M235, 9.25
 in</a></li><li><a href="#rear-axle---116-in-confirmed">Rear axle - 11.6 in,
@@ -1194,71 +1194,967 @@ state rather than assuming the truck is current.</p>
 </section>
 <section class="section chapter" id="c05">
   <div class="section-head"><span class="section-num">05</span><h2>5. Torque Specifications</h2></div>
-<h3 id="verified-status-note">Verified-status note</h3>
+<h3 id="source-and-scope">Source and scope</h3>
+<p>Torque values are from the <strong>2024 F-350 Super Duty 7.3L
+Workshop Service Manual (REF-028)</strong>, extracted 15 September 2026.
+Ford does not publish one torque table. Each value sits inside the
+repair procedure that uses it, so these were pulled procedure by
+procedure and filtered to this truck's configuration:</p>
+<ul>
+<li><strong>7.3L gasoline V8</strong>, 10R140 transmission;</li>
+<li><strong>4x4</strong>, single rear wheel;</li>
+<li><strong>Dana M235 front axle</strong>, <strong>Ford 11.6 in rear
+axle</strong>.</li>
+</ul>
+<p>Values for the 6.7L diesel, the 6.8L, DRW and F-450/F-550 variants,
+and the Dana M275/M300/M315 axles were excluded.</p>
 <blockquote>
-<p><strong>Important</strong> The following values were previously
-recorded in the project conversation as known/common values, but must be
-checked against the current Ford Workshop Manual for this VIN before
-safety-critical use. Do not infer a specification for an unlisted
-fastener.</p>
+<p><strong>Read the procedure before tightening anything
+safety-critical.</strong> This chapter records the number; the WSM
+procedure records the conditions around it. That includes bolt
+sequences, one-time-use (torque-to-yield) fasteners, thread locker or
+lubricant requirements, and whether the vehicle must be resting on its
+wheels. Where a fastener is marked <strong>new</strong>, Ford directs it
+be replaced, not reused. <strong>Do not infer a specification for an
+unlisted fastener.</strong></p>
 </blockquote>
-<h3 id="provisional-quick-list---confirm-with-ford-wsm">Provisional
-quick list - confirm with Ford WSM</h3>
+<p><strong>Units.</strong> lb-ft for large values and lb-in for small
+ones, as Ford lists them, with N·m in brackets. A
+<strong>staged</strong> value is tightened in the order given; an angle
+(for example <strong>+90°</strong>) is turned after the preceding torque
+step.</p>
+<h3 id="corrections-to-the-provisional-list">Corrections to the
+provisional list</h3>
+<p>The previous edition carried a provisional quick list from the
+project conversation, marked <em>Confirm with Ford WSM</em>. Checked
+against REF-028:</p>
 <div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Component</th>
-<th>Previously recorded value</th>
-<th>Status</th>
+<th>Provisional value</th>
+<th>WSM value</th>
+<th>Result</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Wheel lug nuts (18-inch steel/aluminum)</td>
-<td>165 ft-lb (224 N-m)</td>
-<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+<td>Wheel nuts (SRW)</td>
+<td>165 lb-ft (224 N·m)</td>
+<td><strong>150 lb-ft (204 N·m)</strong></td>
+<td><strong>Corrected</strong> - the provisional figure was 15 lb-ft too
+high</td>
 </tr>
 <tr>
 <td>7.3L engine oil drain plug</td>
-<td>19 ft-lb (26 N-m)</td>
-<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+<td>19 lb-ft (26 N·m)</td>
+<td><strong>19 lb-ft (26 N·m)</strong></td>
+<td>Confirmed</td>
 </tr>
 <tr>
 <td>7.3L spark plugs</td>
-<td>15 ft-lb (20 N-m)</td>
-<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+<td>15 lb-ft (20 N·m)</td>
+<td><strong>133 lb-in (15 N·m)</strong>, about 11 lb-ft</td>
+<td><strong>Corrected</strong> - the provisional figure was about a
+third too high</td>
 </tr>
 <tr>
 <td>Ignition coil bolts</td>
-<td>89 in-lb (10 N-m)</td>
-<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+<td>89 lb-in (10 N·m)</td>
+<td><strong>Stage 1: 62 lb-in (7 N·m); Stage 2: +45°</strong></td>
+<td><strong>Corrected</strong> - a torque-plus-angle fastener, not a
+single torque</td>
 </tr>
 <tr>
-<td>Battery terminal clamp nuts</td>
-<td>44 in-lb (5 N-m)</td>
-<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+<td>Battery cable terminal nuts</td>
+<td>44 lb-in (5 N·m)</td>
+<td><strong>80 lb-in (9 N·m)</strong> for primary and secondary terminal
+nuts; 55 lb-in (6.2 N·m) where the cable attaches by bolt</td>
+<td><strong>Corrected</strong></td>
 </tr>
 <tr>
 <td>Wiper arm nuts</td>
-<td>30 ft-lb (40 N-m)</td>
-<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+<td>30 lb-ft (40 N·m)</td>
+<td><strong>Not found in REF-028</strong></td>
+<td>Unverified - removed from use</td>
 </tr>
 <tr>
 <td>Receiver hitch mounting bolts</td>
-<td>210 ft-lb (285 N-m)</td>
-<td><span class="chip chip-caution">Confirm with Ford WSM</span></td>
+<td>210 lb-ft (285 N·m)</td>
+<td><strong>325 lb-ft (440 N·m)</strong>, trailer hitch-to-frame
+bolts</td>
+<td><strong>Corrected</strong></td>
 </tr>
 </tbody>
 </table></div>
-<h3 id="torque-atlas-placeholder">Torque Atlas placeholder</h3>
-<ul>
-<li>Future system sections: brakes, steering, front and rear suspension,
-drivetrain, 7.3L engine, cooling, body/frame, electrical, and towing
-equipment.</li>
-<li>Each final entry should include torque, units, fastener dimensions,
-sequence, angle, one-time-use status, thread treatment, and Ford WSM
-reference.</li>
-</ul>
+<h3 id="wheels-and-tires">Wheels and tires</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Wheel nuts - SRW</strong></td>
+<td><strong>150 lb-ft (204 N·m)</strong></td>
+<td>Star/cross pattern. <strong>Final tightening with the vehicle
+resting on its tires.</strong> Specification is for clean, dry stud and
+nut threads, except for the light oiling below</td>
+</tr>
+<tr>
+<td>Wheel stud and nut preparation</td>
+<td>-</td>
+<td>Apply 2-3 drops of Motorcraft SAE 5W-20 full synthetic (XO-5W20-QFS)
+per hub to the stud threads with a towel and wipe off the excess. One
+drop between the washer and nut on 2-piece swivelling nuts. Thin coat of
+XL-2 nickel anti-seize on the <strong>hub pilot only</strong>, never on
+studs, nuts or mating faces</td>
+</tr>
+<tr>
+<td><strong>Retorque</strong></td>
+<td><strong>150 lb-ft (204 N·m)</strong></td>
+<td><strong>Retighten within 100 miles (160 km)</strong> of any wheel
+reinstallation - Ford warns wheels can loosen after initial
+tightening</td>
+</tr>
+<tr>
+<td>TPMS sensor valve stem nut</td>
+<td>71 lb-in (8 N·m)</td>
+<td>New valve stem whenever a tire or wheel is replaced</td>
+</tr>
+<tr>
+<td>TPMS sensor screw</td>
+<td>13 lb-in (1.5 N·m)</td>
+<td>New screw</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="engine---73l-v8">Engine - 7.3L V8</h3>
+<h4 id="routine-service">Routine service</h4>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Engine oil drain plug</strong></td>
+<td><strong>19 lb-ft (26 N·m)</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Engine oil filter</strong></td>
+<td><strong>Stage 1: 44 lb-in (5 N·m); Stage 2: +180°</strong></td>
+<td>Lubricate the gasket with clean engine oil. Capacity 8.0 qt with
+filter (<a href="#c06">chapter 6</a>)</td>
+</tr>
+<tr>
+<td><strong>Spark plugs</strong></td>
+<td><strong>133 lb-in (15 N·m)</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Ignition coil bolts</strong></td>
+<td><strong>Stage 1: 62 lb-in (7 N·m); Stage 2: +45°</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>Accessory drive belt tensioner bolt</td>
+<td>35 lb-ft (47.5 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Accessory drive belt idler pulley bolt</td>
+<td>35 lb-ft (48 N·m)</td>
+<td>18 lb-ft (25 N·m) on the second idler location, per procedure</td>
+</tr>
+</tbody>
+</table></div>
+<h4 id="engine-mechanical">Engine mechanical</h4>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Valve cover bolts</td>
+<td>89 lb-in (10 N·m)</td>
+<td>New gasket; finger-tight first. Heat shield fasteners 53 lb-in (6
+N·m)</td>
+</tr>
+<tr>
+<td>Intake manifold bolts</td>
+<td>Stage 1: 89 lb-in (10 N·m), then per sequence</td>
+<td>New gaskets if necessary</td>
+</tr>
+<tr>
+<td>Exhaust manifold nuts</td>
+<td>Stage 1: 18 lb-ft (24 N·m) ... Stage 3: 24 lb-ft (32 N·m)</td>
+<td><strong>Sequence</strong>; new studs. Heat shield bolts 106 lb-in
+(12 N·m)</td>
+</tr>
+<tr>
+<td>Exhaust Y-pipe-to-manifold nuts</td>
+<td>30 lb-ft (40 N·m)</td>
+<td><strong>New nuts</strong>; tighten evenly</td>
+</tr>
+<tr>
+<td>Exhaust hanger bolts</td>
+<td>18 lb-ft (25 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Oil pan bolts</td>
+<td>Stage 1: 177 lb-in (20 N·m), then per sequence</td>
+<td>RTV; sequence</td>
+</tr>
+<tr>
+<td>Engine mount through bolts</td>
+<td>258 lb-ft (350 N·m)</td>
+<td>The WSM warns against damaging the mount while tightening</td>
+</tr>
+<tr>
+<td>Starter motor solenoid battery cable nut</td>
+<td>106 lb-in (12 N·m)</td>
+<td>Control wire nut 53 lb-in (6 N·m)</td>
+</tr>
+</tbody>
+</table></div>
+<h4 id="cooling">Cooling</h4>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thermostat housing bolts</td>
+<td>Stage 1: 89 lb-in (10 N·m); Stage 2: +45°</td>
+<td>New O-ring</td>
+</tr>
+<tr>
+<td>Coolant pump bolts</td>
+<td>Stage 1: 177 lb-in (20 N·m), then per sequence</td>
+<td>Pulley bolts 18 lb-ft (25 N·m)</td>
+</tr>
+<tr>
+<td>Coolant hose clamps</td>
+<td>44 lb-in (5 N·m)</td>
+<td>Return clamps to their noted position</td>
+</tr>
+<tr>
+<td>Block heater</td>
+<td>41 lb-ft (55 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Cooling fan clutch nut</td>
+<td>98 lb-ft (133 N·m)</td>
+<td>Special tool 303-214</td>
+</tr>
+<tr>
+<td>Cooling fan-to-clutch nuts</td>
+<td>97 lb-in (11 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Degas bottle bolts</td>
+<td>26 lb-ft (35 N·m)</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="transmission---10r140">Transmission - 10R140</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Transmission fluid standpipe plug</strong></td>
+<td><strong>159 lb-in (18 N·m)</strong></td>
+<td>Used for fluid level setting in the drain-and-refill procedure</td>
+</tr>
+<tr>
+<td><strong>Transmission fluid fill plug</strong></td>
+<td><strong>52 lb-ft (70 N·m)</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>Transmission fluid pan - bolts</td>
+<td>97 lb-in (11 N·m)</td>
+<td><strong>Sequence</strong></td>
+</tr>
+<tr>
+<td>Transmission fluid pan - stud bolts</td>
+<td>106 lb-in (12 N·m)</td>
+<td><strong>Sequence</strong></td>
+</tr>
+<tr>
+<td>Heat shield nuts (LH/RH)</td>
+<td>80 lb-in (9 N·m)</td>
+<td>Removed for level check and pan service</td>
+</tr>
+<tr>
+<td>Transmission fluid cooler bolt</td>
+<td>18 lb-ft (25 N·m)</td>
+<td>New bolt</td>
+</tr>
+<tr>
+<td>Transmission support insulator bolts</td>
+<td>76 lb-ft (103 N·m)</td>
+<td>New bolts</td>
+</tr>
+<tr>
+<td>Transmission support insulator nuts</td>
+<td>85 lb-ft (115 N·m)</td>
+<td>New nuts</td>
+</tr>
+<tr>
+<td>Transmission support crossmember (4WD)</td>
+<td>81 lb-ft (110 N·m)</td>
+<td>New nuts and bolts</td>
+</tr>
+<tr>
+<td>Transmission-to-engine bolts</td>
+<td>35 lb-ft (48 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Torque converter nuts</td>
+<td>35 lb-ft (48 N·m)</td>
+<td>New nuts</td>
+</tr>
+</tbody>
+</table></div>
+<p>Capacity 18.2 qt dry fill, MERCON ULV (<a
+href="#c06">chapter 6</a>).</p>
+<h3 id="transfer-case-and-4wd">Transfer case and 4WD</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Transfer case drain plug</strong></td>
+<td><strong>20 lb-ft (27 N·m)</strong></td>
+<td>Thread sealant on the plug</td>
+</tr>
+<tr>
+<td><strong>Transfer case fill plug</strong></td>
+<td><strong>20 lb-ft (27 N·m)</strong></td>
+<td>Thread sealant on the plug. MERCON LV, 1.9 qt</td>
+</tr>
+<tr>
+<td>Transfer case skid plate bolts</td>
+<td>46 lb-ft (63 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Transfer case-to-transmission bolts</td>
+<td>41 lb-ft (55 N·m)</td>
+<td>New bolts</td>
+</tr>
+<tr>
+<td>Transfer case shift motor bolts</td>
+<td>89 lb-in (10 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Transfer case rear output flange nut</td>
+<td>185 lb-ft (251 N·m)</td>
+<td>New nut</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="driveshafts">Driveshafts</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rear driveshaft U-joint strap bolts</td>
+<td>46 lb-ft (63 N·m)</td>
+<td><strong>New straps and bolts</strong>; index-mark before
+removal</td>
+</tr>
+<tr>
+<td>Rear driveshaft center bearing bolts</td>
+<td>52 lb-ft (70 N·m)</td>
+<td>New bolts</td>
+</tr>
+<tr>
+<td>Rear driveshaft flange-to-flange bolts</td>
+<td>76 lb-ft (103 N·m)</td>
+<td>Cross pattern</td>
+</tr>
+<tr>
+<td>Front driveshaft U-joint strap bolts (at front axle)</td>
+<td>26 lb-ft (35 N·m)</td>
+<td>New straps and bolts</td>
+</tr>
+<tr>
+<td>Front driveshaft CV joint-to-transfer case flange bolts</td>
+<td>92 lb-ft (125 N·m)</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="front-axle---dana-m235">Front axle - Dana M235</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Front differential fill plug</strong></td>
+<td><strong>20 lb-ft (27 N·m)</strong></td>
+<td>SAE 80W-90, 2.20 qt</td>
+</tr>
+<tr>
+<td><strong>Front differential cover bolts</strong></td>
+<td><strong>Stage 1: 177 lb-in (20 N·m); Stage 2: +20°</strong></td>
+<td>Gasket. The F-450/F-550 figure of 45 lb-ft does <strong>not</strong>
+apply</td>
+</tr>
+<tr>
+<td>Differential bearing cap bolts</td>
+<td>70 lb-ft (95 N·m)</td>
+<td>Overhaul only</td>
+</tr>
+<tr>
+<td>Ring gear bolts</td>
+<td>Stage 1: 74 lb-ft (100 N·m), then per procedure</td>
+<td><strong>New bolts</strong>; overhaul only</td>
+</tr>
+<tr>
+<td>Front wheel hub-to-knuckle nuts (4WD)</td>
+<td>133 lb-ft (180 N·m)</td>
+<td><strong>New nuts, cross pattern</strong></td>
+</tr>
+<tr>
+<td>Hublock screws</td>
+<td>53 lb-in (6 N·m)</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="rear-axle---ford-116-in">Rear axle - Ford 11.6 in</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Differential housing cover bolts</strong></td>
+<td><strong>33 lb-ft (45 N·m)</strong></td>
+<td><strong>New gasket</strong></td>
+</tr>
+<tr>
+<td><strong>ELD connector adaptor bolt</strong></td>
+<td><strong>133 lb-in (15 N·m)</strong></td>
+<td>The <strong>fill point</strong>: drain, then fill a measured 4.12 qt
+of 75W-140 through this hole, not the fill plug (<a
+href="#c06">chapter 6</a>)</td>
+</tr>
+<tr>
+<td><strong>Axle shaft bolts (11.6 in)</strong></td>
+<td><strong>74 lb-ft (100 N·m) + 90°</strong></td>
+<td><strong>New bolts</strong>, cross pattern. <strong>Clean all thread
+locker from the hole threads first.</strong> The same page lists the
+10.5 in axle as 37 lb-ft + 90° - do not confuse the two</td>
+</tr>
+<tr>
+<td>Wheel hub nut (full-floating)</td>
+<td><strong>Stage 1: 70 lb-ft (95 N·m); Stage 2: loosen 180°; Stage 3:
+22 lb-ft (30 N·m)</strong></td>
+<td>Then check end play with a dial indicator per procedure. Hub nuts
+are right-hand thread on the right hub and <strong>left-hand thread on
+the left hub</strong></td>
+</tr>
+<tr>
+<td>Driveshaft-to-pinion flange bolts</td>
+<td>46 lb-ft (63 N·m)</td>
+<td>New bolts</td>
+</tr>
+<tr>
+<td>Differential bearing cap bolts</td>
+<td>177 lb-ft (240 N·m)</td>
+<td>Overhaul only; adjuster lock bolts 89 lb-in (10 N·m)</td>
+</tr>
+<tr>
+<td>Axle vent</td>
+<td>159 lb-in (18 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Brake line bracket bolts</td>
+<td>159 lb-in (18 N·m)</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="brakes">Brakes</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Front caliper guide pin bolts (F-250/F-350)</strong></td>
+<td><strong>55 lb-ft (75 N·m)</strong></td>
+<td>The F-450/F-550 figure of 98 lb-ft does <strong>not</strong>
+apply</td>
+</tr>
+<tr>
+<td><strong>Front caliper anchor plate bolts</strong></td>
+<td><strong>166 lb-ft (225 N·m)</strong></td>
+<td><strong>New bolts</strong></td>
+</tr>
+<tr>
+<td><strong>Rear caliper guide pin bolts (F-250/F-350)</strong></td>
+<td><strong>55 lb-ft (75 N·m)</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Rear caliper anchor plate bolts (F-250/F-350)</strong></td>
+<td><strong>203 lb-ft (275 N·m)</strong></td>
+<td><strong>New bolts</strong></td>
+</tr>
+<tr>
+<td>Brake hose-to-caliper banjo bolt</td>
+<td>35 lb-ft (47 N·m)</td>
+<td><strong>New washers</strong></td>
+</tr>
+<tr>
+<td>Brake tube fittings at hoses</td>
+<td>18 lb-ft (25 N·m) front / 17 lb-ft (23 N·m) rear</td>
+<td></td>
+</tr>
+<tr>
+<td>Brake hose bracket bolts</td>
+<td>177 lb-in (20 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Rear brake rotor bolts (SRW)</td>
+<td>114 lb-ft (155 N·m)</td>
+<td>Only when servicing the rotor</td>
+</tr>
+<tr>
+<td>Front brake disc shield bolts</td>
+<td>133 lb-in (15 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Master cylinder brake tube fittings</td>
+<td>22 lb-ft (30 N·m) primary / 17 lb-ft (23 N·m) secondary</td>
+<td></td>
+</tr>
+<tr>
+<td>Brake booster nuts</td>
+<td>17 lb-ft (23 N·m)</td>
+<td><strong>New nuts, cross pattern</strong></td>
+</tr>
+<tr>
+<td>Parking brake actuator motor bolts</td>
+<td>106 lb-in (12 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Front wheel speed sensor bolt (4WD)</td>
+<td>18 lb-ft (25 N·m)</td>
+<td>Harness retainer bolt 106 lb-in (12 N·m)</td>
+</tr>
+<tr>
+<td>Rear wheel speed sensor bolt (SRW)</td>
+<td>177 lb-in (20 N·m)</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p>No bleeder screw torque was found in REF-028.</p>
+<h3 id="steering">Steering</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Steering gear-to-frame bolts (F-250/F-350)</td>
+<td>184 lb-ft (250 N·m)</td>
+<td><strong>New bolts</strong></td>
+</tr>
+<tr>
+<td>Steering column shaft-to-gear bolt</td>
+<td>22 lb-ft (30 N·m)</td>
+<td><strong>New bolt</strong></td>
+</tr>
+<tr>
+<td>Steering wheel bolt</td>
+<td>35 lb-ft (48 N·m)</td>
+<td><strong>New bolt</strong></td>
+</tr>
+<tr>
+<td>Sector shaft (Pitman) arm nut</td>
+<td>350 lb-ft (475 N·m)</td>
+<td>New nut</td>
+</tr>
+<tr>
+<td>Drag link-to-sector shaft arm nut</td>
+<td>129 lb-ft (175 N·m)</td>
+<td>New nut</td>
+</tr>
+<tr>
+<td>Tie rod end / drag link-to-knuckle nuts</td>
+<td>85 lb-ft (115 N·m)</td>
+<td><strong>New nuts</strong></td>
+</tr>
+<tr>
+<td>Tie rod adjuster sleeve nuts</td>
+<td>41 lb-ft (55 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Steering linkage damper nuts</td>
+<td>52 lb-ft (70 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Track bar-to-frame nut and bolt (mono-tube axle)</td>
+<td>406 lb-ft (550 N·m)</td>
+<td>New</td>
+</tr>
+<tr>
+<td>Power steering pressure/return lines at gear</td>
+<td>26 lb-ft (35 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Steering gear bleed valve</td>
+<td>21 lb-ft (28 N·m)</td>
+<td>Close when a steady, non-aerated stream flows</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="suspension">Suspension</h3>
+<h4 id="front---4wd">Front - 4WD</h4>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Front shock absorber lower bolt and flag nut</td>
+<td>111 lb-ft (150 N·m)</td>
+<td><strong>New</strong></td>
+</tr>
+<tr>
+<td>Front shock absorber upper nut</td>
+<td>59 lb-ft (80 N·m)</td>
+<td><strong>New nut, washer and bushing</strong></td>
+</tr>
+<tr>
+<td>Stabilizer bar link nuts</td>
+<td>59 lb-ft (80 N·m)</td>
+<td><strong>New nuts</strong></td>
+</tr>
+<tr>
+<td>Stabilizer bar bracket nuts</td>
+<td>41 lb-ft (55 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Radius arm bolts and nuts</td>
+<td>221 lb-ft (300 N·m)</td>
+<td><strong>New.</strong> Tighten <strong>at curb height</strong>, or
+the bushing can be damaged</td>
+</tr>
+<tr>
+<td>Track bar ball joint nut</td>
+<td>184 lb-ft (250 N·m)</td>
+<td>New</td>
+</tr>
+<tr>
+<td>Upper ball joint nut</td>
+<td>69 lb-ft (94 N·m)</td>
+<td>Cotter pin</td>
+</tr>
+<tr>
+<td>Lower ball joint nut</td>
+<td>44 lb-ft (59 N·m) plus 150 lb-ft (204 N·m) per procedure</td>
+<td><strong>New nut</strong>; staged per procedure</td>
+</tr>
+</tbody>
+</table></div>
+<h4 id="rear---leaf-spring">Rear - leaf spring</h4>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>U-bolt nuts - SRW</strong></td>
+<td><strong>Stage 1: 48 lb-ft (65 N·m); Stage 2: 96 lb-ft (130 N·m);
+Stage 3: 148 lb-ft (200 N·m); Stage 4: 195 lb-ft (265 N·m)</strong></td>
+<td><strong>New U-bolts and nuts</strong>, evenly, <strong>cross
+pattern</strong>, <strong>suspension at curb height</strong></td>
+</tr>
+<tr>
+<td>Spring-to-frame (front eye) nut and bolt</td>
+<td>325 lb-ft (440 N·m)</td>
+<td>New; curb height</td>
+</tr>
+<tr>
+<td>Spring shackle-to-frame bolt and flag nut</td>
+<td>173 lb-ft (235 N·m)</td>
+<td>New; curb height</td>
+</tr>
+<tr>
+<td>Spring-to-shackle nut and bolt</td>
+<td>173 lb-ft (235 N·m)</td>
+<td>New; curb height</td>
+</tr>
+<tr>
+<td>Rear shock absorber lower nut and bolt</td>
+<td>111 lb-ft (150 N·m)</td>
+<td>New</td>
+</tr>
+<tr>
+<td>Rear shock absorber upper nut</td>
+<td>52 lb-ft (70 N·m)</td>
+<td>New</td>
+</tr>
+<tr>
+<td>Rear stabilizer bar link nuts</td>
+<td>76 lb-ft (103 N·m)</td>
+<td>New</td>
+</tr>
+<tr>
+<td>Rear stabilizer bar bracket bolts</td>
+<td>35 lb-ft (48 N·m)</td>
+<td>New</td>
+</tr>
+<tr>
+<td>Leaf spring tip isolator clip nut</td>
+<td>33 lb-ft (45 N·m)</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<blockquote>
+<p><strong>Anything bolted to the rear axle or springs goes back at curb
+height.</strong> That includes the U-bolts, spring eyes and shackles. It
+matters for the <a href="#c09">load
+support</a> kits under consideration, which mount at or near the U-bolts
+and axle.</p>
+</blockquote>
+<h3 id="towing-hardware-and-frame">Towing hardware and frame</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Rear trailer hitch (receiver)-to-frame bolts</strong></td>
+<td><strong>325 lb-ft (440 N·m)</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fifth-wheel/gooseneck prep - hitch-to-inner bracket
+bolts</strong></td>
+<td><strong>173 lb-ft (235 N·m)</strong></td>
+<td><strong>New bolts</strong></td>
+</tr>
+<tr>
+<td>Fifth-wheel prep - hitch-to-outer bracket bolts</td>
+<td>111 lb-ft (150 N·m)</td>
+<td>Tightened after the inner bolts</td>
+</tr>
+<tr>
+<td>Fifth-wheel prep - outer bracket bolts</td>
+<td>184 lb-ft (250 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fifth-wheel hitch kit - puck castle nuts on tee
+pins</strong></td>
+<td><strong>37 lb-ft (50 N·m)</strong></td>
+<td>Then tighten further only to align the castle nut slot with the tee
+pin hole, and fit the lynch pins</td>
+</tr>
+<tr>
+<td>Rear bumper-to-frame nuts</td>
+<td>111 lb-ft (150 N·m)</td>
+<td>Center bracket bolts 22 lb-ft (30 N·m)</td>
+</tr>
+<tr>
+<td>Front bumper-to-frame bolts</td>
+<td>76 lb-ft (103 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Pickup bed fasteners</td>
+<td>98 lb-ft (133 N·m)</td>
+<td><strong>Discard and replace</strong></td>
+</tr>
+<tr>
+<td>Frame repair bolts (13 mm / ½ in grade 8)</td>
+<td>115 lb-ft (156 N·m)</td>
+<td>Frame repair procedure</td>
+</tr>
+</tbody>
+</table></div>
+<p>The B&amp;W Companion hitch in <a
+href="#c09">chapter 9</a> installs into
+the factory puck system. Follow B&amp;W's own instructions for the
+hitch; the factory prep and puck values above cover the truck side.</p>
+<h3 id="electrical">Electrical</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Battery cable terminal nuts</strong> (primary and
+secondary)</td>
+<td><strong>80 lb-in (9 N·m)</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>Battery cable bolts (bolt-on terminals, auxiliary battery)</td>
+<td>55 lb-in (6.2 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Battery hold-down bracket nuts</td>
+<td>36 lb-in (4.1 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Battery monitoring sensor nut</td>
+<td>80 lb-in (9 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Battery tray bolts</td>
+<td>18 lb-ft (25 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>High-current fuse cable nuts</td>
+<td>97-106 lb-in (11-12 N·m)</td>
+<td>Per terminal, per procedure</td>
+</tr>
+<tr>
+<td>Trailer brake control switch screws</td>
+<td>22 lb-in (2.5 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Trailer module bolts</td>
+<td>80 lb-in (9 N·m)</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="body">Body</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Fastener</th>
+<th>Torque</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tailgate step bolts</td>
+<td>16 lb-ft (22 N·m)</td>
+<td><strong>Sequence</strong></td>
+</tr>
+<tr>
+<td>Tailgate torsion rod clamp block bolts</td>
+<td>133 lb-in (15 N·m)</td>
+<td></td>
+</tr>
+<tr>
+<td>Power tailgate motor bolts</td>
+<td>80 lb-in (9 N·m) upper / 18 lb-ft (25 N·m) bottom</td>
+<td></td>
+</tr>
+<tr>
+<td>Windshield wiper motor / linkage bolts</td>
+<td>89 lb-in (10 N·m) / 71 lb-in (8 N·m)</td>
+<td>Crank arm retainer 133 lb-in (15 N·m)</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="not-yet-extracted">Not yet extracted</h3>
+<p>REF-028 holds about 1,200 torque values across roughly 900 procedures
+for this configuration. This chapter carries the service, towing and
+chassis values. Still to add as needed: engine internals (cylinder
+heads, timing, crankshaft), transmission internals, HVAC, restraints,
+and interior trim. Search the WSM's single-page Repair and Diagnosis
+index for those.</p>
 
 </section>
 <section class="section chapter" id="c06">
@@ -3711,10 +4607,18 @@ front rather than adding to it.</p>
 <p>The hitch is not a constraint either - the B&amp;W Companion is rated
 25,000 lb gross tow and 6,250 lb vertical load, well above anything the
 truck can carry.</p>
-<p><strong>GCWR is not yet known</strong> and could bind before either
-figure above on a long grade. The Workshop Service Manual (REF-028) does
-not carry it; source it from Ford's RV &amp; Trailer Towing Guide for
-the 2024 Super Duty.</p>
+<p><strong>GCWR is 29,000 lb</strong> - Ford's 2024 RV &amp; Trailer
+Towing Guide (REF-029), for the F-350 SRW with the 7.3L V8 and 4.30
+axle. The same table allows a <strong>maximum loaded fifth-wheel trailer
+of 21,300 lb</strong> for this 4x4 Crew Cab, 176 in wheelbase, 8 ft box
+with 18 in all-terrain tires (21,100 lb base; gooseneck 21,500 lb), and
+19,500 lb conventional. <strong>GCWR does not bind before the rear
+axle.</strong> At the working case, a ~11,590 lb truck plus a 14,500 lb
+trailer is about 26,100 lb, some 2,900 lb under GCWR. The guide's 21,300
+lb trailer figure assumes a 150 lb driver and passenger and ignores this
+truck's rear GAWR, which caps pin weight at ~3,625 lb long before that
+trailer weight is reached. Ford's note is the same: pin weight must not
+push the truck past rear GAWR or GVWR.</p>
 <p>Candidate trailers are shortlisted in <a
 href="#c15">chapter 15</a>; screen each on pin
 weight against the figures above.</p>
@@ -3784,10 +4688,18 @@ front rather than adding to it.</p>
 <p>The hitch is not a constraint either - the B&amp;W Companion is rated
 25,000 lb gross tow and 6,250 lb vertical load, well above anything the
 truck can carry.</p>
-<p><strong>GCWR is not yet known</strong> and could bind before either
-figure above on a long grade. The Workshop Service Manual (REF-028) does
-not carry it; source it from Ford's RV &amp; Trailer Towing Guide for
-the 2024 Super Duty.</p>
+<p><strong>GCWR is 29,000 lb</strong> - Ford's 2024 RV &amp; Trailer
+Towing Guide (REF-029), for the F-350 SRW with the 7.3L V8 and 4.30
+axle. The same table allows a <strong>maximum loaded fifth-wheel trailer
+of 21,300 lb</strong> for this 4x4 Crew Cab, 176 in wheelbase, 8 ft box
+with 18 in all-terrain tires (21,100 lb base; gooseneck 21,500 lb), and
+19,500 lb conventional. <strong>GCWR does not bind before the rear
+axle.</strong> At the working case, a ~11,590 lb truck plus a 14,500 lb
+trailer is about 26,100 lb, some 2,900 lb under GCWR. The guide's 21,300
+lb trailer figure assumes a 150 lb driver and passenger and ignores this
+truck's rear GAWR, which caps pin weight at ~3,625 lb long before that
+trailer weight is reached. Ford's note is the same: pin weight must not
+push the truck past rear GAWR or GVWR.</p>
 <p>Candidate trailers are shortlisted in <a
 href="#c15">chapter 15</a>; screen each on pin
 weight against the figures above.</p>
@@ -4239,6 +5151,16 @@ wake-up and speedometer recalibration notes</td>
 <td><span class="chip chip-ok">Held</span></td>
 </tr>
 <tr>
+<td>REF-029</td>
+<td>2024 Ford RV &amp; Trailer Towing Guide, v3 (revised 12.06.23)</td>
+<td><code>imports/2024-Ford-RV-and-Trailer-Towing-Guide-v3.pdf</code></td>
+<td>45</td>
+<td>Ford OEM; <strong>GCWR 29,000 lb</strong> and maximum trailer
+weights for this configuration - see <a
+href="#c10">chapter 10</a></td>
+<td><span class="chip chip-ok">Held</span></td>
+</tr>
+<tr>
 <td>REF-028</td>
 <td>Workshop Service Manual, 2024 F-350 Super Duty 7.3L (third-party
 HTML compilation of Ford service information, retrieved 2025)</td>
@@ -4403,8 +5325,9 @@ applicability, and any superseding publication.</p>
 <p><strong>Workshop Service Manual received 15 September 2026</strong>
 as REF-028 - see <a href="#apxa">Appendix
 A</a>. Still missing: the original dealer advertisement (REF-004),
-Motorcraft parts documentation for chapter 3, and a source for
-<strong>GCWR</strong>, which the WSM does not carry.</p>
+Motorcraft parts documentation for chapter 3, GCWR is now sourced from
+the 2024 RV &amp; Trailer Towing Guide (REF-029), received 15 September
+2026.</p>
 <h4 id="documents-that-do-not-apply-to-this-truck">Documents that do not
 apply to this truck</h4>
 <p>Three held documents cover other vehicles or configurations. They are
@@ -5299,13 +6222,11 @@ storage increase it. These percentages rank candidates and flag which
 need care; a CAT scale ticket with the rig loaded settles it.</p>
 </blockquote>
 <blockquote>
-<p><strong>GCWR is a conditional caution, not a demonstrated
-constraint.</strong> The truck's configuration is fully known - 7.3L
-gasoline V8, 4.30 electronic-locking axle, SRW crew cab 4x4, 176 in
-wheelbase (REF-003) - but its GCWR has not yet been sourced. Combined
-weight with each trailer at its GVWR runs from 23,400 lb (KZ Sportster
-280TH, the lightest on the list) to 26,659 lb (Nightfall 270N, the
-heaviest remaining under the 35 ft limit).</p>
+<p><strong>GCWR is 29,000 lb and is not the binding limit</strong>
+(REF-029, 7.3L V8 with 4.30 axle). Combined weight with each shortlisted
+trailer at its GVWR runs from 23,400 lb (KZ Sportster 280TH) to 26,659
+lb (Nightfall 270N), all under GCWR. The rear axle's ~3,625 lb pin limit
+remains the constraint.</p>
 </blockquote>
 <h4
 id="candidates-proposed-11-september-2026---screened-not-verified">Candidates
@@ -7254,8 +8175,11 @@ came from.</p>
   <div class="section-head"><span class="section-num">A</span><h2>Appendix A. Future Workshop Manual Intake</h2></div>
 <h3 id="required-additions">Required additions</h3>
 <ul>
-<li>Full verified torque atlas, including sequences, torque-angle steps,
-and one-time-use fasteners.</li>
+<li><del>Full verified torque atlas</del> - <strong>service, chassis and
+towing torques extracted</strong> into <a
+href="#c05">chapter 5</a>, 15 September 2026.
+Engine and transmission internals, HVAC and trim still to extract as
+needed.</li>
 <li><del>VIN-correct fluid capacities, Motorcraft product
 specifications, service intervals</del> - now sourced from the Owner's
 Manual into <a href="#c03">chapter 3</a> and <a
@@ -7265,7 +8189,8 @@ capacity (<strong>18.2 qt dry fill</strong>), front axle (<strong>Dana
 M235, 9.25 in</strong>), axle code <code>4M</code> and transmission code
 <code>G</code> decodes, and the <strong>11.6 in rear axle fill
 procedure</strong> (drain, then fill 4.12 qt through the ELD adaptor
-hole). <strong>Not in the WSM: GCWR</strong>.</li>
+hole). <strong>Not in the WSM: GCWR</strong> - sourced instead from the
+Towing Guide (REF-029): 29,000 lb.</li>
 <li>Wiring diagrams, connector views, fuse/relay functions, diagnostic
 tests, and module/programming references.</li>
 <li>OEM parts diagrams and Ford/Motorcraft part numbers.</li>
@@ -7282,11 +8207,11 @@ single-page version for searching, and labor times. It is held in
 <p>It is labelled for the Platinum trim but states it is identical for
 the other 7.3L variants. <strong>It is not VIN-specific</strong>, so
 check option-dependent entries against this truck's build.</p>
-<p>Still to mine from it, in order: the torque atlas for <a
-href="#c05">chapter 5</a>, wiring for <a
-href="#c07">chapter 7</a>, and service procedures.
-<strong>GCWR is not in it</strong>; source that from Ford's RV &amp;
-Trailer Towing Guide.</p>
+<p>Torque atlas extracted into <a
+href="#c05">chapter 5</a>. Still to mine: wiring
+for <a href="#c07">chapter 7</a> and service
+procedures. GCWR is not in the WSM; it came from the Towing Guide
+(REF-029).</p>
 <h3 id="revision-record">Revision record</h3>
 <div class="tablewrap"><table>
 <thead>
@@ -7313,6 +8238,12 @@ narrowed</td>
 <td>15 September 2026</td>
 <td>WSM received (REF-028): transmission capacity, front axle, code
 decodes and rear axle fill procedure recorded in chapter 6</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>15 September 2026</td>
+<td>Torque atlas extracted into chapter 5 (provisional list corrected);
+GCWR 29,000 lb from the Towing Guide (REF-029)</td>
 </tr>
 <tr>
 <td></td>

@@ -69,9 +69,22 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Maintenance framework](chapters/04-maintenance-and-service-log.md#maintenance-framework) |
 | | [Service log](chapters/04-maintenance-and-service-log.md#service-log) |
 | **5** | **[Torque Specifications](chapters/05-torque-specifications.md)** |
-| | [Verified-status note](chapters/05-torque-specifications.md#verified-status-note) |
-| | [Provisional quick list - confirm with Ford WSM](chapters/05-torque-specifications.md#provisional-quick-list---confirm-with-ford-wsm) |
-| | [Torque Atlas placeholder](chapters/05-torque-specifications.md#torque-atlas-placeholder) |
+| | [Source and scope](chapters/05-torque-specifications.md#source-and-scope) |
+| | [Corrections to the provisional list](chapters/05-torque-specifications.md#corrections-to-the-provisional-list) |
+| | [Wheels and tires](chapters/05-torque-specifications.md#wheels-and-tires) |
+| | [Engine - 7.3L V8](chapters/05-torque-specifications.md#engine---73l-v8) |
+| | [Transmission - 10R140](chapters/05-torque-specifications.md#transmission---10r140) |
+| | [Transfer case and 4WD](chapters/05-torque-specifications.md#transfer-case-and-4wd) |
+| | [Driveshafts](chapters/05-torque-specifications.md#driveshafts) |
+| | [Front axle - Dana M235](chapters/05-torque-specifications.md#front-axle---dana-m235) |
+| | [Rear axle - Ford 11.6 in](chapters/05-torque-specifications.md#rear-axle---ford-116-in) |
+| | [Brakes](chapters/05-torque-specifications.md#brakes) |
+| | [Steering](chapters/05-torque-specifications.md#steering) |
+| | [Suspension](chapters/05-torque-specifications.md#suspension) |
+| | [Towing hardware and frame](chapters/05-torque-specifications.md#towing-hardware-and-frame) |
+| | [Electrical](chapters/05-torque-specifications.md#electrical) |
+| | [Body](chapters/05-torque-specifications.md#body) |
+| | [Not yet extracted](chapters/05-torque-specifications.md#not-yet-extracted) |
 | **6** | **[Fluids & Capacities](chapters/06-fluids-and-capacities.md)** |
 | | [Status](chapters/06-fluids-and-capacities.md#status) |
 | | [Capacities and specifications](chapters/06-fluids-and-capacities.md#capacities-and-specifications) |
@@ -194,7 +207,7 @@ Ford publications are held locally in `imports/` and cited in
 
 ## Chapter status
 
-Chapters 3 and 6 are populated from the Owner's Manual (REF-001). Much of 5, 7, and 11 remains a deliberate placeholder pending the Ford Workshop Manual - see [Appendix A](chapters/appendix-a-workshop-manual-intake.md) for the intake list.
+Chapters 3 and 6 are populated from the Owner's Manual (REF-001). Chapter 5 now carries WSM torque values (REF-028). Much of 7 and 11 remains a deliberate placeholder pending further extraction from the Workshop Manual - see [Appendix A](chapters/appendix-a-workshop-manual-intake.md) for the intake list.
 
 ## Revision record
 

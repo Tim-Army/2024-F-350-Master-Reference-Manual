@@ -163,7 +163,7 @@ The front axle is not a constraint: it carries 4,120 lb against a 5,990 lb ratin
 
 The hitch is not a constraint either - the B&W Companion is rated 25,000 lb gross tow and 6,250 lb vertical load, well above anything the truck can carry.
 
-**GCWR is not yet known** and could bind before either figure above on a long grade. The Workshop Service Manual (REF-028) does not carry it; source it from Ford's RV & Trailer Towing Guide for the 2024 Super Duty.
+**GCWR is 29,000 lb** - Ford's 2024 RV & Trailer Towing Guide (REF-029), for the F-350 SRW with the 7.3L V8 and 4.30 axle. The same table allows a **maximum loaded fifth-wheel trailer of 21,300 lb** for this 4x4 Crew Cab, 176 in wheelbase, 8 ft box with 18 in all-terrain tires (21,100 lb base; gooseneck 21,500 lb), and 19,500 lb conventional. **GCWR does not bind before the rear axle.** At the working case, a ~11,590 lb truck plus a 14,500 lb trailer is about 26,100 lb, some 2,900 lb under GCWR. The guide's 21,300 lb trailer figure assumes a 150 lb driver and passenger and ignores this truck's rear GAWR, which caps pin weight at ~3,625 lb long before that trailer weight is reached. Ford's note is the same: pin weight must not push the truck past rear GAWR or GVWR.
 
 Candidate trailers are shortlisted in [chapter 15](15-fifth-wheel-candidates.md); screen each on pin weight against the figures above.
 
@@ -189,7 +189,7 @@ The front axle is not a constraint: it carries 4,120 lb against a 5,990 lb ratin
 
 The hitch is not a constraint either - the B&W Companion is rated 25,000 lb gross tow and 6,250 lb vertical load, well above anything the truck can carry.
 
-**GCWR is not yet known** and could bind before either figure above on a long grade. The Workshop Service Manual (REF-028) does not carry it; source it from Ford's RV & Trailer Towing Guide for the 2024 Super Duty.
+**GCWR is 29,000 lb** - Ford's 2024 RV & Trailer Towing Guide (REF-029), for the F-350 SRW with the 7.3L V8 and 4.30 axle. The same table allows a **maximum loaded fifth-wheel trailer of 21,300 lb** for this 4x4 Crew Cab, 176 in wheelbase, 8 ft box with 18 in all-terrain tires (21,100 lb base; gooseneck 21,500 lb), and 19,500 lb conventional. **GCWR does not bind before the rear axle.** At the working case, a ~11,590 lb truck plus a 14,500 lb trailer is about 26,100 lb, some 2,900 lb under GCWR. The guide's 21,300 lb trailer figure assumes a 150 lb driver and passenger and ignores this truck's rear GAWR, which caps pin weight at ~3,625 lb long before that trailer weight is reached. Ford's note is the same: pin weight must not push the truck past rear GAWR or GVWR.
 
 Candidate trailers are shortlisted in [chapter 15](15-fifth-wheel-candidates.md); screen each on pin weight against the figures above.
 

@@ -22,6 +22,7 @@ The two **VIN-specific records** - the window sticker and the CARFAX - are commi
 | REF-010 | Wheel / Tire Kit installation instruction (SKM2DJ-1K007-AA) | `WHEEL_TIRE_KIT.pdf` | 10 | Generic Ford **accessory** wheel/tire kit sheet, © 2020, specifying **P275/55R20**. **Does not match this truck** (LT275/70R18E load range E all-terrain), is not VIN-specific, and contains no axle data. Useful only for its TPMS wake-up and speedometer recalibration notes | Held |
 | REF-011 | 2024 Super Duty Quick Start Guide | `24M_Super_Duty_QSG_ENG_V1.pdf` | 24 | Ford OEM quick-start reference | Held |
 | REF-012 | 2024 Wrecker Towing Guide | `2024_Wrecker_Towing_Guide.pdf` | 13 | Ford reference; recovery/towing guidance | Held |
+| REF-029 | 2024 Ford RV & Trailer Towing Guide, v3 (revised 12.06.23) | `imports/2024-Ford-RV-and-Trailer-Towing-Guide-v3.pdf` | 45 | Ford OEM; **GCWR 29,000 lb** and maximum trailer weights for this configuration - see [chapter 10](10-fifth-wheel-and-towing.md) | Held |
 | REF-028 | Workshop Service Manual, 2024 F-350 Super Duty 7.3L (third-party HTML compilation of Ford service information, retrieved 2025) | `imports/2023 - 2025 Ford F-350 Super Duty 7.3L/` (`index.html`) | ~39,000 HTML pages | Ford service information: repair and diagnosis, specifications, fluid capacities, VC code decodes, labor times. Labelled for the Platinum trim, but states it is identical for other 7.3L variants. **Not VIN-specific** | Held |
 
 ## Accessory and kit documentation
@@ -50,7 +51,7 @@ Added with the September 2026 import. These were not in the Edition 1.0 catalog.
 
 Add the Ford Workshop Manual and wiring excerpts as sourced material becomes available. Record publication date, section, vehicle applicability, and any superseding publication.
 
-**Workshop Service Manual received 15 September 2026** as REF-028 - see [Appendix A](appendix-a-workshop-manual-intake.md). Still missing: the original dealer advertisement (REF-004), Motorcraft parts documentation for chapter 3, and a source for **GCWR**, which the WSM does not carry.
+**Workshop Service Manual received 15 September 2026** as REF-028 - see [Appendix A](appendix-a-workshop-manual-intake.md). Still missing: the original dealer advertisement (REF-004), Motorcraft parts documentation for chapter 3, GCWR is now sourced from the 2024 RV & Trailer Towing Guide (REF-029), received 15 September 2026.
 
 ### Documents that do not apply to this truck
 
