@@ -465,7 +465,7 @@ Sorted by manufacturer. **Pin at GVWR** scales each model's dry pin share of dry
 | Forest River Rockwood Ultra Lite 2442BS | not stated | 28 ft 11 in | 9,852 | 7,950 | 1,252 | 1,902 | 54 | 1 | ~1,550 | 37% | [RV Wholesalers](https://www.rvwholesalers.com/forest-river-rvs/rockwood-ultra-lite-fifth-wheel/2442BS) (dealer) |
 | Coachmen Chaparral Lite 27BAR - rear living, front bedroom | 2026 | 33 ft 7 in | 11,000 | 8,503 | 1,570 | 2,497 | 40 | 2 | ~2,030 | 33% | [RVGuide](https://www.rvguide.com/specs/coachmen/fifth-wheel/2026/chaparral-lite/27bar.html) |
 
-**Every one fits the truck with a wide margin.** Dry pins run 1,256-1,990 lb and GVWRs 9,800-11,995 lb, so full-load pin estimates run about 1,500-2,365 lb, **at least 1,250 lb under the ceiling**. The binding limits for this class are length, layout and price, not weight. Most have only one slide and a 52-55 gal fresh tank.
+**Every one fits the truck with a wide margin.** Dry pins run 1,256-1,990 lb and GVWRs 9,800-12,000 lb, so full-load pin estimates run about 1,500-2,580 lb, **at least 1,045 lb under the ceiling**. The heaviest estimate is the Eddie Bauer 2500RK. The binding limits for this class are length, layout and price, not weight. Most have only one slide and a 52-55 gal fresh tank.
 
 **Notes on the data**
 
