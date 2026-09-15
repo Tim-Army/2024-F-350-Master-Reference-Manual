@@ -432,6 +432,49 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 - Garage door dimensions and floor length, to confirm the scooter fits.
 - Model year for each figure, and the brochure it came from. Only the Stealth (2021) and Triton (2018; weights from the Dutchmen brochure) are year-qualified so far.
 
+## Non-toy-hauler fifth wheels - 35 ft maximum
+
+Created 14 September 2026 at the owner's request. These are conventional fifth wheels, **with no garage**, from model years 2023-2027, at 35 ft or less. They are screened against the same truck limits: pin weight ~3,625 lb and a 35 ft maximum length.
+
+> **None of these carries the bikes.** The [requirement](#requirement) above assumes a garage for the Zuma 125 and the large motorcycle, and the front-mounted carrier was archived. A conventional fifth wheel only works if the bikes travel another way, so this table is for comparison and does not change the toy hauler shortlist.
+
+Sorted by manufacturer. **Pin at GVWR** scales each model's dry pin share of dry weight up to GVWR. **Computed** GVWR is dry weight plus CCC, where the maker publishes those two figures but not GVWR. n/p = not published.
+
+| Model | Year | Length | GVWR | Dry | Dry pin | CCC | Fresh (gal) | Slides | Pin at GVWR (est.) | Pin share that would reach the limit at full GVWR | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grand Design Reflection 150 250ML | 2026 | 28 ft 10 in | 9,995 | 8,220 | 1,288 | n/p | 55 | 1 | ~1,565 | 36% | [Grand Design](https://www.granddesignrv.com/fifth-wheels/reflection-150-series) |
+| Grand Design Reflection 150 260RD | 2026 | 29 ft 10 in | 9,995 | 8,280 | 1,319 | n/p | 55 | 1 | ~1,590 | 36% | Grand Design |
+| Grand Design Reflection 150 270BN | 2026 | 29 ft 11 in | 9,995 | 8,398 | 1,256 | n/p | 55 | 1 | ~1,495 | 36% | Grand Design |
+| Grand Design Reflection 150 295RL | 2026 | 33 ft 9 in | 10,995 | 9,577 | 1,570 | n/p | 55 | 2 | ~1,800 | 33% | Grand Design |
+| Grand Design Reflection 150 298BH | 2026 | 34 ft 9 in | 10,995 | 9,402 | 1,527 | n/p | 55 | 1 | ~1,785 | 33% | Grand Design |
+| Keystone Cougar Half-Ton 23MLE - mid living, outdoor kitchen | 2027 | 27 ft 11 in | 10,075 (computed) | 7,864 | 1,275 | 2,211 | 54 | 1 | ~1,635 | 36% | [Keystone](https://www.keystonerv.com/product/cougar-half-ton/premium-fifth-wheels/floorplans/23MLE) |
+| Keystone Cougar Half-Ton 26RES - rear L-sectional living | 2027 | 30 ft 11 in | 10,300 (computed) | 8,240 | 1,540 | 2,060 | 54 | 1 | ~1,925 | 35% | Keystone |
+| Keystone Cougar Half-Ton 26RKE - mid living, outdoor entertainment | 2027 | 30 ft 10 in | 11,000 (computed) | 9,062 | 1,715 | 1,938 | 54 | 1 | ~2,080 | 33% | Keystone |
+| Keystone Cougar Half-Ton 29MBD - rear kitchen, mid bunks, king | 2027 | 33 ft 11 in | 11,500 (computed) | 9,325 | 1,635 | 2,175 | 54 | 1 | ~2,015 | 32% | Keystone |
+| Keystone Arcadia Select 25SRD - rear dining, front bedroom | 2027 | 29 ft 2 in | 9,900 (computed) | 7,413 | 1,455 | 2,487 | 54 | 1 | ~1,945 | 37% | [Keystone](https://www.keystonerv.com/product/arcadia-select/comfort-fifth-wheels/floorplans/25SRD) |
+| Keystone Arcadia Select 28SLS - rear L-sofa living, front bedroom | 2027 | 32 ft 7 in | 9,900 (computed) | 7,960 | 1,690 | 1,940 | 54 | 1 | ~2,100 | 37% | Keystone |
+| Jayco Eagle HT 25RUC | 2026 | 29 ft 9 in overall | 9,800 | 8,120 | 1,640 | 1,680 | 52 | 1 | ~1,980 | 37% | [Jayco](https://www.jayco.com/rvs/fifth-wheels/2026-eagle-ht-fifth-wheels/25ruc/) |
+| Jayco Eagle HT 26REC | 2026 | 29 ft 2 in overall | 9,995 | 8,355 | 1,725 | 1,640 | 52 | 1 | ~2,065 | 36% | Jayco |
+| Jayco Eagle HT 27MLC | 2026 | 32 ft 8 in overall | 10,400 | 8,625 | 1,765 | 1,775 | 52 | 1 | ~2,130 | 35% | Jayco |
+| Jayco Eagle HT 28CRT | 2026 | 32 ft 10 in overall | 11,400 | 9,595 | 1,990 | 1,805 | 52 | 1 | ~2,365 | 32% | Jayco |
+| Jayco Eagle HT 29RLC | 2026 | 34 ft 1 in overall | 11,200 | 9,485 | 1,635 | 1,715 | 52 | 1 | ~1,930 | 32% | Jayco |
+| KZ Durango HT D230RDD | not stated | 29 ft | 10,500 | 8,485 | 1,625 | 2,015 | 55 | n/p | ~2,010 | 35% | [KZ](https://www.kz-rv.com/products/durango-half-ton-fifth-wheels/specifications.html) |
+| KZ Durango HT D283RLT | not stated | 32 ft 11 in | 11,500 | 9,550 | 1,670 | 1,950 | 55 | n/p | ~2,010 | 32% | KZ |
+| KZ Durango HT D290RLT | not stated | 34 ft 5 in | 11,995 | 9,850 | 1,610 | 2,145 | 55 | n/p | ~1,960 | 30% | KZ |
+| Forest River Rockwood Ultra Lite 2442BS | not stated | 28 ft 11 in | 9,852 | 7,950 | 1,252 | 1,902 | 54 | 1 | ~1,550 | 37% | [RV Wholesalers](https://www.rvwholesalers.com/forest-river-rvs/rockwood-ultra-lite-fifth-wheel/2442BS) (dealer) |
+| Coachmen Chaparral Lite 27BAR - rear living, front bedroom | 2026 | 33 ft 7 in | 11,000 | 8,503 | 1,570 | 2,497 | 40 | 2 | ~2,030 | 33% | [RVGuide](https://www.rvguide.com/specs/coachmen/fifth-wheel/2026/chaparral-lite/27bar.html) |
+
+**Every one fits the truck with a wide margin.** Dry pins run 1,256-1,990 lb and GVWRs 9,800-11,995 lb, so full-load pin estimates run about 1,500-2,365 lb, **at least 1,250 lb under the ceiling**. The binding limits for this class are length, layout and price, not weight. Most have only one slide and a 52-55 gal fresh tank.
+
+**Notes on the data**
+
+- **Grand Design** figures come from the 2026 Reflection 150 series table, which publishes no CCC or layout.
+- **Keystone** publishes shipping weight and CCC, so GVWR is computed. The 26RKE's dry weight comes from the floorplan list page.
+- **Jayco** lists an "overall length" and a shorter "length". The table uses overall. The Eagle HT 29DDB (34 ft 6 in) and 30CRT (34 ft 0 in) also fit on length, but their pin weights were not found.
+- **KZ's** Durango HT spec page gives no model year, slide count or layout. The D296BHT is exactly 35 ft (11,995 GVWR, 10,150 dry, 1,575 pin).
+- **Rockwood** figures come from a dealer page with no model year; the 2891BH is 36 ft 6 in. **Coachmen** figures come from RVGuide, because the Forest River and Coachmen sites refused automated reading.
+- **Not included:** the Brinkley Model Z Air, which Brinkley classes as a travel trailer. The Heartland Bighorn Traveler, whose shortest current model is reportedly 36 ft. Alliance Avenue, whose site could not be read, so its short models (23ML, 25RL, 27RK) are unverified.
+
 ## Manufacturers
 
 This table lists the brands that have built fifth-wheel toy haulers since 2018. It is a starting point for the search, not a candidate list; individual floorplans are not listed here yet. It combines a list proposed on 11 September 2026 with corrections from the research above. **Status is verified only where the Notes column says so.** Everything else is as proposed.
