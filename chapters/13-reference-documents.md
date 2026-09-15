@@ -22,6 +22,7 @@ The two **VIN-specific records** - the window sticker and the CARFAX - are commi
 | REF-010 | Wheel / Tire Kit installation instruction (SKM2DJ-1K007-AA) | `WHEEL_TIRE_KIT.pdf` | 10 | Generic Ford **accessory** wheel/tire kit sheet, © 2020, specifying **P275/55R20**. **Does not match this truck** (LT275/70R18E load range E all-terrain), is not VIN-specific, and contains no axle data. Useful only for its TPMS wake-up and speedometer recalibration notes | Held |
 | REF-011 | 2024 Super Duty Quick Start Guide | `24M_Super_Duty_QSG_ENG_V1.pdf` | 24 | Ford OEM quick-start reference | Held |
 | REF-012 | 2024 Wrecker Towing Guide | `2024_Wrecker_Towing_Guide.pdf` | 13 | Ford reference; recovery/towing guidance | Held |
+| REF-028 | Workshop Service Manual, 2024 F-350 Super Duty 7.3L (third-party HTML compilation of Ford service information, retrieved 2025) | `imports/2023 - 2025 Ford F-350 Super Duty 7.3L/` (`index.html`) | ~39,000 HTML pages | Ford service information: repair and diagnosis, specifications, fluid capacities, VC code decodes, labor times. Labelled for the Platinum trim, but states it is identical for other 7.3L variants. **Not VIN-specific** | Held |
 
 ## Accessory and kit documentation
 
@@ -49,7 +50,7 @@ Added with the September 2026 import. These were not in the Edition 1.0 catalog.
 
 Add the Ford Workshop Manual and wiring excerpts as sourced material becomes available. Record publication date, section, vehicle applicability, and any superseding publication.
 
-Still missing after the September 2026 import: the **Ford Workshop Manual** (the single largest gap - see [Appendix A](appendix-a-workshop-manual-intake.md)), the original dealer advertisement (REF-004), and Motorcraft parts documentation for chapter 3.
+**Workshop Service Manual received 15 September 2026** as REF-028 - see [Appendix A](appendix-a-workshop-manual-intake.md). Still missing: the original dealer advertisement (REF-004), Motorcraft parts documentation for chapter 3, and a source for **GCWR**, which the WSM does not carry.
 
 ### Documents that do not apply to this truck
 

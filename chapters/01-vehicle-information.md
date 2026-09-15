@@ -51,8 +51,8 @@ Transcribed from the driver's door jamb label (REF-023). It was photographed 8 S
 | Interior trim code | 2S (Medium Dark Slate cloth) |
 | Tire pressure / power steering (TP/PS) | blank |
 | Radio (R) | 5 |
-| **Axle code (AXLE)** | **4M** |
-| Transmission code (TR) | G |
+| **Axle code (AXLE)** | **4M** - 4.30 ratio, electronic locking differential (WSM VC codes, REF-028) |
+| Transmission code (TR) | G - 10-speed automatic, 10R140 (WSM VC codes, REF-028) |
 | Spring codes (SPR) | RRNN / ULC |
 | RC | 47 |
 | Vehicle type | Truck |

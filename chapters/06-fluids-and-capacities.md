@@ -4,7 +4,7 @@
 
 Populated from the **7.3L gasoline** capacity tables of the 2024 Super Duty Owner's Manual (REF-001, v1.1, edition 202307, pp. 520-545). Diesel and 6.8L values are excluded.
 
-The **rear axle is resolved**: it is an 11.6 in axle, identified from its tag on 11 September 2026. The **front axle** is still configuration-dependent and is flagged below.
+The **rear axle is resolved**: it is an 11.6 in axle, identified from its tag on 11 September 2026. The **transmission capacity** and **front axle type** now come from the 2024 F-350 **Workshop Service Manual (REF-028)**, received 15 September 2026.
 
 > **Do not substitute across similar-sounding fluids.** The transmission takes MERCON **ULV**; the transfer case and hydraulic power steering take MERCON **LV**. Ford's note is explicit: use only MERCON ULV where MERCON ULV is required, as any other fluid could cause transmission damage.
 
@@ -16,7 +16,7 @@ The **rear axle is resolved**: it is an 11.6 in axle, identified from its tag on
 | Engine oil - extreme cold | 8.0 qt (7.57 L) | WSS-M2C963-A1, SAE 0W-30 | Recommended where ambient reaches -22°F (-30°C) or below |
 | Cooling system | **22.5 qt (21.3 L)** | WSS-M97B57-A2 | Motorcraft Yellow Prediluted Antifreeze/Coolant, VC-13DL-G |
 | Fuel tank (176" wheelbase) | **48.0 gal (181.7 L)** | Minimum 87 octane | Larger tank tied to this truck's 176" wheelbase |
-| Automatic transmission (10R140) | Not published in the owner's manual | WSS-M2C949-A, MERCON **ULV** | XT-12-QULV |
+| Automatic transmission (10R140) | **18.2 qt (17.22 L)** - approximate **dry fill**; a fluid change takes less (REF-028) | WSS-M2C949-A, MERCON **ULV** | XT-12-QULV |
 | Transfer case | **1.9 qt (1.8 L)** | WSS-M2C938-A, MERCON **LV** | XT-10-QLVC |
 | Brake fluid | Fill as required | WSS-M6C65-A2, DOT 4 LV (or ISO 4925 Class 6) | PM-20 |
 | Hydraulic power steering | Fill as required | WSS-M2C938-A, MERCON **LV** | XT-10-QLVC |
@@ -28,9 +28,9 @@ Engine oil: Ford recommends Motorcraft motor oil, or an oil of the recommended v
 
 Coolant: use **prediluted** coolant. Ford warns that concentrated coolant added without dilution will not flow correctly through the small passages of the engine cooling system.
 
-## Front axle - confirm which is fitted
+## Front axle - Dana M235, 9.25 in
 
-The owner's manual publishes two front axle variants. This truck is 4X4, but the assembly is not identified on the window sticker.
+**Resolved from the Workshop Service Manual (REF-028), 15 September 2026.** The WSM describes the F-250/F-350 front drive axle as a **Dana M235**, in conventional or limited-slip form; its fluid table lists that as the **9.25 in** 4WD front axle. The **10.08 in** applies to the F-450/F-550/F-600 front axle, not this truck. The axle identification is pin-stamped on the differential cover plate.
 
 | Variant | Capacity | Specification | Motorcraft product |
 | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ The owner's manual publishes two front axle variants. This truck is 4X4, but the
 | Front axle 9.25 (4WD, with limited slip) | 2.20 qt (2.08 L) including friction modifier | WSP-M2C197-A + EST-M2C118-A | Add 4.4 fl oz (130 ml) XL-3 within the 2.2 qt total |
 | Front axle 10.08 | 2.75 qt (2.6 L) | WSP-M2C197-A, SAE 80W-90 | XY-80W90-QL |
 
-The front axle's identity is not yet confirmed. Look for a similar bar-code tag on the front axle housing.
+**Conventional or limited slip?** The window sticker (REF-003) lists no limited-slip front axle option, so it is **most likely conventional**. The capacity is 2.20 qt either way; the only difference is the 4.4 fl oz of XL-3 friction modifier a limited-slip axle needs. Confirm from the pin-stamped ID on the front differential cover before the first service.
 
 ## Rear axle - 11.6 in, confirmed
 
@@ -62,6 +62,18 @@ The door label's axle code **`4M`** (REF-023) and the **7,230 lb rear GAWR** are
 
 Source: REF-001, "Rear Axle - 11.6", p. 542. Unlike the manual's limited-slip entries, this one lists **no friction modifier additive**.
 
+> **Three Ford sources give three capacities for this axle.** Owner's Manual: **4.44-4.54 qt**. WSM quick-lookup fluid table: **3.65-3.80 qt**. WSM 11.6 in axle specifications, electronic locker with 4.30 ratio: **4.12 qt (3.9 L)**. The axle-specific WSM figure is the most specific of the three, so **use 4.12 qt**. All three agree on SAE 75W-140 synthetic, WSL-M2C192-A.
+
+**Do not fill to the fill plug.** The WSM's differential fluid level check warns that the 11.6 in axle's fill hole is too low for the capacity it needs. The procedure is:
+
+1. Remove the differential housing cover and drain the fluid.
+2. Reinstall the cover.
+3. Disconnect the electronic locking differential (ELD) connector and remove the ELD connector adaptor bolt.
+4. Add the measured amount, 4.12 qt, through the adaptor hole.
+5. Reinstall the adaptor and torque its bolt to **133 lb-in (15 Nm)**, then reconnect the ELD connector.
+
+A shop that tops up to the fill plug will leave the axle underfilled.
+
 **The 75W-140 synthetic also settles the towing exception** in [chapter 3](03-oem-parts-catalog.md). If the axle holds WSL-M2C192-A 75W-140 synthetic, as Ford specifies for it, the 30,000 mi towing change interval is **waived** and the 150,000 mi interval applies. When the axle is serviced, make sure the refill is 75W-140 synthetic, not the 75W-85 some other Super Duty axles take.
 
 > **Correction, 11 September 2026.** This chapter previously listed only four rear axle families and short-listed the 10.5 and the 11.8 single-rear-wheel axles as the likely fits. The owner's manual actually lists six rear axles: 10.5, 10.8, **11.6**, 11.8 light/heavy duty, 11.8 single-rear-wheel and 12.4. The 11.6, the one fitted, had been missed.
@@ -74,8 +86,9 @@ Ford notes that under high-load operation - extended high engine speed, heavy lo
 
 ## Open items
 
-- Automatic transmission fluid **capacity** is not published in the owner's manual, and is **not** on the window sticker. It requires the Workshop Manual - see [Appendix A](appendix-a-workshop-manual-intake.md).
-- Front axle assembly to be identified from its tag, then the front axle table reduced to the single applicable row. The rear axle is resolved (11.6 in).
+- ~~Transmission fluid capacity~~ - **resolved**: 18.2 qt dry fill (REF-028).
+- ~~Front axle assembly~~ - **resolved**: Dana M235, 9.25 in (REF-028). Still to confirm: conventional or limited slip, from the pin-stamped ID on the cover.
+- Rear axle capacity conflict between the Owner's Manual and the WSM - working to the WSM's 4.12 qt; see above.
 
 ### How the rear axle was identified
 
@@ -85,4 +98,5 @@ Ford notes that under high-load operation - extended high engine speed, heavy lo
 | Door jamb label (REF-023) | Axle code `4M` and the GAWRs. Misread as `G` until 11 September 2026; `G` is the transmission code |
 | **Axle tag** | **`4E30 - 11.6`**, which settles it. The 4 September photos showed only the bar-code side; the 11 September photos show the printed side |
 | Owner's Manual (REF-001) | The capacity and specification for the 11.6 axle at 4.30 |
+| Workshop Service Manual (REF-028) | Confirms axle code `4M` = **4.30 ratio, electronic locking differential**; gives the 4.12 qt axle-specific capacity and the ELD-hole fill procedure |
 | Camper Loading Guide (REF-002), Wheel / Tire Kit (REF-010) | No axle identification |

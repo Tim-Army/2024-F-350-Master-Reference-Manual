@@ -163,7 +163,7 @@ The front axle is not a constraint: it carries 4,120 lb against a 5,990 lb ratin
 
 The hitch is not a constraint either - the B&W Companion is rated 25,000 lb gross tow and 6,250 lb vertical load, well above anything the truck can carry.
 
-**GCWR is not yet known** and could bind before either figure above on a long grade; source it from the Workshop Manual or Ford's towing guide.
+**GCWR is not yet known** and could bind before either figure above on a long grade. The Workshop Service Manual (REF-028) does not carry it; source it from Ford's RV & Trailer Towing Guide for the 2024 Super Duty.
 
 Candidate trailers are shortlisted in [chapter 15](15-fifth-wheel-candidates.md); screen each on pin weight against the figures above.
 
@@ -189,7 +189,7 @@ The front axle is not a constraint: it carries 4,120 lb against a 5,990 lb ratin
 
 The hitch is not a constraint either - the B&W Companion is rated 25,000 lb gross tow and 6,250 lb vertical load, well above anything the truck can carry.
 
-**GCWR is not yet known** and could bind before either figure above on a long grade; source it from the Workshop Manual or Ford's towing guide.
+**GCWR is not yet known** and could bind before either figure above on a long grade. The Workshop Service Manual (REF-028) does not carry it; source it from Ford's RV & Trailer Towing Guide for the 2024 Super Duty.
 
 Candidate trailers are shortlisted in [chapter 15](15-fifth-wheel-candidates.md); screen each on pin weight against the figures above.
 

@@ -75,7 +75,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | **6** | **[Fluids & Capacities](chapters/06-fluids-and-capacities.md)** |
 | | [Status](chapters/06-fluids-and-capacities.md#status) |
 | | [Capacities and specifications](chapters/06-fluids-and-capacities.md#capacities-and-specifications) |
-| | [Front axle - confirm which is fitted](chapters/06-fluids-and-capacities.md#front-axle---confirm-which-is-fitted) |
+| | [Front axle - Dana M235, 9.25 in](chapters/06-fluids-and-capacities.md#front-axle---dana-m235-925-in) |
 | | [Rear axle - 11.6 in, confirmed](chapters/06-fluids-and-capacities.md#rear-axle---116-in-confirmed) |
 | | [Fluid level checks](chapters/06-fluids-and-capacities.md#fluid-level-checks) |
 | | [Open items](chapters/06-fluids-and-capacities.md#open-items) |
@@ -126,7 +126,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Verification standard](chapters/15-fifth-wheel-candidates.md#verification-standard) |
 | **A** | **[Future Workshop Manual Intake](chapters/appendix-a-workshop-manual-intake.md)** |
 | | [Required additions](chapters/appendix-a-workshop-manual-intake.md#required-additions) |
-| | [Intended source](chapters/appendix-a-workshop-manual-intake.md#intended-source) |
+| | [Source - received](chapters/appendix-a-workshop-manual-intake.md#source---received) |
 | | [Revision record](chapters/appendix-a-workshop-manual-intake.md#revision-record) |
 | | |
 | | **Running records** |
