@@ -90,6 +90,28 @@ It compares with the other two verified enclosed garages like this:
 
 The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ gives about 775 lb more pin margin and, going by the drawings, probably more clear garage floor. A tape measure on each settles the second point. The Wolf Pack has by far the longest clear garage, about 12 ft, but it is 40 ft 7 in long, carries the least cargo of the three, and is used-only.
 
+#### Rogue SUT 323SUT - units for sale, 14 September 2026
+
+These are the units found in the lower 48 on 14 September 2026: seven on RV Trader under a keyword search for "323SUT", plus one on a dealer's own site. Listings change daily, so confirm availability before travelling. Distances are from the RV Trader search (ZIP 62222).
+
+| # | Year | New/used | Location | Dealer | Price | Distance |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | **2025** | New | North Branch, MI | Fun Town RV - North Detroit | **$42,195** (reduced from $44,888) | ~480 mi |
+| 2 | 2026 | New | Bunker Hill, IN | RV Dynasty | $44,995* ("will ship") | ~257 mi |
+| 3 | 2026 | New | Lake Mills, WI | [Kunes RV of Lake Mills](https://kunesrv.com/inventory/New-2026-Forest_River-Cherokee_Rogue_SUT-323SUT-5NHFVGH27TC005643-163), stock 41W179 | $51,373* | ~315 mi |
+| 4 | 2024 | Used | Seffner, FL | Lazydays by Campers Inn RV | $56,995 (negotiable) | ~862 mi |
+| 5 | 2025 | Used | Las Vegas, NV | Camping World | $56,848 | ~1,381 mi |
+| 6 | 2025 | New | Rapid City, SD | Dakota Discount RV | $59,517 | ~775 mi |
+| 7 | 2026 | New | Avondale, AZ | Camping World | $61,348 | ~1,288 mi |
+| 8 | 2026 | New | Lakeview, OH | [RV Wholesalers](https://www.rvwholesalers.com/inventory/New-Forest-River-Rogue-SUT-323SUT-Toy-Hauler-Fifth-Wheel-RV-For-Sale/latest), stock 005644 | not listed | - |
+
+\* RV Trader marks these prices with an asterisk, which usually signals conditions such as financing or fees. Ask what is included.
+
+- **Price benchmark:** the new **2025 at North Branch, MI, $42,195**. It is the favorite's model year and less than half of the $89,530 MSRP that [Fun Town RV](https://funtownrvindiana.com/inventory/new-2025-forest-river-vengeance-rogue-sut-323sut-for-sale-in-at-212801/) lists for the 2025.
+- **The closest units** are the new 2026s at Bunker Hill, IN and Lake Mills, WI. Forest River's 2025 and 2026 specifications are identical.
+- **Listings use three names:** "Vengeance Rogue SUT 323SUT", "Cherokee Rogue SUT 323SUT" (the 2026 rebadge) and "Rogue 323SUT". A trim-filtered RV Trader search found only 4 of the 7, so **search by keyword**.
+- **The count is probably low.** Search results also surfaced 323SUT pages at Quietwoods RV (WI), Oak Lake RV (MN) and Fun Town RV (Texarkana, AR). These were not opened and may be sold.
+
 ### How they screen against the truck
 
 Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md).
