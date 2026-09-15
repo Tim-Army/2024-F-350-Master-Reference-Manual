@@ -453,6 +453,7 @@ Sorted by manufacturer. **Pin at GVWR** scales each model's dry pin share of dry
 | Keystone Cougar Half-Ton 29MBD - rear kitchen, mid bunks, king | 2027 | 33 ft 11 in | 11,500 (computed) | 9,325 | 1,635 | 2,175 | 54 | 1 | ~2,015 | 32% | Keystone |
 | Keystone Arcadia Select 25SRD - rear dining, front bedroom | 2027 | 29 ft 2 in | 9,900 (computed) | 7,413 | 1,455 | 2,487 | 54 | 1 | ~1,945 | 37% | [Keystone](https://www.keystonerv.com/product/arcadia-select/comfort-fifth-wheels/floorplans/25SRD) |
 | Keystone Arcadia Select 28SLS - rear L-sofa living, front bedroom | 2027 | 32 ft 7 in | 9,900 (computed) | 7,960 | 1,690 | 1,940 | 54 | 1 | ~2,100 | 37% | Keystone |
+| Heartland Eddie Bauer 2500RK - rear kitchen, front queen bedroom, washer/dryer prep | 2025 (dealer stock only) | 28 ft 9½ in overall | 12,000 | 8,725 | 1,877 | 3,227 | 50 | 2 | ~2,580 | 30% | [Heartland](https://heartlandrvs.com/rv-model/eddie-bauer-ebf-2500rk-2025/) - base MSRP $62,288; 13 ft 4 in high, 8 ft wide, 2 x 5,100 lb axles, 87 / 30 gal gray / black. Added 14 September 2026 |
 | Jayco Eagle HT 25RUC | 2026 | 29 ft 9 in overall | 9,800 | 8,120 | 1,640 | 1,680 | 52 | 1 | ~1,980 | 37% | [Jayco](https://www.jayco.com/rvs/fifth-wheels/2026-eagle-ht-fifth-wheels/25ruc/) |
 | Jayco Eagle HT 26REC | 2026 | 29 ft 2 in overall | 9,995 | 8,355 | 1,725 | 1,640 | 52 | 1 | ~2,065 | 36% | Jayco |
 | Jayco Eagle HT 27MLC | 2026 | 32 ft 8 in overall | 10,400 | 8,625 | 1,765 | 1,775 | 52 | 1 | ~2,130 | 35% | Jayco |
