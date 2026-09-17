@@ -6,7 +6,7 @@ Shortlist of fifth wheels under consideration, and the screening arithmetic that
 
 **Garage type is a data point, not a requirement** (owner, 14 September 2026). Each candidate records whether its garage is *enclosed* (a wall and door separating it from the living area) or *shared* (open to the living area), so the layouts can be compared. Neither type rules a trailer in or out.
 
-**The garage has to carry two bikes**: a Yamaha Zuma 125 (~282 lb wet) and a large motorcycle, chocked with the Condor SCC-4000 and SC-2000 respectively ([chapter 9](09-accessories-and-modifications.md)). That sets a floor on garage length and on cargo carrying capacity - record the large motorcycle's weight and length here once known.
+**Bikes: not a requirement.** Correction, 17 September 2026: the owner confirmed there was **never a requirement to carry two bikes**. The chapter had treated it as one. The Condor chocks in [chapter 9](09-accessories-and-modifications.md) (SCC-4000 for a Yamaha Zuma 125, ~282 lb wet, and SC-2000 for a large motorcycle) are equipment, not a sizing rule. Garage length and CCC are compared on their merits, not against a two-bike load.
 
 **Maximum length: 35 ft** (owner, 14 September 2026). Any toy hauler longer than 35 ft is rejected. This is a hard limit, not a preference. Use each manufacturer's published length; where a model lists both a spec-table figure and a longer "overall" figure, check the unit.
 
@@ -135,7 +135,7 @@ Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md
 | XLR Boost 286B | 2,819 | 3,524 | Fits to 25% |
 | Nightfall 270N | 2,952 | 3,690 | Over at 25% - needs pin under ~24.5% |
 
-**The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. It is verified enclosed *and* comfortable at 25% pin. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other verified enclosed garage that fits at 25%; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft, which has to be checked against the two bikes.
+**The corrected Rogue SUT figures change the picture.** At 15,090 lb it needed pin under 24%; at the verified 14,090 lb it **fits to a full 25%**. It is verified enclosed *and* comfortable at 25% pin. The KZ Sportster 311TH10 (10 ft garage), verified later the same day, is the only other verified enclosed garage that fits at 25%; it has more margin but went out of production after 2023, so it is a used-market search. The Rogue's trade is the smallest garage on the list at 11 ft.
 
 **The current favorite is the 2025 Rogue SUT 323SUT, which has an enclosed garage.** The Nightfall 270NF (the previous favorite) and the XLR Boost 286B (a former co-favorite) both have 16 ft shared garages. Garage type is a data point, not a requirement, so this does not count against them. In return for the open layout, they offer the longest verified garage floors that fit the truck at 25% pin.
 
@@ -244,7 +244,7 @@ Ten more models were proposed. **None is sold under that name for 2026 or 2027.*
 **Verdict:**
 
 - **Only the Valor All-Access models fit on weight**, with about 400-500 lb of margin, and their garages are shared, not enclosed. They are comparable to the Nightfall and 286B, with a shorter garage.
-- **The Cyclone 3110 and Spartan 3210 sit at the ceiling.** Both have enclosed 10 ft garages, are more than 35 ft long and are about ten years old. The Cyclone can carry only 1,865 lb of cargo, which is less than two bikes plus water and gear.
+- **The Cyclone 3110 and Spartan 3210 sit at the ceiling.** Both have enclosed 10 ft garages, are more than 35 ft long and are about ten years old. The Cyclone can carry only 1,865 lb of cargo, the lowest recorded.
 - **The rest are ruled out.** They are longer than 38 ft and would load past the rear axle rating well before reaching GVWR. The Seismic 4113 is over it empty.
 
 **The same pattern appears here.** No towable trailer in this list has an enclosed garage longer than 10 ft.
@@ -277,7 +277,7 @@ This is KZ's 2024 spec table and floorplan, supplied by the owner on 14 Septembe
 - **The garage measures 12 ft 3 in** from the rear screen door to the kitchen, or **18 ft 11 in** to the entry steps with the living area cleared. The rear screen door sits just inside the ramp.
 - **The ramp door is 88 x 91 in**, the same as the 311TH10's.
 - **Options:** a 60 x 84 in power bed with sit-and-sleep over the rear (headroom when lowered), and a 30 gal fuel tank.
-- **Its CCC is the lowest on the shortlist: 3,190 lb.** Full fresh water (~625 lb), both bikes and gear will use a large share of it. Get the large motorcycle's weight before relying on it.
+- **Its CCC is the lowest on the shortlist: 3,190 lb.** Full fresh water (~625 lb) uses about a fifth of it.
 - Like the 311TH10, the weights are KZ's rolling averages, so read the unit's label. Whether a used or new-stock unit is for sale has not been checked.
 
 ### KZ Sportster 331TH13 - verified, rejected
@@ -320,7 +320,7 @@ These are the 2021 figures from a Rowley White RV listing (stock #U22546W, Phoen
 - **The garage is shared, not enclosed.** The chapter had recorded it as enclosed. The rear power dinette, electric bed and chairs sit in a 19 ft 10 in cargo area that opens straight into the kitchen and living area.
 - **The weights match the shortlist:** 2,416 lb hitch and 14,999 lb GVWR, plus **4,105 lb CCC**. The dry weight is given as 10,894 lb in the specifications but **10,670 lb** UVW in the dealer's description. Read the trailer's own label.
 - **The fresh water tank is 140 gal**, about 1,170 lb when full, the largest in this chapter. Towing with it full eats most of the cargo capacity and adds pin weight. Travel with it low.
-- **Tie-downs are rated 1,200 lb each**, the lowest in this chapter; the Micro Boost's are 5,000 lb and the Nightfall's 5,000 lb. That is adequate for the Zuma, but check that four points give enough margin for the large motorcycle.
+- **Tie-downs are rated 1,200 lb each**, the lowest in this chapter; the Micro Boost's are 5,000 lb and the Nightfall's 5,000 lb. Check the rating against whatever is carried.
 - **Other features:** a 3,000 lb ramp door with a patio cable kit, a 35 gal fuel station with a 5.5 kW Onan generator, two slides, a king bed, 95 / 40 gal gray / black tanks, a 102 in wide body and a **13 ft 4 in height**.
 
 ### Keystone Raptor Carbon Series 321LT - floorplan verified
@@ -397,7 +397,7 @@ This is the 2027 floorplan and listing from Camping World, Greenwood, IN (stock 
 
 - **The garage is shared.** A short partial wall with ladder access marks the front of the garage, but there is no door. Two flip-up countertops with stools sit across the opening, and the garage runs straight into the kitchen and living area.
 - **The garage measures 13 ft (156 in) long by 97.5 in wide.** The dimension arrow covers the garage floor itself. The listing's "156 ft" is a typo for 156 in.
-- **The garage is overhead-heavy.** A quick-set bed system hangs above the rear half, with a loft and storage above the front and a TV on the back of the loft. **Check the headroom** under the loft for the large motorcycle.
+- **The garage is overhead-heavy.** A quick-set bed system hangs above the rear half, with a loft and storage above the front and a TV on the back of the loft. **Check the headroom** under the loft.
 - **The ramp door is a patio deck.** Its size is not published.
 - **Other features:** two slides, an RV king bed, washer/dryer prep, an XL pantry, a 12 ft garage-side awning and a 15 ft main awning. It is 13 ft 5 in high with 96 gal fresh water and 50 amp service.
 - **The weight margin is thin but real.** Loaded to GVWR at a 25% pin it would put 3,618 lb on the hitch, just under the ~3,625 lb ceiling. At its 22.1% dry pin ratio the estimate is about 3,200 lb. It is **39 ft 5 in**, 4 ft 5 in over the 35 ft preference, and its 3,297 lb CCC is on the low side.
@@ -423,14 +423,14 @@ Verified against [Forest River's model page](https://forestriverinc.com/rvs/cher
 
 A research note elsewhere had it listed as a travel trailer; that is wrong. The manufacturer page does not state the type in words, but the numbers settle it - a 1,430 lb hitch weight on a 7,108 lb dry trailer is **20%**, which is fifth-wheel territory; a travel trailer's tongue typically runs 10-15%.
 
-It is the lightest candidate with published figures, and its 4,522 lb CCC is ample for two motorcycles and gear.
+It is the lightest candidate with published figures, and its 4,522 lb CCC is generous.
 
 **Floorplan, confirmed by the owner 14 September 2026** (Forest River 2026 drawing):
 
 - **The garage is shared.** No wall or door separates the garage from the living area. The kitchen (refrigerator, sink, stove with air fryer) runs along one side of the garage span, and the TV mount and pantry mark its front end.
 - **The garage measures 174.25 in (14 ft 6¼ in)** from the rear wall to the pantry. The kitchen counter sits inside that length.
 - **The garage width varies.** It is **92 in** across the fold-down sofas, **82.5 in** between the overhead cabinets, and **67 in** at the kitchen counter. That narrow point matters for handlebars if a bike parks beside the kitchen.
-- **The ramp door is 90 x 76 in.** At **76 in high** it is the lowest ramp door recorded in this chapter. The KZ's is 91 in and the Wolf Pack's 96 in. Check the large motorcycle's height, windshield included, against it.
+- **The ramp door is 90 x 76 in.** At **76 in high** it is the lowest ramp door recorded in this chapter. The KZ's is 91 in and the Wolf Pack's 96 in. Check the height of anything to be loaded against it.
 - **The garage is furnished** with two fold-down sofas, a removable table and overhead cabinets on both sides.
 - **Other features:** a USB port in the garage, a 15 ft awning, an outside TV mount, outside storage, a stable step and a battery disconnect.
 - The body is **96 in wide**, 6 in narrower than the 102 in Wolf Pack and Nitro. That narrower body is why the garage is 92 in across rather than wider.
@@ -467,24 +467,24 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 
 Created 17 September 2026 at the owner's request. It lists every enclosed-garage toy hauler of 40 ft or less found so far. **Nothing in this table is rejected.** The owner will state any rejections, and until then the 35 ft limit and earlier rejections do not remove anything here. The weight notes are information, not verdicts.
 
-**Pin at GVWR** scales each model's dry pin share of dry weight up to GVWR. The truck's ceiling is ~3,625 lb.
+**Pin at GVWR** scales each model's dry pin share of dry weight up to GVWR. The truck's ceiling is ~3,625 lb. **CCC** is the manufacturer's figure; "derived" means GVWR minus dry weight, where CCC is not published.
 
-| Trailer | Years | Length | Enclosed garage | GVWR | Dry pin | Pin at GVWR (est.) | Weight note |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| KZ Sportster 311TH10 | 2021-2023 | 34 ft | 10 ft; 88 x 91 in ramp | 12,500 | 1,600 | ~2,275 | Fits comfortably |
-| **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | 11 ft (~8½ ft clear) | 14,090 | 2,090 | ~3,060 | Fits. Kunes unit label: 9,929 lb dry |
-| Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 10 ft | 16,765 | 2,765 | ~3,740 | Over the ceiling at GVWR |
-| Prime Time Spartan 300 3210 | ~2017-2018 | 36 ft 2 in | 10 ft | 16,616 | 2,612 | ~3,700 | Over the ceiling at GVWR |
-| Forest River XLR Nitro 321 | 2021-2024 | 37 ft 10 in | 11 ft (~8 ft usable, walkway) | 16,585 | 2,585 | ~3,500 | Marginal |
-| Keystone Carbon 347 | 2020 | 38 ft 2 in | 12 ft 6 in | 17,000 | 3,050 | ~4,125 | Over the ceiling at GVWR |
-| KZ Sportster 331TH13 | 2022-2024 | 38 ft 6 in | **13 ft**; 88 x 91 in ramp | 12,995 | 2,180 | ~2,900 | Fits comfortably |
-| Momentum M-Class 351M | 2020-2022 | 38 ft 9 in | 11 ft (per specs; floorplan unchecked) | 16,800 | 2,785 | ~3,390 | Marginal |
-| Dutchmen Triton 3561 | ~2018 | 38 ft 10 in | 13 ft; glass patio doors | 16,800 | 2,729 | ~3,880 | Over the ceiling at GVWR |
-| Keystone Raptor 351 | 2024 | 39 ft | 11 ft | 17,000 | 3,020 | ~3,725 | Over the ceiling at GVWR |
-| Dutchmen Triton 3551 | ~2018 | 39 ft | 11 ft; twin bed loft | 16,800 | 2,980 | ~3,915 | Over the ceiling at GVWR |
-| **Forest River Wolf Pack 315PACK12** | 2019-2022 | 39 ft 3 in | **12 ft**; sliding door; 96 x 96 in ramp | 14,036 | 2,036 | ~2,650 | Fits comfortably |
-| Alliance Valor 36V11 | 2027 | 39 ft 7 in | 11 ft | 18,000 | 2,995 | ~3,775 | Over the ceiling at GVWR |
-| Jayco Seismic 359 | 2027 | 40 ft (41 ft 8 in overall on the 2026 page) | 11 ft | 17,500 | 2,875 | ~3,725 | Over the ceiling at GVWR; check overall length |
+| Trailer | Years | Length | Enclosed garage | GVWR | CCC | Dry pin | Pin at GVWR (est.) | Weight note |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| KZ Sportster 311TH10 | 2021-2023 | 34 ft | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~2,275 | Fits comfortably |
+| **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | 11 ft (~8½ ft clear) | 14,090 | 4,477 (Kunes unit ~4,161) | 2,090 | ~3,060 | Fits. Kunes unit label: 9,929 lb dry |
+| Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 10 ft | 16,765 | 4,360 | 2,765 | ~3,740 | Over the ceiling at GVWR |
+| Prime Time Spartan 300 3210 | ~2017-2018 | 36 ft 2 in | 10 ft | 16,616 | 4,885 | 2,612 | ~3,700 | Over the ceiling at GVWR |
+| Forest River XLR Nitro 321 | 2021-2024 | 37 ft 10 in | 11 ft (~8 ft usable, walkway) | 16,585 | 4,351 | 2,585 | ~3,500 | Marginal |
+| Keystone Carbon 347 | 2020 | 38 ft 2 in | 12 ft 6 in | 17,000 | 4,449 | 3,050 | ~4,125 | Over the ceiling at GVWR |
+| KZ Sportster 331TH13 | 2022-2024 | 38 ft 6 in | **13 ft**; 88 x 91 in ramp | 12,995 | 3,215 | 2,180 | ~2,900 | Fits comfortably |
+| Momentum M-Class 351M | 2020-2022 | 38 ft 9 in | 11 ft (per specs; floorplan unchecked) | 16,800 | 3,000 | 2,785 | ~3,390 | Marginal |
+| Dutchmen Triton 3561 | ~2018 | 38 ft 10 in | 13 ft; glass patio doors | 16,800 | 4,974 | 2,729 | ~3,880 | Over the ceiling at GVWR |
+| Keystone Raptor 351 | 2024 | 39 ft | 11 ft | 17,000 | ~3,244 (derived) | 3,020 | ~3,725 | Over the ceiling at GVWR |
+| Dutchmen Triton 3551 | ~2018 | 39 ft | 11 ft; twin bed loft | 16,800 | 4,016 | 2,980 | ~3,915 | Over the ceiling at GVWR |
+| **Forest River Wolf Pack 315PACK12** | 2019-2022 | 39 ft 3 in | **12 ft**; sliding door; 96 x 96 in ramp | 14,036 | 3,274 | 2,036 | ~2,650 | Fits comfortably |
+| Alliance Valor 36V11 | 2027 | 39 ft 7 in | 11 ft | 18,000 | ~3,719 (derived) | 2,995 | ~3,775 | Over the ceiling at GVWR |
+| Jayco Seismic 359 | 2027 | 40 ft (41 ft 8 in overall on the 2026 page) | 11 ft | 17,500 | 4,010 | 2,875 | ~3,725 | Over the ceiling at GVWR; check overall length |
 
 **Not listed, over 40 ft:** Wolf Pack 315PACK12 for 2023-2024 (40 ft 7 in). **Not listed, pre-2018:** Heartland Cyclone 3110 (2016, 38 ft 2 in, ~3,600 lb).
 
@@ -494,7 +494,7 @@ The truck is 22 ft 2 in long (chapter 1). A 40 ft trailer makes the rig about 55
 
 Created 14 September 2026 at the owner's request. These are conventional fifth wheels, **with no garage**, from model years 2023-2027, at 35 ft or less. They are screened against the same truck limits: pin weight ~3,625 lb and a 35 ft maximum length.
 
-> **None of these carries the bikes.** The [requirement](#requirement) above assumes a garage for the Zuma 125 and the large motorcycle, and the front-mounted carrier was archived. A conventional fifth wheel only works if the bikes travel another way, so this table is for comparison and does not change the toy hauler shortlist.
+> **None of these has a garage.** They are listed for comparison with the toy haulers.
 
 Sorted by manufacturer. **Pin at GVWR** scales each model's dry pin share of dry weight up to GVWR. **Computed** GVWR is dry weight plus CCC, where the maker publishes those two figures but not GVWR. n/p = not published.
 
