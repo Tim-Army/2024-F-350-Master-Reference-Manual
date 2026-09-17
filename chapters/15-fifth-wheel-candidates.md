@@ -105,6 +105,13 @@ These are the units found in the lower 48 on 14 September 2026: seven on RV Trad
 | 7 | 2026 | New | Avondale, AZ | Camping World | $61,348 | ~1,288 mi |
 | 8 | 2026 | New | Lakeview, OH | [RV Wholesalers](https://www.rvwholesalers.com/inventory/New-Forest-River-Rogue-SUT-323SUT-Toy-Hauler-Fifth-Wheel-RV-For-Sale/latest), stock 005644 | not listed | - |
 
+**Unit 3 labels photographed (owner, 17 September 2026).** VIN **5NHFVGH27TC005643**, matching the Kunes listing. The trailer's own weight label reads:
+
+- **Dry weight 9,929 lb**, which is **316 lb heavier** than Forest River's 9,613 lb brochure figure, probably from installed options.
+- **Overall length 34 ft 10 in** as manufactured, under the 35 ft limit.
+
+At the 14,090 lb GVWR, that leaves about **4,161 lb** of cargo capacity rather than 4,477 lb. The unit's hitch weight is not on this label. Scaling the brochure pin ratio (21.7%) gives about **2,155 lb dry** and **~3,060 lb at GVWR**, still about 565 lb under the truck's ~3,625 lb limit. Read the federal certification label and tire placard (GVWR, GAWR, actual CCC) before buying.
+
 \* RV Trader marks these prices with an asterisk, which usually signals conditions such as financing or fees. Ask what is included.
 
 - **Price benchmark:** the new **2025 at North Branch, MI, $42,195**. It is the favorite's model year and less than half of the $89,530 MSRP that [Fun Town RV](https://funtownrvindiana.com/inventory/new-2025-forest-river-vengeance-rogue-sut-323sut-for-sale-in-at-212801/) lists for the 2025.
