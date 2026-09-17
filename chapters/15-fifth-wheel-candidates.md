@@ -463,6 +463,33 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 - Garage door dimensions and floor length, to confirm the scooter fits.
 - Model year for each figure, and the brochure it came from. Only the Stealth (2021) and Triton (2018; weights from the Dutchmen brochure) are year-qualified so far.
 
+## Enclosed-garage toy haulers - 40 ft maximum
+
+Created 17 September 2026 at the owner's request. It lists every enclosed-garage toy hauler of 40 ft or less found so far. **Nothing in this table is rejected.** The owner will state any rejections, and until then the 35 ft limit and earlier rejections do not remove anything here. The weight notes are information, not verdicts.
+
+**Pin at GVWR** scales each model's dry pin share of dry weight up to GVWR. The truck's ceiling is ~3,625 lb.
+
+| Trailer | Years | Length | Enclosed garage | GVWR | Dry pin | Pin at GVWR (est.) | Weight note |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| KZ Sportster 311TH10 | 2021-2023 | 34 ft | 10 ft; 88 x 91 in ramp | 12,500 | 1,600 | ~2,275 | Fits comfortably |
+| **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | 11 ft (~8½ ft clear) | 14,090 | 2,090 | ~3,060 | Fits. Kunes unit label: 9,929 lb dry |
+| Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 10 ft | 16,765 | 2,765 | ~3,740 | Over the ceiling at GVWR |
+| Prime Time Spartan 300 3210 | ~2017-2018 | 36 ft 2 in | 10 ft | 16,616 | 2,612 | ~3,700 | Over the ceiling at GVWR |
+| Forest River XLR Nitro 321 | 2021-2024 | 37 ft 10 in | 11 ft (~8 ft usable, walkway) | 16,585 | 2,585 | ~3,500 | Marginal |
+| Keystone Carbon 347 | 2020 | 38 ft 2 in | 12 ft 6 in | 17,000 | 3,050 | ~4,125 | Over the ceiling at GVWR |
+| KZ Sportster 331TH13 | 2022-2024 | 38 ft 6 in | **13 ft**; 88 x 91 in ramp | 12,995 | 2,180 | ~2,900 | Fits comfortably |
+| Momentum M-Class 351M | 2020-2022 | 38 ft 9 in | 11 ft (per specs; floorplan unchecked) | 16,800 | 2,785 | ~3,390 | Marginal |
+| Dutchmen Triton 3561 | ~2018 | 38 ft 10 in | 13 ft; glass patio doors | 16,800 | 2,729 | ~3,880 | Over the ceiling at GVWR |
+| Keystone Raptor 351 | 2024 | 39 ft | 11 ft | 17,000 | 3,020 | ~3,725 | Over the ceiling at GVWR |
+| Dutchmen Triton 3551 | ~2018 | 39 ft | 11 ft; twin bed loft | 16,800 | 2,980 | ~3,915 | Over the ceiling at GVWR |
+| **Forest River Wolf Pack 315PACK12** | 2019-2022 | 39 ft 3 in | **12 ft**; sliding door; 96 x 96 in ramp | 14,036 | 2,036 | ~2,650 | Fits comfortably |
+| Alliance Valor 36V11 | 2027 | 39 ft 7 in | 11 ft | 18,000 | 2,995 | ~3,775 | Over the ceiling at GVWR |
+| Jayco Seismic 359 | 2027 | 40 ft (41 ft 8 in overall on the 2026 page) | 11 ft | 17,500 | 2,875 | ~3,725 | Over the ceiling at GVWR; check overall length |
+
+**Not listed, over 40 ft:** Wolf Pack 315PACK12 for 2023-2024 (40 ft 7 in). **Not listed, pre-2018:** Heartland Cyclone 3110 (2016, 38 ft 2 in, ~3,600 lb).
+
+The truck is 22 ft 2 in long (chapter 1). A 40 ft trailer makes the rig about 55-57 ft overall, depending on how far the kingpin sits ahead of the rear axle.
+
 ## Non-toy-hauler fifth wheels - 35 ft maximum
 
 Created 14 September 2026 at the owner's request. These are conventional fifth wheels, **with no garage**, from model years 2023-2027, at 35 ft or less. They are screened against the same truck limits: pin weight ~3,625 lb and a 35 ft maximum length.
