@@ -112,6 +112,8 @@ These are the units found in the lower 48 on 14 September 2026: seven on RV Trad
 
 At the 14,090 lb GVWR, that leaves about **4,161 lb** of cargo capacity rather than 4,477 lb. The unit's hitch weight is not on this label. Scaling the brochure pin ratio (21.7%) gives about **2,155 lb dry** and **~3,060 lb at GVWR**, still about 565 lb under the truck's ~3,625 lb limit. Read the federal certification label and tire placard (GVWR, GAWR, actual CCC) before buying.
 
+**Kunes's listing uses brochure figures, not this trailer's.** It shows 9,613 lb dry and 34 ft 0 in, while the unit's label says **9,929 lb** and **34 ft 10 in**. Trust the label. The listing also gives 14,090 lb gross, an 11 ft garage, 96 / 44 / 44 gal tanks, one slide, sleeps 8, and a white exterior with Cappuccino interior.
+
 \* RV Trader marks these prices with an asterisk, which usually signals conditions such as financing or fees. Ask what is included.
 
 - **Price benchmark:** the new **2025 at North Branch, MI, $42,195**. It is the favorite's model year and less than half of the $89,530 MSRP that [Fun Town RV](https://funtownrvindiana.com/inventory/new-2025-forest-river-vengeance-rogue-sut-323sut-for-sale-in-at-212801/) lists for the 2025.
