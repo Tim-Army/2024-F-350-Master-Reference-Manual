@@ -96,7 +96,7 @@ These are the units found in the lower 48 on 14 September 2026: seven on RV Trad
 
 | # | Year | New/used | Location | Dealer | Price | Distance |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **2025** | New | North Branch, MI | Fun Town RV - North Detroit | **$42,195** (reduced from $44,888) | ~480 mi |
+| 1 | ~~2025~~ | ~~New~~ | ~~North Branch, MI~~ | Fun Town RV - North Detroit | ~~$42,195~~ - **SOLD** (owner, 17 September 2026) | ~480 mi |
 | 2 | 2026 | New | Bunker Hill, IN | RV Dynasty | $44,995* ("will ship") - **sale pending** (owner, 14 September 2026) | ~257 mi |
 | 3 | 2026 | New | Lake Mills, WI | [Kunes RV of Lake Mills](https://kunesrv.com/inventory/New-2026-Forest_River-Cherokee_Rogue_SUT-323SUT-5NHFVGH27TC005643-163), stock 41W179 | $51,373* | ~315 mi |
 | 4 | 2024 | Used | Seffner, FL | Lazydays by Campers Inn RV | $56,995 (negotiable) | ~862 mi |
@@ -116,7 +116,7 @@ At the 14,090 lb GVWR, that leaves about **4,161 lb** of cargo capacity rather t
 
 \* RV Trader marks these prices with an asterisk, which usually signals conditions such as financing or fees. Ask what is included.
 
-- **Price benchmark:** the new **2025 at North Branch, MI, $42,195**. It is the favorite's model year and less than half of the $89,530 MSRP that [Fun Town RV](https://funtownrvindiana.com/inventory/new-2025-forest-river-vengeance-rogue-sut-323sut-for-sale-in-at-212801/) lists for the 2025.
+- **Price benchmark:** the North Branch, MI unit sold at **$42,195**, less than half the $89,530 MSRP that [Fun Town RV](https://funtownrvindiana.com/inventory/new-2025-forest-river-vengeance-rogue-sut-323sut-for-sale-in-at-212801/) lists for the 2025. It stands as the benchmark for what this floorplan can be bought for, even though the unit is gone. **Of the units listed on 14 September, the cheapest still available is the RV Dynasty 2026 at $44,995 - also sale pending.**
 - **The closest units** are the new 2026s at Bunker Hill, IN (sale pending) and Lake Mills, WI. Forest River's 2025 and 2026 specifications are identical.
 - **Listings use three names:** "Vengeance Rogue SUT 323SUT", "Cherokee Rogue SUT 323SUT" (the 2026 rebadge) and "Rogue 323SUT". A trim-filtered RV Trader search found only 4 of the 7, so **search by keyword**.
 - **The count is probably low.** Search results also surfaced 323SUT pages at Quietwoods RV (WI), Oak Lake RV (MN) and Fun Town RV (Texarkana, AR). These were not opened and may be sold.
