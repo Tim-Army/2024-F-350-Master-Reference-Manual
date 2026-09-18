@@ -146,6 +146,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | **Running records** |
 | **L1** | **[Service Log](logs/service-log.md)** |
 | | [Prior history (from CARFAX, REF-022)](logs/service-log.md#prior-history-from-carfax-ref-022) |
+| | [Owner service](logs/service-log.md#owner-service) |
 | | [Owner record](logs/service-log.md#owner-record) |
 | **L2** | **[Module Change Log](logs/module-change-log.md)** |
 | **L3** | **[Accessory Installation Record](logs/accessory-log.md)** |

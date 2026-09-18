@@ -221,7 +221,15 @@ No bleeder screw torque was found in REF-028.
 | Pickup bed fasteners | 98 lb-ft (133 N·m) | **Discard and replace** |
 | Frame repair bolts (13 mm / ½ in grade 8) | 115 lb-ft (156 N·m) | Frame repair procedure |
 
-The B&W Companion hitch in [chapter 9](09-accessories-and-modifications.md) installs into the factory puck system. Follow B&W's own instructions for the hitch; the factory prep and puck values above cover the truck side.
+The B&W Companion hitch in [chapter 9](09-accessories-and-modifications.md) installs into the factory puck system. The factory prep and puck values above cover the truck side. B&W's instructions (REF-030) cover the hitch itself:
+
+| Fastener | Torque | Notes |
+| --- | --- | --- |
+| **B&W Companion pivot arm bolts** (8 x ½ in x 2 in cap screws with lock washers, into threaded blocks) | **110 lb-ft** | ¾ in socket. **Threaded blocks go smooth-hole side against the bolt plate** - installed backward, the arms cannot be fully tightened and the hitch can fail. Recheck before every tow |
+| Coupler handle | Snug | Two 3/8 in button-head screws with flanged lock nuts; 7/32 in Allen and 9/16 in wrench |
+| Leveling kit | Snug | ¼ in cap screw and lock nut, just enough to hold the spring; 7/16 in socket |
+
+The new ½ in digital torque wrench (3.8-250.8 lb-ft) covers the 110 lb-ft pivot arm value.
 
 ## Electrical
 

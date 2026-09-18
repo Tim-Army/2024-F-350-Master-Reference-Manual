@@ -163,6 +163,28 @@ The front axle is not a constraint: it carries 4,120 lb against a 5,990 lb ratin
 
 The hitch is not a constraint either - the B&W Companion is rated 25,000 lb gross tow and 6,250 lb vertical load, well above anything the truck can carry.
 
+### B&W Companion 25K (RVK3305) - setup and upkeep
+
+These notes are from B&W's installation instructions (REF-030).
+
+- **Pivot arm positions.** The pivot arms have six mounting positions:
+  - **Coupler height:** 16¾, 17¾ or 18¾ in.
+  - **Kingpin position:** 3 in or 1 in ahead of the rear axle.
+
+  Choose the position that tows the trailer **level** and gives turning clearance to the cab. Measure from the coupler center to the cab, and from the kingpin to the trailer's farthest forward corner, and compare.
+- **Torque:** eight ½ in pivot arm bolts at **110 lb-ft** ([chapter 5](05-torque-specifications.md)). Check that none are loose before every tow.
+- **Coupling:**
+  1. Set the trailer's pin box slightly below the top of the coupler.
+  2. Back in until the kingpin engages the jaws.
+  3. Close the handle and fit the **safety pin**.
+  4. Do a pull test before driving.
+- **Maintenance:**
+  - Grease the saddle through its zerk about **every six months**.
+  - Keep the coupler top plate lubricated with chassis grease or a nylon lube plate.
+  - Grease the jaws.
+  - Lubricate the polyurethane bushings when fitting the coupler.
+- **Tools:** ¾ in socket, 7/16 in and 9/16 in sockets or wrenches, 7/32 in Allen, hammer, needle-nose pliers, and a torque wrench to 110 lb-ft.
+
 **GCWR is 29,000 lb** - Ford's 2024 RV & Trailer Towing Guide (REF-029), for the F-350 SRW with the 7.3L V8 and 4.30 axle. The same table allows a **maximum loaded fifth-wheel trailer of 21,300 lb** for this 4x4 Crew Cab, 176 in wheelbase, 8 ft box with 18 in all-terrain tires (21,100 lb base; gooseneck 21,500 lb), and 19,500 lb conventional. **GCWR does not bind before the rear axle.** At the working case, a ~11,590 lb truck plus a 14,500 lb trailer is about 26,100 lb, some 2,900 lb under GCWR. The guide's 21,300 lb trailer figure assumes a 150 lb driver and passenger and ignores this truck's rear GAWR, which caps pin weight at ~3,625 lb long before that trailer weight is reached. Ford's note is the same: pin weight must not push the truck past rear GAWR or GVWR.
 
 Candidate trailers are shortlisted in [chapter 15](15-fifth-wheel-candidates.md); screen each on pin weight against the figures above.
