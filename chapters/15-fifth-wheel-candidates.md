@@ -100,9 +100,9 @@ These are the units found in the lower 48 on 14 September 2026: seven on RV Trad
 | 2 | 2026 | New | Bunker Hill, IN | RV Dynasty | $44,995* ("will ship") - **sale pending** (owner, 14 September 2026) | ~257 mi |
 | 3 | 2026 | New | Lake Mills, WI | [Kunes RV of Lake Mills](https://kunesrv.com/inventory/New-2026-Forest_River-Cherokee_Rogue_SUT-323SUT-5NHFVGH27TC005643-163), stock 41W179 | $51,373* | ~315 mi |
 | 4 | 2024 | Used | Seffner, FL | Lazydays by Campers Inn RV | $56,995 (negotiable) | ~862 mi |
-| 5 | 2025 | Used | Las Vegas, NV | Camping World | $56,848 | ~1,381 mi |
-| 6 | 2025 | New | Rapid City, SD | Dakota Discount RV | $59,517 | ~775 mi |
-| 7 | 2026 | New | Avondale, AZ | Camping World | $61,348 | ~1,288 mi |
+| 5 | 2025 | Used | Las Vegas, NV | [Camping World](https://rv.campingworld.com/rv/2025-forest-river-rogue-323sut-2658951-las-vegas-nv), stock 2658951 | $56,848; **$59,598 on 17 September** | ~1,381 mi |
+| 6 | 2025 | New | Rapid City, SD | [Dakota Discount RV](https://www.dakotadiscountrv.com/product/new-2025-forest-river-rv-vengeance-rogue-sut-323sut-2820466-26) | $59,517 | ~775 mi |
+| 7 | 2026 | New | Avondale, AZ | [Camping World](https://rv.campingworld.com/rv/2026-forest-river-rogue-323sut-2638510-avondale-az), stock 2638510 | $61,348 | ~1,288 mi |
 | 8 | ~~2026~~ | ~~New~~ | ~~Lakeview, OH~~ | RV Wholesalers, stock 005644 | **SOLD** (owner, 17 September 2026) | - |
 
 **Unit 3 labels photographed (owner, 17 September 2026).** VIN **5NHFVGH27TC005643**, matching the Kunes listing. The trailer's own weight label reads:
