@@ -25,6 +25,14 @@ Reported dealer service under the first owner. Line items are as summarized by C
 | 2026-05-29 | 36,971 | Wallace Ford of Kingsport | Maintenance inspection; **electrical system checked** |
 | 2026-08-10 | 38,257 | Don Franklin Hardin County Ford, Radcliff KY | **Lamp assembly replaced** (post-buyback) |
 
+## Owner service
+
+| Date | Mileage | Work | Notes |
+| --- | --- | --- | --- |
+| by 2026-09-18 | 38,904 | **Four new tires: Michelin Defender LTX M/S2, LT275/70R18, load range E (125/122)** | Owner photos IMG_1667-1676. DOT date code **3526**, week 35 of 2026, so the tires are new stock. Same size as factory, so no speedometer or TPMS recalibration is needed. Retorque the wheel nuts to **150 lb-ft** within 100 miles ([chapter 5](../chapters/05-torque-specifications.md)). The FordPass screen showed 65 / 64 psi front and 84 / 85 psi rear, oil life 65% - see the note below |
+
+**Tire pressures.** Ford's cold settings are **60 psi front / 80 psi rear** (door label). The 65 / 64 / 84 / 85 readings are 4-5 psi high, which is normal for warm tires or a sunny day - FordPass also notes its tire data is delayed. Check cold, before driving, and set to 60 / 80.
+
 Gap in oil-change records between 25,826 mi (2025-09) and the last reported reading of 38,278 mi - roughly 12,400 miles with no reported oil service. Confirm actual interval before assuming the truck is current on maintenance.
 
 See [chapter 14](../chapters/14-vehicle-history-and-title.md) for the buyback context surrounding the 2026 electrical entries.
