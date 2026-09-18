@@ -29,9 +29,9 @@ Reported dealer service under the first owner. Line items are as summarized by C
 
 | Date | Mileage | Work | Notes |
 | --- | --- | --- | --- |
-| by 2026-09-18 | 38,904 | **Four new tires: Michelin Defender LTX M/S2, LT275/70R18, load range E (125/122)** | Owner photos IMG_1667-1676. DOT date code **3526**, week 35 of 2026, so the tires are new stock. Same size as factory, so no speedometer or TPMS recalibration is needed. Retorque the wheel nuts to **150 lb-ft** within 100 miles ([chapter 5](../chapters/05-torque-specifications.md)). The FordPass screen showed 65 / 64 psi front and 84 / 85 psi rear, oil life 65% - see the note below |
+| by 2026-09-18 | 38,904 | **Four new tires: Michelin Defender LTX M/S2, LT275/70R18 E 125S** - Sam's Club item 984175146, with the 4-tire installation package. **$1,349.16 paid** after $160.00 instant savings | Owner photos IMG_1667-1676. DOT date code **3526**, week 35 of 2026, so the tires are new stock. Same size as factory, so no speedometer or TPMS recalibration is needed. Retorque the wheel nuts to **150 lb-ft** within 100 miles ([chapter 5](../chapters/05-torque-specifications.md)). The FordPass screen showed 65 / 64 psi front and 84 / 85 psi rear, oil life 65% - see the note below |
 
-**Tire pressures.** Ford's cold settings are **60 psi front / 80 psi rear** (door label). The 65 / 64 / 84 / 85 readings are 4-5 psi high, which is normal for warm tires or a sunny day - FordPass also notes its tire data is delayed. Check cold, before driving, and set to 60 / 80.
+**Tire pressures.** Ford's cold settings are **60 psi front / 80 psi rear** (door label). The 65 / 64 / 84 / 85 readings were taken **with the tires warm** (owner), so 4-5 psi over the cold setting is expected. Check cold, before driving, and set to 60 / 80.
 
 Gap in oil-change records between 25,826 mi (2025-09) and the last reported reading of 38,278 mi - roughly 12,400 miles with no reported oil service. Confirm actual interval before assuming the truck is current on maintenance.
 
