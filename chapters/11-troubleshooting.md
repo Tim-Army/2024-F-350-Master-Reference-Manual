@@ -44,5 +44,7 @@ From the workshop manual (REF-028), *Fender Splash Shield: Removal*, F-250/F-350
 
 **Installation:** Ford's entire instruction is *"To install, reverse the removal procedure."*
 
+**Socket size - not specified by Ford.** REF-028 gives torque for every fastener here but never a socket size; the figures show hex-flange trim screws and one pin-type retainer. On Ford trim of this class they are usually **7 mm or 8 mm**, so carry both in 1/4 in drive, and a **10 mm** for the RH nut. Confirm on the truck and record the real sizes here. The **pin-type retainer is not a socket job** - it pulls with a trim/panel tool, and levering it with a screwdriver usually breaks it.
+
 **Practical notes.** The 9 and 10 lb-in figures are barely more than snug - a 1/4 in drive is the right tool and a 1/2 in drive torque wrench cannot read that low, including the [digital wrench in chapter 9](09-accessories-and-modifications.md), whose range starts at 3.8 lb-ft (45 lb-in). Plastic shields strip easily, so these numbers matter more than they look. Note also that **the drain grommet can be seen without removing the shield at all** - see the wheel-well sight line above and [REF-032](../references/REF-032-ac-drain-wheel-well-view.jpeg).
 
