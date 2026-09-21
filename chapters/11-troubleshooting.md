@@ -26,3 +26,23 @@
 **Clearing it.** Low-pressure compressed air from below, or a zip tie worked gently a short way in. **Never push a wire or screwdriver up the tube** - puncturing the evaporator case turns a free fix into a dash-out repair.
 
 **TSB 20-2170 - does not apply to this truck.** Ford's fix for condensate entering at the drain-tube seal (remove the metal shield, fit an elbow on the drain tube, tape over it) covers **2018-2020** F-150/Expedition/Navigator/Super Duty **built 31 Aug 2018 through 2 Feb 2020**. This truck is a 2024 and falls outside it. Worth knowing only as a precedent if the same symptom appears, since the underlying design complaint was a drain that lets water back past the seal.
+
+### Removing the passenger (RH) fender splash shield
+
+From the workshop manual (REF-028), *Fender Splash Shield: Removal*, F-250/F-350. The manual illustrates the LH side and notes the RH is similar, so the RH-specific steps are called out below. **Every fastener here is low torque - inch-pounds, not foot-pounds.**
+
+| Step | Fastener | Torque on reassembly |
+| --- | --- | --- |
+| 1 | **Remove the wheel and tire** (single rear wheel procedure). Wheel nuts go back to **150 lb-ft** with the truck on its tires, per [chapter 5](05-torque-specifications.md) | 150 lb-ft |
+| 2 | **If equipped with mud flaps:** remove the bolts, then the pushpin, bolt and mud flap. This truck has **no mud flaps yet** - the WeatherTech set is on the [short-term list](09-accessories-and-modifications.md), so this step will apply after they are fitted | 10 lb-in (1.1 N·m) |
+| 3 | Remove the bolts along the shield | 10 lb-in (1.1 N·m) |
+| 4 | Remove the bolt and the **pin-type retainer** | 35 lb-in (4 N·m) |
+| 5 | Remove the bolts | 9 lb-in (1 N·m) |
+| 6 | **RH side:** remove the bolt | 35 lb-in (4 N·m) |
+| 7 | **RH side:** remove the nut | Not specified |
+| 8 | **RH side:** release the **wiring harness retainers** and remove the shield. (The LH side also has hood latch release cable retainers to free - the RH side does not) | - |
+
+**Installation:** Ford's entire instruction is *"To install, reverse the removal procedure."*
+
+**Practical notes.** The 9 and 10 lb-in figures are barely more than snug - a 1/4 in drive is the right tool and a 1/2 in drive torque wrench cannot read that low, including the [digital wrench in chapter 9](09-accessories-and-modifications.md), whose range starts at 3.8 lb-ft (45 lb-in). Plastic shields strip easily, so these numbers matter more than they look. Note also that **the drain grommet can be seen without removing the shield at all** - see the wheel-well sight line above and [REF-032](../references/REF-032-ac-drain-wheel-well-view.jpeg).
+
