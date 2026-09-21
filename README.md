@@ -113,6 +113,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Payload and loading](chapters/10-fifth-wheel-and-towing.md#payload-and-loading) |
 | **11** | **[Troubleshooting](chapters/11-troubleshooting.md)** |
 | | [Placeholder symptom index](chapters/11-troubleshooting.md#placeholder-symptom-index) |
+| | [A/C evaporator drain](chapters/11-troubleshooting.md#ac-evaporator-drain) |
 | **12** | **[3D-Printed Accessories](chapters/12-3d-printed-accessories.md)** |
 | | [Design library](chapters/12-3d-printed-accessories.md#design-library) |
 | | [Design record template](chapters/12-3d-printed-accessories.md#design-record-template) |
