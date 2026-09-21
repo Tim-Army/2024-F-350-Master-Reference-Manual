@@ -32,7 +32,7 @@ The previous edition carried a provisional quick list from the project conversat
 
 | Fastener | Torque | Notes |
 | --- | --- | --- |
-| Wheel nut / stud **size** | **M14 x 1.5 thread** | Owner's manual, Wheel Nuts page (REF-001), 8 nuts per wheel. Hex drive size is **not stated by Ford** - 2023-2027 Super Duty SRW nuts are commonly **22 mm**; confirm against the socket that fits before buying a dedicated one |
+| Wheel nut / stud **size** | **M14 x 1.5 thread** | Owner's manual, Wheel Nuts page (REF-001), 8 nuts per wheel. Hex drive size is **not stated by Ford**, but the owner confirmed **13/16 in** fits this truck (20.64 mm, used for the 20 September 2026 retorque). **Note 21 mm will be sloppy and 20 mm will not go on** - 13/16 in is the socket to keep with the truck |
 | **Wheel nuts - SRW** | **150 lb-ft (204 N·m)** | Star/cross pattern. **Final tightening with the vehicle resting on its tires.** Specification is for clean, dry stud and nut threads, except for the light oiling below |
 | Wheel stud and nut preparation | - | Apply 2-3 drops of Motorcraft SAE 5W-20 full synthetic (XO-5W20-QFS) per hub to the stud threads with a towel and wipe off the excess. One drop between the washer and nut on 2-piece swivelling nuts. Thin coat of XL-2 nickel anti-seize on the **hub pilot only**, never on studs, nuts or mating faces |
 | **Retorque** | **150 lb-ft (204 N·m)** | **Retighten within 100 miles (160 km)** of any wheel reinstallation - Ford warns wheels can loosen after initial tightening |
