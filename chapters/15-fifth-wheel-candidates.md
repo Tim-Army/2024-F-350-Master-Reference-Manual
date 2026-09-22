@@ -493,10 +493,9 @@ Marked a maybe by the owner. Both clear every truck limit at their own full GVWR
 
 | Trailer | Year | Price | Dealer | Length | Height | Garage | GVWR | Pin at GVWR (est.) | Pin at GVWR with GN (est.) | Margin at the accepted 3,700 lb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Forest River Cherokee Wolf Pack 315PACK12** | 2021 | $39,995 | Bish's RV, Cheyenne WY | 39 ft 3 in | 13 ft 5 in | 12 ft, enclosed, sliding door | 14,036 | ~2,655 | **~2,795 - already converted** | **~905 lb spare as it sits** |
 | **Palomino Puma Unleashed 351THSS** | 2016 | $19,995 | Bish's RV, Great Falls MT | 37 ft 0 in | 12 ft 0 in | 11 ft 8 in, enclosed, permanent wall | 13,560 | ~2,617 | ~2,757 | **~1,083 lb spare**, or ~943 lb if converted |
 
-The Wolf Pack is **already converted to gooseneck** with a Reese Goose Box, so it needs no hitch purchase; the Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). Both are over the 35 ft hard limit and live on the 40 ft list. Full detail for each is in the verified subsections below.
+**The Wolf Pack 315PACK12 was rejected on 22 September 2026 for a 3,274 lb CCC**, after a day as the favorite - see [Rejected](#rejected). The Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). Live candidates are over the 35 ft hard limit and sit on the 40 ft list. Full detail for each is in the verified subsections below.
 
 ## Enclosed-garage toy haulers - 40 ft maximum
 
@@ -507,7 +506,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | Trailer | Years | Length | Height | Enclosed garage | GVWR | CCC | Dry pin | Dry GN pin (est.) | Pin at GVWR (est.) | Pin at GVWR with GN (est.) | Weight note |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~1,740 | ~2,275 | ~2,415 | Fits comfortably |
-| Forest River Cherokee Wolf Pack 315PACK12 **(MAYBE)** | 2019-2022 (this unit 2021) | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | ~2,176 | **~2,655** | ~2,795 | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
+| ~~Forest River Cherokee Wolf Pack 315PACK12~~ **REJECTED** | 2019-2022 (this unit 2021) | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | ~2,176 | **~2,655** | ~2,795 | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
 | ~~Genesis Supreme Rage'n 3016RIKS~~ **REJECTED** | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - **shared**, not enclosed | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | ~2,840 | **~3,504** | ~3,644 | **~121 lb inside the ~3,625 lb estimate, ~196 lb inside the accepted 3,700 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
 | ~~KZ Venom V3411TK~~ **REJECTED** | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
 | Palomino Puma Unleashed 351THSS **(MAYBE)** | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | ~1,985 | **~2,617** | ~2,757 | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
@@ -630,6 +629,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
 | 2018 Keystone Impact 3219 | Rejected by the owner 21 September 2026 |
+| 2021 Forest River Cherokee Wolf Pack 315PACK12 | **CCC too low - 3,274 lb.** Rejected by the owner 22 September 2026, having been the favorite the previous day. Towed well within limits (pin ~2,655 lb) and came with a Reese Goose Box already fitted, but it carried 700-1,200 lb less than the candidates with 4,000 lb-plus capacity |
 | 2017 KZ Venom V3411TK | Rejected by the owner 21 September 2026. Towable (pin ~3,032 lb at its 16,000 lb GVWR) but the lowest cargo capacity of the live candidates at 2,700 lb; 13,300 lb dry; $39,995; Roto-Flex pin box may block a Goose Box conversion |
 | 2024 Genesis Supreme Rage'n 3016RIKS | Rejected by the owner 21 September 2026. Pin ~3,504 lb at its 15,000 lb GVWR - inside the accepted 3,700 lb but the tightest screened; shared garage; 160 gal fresh tank (1,328 lb) could take the remaining margin |
 | 2014 Keystone Fuzion 331 Chrome | Rejected by the owner 21 September 2026. Pin ~3,910 lb at its 16,500 lb GVWR, ~285 lb over the ceiling; 37 ft 7 in; $39,997 |
@@ -750,7 +750,7 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2016-palom
 
 **Brochure note on CCC:** Palomino defines CCC as GVWR minus UVW and says it must cover fresh water at 8.3 lb/gal; the brochure adds that every Forest River unit is weighed before shipping and carries a label with the actual UVW and CCC. **Check that label on the unit** - it supersedes the 4,000 lb brochure figure, exactly as the Fuzion 371's label corrected its brochure.
 
-### Forest River Cherokee Wolf Pack 315PACK12 (2021) - verified, **MAYBE**
+### Forest River Cherokee Wolf Pack 315PACK12 (2021) - verified, REJECTED 22 September 2026 (CCC 3,274 lb)
 
 Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2021-forest-river-rv-cherokee-wolf-pack-315pack12-3786475-26), floorplan, **federal certification label** and unit decal, 21 September 2026. The floorplan was previously verified on 14 September 2026 from a different unit; the garage is a solid wall with a sliding door, confirmed by the owner from an interior photo.
 
