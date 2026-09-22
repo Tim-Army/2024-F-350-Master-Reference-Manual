@@ -504,6 +504,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~2,275 | Fits comfortably |
 | Forest River Cherokee Wolf Pack 315PACK12 **(MAYBE)** | 2021 | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | **~2,655** | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
+| Genesis Supreme Rage'n 3016RIKS | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - type unverified | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | **~3,504** | **Inside the ~3,625 lb ceiling, but only by ~121 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
 | Palomino Puma Unleashed 351THSS **(MAYBE)** | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | **~2,617** | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
 | ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | **~3,910** | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | **~3,805** | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
@@ -792,4 +793,33 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2021-fores
 **Watch the axle rating.** GAWR is **6,000 lb per axle, 12,000 lb total**, under a 14,036 lb GVWR - so the pin must carry at least 2,036 lb for the trailer to be within its own axle ratings, which the numbers do comfortably. Tires are **ST235/80R16 load range E at 80 psi**, a step below the load range G on the rejected Fuzion 371.
 
 **Points against.** At **39 ft 3 in** it is the longest candidate still live - just 9 in inside the 40 ft limit - and at **13 ft 5 in** the tallest of anything recorded. It is **$39,995**, twice the Puma's $19,995, and also has only **1 slide**. **Previously rejected on 14 September 2026 under the 35 ft hard limit**; it returns here on the 40 ft list.
+
+### Genesis Supreme Rage'n 3016RIKS (2024) - screened 21 September 2026
+
+Owner-supplied **federal certification label** and specification list.
+
+| Item | Figure | Source |
+| --- | --- | --- |
+| VIN | `7HN1FER29RP476778` - Genesis Supreme RV Inc, **2024** | Federal label |
+| **GVWR** | **15,000 lb** (6,810 kg) | **Federal label** |
+| UVW | **11,957 lb** (5,424 kg) on the label; **11,560 lb** in the spec list | Label vs brochure |
+| CCC | **3,043 lb** derived from the label; **3,440 lb** claimed | Label vs brochure |
+| GAWR each axle | **7,000 lb** x 2 = 14,000 lb | Federal label |
+| Tires | **ST235/85R16 G**, 16 x 8 rims, **110 psi cold** | Federal label |
+| Hitch (dry pin) | **2,700 lb** - **23.4%** of the 11,560 lb dry weight | Spec list |
+| **Pin at GVWR (est.)** | **~3,504 lb** | Derived |
+| Length / width | 36 ft 10 in / 8 ft 6 in | Spec list |
+| Garage | **16 ft 4 in** - the longest garage of any candidate. **Type not verified** - no floorplan supplied, so enclosed vs shared is unknown | Spec list |
+| Layout | 2 slides, sleeps 6, RV king, 1 bunk, 55 in living TV, 8 cu ft refrigerator, radius shower | Spec list |
+| Tanks | Fresh **160 gal**, gray 50, black 50, **40 gal fuel station**, 2 x LP | Spec list |
+
+**Verdict: towable, but the tightest of the live candidates.** At **~3,504 lb** the pin sits inside the ~3,625 lb ceiling by only about **121 lb** - against ~970 lb for the Wolf Pack and ~1,008 lb for the Puma. Its 23.4% dry pin share is the highest of anything still in play. Other limits are fine: GCWR 26,900 lb of 29,000, and payload has room.
+
+**The 160 gal fresh tank is the real risk, and it is unusually large.** Full, it is **1,328 lb** - 44% of the label's entire 3,043 lb cargo capacity, and more than twice the Wolf Pack's 100 gal. **Where that tank sits decides whether this trailer stays legal:** forward of the axles it loads the pin directly, and a few hundred pounds of it landing on the pin erases the 121 lb margin. The 40 gal fuel station adds roughly another 250 lb, and on toy haulers it is usually at the rear, which helps. **Do not screen this one on brochure numbers - weigh it, or at minimum establish where the fresh tank is.**
+
+**Note the label-versus-brochure gap**, the same trap the Fuzion 371 sprang: the label's UVW is **397 lb heavier** than the spec list and its cargo capacity **397 lb lighter**. Using the label's UVW with the 2,700 lb pin gives a 22.6% share and ~3,388 lb at GVWR, a little kinder - but the conservative figure is the one to plan on.
+
+**Strong points:** a **16 ft 4 in garage**, by far the longest recorded here; **G-rated tires at 110 psi**, matching the best on the list; 2 slides where the Wolf Pack and Puma have one; and **36 ft 10 in**, shorter than both the Wolf Pack (39 ft 3 in) and the rejected Fuzions.
+
+**Still needed:** the floorplan, to confirm whether the garage is enclosed; the exterior height; the price and dealer; and the fresh-tank location.
 
