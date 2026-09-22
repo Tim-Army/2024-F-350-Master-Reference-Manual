@@ -505,7 +505,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~1,740 | ~2,275 | ~2,415 | Fits comfortably |
 | Forest River Cherokee Wolf Pack 315PACK12 **(MAYBE)** | 2019-2022 (this unit 2021) | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | ~2,176 | **~2,655** | ~2,795 | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
 | ~~Genesis Supreme Rage'n 3016RIKS~~ **REJECTED** | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - **shared**, not enclosed | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | ~2,840 | **~3,504** | ~3,644 | **~121 lb inside the ~3,625 lb estimate, ~196 lb inside the accepted 3,700 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
-| KZ Venom V3411TK | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
+| ~~KZ Venom V3411TK~~ **REJECTED** | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
 | Palomino Puma Unleashed 351THSS **(MAYBE)** | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | ~1,985 | **~2,617** | ~2,757 | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
 | ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | ~3,155 | **~3,910** | ~4,050 | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | ~3,170 | **~3,805** | ~3,945 | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
@@ -627,6 +627,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
 | 2018 Keystone Impact 3219 | Rejected by the owner 21 September 2026 |
+| 2017 KZ Venom V3411TK | Rejected by the owner 21 September 2026. Towable (pin ~3,032 lb at its 16,000 lb GVWR) but the lowest cargo capacity of the live candidates at 2,700 lb; 13,300 lb dry; $39,995; Roto-Flex pin box may block a Goose Box conversion |
 | 2024 Genesis Supreme Rage'n 3016RIKS | Rejected by the owner 21 September 2026. Pin ~3,504 lb at its 15,000 lb GVWR - inside the accepted 3,700 lb but the tightest screened; shared garage; 160 gal fresh tank (1,328 lb) could take the remaining margin |
 | 2014 Keystone Fuzion 331 Chrome | Rejected by the owner 21 September 2026. Pin ~3,910 lb at its 16,500 lb GVWR, ~285 lb over the ceiling; 37 ft 7 in; $39,997 |
 | 2014 Keystone Fuzion 371 | Rejected by the owner 21 September 2026. Pin ~3,805 lb at its 16,500 lb GVWR, ~180 lb over the ceiling; 38 ft 11 in; $34,990 |
@@ -830,7 +831,7 @@ Owner-supplied **federal certification label** and specification list.
 
 **Still needed:** the exterior height; the exterior height; the price and dealer; and the fresh-tank location.
 
-### KZ Venom V3411TK (2017) - verified
+### KZ Venom V3411TK (2017) - verified, REJECTED 21 September 2026
 
 Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2017-kz-venom-3411tk-3698631-26), floorplan and the KZ standard-features list, 21 September 2026.
 
