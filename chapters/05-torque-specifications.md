@@ -253,7 +253,7 @@ The new ½ in digital torque wrench (3.8-250.8 lb-ft) covers the 110 lb-ft pivot
 | Tailgate torsion rod clamp block bolts | 133 lb-in (15 N·m) | |
 | Power tailgate motor bolts | 80 lb-in (9 N·m) upper / 18 lb-ft (25 N·m) bottom | |
 | Windshield wiper motor / linkage bolts | 89 lb-in (10 N·m) / 71 lb-in (8 N·m) | Crank arm retainer 133 lb-in (15 N·m) |
-| Fender splash shield - bolts | 10 lb-in (1.1 N·m) | F-250/F-350, REF-028 |
+| Fender splash shield - bolts | 10 lb-in (1.1 N·m) | F-250/F-350, REF-028. **Socket: 6 mm for most, 10 mm for one bolt** (owner-confirmed 21 Sep 2026); two push-on nuts turn with a flat-blade screwdriver |
 | Fender splash shield - bolts (second set) | 9 lb-in (1 N·m) | REF-028 |
 | Fender splash shield - bolt and pin-type retainer | 35 lb-in (4 N·m) | Also the RH-side bolt. REF-028 |
 | Mud flap bolts, pushpin and bolt | 10 lb-in (1.1 N·m) | Applies once mud flaps are fitted. REF-028 |

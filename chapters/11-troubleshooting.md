@@ -44,7 +44,27 @@ From the workshop manual (REF-028), *Fender Splash Shield: Removal*, F-250/F-350
 
 **Installation:** Ford's entire instruction is *"To install, reverse the removal procedure."*
 
-**Socket size - not specified by Ford.** REF-028 gives torque for every fastener here but never a socket size; the figures show hex-flange trim screws and one pin-type retainer. On Ford trim of this class they are usually **7 mm or 8 mm**, so carry both in 1/4 in drive, and a **10 mm** for the RH nut. Confirm on the truck and record the real sizes here. The **pin-type retainer is not a socket job** - it pulls with a trim/panel tool, and levering it with a screwdriver usually breaks it.
+**Socket sizes - confirmed by the owner 21 September 2026.** Ford specifies torque for every fastener here but never a socket size. On this truck: **10 mm for one bolt, 6 mm for the rest.** The **two push-on nuts were turned with a flat-blade screwdriver** rather than a socket. The pin-type retainer is not a socket job - it pulls with a trim tool.
+
+**Shortcut that worked: no full shield removal.** The owner **pried the rear edge of the fiber liner out far enough to flex it** and reach the drain by hand, instead of taking the shield off. That is the least-disturbance route to the grommet.
 
 **Practical notes.** The 9 and 10 lb-in figures are barely more than snug - a 1/4 in drive is the right tool and a 1/2 in drive torque wrench cannot read that low, including the [digital wrench in chapter 9](09-accessories-and-modifications.md), whose range starts at 3.8 lb-ft (45 lb-in). Plastic shields strip easily, so these numbers matter more than they look. Note also that **the drain grommet can be seen without removing the shield at all** - see the wheel-well sight line above and [REF-032](../references/REF-032-ac-drain-wheel-well-view.jpeg).
+
+### Drain flush as performed, 21 September 2026
+
+Recorded from the owner's work at **38,926 miles**. The A/C had not shown a wet-carpet symptom - this was preventive.
+
+| Step | Detail |
+| --- | --- |
+| 1 | Loosened the RH fender splash shield fasteners (**10 mm x 1, 6 mm for the rest**; two push-on nuts turned off with a flat-blade screwdriver) |
+| 2 | **Pried the rear edge of the fiber liner out** and flexed it enough to reach the drain - the shield was never fully removed |
+| 3 | Fed the **applicator hose all the way up the drain** and discharged the **entire canister** of aerosol cleaner |
+| 4 | Caught the excess in a pail as it drained back out |
+| 5 | **Waited 15 minutes** for the product to work |
+| 6 | Started the engine and ran the **blower and A/C on low for 5 minutes** to push condensate and residue through the drain |
+| 7 | Shut down, reassembled the shield, and **replaced the cabin air filter** |
+
+**Product used:** an aerosol evaporator/drain cleaner in a blue can. The label is only partly legible in IMG_1766-1767 - **`165-2810`** and a UPC beginning **`83137968`**. *Brand and product name to be confirmed by the owner.*
+
+**Old cabin air filter (IMG_1768-1769).** Heavily loaded - grey-brown across the full pleat depth with visible fiber and debris on the inlet face, against the clean white of the replacement. It was due. *Filter part number to be recorded.*
 
