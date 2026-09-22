@@ -509,6 +509,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | ~~Forest River Cherokee Wolf Pack 315PACK12~~ **REJECTED** | 2019-2022 (this unit 2021) | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | ~2,176 | **~2,655** | ~2,795 | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
 | ~~Genesis Supreme Rage'n 3016RIKS~~ **REJECTED** | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - **shared**, not enclosed | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | ~2,840 | **~3,504** | ~3,644 | **~121 lb inside the ~3,625 lb estimate, ~196 lb inside the accepted 3,700 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
 | ~~KZ Venom V3411TK~~ **REJECTED** | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
+| Forest River Puma 382THS | 2022 | **39 ft 10 in** | 12 ft 8 in | 12 ft 1 in cargo area; 7 ft 3 in spring-assist ramp door; wall with door to the living area | 13,900 (**federal label**) | **3,682 derived / 3,821 label maximum** | ~2,000 (est., not published) | ~2,140 | **~2,720 (est.)** | ~2,860 | Fits easily on pin, but **CCC is under the 4,000 lb bar** |
 | Palomino Puma Unleashed 351THSS **(MAYBE)** | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | ~1,985 | **~2,617** | ~2,757 | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
 | ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | ~3,155 | **~3,910** | ~4,050 | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | ~3,170 | **~3,805** | ~3,945 | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
@@ -892,4 +893,33 @@ Owner-supplied **federal certification label** for a 2021 unit.
 **Garage separation: a partition carrying the entertainment centre and fireplace on the living-room side**, with a doorway through it. Dealer copy describes the garage as its own space with **one of the dual entry doors** opening into it, an **insulated weatherproof ramp door**, and a **retractable panoramic screen** for airflow without insects. The ramp drops to a **patio deck**. That reads as a true enclosed garage rather than a shared one, though the door type is not stated - confirm on the unit.
 
 **A 2023 unit for sale:** [North Country RV, Ham Lake, MN](https://www.northcountryrv.com/product/used-2023-forest-river-rv-xlr-nitro-321-3556771-26), stock HL6126A, **$57,495** - 3 slides, sleeps 8, fresh 102 gal, gray 71, black 82, king bed, 24 x 36 shower/tub. **The most expensive live candidate by a wide margin**, against $39,995 for the Wolf Pack and $19,995 for the Puma. Dry weight 12,234 lb and hitch 2,585 lb on that listing match the figures recorded here exactly.
+
+### Forest River Puma 382THS (2022) - federal label confirmed, 22 September 2026
+
+Owner-supplied **federal certification label**, floorplan and a [Camping World listing](https://rv.campingworld.com/rv/2022-forest-river-puma-382ths-2733939c-mesa-az) (Mesa, AZ). **Note this is a Forest River Puma, not the Palomino Puma Unleashed 351THSS also on this list** - different trailers sharing a name.
+
+| Item | Figure | Source |
+| --- | --- | --- |
+| VIN | `4X4FPTP26NP094649`, type **PTF382THS** | Federal label |
+| Built | **15 December 2021** | Federal label |
+| **GVWR** | **13,900 lb** (6,305 kg) | **Federal label** |
+| GAWR each axle | **6,000 lb** (2,722 kg) x 2 = 12,000 lb | Federal label |
+| Tires | **ST235/80R16 E** on 16 x 6.0J rims, **80 psi cold**, single | Federal label |
+| **Maximum cargo** | **3,821 lb** (1,733 kg) | **Tire and loading label** |
+| Dry weight (UVW) | 10,218 lb | Listing |
+| CCC (derived) | **3,682 lb** (GVWR less UVW) | Derived |
+| Hitch (dry pin) | **not published** - estimated ~2,000 lb | Estimate |
+| Pin at GVWR (est.) | **~2,720 lb**, on an assumed ~19.6% share | Estimate |
+| Length / width / height | **39 ft 10 in** / 8 ft 0 in / **12 ft 8 in** | Listing |
+| Garage | **12 ft 1 in cargo area**, 7 ft 3 in spring-assist ramp door, optional 60 x 74 electric-lift queen, wall with a door to the living area and a walk-in pantry alongside | Floorplan |
+| Layout | **1 slide**, sleeps 8, dinette and sofa, 60 x 80 queen, 32 x 40 shower with seat, 50 amp | Listing + floorplan |
+| Tanks | Fresh 98 gal, gray 69, black 34, LP 60 lb | Listing |
+
+**It fails the 4,000 lb CCC bar** that just retired the Wolf Pack 315PACK12 - **3,682 lb derived, or 3,821 lb as the tire and loading label's maximum**. That is 408-547 lb better than the Wolf Pack's 3,274 lb but still short of the Puma Unleashed's 4,000 lb, the Nitro's 4,351 lb and the Rogue SUT's 4,477 lb.
+
+**On pin it is very comfortable.** A 13,900 lb GVWR on 12,000 lb of axle means the pin carries roughly 1,900 lb minimum; at an assumed ~19.6% dry share the loaded pin lands near **2,720 lb**, well inside the 3,700 lb ceiling and leaving room for a gooseneck conversion at ~2,860 lb. **The dry pin is not published anywhere yet** - get it from the dealer or a scale before relying on these figures.
+
+**Length is the other problem: 39 ft 10 in leaves 2 in inside the 40 ft list limit**, the longest thing ever screened here. Against it, the **12 ft 8 in height is low** - only the Palomino Puma at 12 ft 0 in and the KZ Sportsters are lower - and the **12 ft 1 in garage** is among the longest.
+
+**Price not captured** - the Camping World page would not return its listing detail. Supply it and this entry can be completed.
 
