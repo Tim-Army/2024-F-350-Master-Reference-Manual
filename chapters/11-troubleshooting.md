@@ -64,7 +64,11 @@ Recorded from the owner's work at **38,926 miles**. The A/C had not shown a wet-
 | 6 | Started the engine and ran the **blower and A/C on low for 5 minutes** to push condensate and residue through the drain |
 | 7 | Shut down, reassembled the shield, and **replaced the cabin air filter** |
 
-**Product used:** an aerosol evaporator/drain cleaner in a blue can. The label is only partly legible in IMG_1766-1767 - **`165-2810`** and a UPC beginning **`83137968`**. *Brand and product name to be confirmed by the owner.*
+**Product used: [Lubegard Kool-It Evaporator & Heater Foam Cleaner](https://www.lubegard.com/products/evap), part `96030`**, 6 oz (170 g) net with one applicator tip and hose. Aerosol foam, EV and hybrid compatible, EV OEM approved, extremely flammable - no drilling required. The label reads `165-2810` with a UPC beginning `83137968` (IMG_1766-1767).
+
+**The owner's method matches the manufacturer's directions exactly.** Kool-It's own steps are: locate the drain tube with the ignition off; insert the application tip and hose through the drain opening; once the tip reaches the evaporator/heater core, shake the can, attach the hose fully to the cap nozzle, then **press the cap down to lock it and discharge the entire can**; remove the hose and refit anything moved for access; **allow about 15 minutes** to work and deodorize; then **run the fan on its lowest setting for 5 minutes**, so the foam condenses and collapses, carrying contaminants out through the drain. Lubegard notes that the usual cause of the smell is moisture failing to drain, and that feeding the hose up the drain **clears any blockage on the way in** - which is exactly the preventive value here. Lubegard suggests a lift for underside access; the wheel-well-and-flex-the-liner route above did the job without one.
+
+**Tech support:** Lubegard hotline 800-333-5823 or 206-762-5343.
 
 **Old cabin air filter (IMG_1768-1769).** Heavily loaded - grey-brown across the full pleat depth with visible fiber and debris on the inlet face, against the clean white of the replacement. It was due. *Filter part number to be recorded.*
 
