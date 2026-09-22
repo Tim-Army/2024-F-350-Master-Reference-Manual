@@ -134,6 +134,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Requirement](chapters/15-fifth-wheel-candidates.md#requirement) |
 | | [What this truck can pull](chapters/15-fifth-wheel-candidates.md#what-this-truck-can-pull) |
 | | [Shortlist](chapters/15-fifth-wheel-candidates.md#shortlist) |
+| | [Maybes - live candidates, 21 September 2026](chapters/15-fifth-wheel-candidates.md#maybes---live-candidates-21-september-2026) |
 | | [Enclosed-garage toy haulers - 40 ft maximum](chapters/15-fifth-wheel-candidates.md#enclosed-garage-toy-haulers---40-ft-maximum) |
 | | [Non-toy-hauler fifth wheels - 35 ft maximum](chapters/15-fifth-wheel-candidates.md#non-toy-hauler-fifth-wheels---35-ft-maximum) |
 | | [Manufacturers](chapters/15-fifth-wheel-candidates.md#manufacturers) |
