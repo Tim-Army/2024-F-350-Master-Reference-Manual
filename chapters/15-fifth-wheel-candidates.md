@@ -517,7 +517,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 13 ft 3 in | 10 ft | 16,765 | 4,360 | 2,765 | ~2,905 | ~3,740 | ~3,880 | Over the ceiling at GVWR |
 | Prime Time Spartan 300 3210 | ~2017-2018 | 36 ft 2 in | 13 ft 2 in | 10 ft | 16,616 | 4,885 | 2,612 | ~2,752 | ~3,700 | ~3,840 | Over the ceiling at GVWR |
 | [Grand Design Momentum G-Class 320G](https://www.granddesignrv.com/toy-haulers/momentum-g-class/320g) | current (Grand Design page) | 36 ft 3 in | 13 ft 6 in (13 ft 5 in with optional A/C, as published) | 11 ft; wall with W/D prep, HappiJac rollover sofas and table, flip-up pet dish, optional overhead bed | **16,400** | **3,300** (computed) | 2,300 | ~2,440 | ~2,880 (17.6% dry ratio); ~4,100 at 25% | ~3,020 | Fits at its dry pin ratio, with about 745 lb spare; over the ceiling above ~22.1% pin. **Grand Design's own figures** (supplied by the owner 17 September 2026): UVW 13,100 lb, 98 / 52 / 104 gal, 3 slides, 17.5 in wheels, 8 ft 5 in wide, tankless water heater. RVGuide's 2025 page differs (12,400 UVW, 16,800 GVWR, 4,400 CCC) - trust Grand Design, and read the unit's label. Enclosed garage confirmed from the floorplan. Rejected on price 14 September - kept here per the no-rejection rule |
-| Forest River XLR Nitro 321 | 2021-2024 | 37 ft 10 in | 13 ft 4 in | 11 ft (~8 ft usable, walkway) | 16,585 | 4,351 | 2,585 | ~2,725 | ~3,500 | ~3,640 | Marginal |
+| Forest River XLR Nitro 321 **(LIVE)** | 2021-2024 | 37 ft 10 in | 13 ft 4 in | 11 ft (~8 ft usable, walkway) | 16,585 | 4,351 | 2,585 | ~2,725 | ~3,500 | ~3,640 | Marginal |
 | Keystone Carbon 347 | 2020 | 38 ft 2 in | 13 ft 2 in | 12 ft 6 in | 17,000 | 4,449 | 3,050 | ~3,190 | ~4,125 | ~4,265 | Over the ceiling at GVWR |
 | KZ Sportster 331TH13 | 2022-2024 | 38 ft 6 in | 12 ft 7 in (with A/C) | **13 ft**; 88 x 91 in ramp | 12,995 | 3,215 | 2,180 | ~2,320 | ~2,900 | ~3,040 | Fits comfortably |
 | Momentum M-Class 351M | 2020-2022 | 38 ft 9 in | 13 ft 5 in | 11 ft (per specs; floorplan unchecked) | 16,800 | 3,000 | 2,785 | ~2,925 | ~3,390 | ~3,530 | Marginal |
@@ -625,7 +625,6 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | KZ Sportster 331TH13 | Over 35 ft (38 ft 6 in). Rejected 14 September 2026 under the length limit |
 | 2021 Forest River Stealth SA3019G | Over 35 ft (36 ft 5 in). Rejected 14 September 2026 under the length limit |
 | Keystone Raptor Carbon 310 | Over 35 ft (35 ft 11 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
-| Forest River XLR Nitro 321 | Over 35 ft (37 ft 10 in); also marginal on weight. Rejected 14 September 2026 under the length limit. **Federal label confirmed 21 September 2026** - eligible on the 40 ft list if the owner reinstates it |
 | Forest River Cherokee Wolf Pack 315PACK12 | Over 35 ft (39 ft 3 in-40 ft 7 in). Rejected 14 September 2026 under the length limit |
 | Grand Design Momentum 325G | Over 35 ft (35 ft 6 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
@@ -882,7 +881,7 @@ Owner-supplied **federal certification label** for a 2021 unit.
 | Pin at GVWR (est.) | **~3,500 lb** | Derived |
 | With a Goose Box | **~3,640 lb** - inside the accepted 3,700 lb by ~60 lb | Derived |
 
-**Status: rejected 14 September 2026 under the 35 ft hard limit, at 37 ft 10 in.** Nothing else disqualified it. On the 40 ft list it would be eligible, and it is **1 ft 5 in shorter than the favored [315PACK12](#forest-river-cherokee-wolf-pack-315pack12-2021---verified-maybe)**.
+**Status: reinstated onto the 40 ft list by the owner, 21 September 2026.** Its 14 September rejection was under the 35 ft hard limit alone, at 37 ft 10 in; nothing else disqualified it. It is **1 ft 5 in shorter than the favored [315PACK12](#forest-river-cherokee-wolf-pack-315pack12-2021---verified-maybe)**.
 
 **Where it stands on the numbers.** Its **4,351 lb CCC** is over 1,000 lb better than the 315PACK12's 3,274 lb, and one of only four CCC-4,000-plus trailers that also fit the pin ceiling. The cost is pin weight: **~3,500 lb against the 315PACK12's ~2,655 lb**, so it uses most of the allowance and leaves the bed light. A gooseneck conversion is possible but tight at ~3,640 lb.
 
