@@ -292,3 +292,25 @@ Nothing in the numbers ruled it out. It was set aside as a direction, not reject
 - Obtain CAT-scale records with truck-only and loaded trailer configurations; retain individual axle weights and compare with door-label ratings.
 
 See [logs/scale-weights.md](../logs/scale-weights.md) for recorded weigh tickets.
+
+## Factory fifth-wheel and gooseneck prep - what this truck actually has
+
+**Two separate line items on the window sticker (REF-003)**, each a real option that was paid for:
+
+| Sticker line | MSRP | What it is |
+| --- | --- | --- |
+| **5TH WHEEL HITCH PREP PACKAGE** | **$550.00** | The in-bed structure: **four mounting pads (pucks)** in the pick-up bed tied to frame-mounted under-bed rails, plus the **in-bed 7-pin trailer wiring connector**. This is what lets the truck accept a fifth-wheel hitch or a gooseneck ball without drilling |
+| **GOOSENECK HITCH KIT** | **$250.00** | The gooseneck hardware itself - the **ball** that drops into the **separate centre mounting pad**, with its safety chain tie-down loops |
+
+**The owner's manual (REF-001) on the layout:** *"This package enables your vehicle to accept certain fifth-wheel trailer hitches and gooseneck ball hitches. The fifth-wheel trailer hitch attaches to the four mounting pads in the pick-up bed. A 7-pin trailer wiring connector could be in the bed as well. **The gooseneck ball hitch is a separate mounting pad from the fifth-wheel hitch in the center of the bed.**"* Ford adds that these pads are **only** for those hitches: *"Do not use these mounting pads for other purposes."*
+
+**So there are five in-bed locations, not four:** four pucks in a rectangle for a fifth-wheel head, and a fifth pad in the centre for the gooseneck ball.
+
+**What this means for hitch buying.**
+
+- **A gooseneck trailer** - such as a Wolf Pack with a [Reese Goose Box conversion](15-fifth-wheel-candidates.md) - needs **nothing further bought**. The ball kit is already on the truck. Confirm the ball and its tie-down loops are physically present and stowed with the vehicle, since a loose ball is easily lost between owners.
+- **A conventional kingpin fifth wheel** still needs a head - the [B&W Companion 25K, $1,399.00](09-accessories-and-modifications.md) in the Immediate list. The Companion is designed to sit in a B&W Turnoverball gooseneck; **verify it mates with Ford's puck system**, since B&W sells both a puck-mount Companion and an under-bed-ball version, and the wrong one will not fit.
+- Ford also publishes its own **fifth-wheel hitch owner's manual and installation guide** for this truck (REF-007, part SKPC3J-5B110-AB), which covers matching hitch, truck and trailer, the hitching and unhitching procedures, the pull test and maintenance.
+
+**Still to confirm physically:** that the gooseneck ball from the kit is in the owner's possession, that the centre pad is clear and undamaged, and that the in-bed 7-pin socket is present and working - the last item is still open in [chapter 2](02-factory-build-and-operation.md).
+
