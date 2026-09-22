@@ -293,6 +293,20 @@ Nothing in the numbers ruled it out. It was set aside as a direction, not reject
 
 See [logs/scale-weights.md](../logs/scale-weights.md) for recorded weigh tickets.
 
+## Owner's accepted pin ceiling - 3,700 lb, set 21 September 2026
+
+**The owner accepts a pin of up to 3,700 lb**, against the ~3,625 lb planning estimate derived below. This is a decision about how much of the estimate's built-in conservatism to spend, not a change to any rating.
+
+**What the extra 75 lb comes out of.** The ~3,625 lb figure is 4,150 lb of spare rear-axle capacity less 521 lb already set aside for the hitch, 200 lb of bed cargo and the occupants' rearward share. Going to 3,700 lb spends **75 lb of that reserve** - in practice, **bed cargo drops from 200 lb to about 125 lb** while the pin is at its maximum. Carry the full 200 lb in the bed *and* a 3,700 lb pin and the rear axle goes to roughly 7,305 lb, **over the 7,230 lb rear GAWR**.
+
+**What does not move.**
+
+- **Rear GAWR 7,230 lb is a rating, not an estimate.** It is the hard line and it does not flex.
+- The second measurement (REF-027, two occupants aboard) put the available pin at **~3,640-3,670 lb** rather than ~3,625 lb, so 3,700 lb is a little beyond even the kinder measured figure.
+- Payload still does not bind at this level, and GCWR is unaffected.
+
+**So 3,700 lb is workable on a lightly loaded bed and defensible given how conservative the derivation is - but it removes the cushion that absorbed the estimate's own error.** The way to buy that cushion back is a **loaded CAT ticket with the hitch fitted**, which replaces every estimate here with a measurement. Until then: **plan at 3,600 lb, accept up to 3,700 lb, and keep the bed light whenever the pin is near the top.**
+
 ## Factory fifth-wheel and gooseneck prep - what this truck actually has
 
 **Two separate line items on the window sticker (REF-003)**, each a real option that was paid for:

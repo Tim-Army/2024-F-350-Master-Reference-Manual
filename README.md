@@ -111,6 +111,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Loading data for this configuration](chapters/10-fifth-wheel-and-towing.md#loading-data-for-this-configuration) |
 | | [Front-mounted motorcycle carrier - archived](chapters/10-fifth-wheel-and-towing.md#front-mounted-motorcycle-carrier---archived) |
 | | [Payload and loading](chapters/10-fifth-wheel-and-towing.md#payload-and-loading) |
+| | [Owner's accepted pin ceiling - 3,700 lb, set 21 September 2026](chapters/10-fifth-wheel-and-towing.md#owners-accepted-pin-ceiling---3700-lb-set-21-september-2026) |
 | | [Factory fifth-wheel and gooseneck prep - what this truck actually has](chapters/10-fifth-wheel-and-towing.md#factory-fifth-wheel-and-gooseneck-prep---what-this-truck-actually-has) |
 | **11** | **[Troubleshooting](chapters/11-troubleshooting.md)** |
 | | [Placeholder symptom index](chapters/11-troubleshooting.md#placeholder-symptom-index) |
