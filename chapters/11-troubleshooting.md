@@ -52,7 +52,7 @@ From the workshop manual (REF-028), *Fender Splash Shield: Removal*, F-250/F-350
 
 ### Drain flush as performed, 21 September 2026
 
-Recorded from the owner's work at **38,926 miles**. The A/C had not shown a wet-carpet symptom - this was preventive.
+Recorded from the owner's work at **38,926 miles**. **This was done to chase a sour smell in the interior, not as preventive maintenance** - it is step two of a staged attack on the odor (see below). There was no wet-carpet symptom, so the drain was not suspected of backing up; the evaporator was suspected of holding the smell.
 
 | Step | Detail |
 | --- | --- |
@@ -71,4 +71,18 @@ Recorded from the owner's work at **38,926 miles**. The A/C had not shown a wet-
 **Tech support:** Lubegard hotline 800-333-5823 or 206-762-5343.
 
 **Old cabin air filter (IMG_1768-1769).** Heavily loaded - grey-brown across the full pleat depth with visible fiber and debris on the inlet face, against the clean white of the replacement. It was due. *Filter part number to be recorded.*
+
+### Interior sour smell - remediation plan
+
+The odor was present when the truck was bought (8 September 2026). The owner is working through the likely sources in order, cheapest and least invasive first:
+
+| Step | Work | Status |
+| --- | --- | --- |
+| 1 | **Hard plastics cleaned** throughout the cab - dash, console, door cards, trim | **Done** |
+| 2 | **Evaporator and heater core foamed** with Lubegard Kool-It `96030` through the drain, and the **cabin air filter replaced** - the old one was heavily loaded | **Done 21 September 2026**, 38,926 mi |
+| 3 | **Cloth seats scrubbed** with an upholstery cleaner | Planned - a later day |
+
+**Why this order is right.** A sour, musty smell in a cab usually comes from one of three places: microbial growth on the evaporator core, a loaded cabin filter holding damp debris, or soiled upholstery and carpet. Steps 1 and 2 clear the first two and cost little. If the smell survives step 3, the remaining suspects are **the carpet and its underlay** - which hold water far longer than seat fabric - and any **past water intrusion**, so check the passenger footwell for staining or a tide line, and re-check the drain and the cowl inlet screen for standing water. Note also that the **evaporator is a repeat-treatment item**: if the smell returns after a few weeks, it points back at the core rather than the fabric.
+
+**Verification.** Judge the evaporator work with the cab closed up after a hot, humid drive with the A/C on - that is when a core-sourced smell is strongest. A first-start whiff that fades is the classic evaporator signature; a smell that is constant regardless of the blower points at fabric.
 
