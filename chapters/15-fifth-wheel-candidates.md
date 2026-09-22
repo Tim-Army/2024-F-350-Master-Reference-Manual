@@ -742,6 +742,17 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2021-fores
 
 **Second candidate that clears the pin limit at full GVWR.** At **~2,655 lb** it has roughly **970 lb of margin**, and its **18.9% dry pin share is the lowest of anything recorded in this chapter** - marginally better than the Puma's 19.3%. Truck plus trailer at full rating is 25,936 lb against the 29,000 lb GCWR.
 
+**All four truck limits at the trailer's full 14,036 lb GVWR** ([chapter 10](10-fifth-wheel-and-towing.md)):
+
+| Truck limit | Rating | Loaded at trailer GVWR | Margin |
+| --- | --- | --- | --- |
+| Rear GAWR (pin) | ~3,625 lb available for pin | ~2,655 lb pin | **~970 lb spare** |
+| Payload | 4,566 lb | ~3,455 lb (pin 2,655 + hitch ~200 + people 400 + bed 200) | **~1,111 lb spare** |
+| GCWR | 29,000 lb | 25,936 lb (truck at its 11,900 GVWR + trailer at 14,036) | **~3,064 lb spare** |
+| Truck GVWR | 11,900 lb | not reached - the truck weighs ~7,600 lb empty | comfortable |
+
+**So yes: this trailer can be loaded to its own GVWR and stay inside every truck limit.** That is the distinction from the rejected Fuzions, which force loading below their ratings. Caveats: the ~2,655 lb pin is **scaled from the dry pin ratio**, not measured, and the ~3,625 lb pin allowance is itself an estimate built on an empty-truck CAT ticket. **A loaded scale ticket with the hitch fitted supersedes both.**
+
 **Platinum package**, per the decal: extended season with heated and enclosed insulated tanks, underbelly armor, and the package's 100 gal fresh capacity, second 15,000 BTU bedroom A/C, aluminum wheels, in-cab TPMS, solar prep, washer/dryer prep and the enclosed-garage fireplace and rubber floor.
 
 **Watch the axle rating.** GAWR is **6,000 lb per axle, 12,000 lb total**, under a 14,036 lb GVWR - so the pin must carry at least 2,036 lb for the trailer to be within its own axle ratings, which the numbers do comfortably. Tires are **ST235/80R16 load range E at 80 psi**, a step below the load range G on the rejected Fuzion 371.
