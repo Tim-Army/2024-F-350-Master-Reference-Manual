@@ -753,6 +753,14 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2021-fores
 
 **So yes: this trailer can be loaded to its own GVWR and stay inside every truck limit.** That is the distinction from the rejected Fuzions, which force loading below their ratings. Caveats: the ~2,655 lb pin is **scaled from the dry pin ratio**, not measured, and the ~3,625 lb pin allowance is itself an estimate built on an empty-truck CAT ticket. **A loaded scale ticket with the hitch fitted supersedes both.**
 
+**Converted to gooseneck - a Reese Goose Box is fitted** (owner, 21 September 2026; photo shows the **REESE 20K** badge on the pin box). This is not an adapter bolted under a kingpin: the Goose Box **replaces the pin box entirely** with an air-ride gooseneck coupler that latches to a **ball in the truck bed**. Consequences worth weighing:
+
+- **Rating.** The 20K Goose Box is rated **20,000 lb gross / 4,000 lb pin** - far above this trailer's 14,036 lb GVWR and ~2,655 lb pin, so the conversion is not the limiting part.
+- **The [B&W Companion 25K in chapter 9](09-accessories-and-modifications.md) would not be used with this trailer.** The Companion is a fifth-wheel head; a gooseneck trailer couples to a ball instead. That is **$1,399.00 off the Immediate list** if this trailer is bought - but the truck's factory gooseneck ball and its under-bed prep must be confirmed first, and a fifth-wheel head would still be needed for any conventional kingpin trailer bought later.
+- **Pin weight may be higher than the brochure.** The Goose Box weighs **212 lb**, against roughly 60-90 lb for the stock pin box it replaced, so the real pin could sit **~120-150 lb above** the scaled ~2,655 lb. Still far inside the ~3,625 lb ceiling.
+- **Air ride is a genuine gain.** The airbag, dual shocks and rubber springs inside the box take out the chucking that a rigid gooseneck adapter is notorious for. An automatic relief valve prevents overfilling. **Ask the dealer for the air pressure setting** and check the bag and shocks for condition and leaks.
+- **Inspect the conversion.** Confirm it is a factory Reese unit correctly matched to the trailer's frame (Lippert 1621/1716/0719/Rhino or Fabex PB 600), that the mounting bolts are sound, and that it couples and locks cleanly. A poorly done conversion is a reason to walk.
+
 **Platinum package**, per the decal: extended season with heated and enclosed insulated tanks, underbelly armor, and the package's 100 gal fresh capacity, second 15,000 BTU bedroom A/C, aluminum wheels, in-cab TPMS, solar prep, washer/dryer prep and the enclosed-garage fireplace and rubber floor.
 
 **Watch the axle rating.** GAWR is **6,000 lb per axle, 12,000 lb total**, under a 14,036 lb GVWR - so the pin must carry at least 2,036 lb for the trailer to be within its own axle ratings, which the numbers do comfortably. Tires are **ST235/80R16 load range E at 80 psi**, a step below the load range G on the rejected Fuzion 371.
