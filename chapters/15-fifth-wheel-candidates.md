@@ -482,6 +482,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | Trailer | Years | Length | Height | Enclosed garage | GVWR | CCC | Dry pin | Pin at GVWR (est.) | Weight note |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~2,275 | Fits comfortably |
+| Keystone Fuzion 331 Chrome | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | **~3,910** | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | not published (Forest River: TBD) | 11 ft (~8½ ft clear) | 14,090 | 4,477 (Kunes unit ~4,161) | 2,090 | ~3,060 | Fits. Kunes unit label: 9,929 lb dry |
 | Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 13 ft 3 in | 10 ft | 16,765 | 4,360 | 2,765 | ~3,740 | Over the ceiling at GVWR |
 | Prime Time Spartan 300 3210 | ~2017-2018 | 36 ft 2 in | 13 ft 2 in | 10 ft | 16,616 | 4,885 | 2,612 | ~3,700 | Over the ceiling at GVWR |
@@ -614,3 +615,28 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 Every model is to be verified against the **manufacturer brochure and floorplan for the specific model year** before being added to the shortlist. Type, garage arrangement and weights all vary by year within the same model designation, and earlier iterations of this list carried errors from working off dealer listings rather than brochures.
 
 Record for each candidate: model year, GVWR, dry weight, dry pin weight, garage length and door dimensions, and the brochure the figures came from.
+
+### Keystone Fuzion 331 Chrome (2014) - verified
+
+Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2014-keystone-rv-fuzion-331-chrome-3589523-26), floorplan and pin-box photo, 21 September 2026.
+
+| Item | Figure |
+| --- | --- |
+| Price | **$39,997** (list $46,995) |
+| Dealer | Bish's RV, Anderson, IN - stock C1047365Z2, tag on the pin box reads **C1047365Z2** / VIN ending `11033` |
+| Length | 37 ft 7 in - **over the 35 ft limit**, inside the 40 ft list |
+| Exterior height | 13 ft 1 in |
+| Dry weight | 12,725 lb |
+| Dry pin | 3,015 lb (**23.7%** of dry weight) |
+| CCC | 3,775 lb |
+| GVWR | **16,500 lb** (derived: dry + CCC; the listing does not publish it) |
+| Pin at GVWR (est.) | **~3,910 lb** - over the truck's ~3,625 lb ceiling |
+| Garage | **11 ft, enclosed** - separate wall with **safety-glass patio doors** to the living area, 8 ft spring-assisted ramp door, 40 in loft above with its own side entry door |
+| Layout | 3 slides, sleeps 9, dual opposing sofas in the garage, queen bed, washer/dryer prep, 12 cu ft refrigerator, two 16 ft awnings |
+
+**Garage type confirmed from the floorplan**, not marketing text: the plan shows an **11 ft garage area** closed off from the living space, with the patio doors as the only opening - a true enclosed garage.
+
+**Towability.** The binding limit is the pin, as always on this truck. At full GVWR the pin lands about **285 lb over** the ~3,625 lb ceiling, so it cannot be loaded to its rating. Keeping the gross at or under about **15,300 lb** holds the pin inside the limit and still leaves roughly **2,575 lb** of usable cargo - enough for a real payload, but it does mean giving up about a third of the trailer's rated capacity. GCWR is not the issue: 11,900 lb truck GVWR plus 16,500 lb trailer is 28,400 lb, inside the 29,000 lb GCWR, though only by 600 lb.
+
+**The 13 ft 1 in height is the tallest on the 40 ft list** - worth noting for garages, canopies and older bridges.
+
