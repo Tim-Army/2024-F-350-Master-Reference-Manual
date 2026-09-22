@@ -483,6 +483,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~2,275 | Fits comfortably |
 | Keystone Fuzion 331 Chrome | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | **~3,910** | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
+| Keystone Fuzion 371 | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | **~3,805** | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
 | **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | not published (Forest River: TBD) | 11 ft (~8½ ft clear) | 14,090 | 4,477 (Kunes unit ~4,161) | 2,090 | ~3,060 | Fits. Kunes unit label: 9,929 lb dry |
 | Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 13 ft 3 in | 10 ft | 16,765 | 4,360 | 2,765 | ~3,740 | Over the ceiling at GVWR |
 | Prime Time Spartan 300 3210 | ~2017-2018 | 36 ft 2 in | 13 ft 2 in | 10 ft | 16,616 | 4,885 | 2,612 | ~3,700 | Over the ceiling at GVWR |
@@ -645,4 +646,36 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2014-keyst
 **Watch the length definition.** Keystone defines exterior length as *"the distance from the centerline of hitch pin/coupler to rear bumper"* - so **37 ft 7 in excludes the nose overhang ahead of the pin**. Bumper-to-bumper is longer than the published number, which matters for a 40 ft site limit. Most manufacturers measure the same way, so compare like with like across the table.
 
 **Where the 331 sits in the range:** the **310** at 35 ft 7 in is the only Fuzion under the 40 ft mark with a lighter pin (2,870 lb dry) and a much larger 4,496 lb carrying capacity; the **342** (37 ft 7 in, 3,090 lb pin) and **371** (38 ft 11 in, 3,030 lb pin) are the next ones up. The 390 and larger run 40-42 ft with pins of 3,335-3,410 lb. **None of them is under the pin ceiling at full GVWR** - the 310 comes closest at ~3,830 lb estimated.
+
+### Keystone Fuzion 371 (2014) - verified, "a maybe"
+
+Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2014-keystone-rv-fuzion-371-3753766-26), floorplan, **federal certification label** and RVIA plate, 21 September 2026.
+
+| Item | Figure | Source |
+| --- | --- | --- |
+| Price | **$34,990** (list $52,635, discount $17,645) | Listing |
+| Dealer | Bish's RV, **Davenport, IA** - stock 1050438A | Listing |
+| Built | **2 October 2013** | Federal label |
+| VIN | `4YDF37125EF811031`, type **FZ37114** | Federal label |
+| Length | 38 ft 11 in (pin centerline to rear bumper) | Brochure |
+| Exterior height | 13 ft 3 in | Brochure |
+| **GVWR** | **16,500 lb** (7,484 kg) | **Federal label** |
+| GAWR each axle | **7,000 lb** (3,175 kg) x 2 = 14,000 lb | Federal label |
+| Dry weight | 13,140 lb | Brochure |
+| Dry pin | 3,030 lb (**23.1%** of dry weight) | Brochure |
+| Cargo capacity | **2,650 lb** (1,202 kg) with fresh water full / **3,420 lb** (1,551 kg) maximum cargo | **Federal label** - brochure claims 3,360 lb |
+| Tires | **LT235/85R16G** on 16 x 6 rims, **110 psi cold** | Federal label |
+| Pin at GVWR (est.) | **~3,805 lb** | Derived |
+| Garage | **11 ft, enclosed**, 8 ft ramp door, dual opposing sofas, optional ceiling-mounted queen, **half bath in the garage**, washer/dryer prep | Floorplan |
+| Layout | 3 slides, sleeps 9, bath and a half, loft, second entry door, fireplace, 8 cu ft refrigerator | Listing + floorplan |
+
+**Cheaper than the 331 by $5,007** despite being the larger floorplan - $34,990 against $39,997.
+
+**The federal label corrects the brochure on payload.** The label's cargo-carrying capacity is **2,650 lb with the fresh water tanks full**, not the brochure's 3,360 lb; the tire and loading label caps cargo at **3,420 lb**. The difference is the water: 112 gal of fresh weighs about 930 lb. Use **2,650 lb** for planning if you travel with water, **3,420 lb** if you arrive empty.
+
+**Towability.** Pin at full GVWR is about **3,805 lb**, roughly **180 lb over** the truck's ~3,625 lb ceiling - closer than the 331, which runs ~285 lb over. Keeping the gross under about **15,700 lb** brings the pin inside the limit and leaves roughly **2,580 lb** of usable cargo. Truck plus trailer at the trailer's full GVWR is 28,400 lb against the 29,000 lb GCWR.
+
+**Tire note - this one is better equipped than the 331.** The label shows **LT235/85R16 load range G at 110 psi**, which is the upgrade the brochure lists as standard on the 371 ("G Rated Radial Tires with Aluminum Rims - 371 Std"), where other Fuzions run ST235/80R16E. Load range G carries materially more per tire and is the stronger setup for a trailer this heavy.
+
+**Points against.** It is **38 ft 11 in**, the longest candidate recorded so far and only 13 in inside the 40 ft list limit; **13 ft 3 in** tall, 2 in taller than the 331; and the pin still exceeds the ceiling at full rating. The half bath in the garage and the G-rated tires are the standout gains over the 331.
 
