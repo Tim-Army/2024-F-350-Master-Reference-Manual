@@ -413,6 +413,8 @@ These figures come from the owner on 14 September 2026: the [Dutchmen Triton bro
 
 **Rejected by the owner on 14 September 2026: too long** (39 ft 5 in). The details below are kept for reference.
 
+**The rejection was on length alone** (owner, 21 September 2026) - nothing about the layout, the weights or the price. **Worth revisiting:** it was rejected on 14 September under the **35 ft hard limit**, before the 40 ft list existed. At **39 ft 5 in** it is only **2 in longer than the [315PACK12](#forest-river-cherokee-wolf-pack-315pack12-2021---verified-maybe)** at 39 ft 3 in, which is now the owner's favorite. On the 40 ft list the length objection no longer separates them. Its weights also fit: 14,470 lb GVWR, 11,173 lb dry, a 22.1% dry pin share giving roughly **3,200 lb at GVWR**, inside the accepted 3,700 lb - though that is some 545 lb more pin than the 315PACK12 and its 3,297 lb CCC is slightly lower.
+
 **Manufacturer floorplan:** [forestriverinc.com/rvs/wolf-pack/290PACK13/12144](https://forestriverinc.com/rvs/wolf-pack/290PACK13/12144) (2026). Forest River's description differs from the floorplan reading below: it calls the garage a **"13' separate garage" with a sliding glass door**, where the drawing supplied on 14 September 2026 showed a partial wall with flip-up bar tops and **no door**. The likeliest explanation is a **year-to-year change** - the [315PACK12](#forest-river-cherokee-wolf-pack-315pack12-2021---verified-maybe) uses exactly that sliding-door arrangement - so **check the floorplan for the specific model year** before treating either reading as settled.
 
 This is the 2027 floorplan and listing from Camping World, Greenwood, IN (stock #2727124, new, **$62,250** against $108,692 MSRP, about 221 miles away), supplied by the owner on 14 September 2026. The same store also lists a second new 2027 unit, stock #2676768, at **$55,250**. The weights come from RV Wholesalers, which does not state a model year: 14,470 lb GVWR, 11,173 lb dry (this matches the Camping World listing), 2,470 lb hitch and 3,297 lb CCC.
@@ -635,7 +637,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | 2014 Keystone Fuzion 371 | Rejected by the owner 21 September 2026. Pin ~3,805 lb at its 16,500 lb GVWR, ~180 lb over the ceiling; 38 ft 11 in; $34,990 |
 | Forest River Cherokee Black Label 256RRBL | Too expensive. Rejected by the owner 14 September 2026; it had the most weight margin of any candidate (see the section above) |
 | 2026 Alliance Valor 32A10 | Too expensive - $72,995 used (Campers Inn RV of Davenport, IA). Rejected by the owner 14 September 2026 |
-| 2027 Forest River Cherokee Wolf Pack 290PACK13 ([floorplan](https://forestriverinc.com/rvs/wolf-pack/290PACK13/12144)) | Too long - 39 ft 5 in. Rejected by the owner 14 September 2026; it fit on weight (see the section above) |
+| 2027 Forest River Cherokee Wolf Pack 290PACK13 ([floorplan](https://forestriverinc.com/rvs/wolf-pack/290PACK13/12144)) | **Length only** - 39 ft 5 in, rejected under the 35 ft limit before the 40 ft list existed; only 2 in longer than the favored 315PACK12. Rejected by the owner 14 September 2026; it fit on weight (see the section above) |
 
 ## Notes on the current list
 
