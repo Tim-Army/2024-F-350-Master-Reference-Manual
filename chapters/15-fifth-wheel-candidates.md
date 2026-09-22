@@ -510,6 +510,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | ~~Genesis Supreme Rage'n 3016RIKS~~ **REJECTED** | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - **shared**, not enclosed | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | ~2,840 | **~3,504** | ~3,644 | **~121 lb inside the ~3,625 lb estimate, ~196 lb inside the accepted 3,700 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
 | ~~KZ Venom V3411TK~~ **REJECTED** | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
 | ~~Forest River Puma 382THS~~ **REJECTED** | 2022 | **39 ft 10 in** | 12 ft 8 in | 12 ft 1 in cargo area; 7 ft 3 in spring-assist ramp door; wall with door to the living area | 13,900 (**federal label**) | **3,682 derived / 3,821 label maximum** | ~2,000 (est., not published) | ~2,140 | **~2,720 (est.)** | ~2,860 | Fits easily on pin, but **CCC is under the 4,000 lb bar** |
+| Palomino Puma Unleashed 356QLB | 2014 | 36 ft 2 in | 13 ft 2 in | **12 ft cargo bay**, 8 ft ramp door, side entry door, **patio door** to the living space, overhead loft bed | 14,020 | **4,035** | 1,766 listing / **2,557 brochure** | ~1,906 / ~2,697 | **~2,492 or ~3,896** - see the conflict below | ~2,632 / ~4,036 | Cheapest yet at **$16,922**, but the dry pin is disputed |
 | Palomino Puma Unleashed 351THSS **(MAYBE)** | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 brochure / **3,699 on a 2020 unit's label** | 1,845 | ~1,985 | **~2,617** | ~2,757 | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
 | ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | ~3,155 | **~3,910** | ~4,050 | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | ~3,170 | **~3,805** | ~3,945 | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
@@ -942,4 +943,32 @@ Owner-supplied **federal certification label**, floorplan and a [Camping World l
 **Length is the other problem: 39 ft 10 in leaves 2 in inside the 40 ft list limit**, the longest thing ever screened here. Against it, the **12 ft 8 in height is low** - only the Palomino Puma at 12 ft 0 in and the KZ Sportsters are lower - and the **12 ft 1 in garage** is among the longest.
 
 **Price: $31,594**, Camping World, **Mesa, AZ**, stock **2733939C**, in stock (owner-supplied listing, 22 September 2026). That places it between the Palomino Puma Unleashed at $19,995 and the rejected Wolf Pack at $39,995, and $25,901 below the 2023 Nitro 321.
+
+### Palomino Puma Unleashed 356QLB (2014) - screened 22 September 2026
+
+Owner-supplied [San Antonio RVs listing](https://www.sanantoniorvs.com/product/used-2014-palomino-puma-unleashed-356-qlb-3755056-26), floorplan, federal label photo and the 2014 Puma brochure.
+
+| Item | Listing | 2014 brochure | 2016 brochure |
+| --- | --- | --- | --- |
+| GVWR | **14,020 lb** | 13,243 lb | 13,651 lb |
+| Dry weight | **9,935 lb** | 9,208 lb | 9,651 lb |
+| CCC | **4,035 lb** | 4,000 lb | 4,000 lb |
+| **Hitch (dry pin)** | **1,766 lb (17.8%)** | **2,557 lb (27.8%)** | 1,844 lb (19.1%) |
+| Length | 36 ft 2 in | 36 ft 2 in | 35 ft 10 in |
+| Exterior height | 13 ft 2 in | 13 ft 2 in | 13 ft 2 in |
+
+**Price $16,922** - San Antonio RVs, Seguin, TX, stock **P16878**, VIN `4X4FPTM29EP050147`. **The cheapest candidate screened**, below even the 351THSS at $19,995.
+
+**:warning: The dry pin figure is contradictory and it decides whether this trailer is towable.**
+
+- At the **listing's 1,766 lb** (17.8% of dry weight), the pin at GVWR is about **2,492 lb** - the lowest of any candidate, with over 1,200 lb of margin.
+- At the **2014 brochure's 2,557 lb** (27.8%), it is about **3,896 lb** - **over the accepted 3,700 lb ceiling**, and the trailer would have to be loaded below its rating.
+
+The brochure's own arithmetic is internally consistent (2,557 hitch + 6,651 axle = 9,208 dry), so it is not an obvious typo - but **27.8% is far outside the normal 18-24% band**, and both the 2016 brochure (1,844 lb) and this listing (1,766 lb) point to a much lighter pin. **The listing is the more credible figure, but this must be settled on a scale or from the unit's own yellow label before the trailer is taken seriously.**
+
+**CCC 4,035 lb clears the 4,000 lb bar** - the only live candidate besides the Rogue SUT and Nitro 321 to do so on paper. **Verify against the unit's yellow label**: the 2020 351THSS proved a 4,000 lb brochure figure was really 3,699 lb.
+
+**Garage: 12 ft, enclosed.** An 8 ft ramp door (the 356QLB and 359THKS get 8 ft where the rest of the range gets 7 ft), a side entry door into the cargo bay, a **patio door** between garage and living space, and an overhead loft bed above the garage. Tie-downs anchor to 1/4 x 8 in reinforcement plates, and the rear floor is beaver-tailed for loading.
+
+**Other points.** 1 slide, sleeps 6, 100 gal fresh (830 lb), 74 gray, 42 black, 30,000 BTU furnace, 80 in interior height. At **36 ft 2 in** it is shorter than the 351THSS by 10 in and second only to the Rogue SUT among live candidates. **13 ft 2 in** is tall - 14 in more than the 351THSS's 12 ft 0 in.
 
