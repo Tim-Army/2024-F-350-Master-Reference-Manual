@@ -70,7 +70,7 @@ Recorded from the owner's work at **38,926 miles**. **This was done to chase a s
 
 **Tech support:** Lubegard hotline 800-333-5823 or 206-762-5343.
 
-**Old cabin air filter (IMG_1768-1769).** Heavily loaded - grey-brown across the full pleat depth with visible fiber and debris on the inlet face, against the clean white of the replacement. It was due. Replaced with a **Motorcraft FP-92**, which fit. **$36.78 bought over the counter at the Ford dealer**, 21 September 2026. Note that the parts catalog in [chapter 3](03-oem-parts-catalog.md) lists **FP-119** for this truck - that conflict is flagged there and still to be resolved.
+**Old cabin air filter (IMG_1768-1769).** Heavily loaded - grey-brown across the full pleat depth with visible fiber and debris on the inlet face, against the clean white of the replacement. It was due. Replaced with a **Motorcraft FP-92**, which fit. **$36.78 bought over the counter at the Ford dealer**, 21 September 2026. The owner's manual prints **FP-119**, which is the **superseded** number - see [chapter 3](03-oem-parts-catalog.md).
 
 ### Interior sour smell - remediation plan
 
