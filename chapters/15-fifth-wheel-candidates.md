@@ -598,6 +598,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Grand Design Momentum 325G | Over 35 ft (35 ft 6 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
+| 2018 Keystone Impact 3219 | Rejected by the owner 21 September 2026 |
 | Forest River Cherokee Black Label 256RRBL | Too expensive. Rejected by the owner 14 September 2026; it had the most weight margin of any candidate (see the section above) |
 | 2026 Alliance Valor 32A10 | Too expensive - $72,995 used (Campers Inn RV of Davenport, IA). Rejected by the owner 14 September 2026 |
 | 2027 Forest River Cherokee Wolf Pack 290PACK13 | Too long - 39 ft 5 in. Rejected by the owner 14 September 2026; it fit on weight (see the section above) |
