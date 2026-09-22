@@ -90,6 +90,16 @@ It compares with the other two verified enclosed garages like this:
 
 The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ gives about 775 lb more pin margin and, going by the drawings, probably more clear garage floor. A tape measure on each settles the second point. The Wolf Pack has by far the longest clear garage, about 12 ft, but it is 40 ft 7 in long, carries the least cargo of the three, and is used-only.
 
+#### Rogue SUT 323SUT - gooseneck conversion, 21 September 2026
+
+**Almost certainly convertible, and it is the one candidate where the conversion would buy real margin.** The Rogue SUT is a Forest River product on a Lippert frame, and the Reese Goose Box is the conversion Lippert approves (see the [Wolf Pack entry](#forest-river-cherokee-wolf-pack-315pack12-2021---verified-maybe) and Lippert **CCD-0004318**). The Goose Box fits Lippert **1621, 1716, 0719, Rhino** and **Fabex PB 600** pin boxes, with the Gen 3 (94920) adding Lippert **1116, 0115** and **RBW 7019/7028**. **Read the stamped model number on the unit's pin box to confirm** - Forest River is not a guarantee of any particular pin box.
+
+**Why it matters more here than on the Puma.** The Rogue's pin is the tight one: **2,090 lb dry on a 9,613 lb UVW is 21.7%**, which scales to roughly **3,050 lb at its 14,090 lb GVWR** - inside the ~3,625 lb ceiling, but with only about **575 lb of margin**, against ~970 lb for the Wolf Pack and ~1,008 lb for the Puma. The Goose Box would **add about 120-150 lb** of its own (212 lb against a 60-90 lb stock pin box), cutting that margin to roughly **425-455 lb**. So conversion **costs** pin margin on this trailer rather than saving any. Rating is still not the constraint: 20,000 lb gross and 4,000 lb pin.
+
+**Cost.** About **$1,800** for a Gen 3 Goose Box, against **$1,399** for the B&W Companion this truck would otherwise need - so roughly **$400 more than towing it as built**, same as the Puma. Worth it only if gooseneck coupling is wanted for itself.
+
+**One genuine advantage for this trailer specifically:** the Rogue SUT is **current production**, so a conversion could be ordered and fitted by the selling dealer as part of the deal rather than bought afterwards - and a new unit's pin box type is easy to confirm before purchase.
+
 #### Rogue SUT 323SUT - units for sale, 14 September 2026
 
 These are the units found in the lower 48 on 14 September 2026: seven on RV Trader under a keyword search for "323SUT", plus one on a dealer's own site. Listings change daily, so confirm availability before travelling. Distances are from the RV Trader search (ZIP 62222).
