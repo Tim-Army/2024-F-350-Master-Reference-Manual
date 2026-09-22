@@ -510,7 +510,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | ~~Genesis Supreme Rage'n 3016RIKS~~ **REJECTED** | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - **shared**, not enclosed | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | ~2,840 | **~3,504** | ~3,644 | **~121 lb inside the ~3,625 lb estimate, ~196 lb inside the accepted 3,700 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
 | ~~KZ Venom V3411TK~~ **REJECTED** | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
 | ~~Forest River Puma 382THS~~ **REJECTED** | 2022 | **39 ft 10 in** | 12 ft 8 in | 12 ft 1 in cargo area; 7 ft 3 in spring-assist ramp door; wall with door to the living area | 13,900 (**federal label**) | **3,682 derived / 3,821 label maximum** | ~2,000 (est., not published) | ~2,140 | **~2,720 (est.)** | ~2,860 | Fits easily on pin, but **CCC is under the 4,000 lb bar** |
-| Palomino Puma Unleashed 351THSS **(MAYBE)** | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | ~1,985 | **~2,617** | ~2,757 | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
+| Palomino Puma Unleashed 351THSS **(MAYBE)** | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 brochure / **3,699 on a 2020 unit's label** | 1,845 | ~1,985 | **~2,617** | ~2,757 | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
 | ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | ~3,155 | **~3,910** | ~4,050 | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | ~3,170 | **~3,805** | ~3,945 | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
 | **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | not published (Forest River: TBD) | 11 ft (~8½ ft clear) | 14,090 | 4,477 (Kunes unit ~4,161) | 2,090 | ~2,230 | ~3,060 | ~3,200 | Fits. Kunes unit label: 9,929 lb dry |
@@ -750,7 +750,26 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2016-palom
 
 **Trade-offs to weigh.** Only **1 slide** (the Fuzions have 3), so the living space is narrower. **GVWR 13,560 lb** means less total carrying ability than the Fuzions even though more of it is usable. Fresh water is a large **100 gal**, which is 830 lb when full - budget that inside the 4,000 lb CCC. Still **over the 35 ft hard limit** at 37 ft, so it lives on the 40 ft list.
 
-**Brochure note on CCC:** Palomino defines CCC as GVWR minus UVW and says it must cover fresh water at 8.3 lb/gal; the brochure adds that every Forest River unit is weighed before shipping and carries a label with the actual UVW and CCC. **Check that label on the unit** - it supersedes the 4,000 lb brochure figure, exactly as the Fuzion 371's label corrected its brochure.
+**Brochure note on CCC:** Palomino defines CCC as GVWR minus UVW and says it must cover fresh water at 8.3 lb/gal; the brochure adds that every Forest River unit is weighed before shipping and carries a label with the actual UVW and CCC.
+
+#### The label does supersede the brochure - measured on a 2020 unit, 22 September 2026
+
+Owner-supplied labels from a **2020 Puma Unleashed 351THSS** (VIN `4X4FPTL28LP080691`, type **PTF351THSS**, built **9 April 2019**):
+
+| Item | Label figure | Brochure figure |
+| --- | --- | --- |
+| GVWR | **13,560 lb** (6,151 kg) | 13,560 lb - matches |
+| GAWR each axle | **6,000 lb** x 2 = 12,000 lb | axle weight 7,665 lb |
+| Dry weight | **9,802 lb** (unit barcode label) | UVW 9,560 lb |
+| **Cargo carrying capacity** | **3,699 lb** (1,678 kg) | **4,000 lb** |
+| Full fresh water | **863 lb** (391 kg) | 100 gal |
+| Tires | ST235/80R16 **E**, 16 x 6.0J, **80 psi** | 16 in |
+
+**This unit's real CCC is 3,699 lb, not 4,000 lb - 301 lb short, and under the 4,000 lb bar.** The dry weight is also **242 lb heavier** than the brochure's UVW. Same trap as the Fuzion 371 and the Genesis Supreme: **the brochure figure is an estimated average for a standard build, and options add weight**. **The 2016 unit at $19,995 has not been label-checked** - treat its 4,000 lb CCC as unconfirmed until its own yellow label is read, and expect it to come in lower.
+
+**Pin is unaffected and still good:** the label gives no hitch weight, but on this unit's 9,802 lb dry weight the brochure's 1,845 lb pin is an 18.8% share, which still scales to roughly **2,600 lb at GVWR** - the lowest of any candidate.
+
+**Water is a smaller problem here than elsewhere:** 863 lb full, against the Genesis Supreme's 1,328 lb.
 
 ### Forest River Cherokee Wolf Pack 315PACK12 (2021) - verified, REJECTED 22 September 2026 (CCC 3,274 lb)
 
