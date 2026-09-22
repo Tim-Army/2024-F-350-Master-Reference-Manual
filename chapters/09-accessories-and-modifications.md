@@ -412,6 +412,10 @@ Noted 21 September 2026. **Which trailer is bought changes what a bed cover cost
 | **Gooseneck** (a trailer already converted, such as the [Wolf Pack 315PACK12](15-fifth-wheel-candidates.md)) | A **ball in the centre pad**, which flips over or lifts out, leaving a flat bed | **Any ordinary cover fits.** No cutouts, no clearance problem, nothing to work around |
 | **Conventional fifth wheel** with the [B&W Companion](#immediate) left in place | A head roughly 2 ft tall over the rear axle | Needs a cover designed to work around it, or none at all - the **~$1,600** case |
 
+**Bed access is the bigger argument, ahead of the money** (owner, 21 September 2026). With a gooseneck, **the bed is usable the moment the trailer is unhooked** - the ball flips or lifts out and the floor is flat. With a fifth wheel, the Companion is in the way until it is carried out of the truck.
+
+**What removing the Companion actually involves**, from B&W's own instructions (REF-030): *"remove the saddle lock pins, grab the saddle handles, and lift to remove the coupler from the pivot arms. To remove the Companion base, remove the latch pins from each side of the base and turn the handles. Carefully lift and position the base out of the attachment points."* That is **two separate lifts** - the coupler off the pivot arms, then the base out of the pucks - each awkward, over a bed side, at the back of an 8 ft bed on a truck this tall. It is a two-person job in practice, and it has to be somewhere to live once it is out. **Every unhook, and again every hitch-up.**
+
 **The saving is real but conditional.** The Companion is removable, so a fifth-wheel truck *can* run an ordinary cover - but only by lifting a heavy head in and out for every trip, which in practice means it lives in the bed and the cover has to accommodate it. A gooseneck ball does not create that problem in the first place.
 
 **Running the numbers both ways**, using the owner's ~$1,600 cover figure:
