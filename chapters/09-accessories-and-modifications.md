@@ -146,7 +146,7 @@ Items with an open question that has to be settled before they can be ordered. T
 | [WeatherTech LampGard](https://www.weathertech.com/lampgard-ford-f-250f-350f-450f-550.html?year=2024&wt_779-1195_superdutyheadlighttype=779-9799_LEDHeadlights&wt_settype=HeadlightandFogLightKit&ymmSearch=true) | **$79.95** | Protection | Headlight and fog light kit, configured for **LED headlights**. :warning: **The window sticker does not confirm LED** - it lists only auto high beam and autolamp. Verify the headlamp type before ordering; WeatherTech configures this kit differently for reflector versus LED |
 | [Diesel Current 23+ Super Duty integration module harness](https://dieselcurrent.com/products/23-superduty-integration-module-harness) | **$45.00** - $125.00 | Electronics | **Which gauge and length?** Supplies a **constant 12V feed behind the lower glovebox** with no splicing into the truck's wiring - the clean way to power the [VIOFO dash cam](#short-term), the Haloview BT7 monitor, USB ports or a GPS. Ten variants by wire gauge, length and current: from `16ga/16ga 3ft (10a/10a)` at $45.00, through `16ga 3ft/12ga 13ft (10a/25a)` at $70.00, to `12ga x2/12ga x2 13ft (50a/50a)` at $125.00. The 13 ft runs reach beyond the dash. **Add up the expected load first**, then pick the variant - the linked one is the 10a/10a |
 | [VIOFO SSD data connection cable](https://www.viofo.com/products/1-8m-2-5m-ssd-hard-drive-data-connection-cable-for-viofo-a329-a329s-series) (1.8 m / 2.5 m) | **$16.99** | Electronics and recording | Only needed if recording to an external SSD instead of microSD |
-| Bed cover |  | Storage | Owner still evaluating options. **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware |
+| Bed cover | ~**$1,600** plus tax and fees (owner's figure, 21 Sep 2026) | Storage | Owner still evaluating options. **8-foot bed compatibility needs vendor confirmation**, and it must clear the gooseneck/fifth-wheel hardware. **The trailer choice drives this cost** - see the note below |
 | [ABUS Granit 37RK/60 padlock](https://www.abususa.com/products/granit%E2%84%A2-37rk-60-high-security-padlock) | **$159.19** | Maintenance and security | Page also showed $176.88, likely a compare-at price - confirm which applies |
 | **Phase total** | **$929.98** |  | *7 items priced* |
 
@@ -402,3 +402,25 @@ The steps remain here in case a future tire choice does change size (REF-010):
 For each installed item, capture manufacturer, part number, vendor, date, cost, photos, torque/wiring instructions, installation notes, warranty, and removal process.
 
 See [logs/accessory-log.md](../logs/accessory-log.md) for the running record.
+
+### Bed cover and the hitch decision
+
+Noted 21 September 2026. **Which trailer is bought changes what a bed cover costs**, because a fifth-wheel head standing in the bed is what forces an expensive cover.
+
+| Trailer type | What sits in the bed | Bed cover consequence |
+| --- | --- | --- |
+| **Gooseneck** (a trailer already converted, such as the [Wolf Pack 315PACK12](15-fifth-wheel-candidates.md)) | A **ball in the centre pad**, which flips over or lifts out, leaving a flat bed | **Any ordinary cover fits.** No cutouts, no clearance problem, nothing to work around |
+| **Conventional fifth wheel** with the [B&W Companion](#immediate) left in place | A head roughly 2 ft tall over the rear axle | Needs a cover designed to work around it, or none at all - the **~$1,600** case |
+
+**The saving is real but conditional.** The Companion is removable, so a fifth-wheel truck *can* run an ordinary cover - but only by lifting a heavy head in and out for every trip, which in practice means it lives in the bed and the cover has to accommodate it. A gooseneck ball does not create that problem in the first place.
+
+**Running the numbers both ways**, using the owner's ~$1,600 cover figure:
+
+| Path | Hitch | Bed cover | Total |
+| --- | --- | --- | --- |
+| Gooseneck trailer, already converted | **$0** - the [factory gooseneck kit](10-fifth-wheel-and-towing.md) is on the truck | ordinary cover, well under $1,600 | **lowest** |
+| Fifth wheel, tow as built | $1,399 Companion | ~$1,600 specialised cover | ~$2,999 |
+| Fifth wheel, convert to gooseneck | ~$1,800 Goose Box | ordinary cover | ~$1,800 + cover |
+
+**So a gooseneck conversion pays for itself once the bed cover is counted** - roughly $1,800 for the Goose Box against $1,399 + $1,600 = $2,999 for hitch plus specialised cover. That reverses the earlier conclusion that converting the [Puma](15-fifth-wheel-candidates.md) or the [Rogue SUT](15-fifth-wheel-candidates.md) was a preference purchase rather than an economic one. **Get a real quote for an ordinary 8 ft bed cover before relying on this**, since the comparison rests on what a cover costs without the hitch in the way.
+
