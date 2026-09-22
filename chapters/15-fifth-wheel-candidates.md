@@ -482,6 +482,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | Trailer | Years | Length | Height | Enclosed garage | GVWR | CCC | Dry pin | Pin at GVWR (est.) | Weight note |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~2,275 | Fits comfortably |
+| Forest River Cherokee Wolf Pack 315PACK12 | 2021 | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | **~2,655** | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
 | Palomino Puma Unleashed 351THSS | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | **~2,617** | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
 | ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | **~3,910** | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | **~3,805** | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
@@ -715,4 +716,35 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2016-palom
 **Trade-offs to weigh.** Only **1 slide** (the Fuzions have 3), so the living space is narrower. **GVWR 13,560 lb** means less total carrying ability than the Fuzions even though more of it is usable. Fresh water is a large **100 gal**, which is 830 lb when full - budget that inside the 4,000 lb CCC. Still **over the 35 ft hard limit** at 37 ft, so it lives on the 40 ft list.
 
 **Brochure note on CCC:** Palomino defines CCC as GVWR minus UVW and says it must cover fresh water at 8.3 lb/gal; the brochure adds that every Forest River unit is weighed before shipping and carries a label with the actual UVW and CCC. **Check that label on the unit** - it supersedes the 4,000 lb brochure figure, exactly as the Fuzion 371's label corrected its brochure.
+
+### Forest River Cherokee Wolf Pack 315PACK12 (2021) - verified
+
+Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2021-forest-river-rv-cherokee-wolf-pack-315pack12-3786475-26), floorplan, **federal certification label** and unit decal, 21 September 2026. The floorplan was previously verified on 14 September 2026 from a different unit; the garage is a solid wall with a sliding door, confirmed by the owner from an interior photo.
+
+| Item | Figure | Source |
+| --- | --- | --- |
+| Price | **$39,995** (list $54,785) | Listing |
+| Dealer | Bish's RV, **Cheyenne, WY** - stock 100054A | Listing |
+| VIN | `5ZT3CTXB6M1218164`, type **CKF315PACK12** | Federal label |
+| **GVWR** | **14,036 lb** (6,367 kg) | **Federal label** |
+| GAWR each axle | **6,000 lb** (2,722 kg) x 2 = 12,000 lb | Federal label |
+| Tires | **ST235/80R16 E** on 16 x 6.0JJ rims, **80 psi cold** | Federal label |
+| Length | 39 ft 3 in - decal confirms **"Overall Unit Length 39' 3\""** | Brochure + unit decal |
+| Exterior height | 13 ft 5 in | Brochure |
+| UVW (dry) | 10,762 lb | Brochure |
+| Hitch (dry pin) | **2,036 lb** - **18.9%** of UVW | Brochure |
+| CCC | 3,274 lb | Brochure |
+| Axle weight | 8,726 lb | Brochure |
+| **Pin at GVWR (est.)** | **~2,655 lb - about 970 lb under the ~3,625 lb ceiling** | Derived |
+| Garage | **12 ft, enclosed** - solid wall with sliding door, 96 x 96 in ramp door "party patio" with railing system, industrial rubber garage floor, 5,000 BTU fireplace | Floorplan + brochure |
+| Layout | 1 slide, sleeps 8, Wolf Pack king bed 67 x 74, Happijac power bed over sofa/bed, W/D prep, outside kitchen, 21 ft power awning, 30 gal fuel station, generator prep | Listing + brochure |
+| Tanks | Fresh **100 gal**, gray 38, black 38 | Brochure |
+
+**Second candidate that clears the pin limit at full GVWR.** At **~2,655 lb** it has roughly **970 lb of margin**, and its **18.9% dry pin share is the lowest of anything recorded in this chapter** - marginally better than the Puma's 19.3%. Truck plus trailer at full rating is 25,936 lb against the 29,000 lb GCWR.
+
+**Platinum package**, per the decal: extended season with heated and enclosed insulated tanks, underbelly armor, and the package's 100 gal fresh capacity, second 15,000 BTU bedroom A/C, aluminum wheels, in-cab TPMS, solar prep, washer/dryer prep and the enclosed-garage fireplace and rubber floor.
+
+**Watch the axle rating.** GAWR is **6,000 lb per axle, 12,000 lb total**, under a 14,036 lb GVWR - so the pin must carry at least 2,036 lb for the trailer to be within its own axle ratings, which the numbers do comfortably. Tires are **ST235/80R16 load range E at 80 psi**, a step below the load range G on the rejected Fuzion 371.
+
+**Points against.** At **39 ft 3 in** it is the longest candidate still live - just 9 in inside the 40 ft limit - and at **13 ft 5 in** the tallest of anything recorded. It is **$39,995**, twice the Puma's $19,995, and also has only **1 slide**. **Previously rejected on 14 September 2026 under the 35 ft hard limit**; it returns here on the 40 ft list.
 
