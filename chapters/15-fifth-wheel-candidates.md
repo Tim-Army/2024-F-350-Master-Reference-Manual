@@ -625,7 +625,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | KZ Sportster 331TH13 | Over 35 ft (38 ft 6 in). Rejected 14 September 2026 under the length limit |
 | 2021 Forest River Stealth SA3019G | Over 35 ft (36 ft 5 in). Rejected 14 September 2026 under the length limit |
 | Keystone Raptor Carbon 310 | Over 35 ft (35 ft 11 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
-| Forest River XLR Nitro 321 | Over 35 ft (37 ft 10 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
+| Forest River XLR Nitro 321 | Over 35 ft (37 ft 10 in); also marginal on weight. Rejected 14 September 2026 under the length limit. **Federal label confirmed 21 September 2026** - eligible on the 40 ft list if the owner reinstates it |
 | Forest River Cherokee Wolf Pack 315PACK12 | Over 35 ft (39 ft 3 in-40 ft 7 in). Rejected 14 September 2026 under the length limit |
 | Grand Design Momentum 325G | Over 35 ft (35 ft 6 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
@@ -866,4 +866,27 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2017-kz-ve
 **Gooseneck conversion - check the pin box first.** KZ fits a **Roto-Flex hitch pin** as standard on the Venom (a Trail Air Flex Air pin box was optional). The Reese Goose Box lists fitment for Lippert **1621, 1716, 0719, Rhino** and **Fabex PB 600**, plus Lippert **1116, 0115** and **RBW 7019/7028** on the Gen 3. **A Roto-Flex is not on those lists**, so a conversion may need a different pin box first or may not be straightforward at all. Confirm before assuming the gooseneck route is open on this one.
 
 **Points against:** 2,700 lb CCC; **13 ft 4 in** tall; 37 ft 8 in, so over the 35 ft hard limit; and at **$39,995** it is priced with the Wolf Pack while being eight years older.
+
+### Forest River XLR Nitro 321 (2021) - federal label confirmed, 21 September 2026
+
+Owner-supplied **federal certification label** for a 2021 unit.
+
+| Item | Figure | Source |
+| --- | --- | --- |
+| VIN | `4X4FXLH24MF168251`, type **XLF321**, **2021** model year | Federal label |
+| **GVWR** | **16,585 lb** (7,523 kg) | **Federal label** - matches the brochure figure already recorded |
+| GAWR each axle | **7,000 lb** (3,175 kg) x 2 = 14,000 lb | Federal label |
+| Tires | **ST235/85R16 F** on 16 x 6.0J rims, **95 psi cold**, front, rear and spare | Federal label |
+| Dry weight (derived) | ~12,234 lb (GVWR less the 4,351 lb CCC) | Derived |
+| Dry pin | 2,585 lb - **21.1%** | Brochure |
+| Pin at GVWR (est.) | **~3,500 lb** | Derived |
+| With a Goose Box | **~3,640 lb** - inside the accepted 3,700 lb by ~60 lb | Derived |
+
+**Status: rejected 14 September 2026 under the 35 ft hard limit, at 37 ft 10 in.** Nothing else disqualified it. On the 40 ft list it would be eligible, and it is **1 ft 5 in shorter than the favored [315PACK12](#forest-river-cherokee-wolf-pack-315pack12-2021---verified-maybe)**.
+
+**Where it stands on the numbers.** Its **4,351 lb CCC** is over 1,000 lb better than the 315PACK12's 3,274 lb, and one of only four CCC-4,000-plus trailers that also fit the pin ceiling. The cost is pin weight: **~3,500 lb against the 315PACK12's ~2,655 lb**, so it uses most of the allowance and leaves the bed light. A gooseneck conversion is possible but tight at ~3,640 lb.
+
+**Load range F tires at 95 psi** sit between the load range E on the 315PACK12 and the G-rated sets on the rejected Fuzion 371 and Genesis Supreme.
+
+**The garage is the open question.** It is recorded as **11 ft with roughly 8 ft usable** because a walkway runs through it - **not verified against a floorplan**. Confirm before treating it as an 11 ft enclosed garage.
 
