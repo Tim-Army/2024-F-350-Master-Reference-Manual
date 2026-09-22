@@ -640,3 +640,9 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2014-keyst
 
 **The 13 ft 1 in height is the tallest on the 40 ft list** - worth noting for garages, canopies and older bridges.
 
+**Confirmed against the Keystone Fuzion brochure (11.2013), fifth-wheel specifications table.** Every listing figure checks out at the factory source: shipping weight **12,725**, carrying capacity **3,775**, hitch weight **3,015**, exterior length **37 ft 7 in**, exterior height **13 ft 1 in**. So **GVWR 16,500 lb is confirmed** as shipping plus carrying, not an estimate. Also from the brochure: fresh 112 gal, gray 86, waste 43, LPG 60 lb, tires **ST235/80R16E**, **7,000 lb Dexter EZ Lube axles** (14,000 lb of axle under a 16,500 lb GVWR - the pin carries the rest), 12 x 2 in electric brakes on every wheel, dual ducted 15,000 BTU A/C with a heat strip in the garage, **5K Inter-Lock tie-downs welded into the frame** (5,000 lb each), 3,000 lb spring-assisted rear ramp rated for the load, Tuff-ply garage floor with 14 in diamond plate, 102 in wide body, 10 or 12 in steel twin I-beam frame, and a ramp that converts to a patio.
+
+**Watch the length definition.** Keystone defines exterior length as *"the distance from the centerline of hitch pin/coupler to rear bumper"* - so **37 ft 7 in excludes the nose overhang ahead of the pin**. Bumper-to-bumper is longer than the published number, which matters for a 40 ft site limit. Most manufacturers measure the same way, so compare like with like across the table.
+
+**Where the 331 sits in the range:** the **310** at 35 ft 7 in is the only Fuzion under the 40 ft mark with a lighter pin (2,870 lb dry) and a much larger 4,496 lb carrying capacity; the **342** (37 ft 7 in, 3,090 lb pin) and **371** (38 ft 11 in, 3,030 lb pin) are the next ones up. The 390 and larger run 40-42 ft with pins of 3,335-3,410 lb. **None of them is under the pin ceiling at full GVWR** - the 310 comes closest at ~3,830 lb estimated.
+
