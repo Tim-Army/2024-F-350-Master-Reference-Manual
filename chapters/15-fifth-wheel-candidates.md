@@ -505,6 +505,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~1,740 | ~2,275 | ~2,415 | Fits comfortably |
 | Forest River Cherokee Wolf Pack 315PACK12 **(MAYBE)** | 2021 | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | ~2,176 | **~2,655** | ~2,795 | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
 | ~~Genesis Supreme Rage'n 3016RIKS~~ **REJECTED** | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - **shared**, not enclosed | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | ~2,840 | **~3,504** | ~3,644 | **~121 lb inside the ~3,625 lb estimate, ~196 lb inside the accepted 3,700 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
+| KZ Venom V3411TK | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
 | Palomino Puma Unleashed 351THSS **(MAYBE)** | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | ~1,985 | **~2,617** | ~2,757 | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
 | ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | ~3,155 | **~3,910** | ~4,050 | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | ~3,170 | **~3,805** | ~3,945 | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
@@ -829,4 +830,36 @@ Owner-supplied **federal certification label** and specification list.
 **A gooseneck conversion is back on the table at the owner's 3,700 lb ceiling** (set 21 September 2026 - see [chapter 10](10-fifth-wheel-and-towing.md)). The Goose Box weighs **212 lb** against roughly 60-90 lb for the stock pin box, adding about **120-150 lb to the pin**: **~3,504 lb becomes ~3,625-3,655 lb**. That is over the ~3,625 lb planning estimate but **inside the accepted 3,700 lb**, with only about **45-75 lb to spare** and the bed kept light. It remains the tightest combination in this chapter by a wide margin, and it assumes the fresh tank does not load the pin further. The Goose Box weighs **212 lb** against roughly 60-90 lb for the stock pin box it replaces, so it **adds about 120-150 lb to the pin**. On a trailer with only ~121 lb of margin that is the whole cushion and then some: **~3,504 lb becomes ~3,625-3,655 lb, at or past the ceiling before a single item is loaded.** The conversion helps bed access and cover cost ([chapter 9](09-accessories-and-modifications.md)), but it spends pin capacity - and this is the one candidate with none to spend. **On this trailer, tow it as a fifth wheel or not at all.**
 
 **Still needed:** the exterior height; the exterior height; the price and dealer; and the fresh-tank location.
+
+### KZ Venom V3411TK (2017) - verified
+
+Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2017-kz-venom-3411tk-3698631-26), floorplan and the KZ standard-features list, 21 September 2026.
+
+| Item | Figure |
+| --- | --- |
+| Price | **$39,995** (list $54,995, discount $15,000) |
+| Dealer | Bish's RV, **Fairfield, CA** - stock 1046048A |
+| VIN | `4EZFH3426H6098958` |
+| Length / width / height | 37 ft 8 in / 8 ft 5 in / **13 ft 4 in** (interior 8 ft 6 in) |
+| GVWR | 16,000 lb |
+| Dry weight | 13,300 lb |
+| Hitch (dry pin) | **2,520 lb** - **19.0%** of dry weight |
+| CCC | **2,700 lb** |
+| Axle weight | 10,780 lb on **7,000 lb Dexter axles** |
+| **Pin at GVWR (est.)** | **~3,032 lb** - about **593 lb** under the accepted 3,700 lb |
+| With a Goose Box | ~3,172 lb - still ~528 lb under |
+| Garage | **11 ft, enclosed** - **garage entry door** and roll-down screen wall standard (3-season patio door optional), 96 in cargo door, half bath, 40 x 96 in loft, **E-track tie-down system**, built-in dovetail, 24 in diamond-plate wall guards, garage TV and speakers |
+| Layout | **3 slides**, sleeps 7, bath and a half, theater seating for three, 60 x 80 queen (optional king), wardrobe slide, fireplace, W/D prep |
+| Tanks | Fresh 100 gal, gray 77, black 77, **40 gal fuel station with electric pump**, plus a **dedicated 30 gal generator fuel tank** |
+| Tires | 16 in **E-range** on 8-lug aluminum rims; **G-rated Goodyear G-14 was a factory option** - check which this unit has |
+
+**Towable with room.** The **19.0% dry pin share** is in the same class as the Puma and Wolf Pack, so despite a 16,000 lb GVWR - the heaviest of the live candidates - the pin lands near **3,032 lb**. It also survives a gooseneck conversion at **~3,172 lb**.
+
+**The catch is cargo capacity: 2,700 lb, the lowest of anything still live** (Puma 4,000, Wolf Pack 3,274). Fill the 100 gal fresh tank and 830 lb of it is gone, leaving about 1,870 lb for everything else including whatever goes in an 11 ft garage. **This trailer is heavy before you load it** - 13,300 lb dry against the Puma's 9,560 lb.
+
+**Well equipped for the money:** 3 slides, R38 insulation with heated and enclosed tanks, 12 in powder-coated steel I-beam with 160 sq ft of pass-through storage, Lippert hydraulic slides, frameless windows, 50 amp service, MyRV control system, generator prep with its own fuel tank, and an E-track garage floor - a better tie-down system than bolt-in D-rings.
+
+**Gooseneck conversion - check the pin box first.** KZ fits a **Roto-Flex hitch pin** as standard on the Venom (a Trail Air Flex Air pin box was optional). The Reese Goose Box lists fitment for Lippert **1621, 1716, 0719, Rhino** and **Fabex PB 600**, plus Lippert **1116, 0115** and **RBW 7019/7028** on the Gen 3. **A Roto-Flex is not on those lists**, so a conversion may need a different pin box first or may not be straightforward at all. Confirm before assuming the gooseneck route is open on this one.
+
+**Points against:** 2,700 lb CCC; **13 ft 4 in** tall; 37 ft 8 in, so over the 35 ft hard limit; and at **$39,995** it is priced with the Wolf Pack while being eight years older.
 
