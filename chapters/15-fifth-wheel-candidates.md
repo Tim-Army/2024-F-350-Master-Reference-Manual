@@ -483,8 +483,8 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~2,275 | Fits comfortably |
 | Palomino Puma Unleashed 351THSS | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | **~2,617** | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
-| Keystone Fuzion 331 Chrome | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | **~3,910** | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
-| Keystone Fuzion 371 | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | **~3,805** | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
+| ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | **~3,910** | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
+| ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | **~3,805** | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
 | **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | not published (Forest River: TBD) | 11 ft (~8½ ft clear) | 14,090 | 4,477 (Kunes unit ~4,161) | 2,090 | ~3,060 | Fits. Kunes unit label: 9,929 lb dry |
 | Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 13 ft 3 in | 10 ft | 16,765 | 4,360 | 2,765 | ~3,740 | Over the ceiling at GVWR |
 | Prime Time Spartan 300 3210 | ~2017-2018 | 36 ft 2 in | 13 ft 2 in | 10 ft | 16,616 | 4,885 | 2,612 | ~3,700 | Over the ceiling at GVWR |
@@ -602,6 +602,8 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
 | 2018 Keystone Impact 3219 | Rejected by the owner 21 September 2026 |
+| 2014 Keystone Fuzion 331 Chrome | Rejected by the owner 21 September 2026. Pin ~3,910 lb at its 16,500 lb GVWR, ~285 lb over the ceiling; 37 ft 7 in; $39,997 |
+| 2014 Keystone Fuzion 371 | Rejected by the owner 21 September 2026. Pin ~3,805 lb at its 16,500 lb GVWR, ~180 lb over the ceiling; 38 ft 11 in; $34,990 |
 | Forest River Cherokee Black Label 256RRBL | Too expensive. Rejected by the owner 14 September 2026; it had the most weight margin of any candidate (see the section above) |
 | 2026 Alliance Valor 32A10 | Too expensive - $72,995 used (Campers Inn RV of Davenport, IA). Rejected by the owner 14 September 2026 |
 | 2027 Forest River Cherokee Wolf Pack 290PACK13 | Too long - 39 ft 5 in. Rejected by the owner 14 September 2026; it fit on weight (see the section above) |
@@ -618,7 +620,7 @@ Every model is to be verified against the **manufacturer brochure and floorplan 
 
 Record for each candidate: model year, GVWR, dry weight, dry pin weight, garage length and door dimensions, and the brochure the figures came from.
 
-### Keystone Fuzion 331 Chrome (2014) - verified
+### Keystone Fuzion 331 Chrome (2014) - verified, REJECTED 21 September 2026
 
 Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2014-keystone-rv-fuzion-331-chrome-3589523-26), floorplan and pin-box photo, 21 September 2026.
 
@@ -648,7 +650,7 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2014-keyst
 
 **Where the 331 sits in the range:** the **310** at 35 ft 7 in is the only Fuzion under the 40 ft mark with a lighter pin (2,870 lb dry) and a much larger 4,496 lb carrying capacity; the **342** (37 ft 7 in, 3,090 lb pin) and **371** (38 ft 11 in, 3,030 lb pin) are the next ones up. The 390 and larger run 40-42 ft with pins of 3,335-3,410 lb. **None of them is under the pin ceiling at full GVWR** - the 310 comes closest at ~3,830 lb estimated.
 
-### Keystone Fuzion 371 (2014) - verified, "a maybe"
+### Keystone Fuzion 371 (2014) - verified, REJECTED 21 September 2026
 
 Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2014-keystone-rv-fuzion-371-3753766-26), floorplan, **federal certification label** and RVIA plate, 21 September 2026.
 
