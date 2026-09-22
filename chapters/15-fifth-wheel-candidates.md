@@ -970,6 +970,13 @@ Owner-supplied [San Antonio RVs listing](https://www.sanantoniorvs.com/product/u
 
 **Treat this one as unresolved and potentially untowable until measured.** If the pin really is 27.8%, a loaded 356QLB puts roughly **3,896 lb** on the hitch - about 196 lb over the accepted ceiling - and it would have to run below its rating. **The only things that settle it are the unit's own federal and yellow labels, or a scale ticket.** The federal label photo supplied is too blurred to read its GVWR; a clear photograph of it and of the yellow cargo-capacity label would resolve both the pin question and the CCC question at once.
 
+**What owners say - it corroborates the heavy pin.** Searching owner forums on 22 September 2026 turned up no published scale ticket for a 356QLB, but two owner reports that both point the wrong way:
+
+- An owner of a 356 described it as having a **"very heavy pin weight"**, and specifically warned that **adding a gooseneck adapter would put a lot of stress on the frame** because of it. That is independent support for the 2014 brochure's 2,557 lb rather than the listing's 1,766 lb - and it also argues against the gooseneck conversion that makes the other candidates attractive.
+- On dry weight, **the literature says about 9,200 lb while one owner reported over 9,600 lb empty** - the usual direction of travel, and consistent with the listing's 9,935 lb being closer to reality than the brochure's 9,208 lb.
+
+**Read together, the likeliest picture is a trailer that is heavier than its 2014 brochure everywhere** - heavier dry, heavier pin - which is the worst combination for this truck. Nothing here is a measurement, so it does not settle the question, but it removes the comfort of assuming the listing's low pin figure is right.
+
 **CCC 4,035 lb clears the 4,000 lb bar** - the only live candidate besides the Rogue SUT and Nitro 321 to do so on paper. **Verify against the unit's yellow label**: the 2020 351THSS proved a 4,000 lb brochure figure was really 3,699 lb.
 
 **Garage: 12 ft, enclosed.** An 8 ft ramp door (the 356QLB and 359THKS get 8 ft where the rest of the range gets 7 ft), a side entry door into the cargo bay, a **patio door** between garage and living space, and an overhead loft bed above the garage. Tie-downs anchor to 1/4 x 8 in reinforcement plates, and the rear floor is beaver-tailed for loading.
