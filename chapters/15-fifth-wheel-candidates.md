@@ -482,6 +482,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | Trailer | Years | Length | Height | Enclosed garage | GVWR | CCC | Dry pin | Pin at GVWR (est.) | Weight note |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~2,275 | Fits comfortably |
+| Palomino Puma Unleashed 351THSS | 2016 | 37 ft | 12 ft 0 in (with A/C) | 11 ft 8 in cargo area; 7 ft 5 in ramp door; **permanent wall** to the living quarters, side man door | 13,560 | 4,000 | 1,845 | **~2,617** | **Fits comfortably - about 1,000 lb of pin to spare.** 19.3% dry pin share, the lowest on this table |
 | Keystone Fuzion 331 Chrome | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | **~3,910** | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | Keystone Fuzion 371 | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | **~3,805** | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
 | **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | not published (Forest River: TBD) | 11 ft (~8½ ft clear) | 14,090 | 4,477 (Kunes unit ~4,161) | 2,090 | ~3,060 | Fits. Kunes unit label: 9,929 lb dry |
@@ -678,4 +679,38 @@ Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2014-keyst
 **Tire note - this one is better equipped than the 331.** The label shows **LT235/85R16 load range G at 110 psi**, which is the upgrade the brochure lists as standard on the 371 ("G Rated Radial Tires with Aluminum Rims - 371 Std"), where other Fuzions run ST235/80R16E. Load range G carries materially more per tire and is the stronger setup for a trailer this heavy.
 
 **Points against.** It is **38 ft 11 in**, the longest candidate recorded so far and only 13 in inside the 40 ft list limit; **13 ft 3 in** tall, 2 in taller than the 331; and the pin still exceeds the ceiling at full rating. The half bath in the garage and the G-rated tires are the standout gains over the 331.
+
+### Palomino Puma Unleashed 351THSS (2016) - verified, "maybe"
+
+Owner-supplied [Bish's RV listing](https://www.bishs.com/product/used-2016-palomino-puma-unleashed-351-thss-3730676-26), floorplan and the 2016 Puma brochure, 21 September 2026.
+
+| Item | Figure |
+| --- | --- |
+| Price | **$19,995** (list $42,837, discount $22,842) |
+| Dealer | Bish's RV, **Great Falls, MT** - stock 1042028A |
+| Length | 37 ft 0 in |
+| Exterior height with A/C | **12 ft 0 in** |
+| UVW (dry) | 9,560 lb |
+| Hitch (dry pin) | **1,845 lb** - **19.3%** of UVW |
+| CCC | **4,000 lb** |
+| GVWR | 13,560 lb |
+| Axle weight | 7,665 lb |
+| **Pin at GVWR (est.)** | **~2,617 lb - about 1,000 lb under the truck's ~3,625 lb ceiling** |
+| Cargo area | **11 ft 8-1/8 in**, 7 ft 5 in spring-assist ramp door, **permanent wall** between living quarters and cargo bay, side man door, beaver-tail rear floor |
+| Layout | 1 slide, sleeps 8, U-dinette, 40 in tub, two 60 x 74 queen beds (one optional electric-lift in the garage), pocket door to the bedroom |
+| Tanks | Fresh **100 gal**, black 32, gray 32 |
+| Tires | 16 in |
+| Awning | 18 ft |
+
+**This is the first candidate that fits the truck without compromise.** Pin at full GVWR is roughly **2,617 lb** against a ~3,625 lb ceiling - about **1,000 lb of margin** - so it can be loaded to its rating and still be inside the truck's limits, unlike both Fuzions. Truck plus trailer at full GVWR is 25,460 lb against the 29,000 lb GCWR, leaving 3,540 lb of headroom there too. The **19.3% dry pin share is the lowest on the 40 ft table**.
+
+**Garage confirmed enclosed:** the dealer describes a **permanent wall** separating the living quarters from the cargo bay, with a side man door for access - not a curtain, and not the glass patio door used on the 356QLB and 373QSI.
+
+**It is also by far the cheapest**: $19,995, against $34,990 for the Fuzion 371 and $39,997 for the Fuzion 331 - roughly **half** the 331.
+
+**And the shortest and lowest of the three**: 37 ft 0 in and **12 ft 0 in** tall, against 13 ft 1 in and 13 ft 3 in for the Fuzions. The lower roof is worth real money in clearance terms.
+
+**Trade-offs to weigh.** Only **1 slide** (the Fuzions have 3), so the living space is narrower. **GVWR 13,560 lb** means less total carrying ability than the Fuzions even though more of it is usable. Fresh water is a large **100 gal**, which is 830 lb when full - budget that inside the 4,000 lb CCC. Still **over the 35 ft hard limit** at 37 ft, so it lives on the 40 ft list.
+
+**Brochure note on CCC:** Palomino defines CCC as GVWR minus UVW and says it must cover fresh water at 8.3 lb/gal; the brochure adds that every Forest River unit is weighed before shipping and carries a label with the actual UVW and CCC. **Check that label on the unit** - it supersedes the 4,000 lb brochure figure, exactly as the Fuzion 371's label corrected its brochure.
 
