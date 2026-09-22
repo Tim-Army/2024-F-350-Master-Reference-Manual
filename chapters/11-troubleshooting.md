@@ -70,7 +70,7 @@ Recorded from the owner's work at **38,926 miles**. **This was done to chase a s
 
 **Tech support:** Lubegard hotline 800-333-5823 or 206-762-5343.
 
-**Old cabin air filter (IMG_1768-1769).** Heavily loaded - grey-brown across the full pleat depth with visible fiber and debris on the inlet face, against the clean white of the replacement. It was due. *Filter part number to be recorded.*
+**Old cabin air filter (IMG_1768-1769).** Heavily loaded - grey-brown across the full pleat depth with visible fiber and debris on the inlet face, against the clean white of the replacement. It was due. Replaced with a **Motorcraft FP-92**, which fit. Note that the parts catalog in [chapter 3](03-oem-parts-catalog.md) lists **FP-119** for this truck - that conflict is flagged there and still to be resolved.
 
 ### Interior sour smell - remediation plan
 
@@ -79,7 +79,7 @@ The odor was present when the truck was bought (8 September 2026). The owner is 
 | Step | Work | Status |
 | --- | --- | --- |
 | 1 | **Hard plastics cleaned** throughout the cab - dash, console, door cards, trim | **Done** |
-| 2 | **Evaporator and heater core foamed** with Lubegard Kool-It `96030` through the drain, and the **cabin air filter replaced** - the old one was heavily loaded | **Done 21 September 2026**, 38,926 mi |
+| 2 | **Evaporator and heater core foamed** with Lubegard Kool-It `96030` through the drain, and the **cabin air filter replaced** with a Motorcraft **FP-92** - the old one was heavily loaded | **Done 21 September 2026**, 38,926 mi |
 | 3 | **Cloth seats scrubbed** with an upholstery cleaner | Planned - a later day |
 
 **Why this order is right.** A sour, musty smell in a cab usually comes from one of three places: microbial growth on the evaporator core, a loaded cabin filter holding damp debris, or soiled upholstery and carpet. Steps 1 and 2 clear the first two and cost little. If the smell survives step 3, the remaining suspects are **the carpet and its underlay** - which hold water far longer than seat fabric - and any **past water intrusion**, so check the passenger footwell for staining or a tide line, and re-check the drain and the cowl inlet screen for standing water. Note also that the **evaporator is a repeat-treatment item**: if the smell returns after a few weeks, it points back at the core rather than the fabric.

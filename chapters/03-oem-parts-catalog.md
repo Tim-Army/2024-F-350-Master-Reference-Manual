@@ -13,7 +13,7 @@ Part numbers are current as published in that edition. **Confirm supersessions**
 | Engine | Engine oil filter | **FL-820-S** | If unavailable, use a filter aligning to SAE/USCAR-36 Performance Specifications, Filter Type D |
 | Engine | Spark plugs | **SP-589** | Gap 0.049-0.053 in (1.25-1.35 mm); 8 required |
 | Air filtration | Air filter element | **FA-1950** | Replace more often in dusty/dirty service |
-| Cabin | Cabin air filter | **FP-119** | Replace more often in dusty/dirty service |
+| Cabin | Cabin air filter | **FP-92** *(fitted)* / **FP-119** *(listed)* | **Conflict - resolve.** The owner fitted a **Motorcraft FP-92** on 21 September 2026 and it fit ([chapter 11](11-troubleshooting.md)). The **FP-119** in this row came from the Ford publication listing for this truck. Both cannot be right for one filter housing: an FP-92 that seats and seals correctly is the working answer, but keep FP-119 recorded until the catalog source is re-checked by VIN. Replace more often in dusty or dirty service |
 | Transmission | 10R140 fluid filter | **FT-221** | Ten-speed automatic |
 | Electrical | Battery (one) | **BXT-65-750** | Single-battery configuration |
 | Electrical | Battery (two, optional) | **BAGM-65-A** | Dual-battery configuration - confirm which this truck has |
