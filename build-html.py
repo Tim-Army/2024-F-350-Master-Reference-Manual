@@ -153,6 +153,6 @@ def build() -> str:
 
 if __name__ == "__main__":
     page = build()
-    OUT.write_text(page, encoding="utf-8")
-    INDEX.write_text(page, encoding="utf-8")
+    OUT.write_text(page, encoding="utf-8", newline="\n")
+    INDEX.write_text(page, encoding="utf-8", newline="\n")
     print(f"wrote {OUT.name} and {INDEX.name} ({OUT.stat().st_size // 1024} KB)")

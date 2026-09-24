@@ -93,5 +93,5 @@ if __name__ == "__main__":
         sys.exit(f"{BEGIN} marker not found in README.md")
     head, rest = text.split(BEGIN, 1)
     _, tail = rest.split(END, 1)
-    readme.write_text(f"{head}{BEGIN}\n\n{build()}\n\n{END}{tail}", encoding="utf-8")
+    readme.write_text(f"{head}{BEGIN}\n\n{build()}\n\n{END}{tail}", encoding="utf-8", newline="\n")
     print(f"rewrote Contents ({len(build().splitlines()) - 2} rows)")

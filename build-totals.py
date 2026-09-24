@@ -79,7 +79,7 @@ def main() -> None:
 
     if not changed:
         sys.exit("no window tables found - check the names in PHASES")
-    CHAPTER.write_text("\n".join(out) + "\n", encoding="utf-8")
+    CHAPTER.write_text("\n".join(out) + "\n", encoding="utf-8", newline="\n")
     print(f"\nupdated {changed} tables")
 
 
