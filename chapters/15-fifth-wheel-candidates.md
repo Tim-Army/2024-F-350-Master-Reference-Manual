@@ -489,11 +489,12 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 
 ## Maybes - live candidates, 21 September 2026
 
-Marked a maybe by the owner. Both clear every truck limit at their own full GVWR, which nothing else screened so far has done.
+Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating.
 
 | Trailer | Year | Price | Dealer | Length | Height | Garage | GVWR | Pin at GVWR (est.) | Pin at GVWR with GN (est.) | Margin at the accepted 3,700 lb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Palomino Puma Unleashed 351THSS** | 2016 | $19,995 | Bish's RV, Great Falls MT | 37 ft 0 in | 12 ft 0 in | 11 ft 8 in, enclosed, permanent wall | 13,560 | ~2,617 | ~2,757 | **~1,083 lb spare**, or ~943 lb if converted |
+| **Prime Time Spartan 300 3210** (added 23 September 2026) | 2016 | $29,995 | General RV, North Canton OH | 36 ft 2 in (3P; listing says 32 ft 2 in) | 13 ft 2 in | ~10 ft, enclosed, door to the living area | 16,616 | ~3,717 | ~3,857 - **over** | **~17 lb over at full GVWR**; fits loaded to ~16,540 lb. No gooseneck |
 
 **The Wolf Pack 315PACK12 was rejected on 22 September 2026 for a 3,274 lb CCC**, after a day as the favorite - see [Rejected](#rejected). The Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). Live candidates are over the 35 ft hard limit and sit on the 40 ft list. Full detail for each is in the verified subsections below.
 
@@ -516,7 +517,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | ~3,170 | **~3,805** | ~3,945 | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
 | **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | not published (Forest River: TBD) | 11 ft (~8½ ft clear) | 14,090 | 4,477 (Kunes unit ~4,161) | 2,090 | ~2,230 | ~3,060 | ~3,200 | Fits. Kunes unit label: 9,929 lb dry |
 | Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 13 ft 3 in | 10 ft | 16,765 | 4,360 | 2,765 | ~2,905 | ~3,740 | ~3,880 | Over the ceiling at GVWR |
-| Prime Time Spartan 300 3210 | ~2017-2018 | 36 ft 2 in | 13 ft 2 in | 10 ft | 16,616 | 4,885 | 2,612 | ~2,752 | ~3,700 | ~3,840 | Over the ceiling at GVWR |
+| Prime Time Spartan 300 3210 **(MAYBE)** | 2016 (this unit) | 36 ft 2 in | 13 ft 2 in | ~10 ft; HappiJac power bunk; 3,000 lb ramp door | 16,616 | **4,319 derived** from the unit's 12,297 lb dry weight | 2,616 (2016, RVUSA) | ~2,756 | **~3,717** | ~3,857 - **over** | **~17 lb over the accepted 3,700 lb at full GVWR.** Fits loaded to ~16,540 lb, which leaves ~4,240 lb of CCC usable. 22.4% dry pin share |
 | [Grand Design Momentum G-Class 320G](https://www.granddesignrv.com/toy-haulers/momentum-g-class/320g) | current (Grand Design page) | 36 ft 3 in | 13 ft 6 in (13 ft 5 in with optional A/C, as published) | 11 ft; wall with W/D prep, HappiJac rollover sofas and table, flip-up pet dish, optional overhead bed | **16,400** | **3,300** (computed) | 2,300 | ~2,440 | ~2,880 (17.6% dry ratio); ~4,100 at 25% | ~3,020 | Fits at its dry pin ratio, with about 745 lb spare; over the ceiling above ~22.1% pin. **Grand Design's own figures** (supplied by the owner 17 September 2026): UVW 13,100 lb, 98 / 52 / 104 gal, 3 slides, 17.5 in wheels, 8 ft 5 in wide, tankless water heater. RVGuide's 2025 page differs (12,400 UVW, 16,800 GVWR, 4,400 CCC) - trust Grand Design, and read the unit's label. Enclosed garage confirmed from the floorplan. Rejected on price 14 September - kept here per the no-rejection rule |
 | Forest River XLR Nitro 321 **(LIVE)** | 2021-2024 | 37 ft 10 in | 13 ft 4 in | **11 ft** (floorplan verified); 93 in wide; partition with doorway; ramp to patio deck | 16,585 | 4,351 | 2,585 | ~2,725 | ~3,500 | ~3,640 | Marginal |
 | Keystone Carbon 347 | 2020 | 38 ft 2 in | 13 ft 2 in | 12 ft 6 in | 17,000 | 4,449 | 3,050 | ~3,190 | ~4,125 | ~4,265 | Over the ceiling at GVWR |
@@ -1005,3 +1006,33 @@ Owner-supplied [San Antonio RVs listing](https://www.sanantoniorvs.com/product/u
 **Why it fails.** **12,230 lb empty** is about what the three lightest shortlisted models weigh fully loaded (11,500-12,500 lb GVWR), and its GVWR is over 2,000 lb above the heaviest (the Nightfall 270N at 14,759 lb). At its **16,820 lb GVWR**, staying under the accepted **3,700 lb** pin means a pin share of **22.0% or less** (21.6% against the ~3,625 lb estimate). Fifth wheels typically run 20-25%, so at a typical 25% the pin would be about **4,205 lb**. To stay inside the ceiling at 25%, it would have to be loaded to no more than about **14,500 lb**. That leaves roughly 2,270 lb of its 3,745 lb CCC usable.
 
 **The truck's other limits are not the problem.** At GVWR the trailer is well under Ford's 21,300 lb fifth-wheel maximum, and the combination comes to about 24,800 lb against the 29,000 lb GCWR ([chapter 10](10-fifth-wheel-and-towing.md)).
+
+### Prime Time Spartan 300 3210 (2016) - screened, **MAYBE**
+
+**Marked a maybe by the owner on 23 September 2026.** Owner-supplied [General RV listing](https://generalrv.com/rvs-for-sale/consignment-2016-forest-river-spartan-300-series-3210-363447) and floorplan. Hitch weight and spec-sheet dry weight are from [RVUSA's 2016 specs](https://www.rvusa.com/rv-guide/2016-prime-time-spartan-300-3210-toy-hauler-specs-tr27407).
+
+| Item | Figure | Source |
+| --- | --- | --- |
+| Price | **$29,995** (retail $34,999) | Listing |
+| Dealer | General RV, **North Canton, OH** - stock 363447, consignment | Listing |
+| VIN | `5ZT3STXB9GG300765` | Listing |
+| GVWR | **16,616 lb** | Listing; matches the RVGuide figure already recorded |
+| Dry weight | **12,297 lb** on the listing; **11,693 lb** on the 2016 spec sheet | Listing / RVUSA |
+| Hitch (dry pin) | **2,616 lb** - **22.4%** of the spec-sheet dry weight | RVUSA |
+| CCC (derived) | **4,319 lb** (GVWR less the listing's dry weight) | Derived |
+| **Pin at GVWR (est.)** | **~3,717 lb** - ~17 lb over the accepted 3,700 lb, ~92 lb over the ~3,625 lb estimate | Estimate |
+| Pin at GVWR with gooseneck (est.) | ~3,857 lb - **over** | Estimate |
+| Length | **36 ft 2 in** (RVGuide). The listing's **32 ft 2 in** looks like the model number, not a measurement - confirm | 3P / listing |
+| Width / height | 8 ft 4 in / **13 ft 2 in** | Listing |
+| Garage | About **10 ft**, enclosed, with a door to the living area. **HappiJac power bunk**, ramp door rated **3,000 lb**. The bathroom opens to both the garage and the living area | Floorplan / listing |
+| Layout | **2 slides**, sleeps 8, reclining sectional, front queen bedroom, walk-in shower | Listing / floorplan |
+| Tanks | Fresh **105 gal**, gray 87, black 45 | Listing |
+| HVAC / electrical | 15,000 BTU A/C, 35,000 BTU furnace, 50 amp | Listing |
+
+**On pin it sits right at the ceiling.** At a 22.4% share, the pin reaches the accepted **3,700 lb at about 16,540 lb** loaded, and the ~3,625 lb estimate at about 16,200 lb. That is **16-420 lb short of GVWR**, so nearly all of the rating is usable: **~3,900-4,240 lb of cargo**, more than any other live candidate. It is the reverse of the rejected Fuzions, which ran out of pin with only ~2,600 lb of cargo aboard.
+
+**The dry-weight gap matters.** The unit is listed ~600 lb heavier than the 2016 spec sheet. The 22.4% share assumes the pin grew in proportion; if the added weight sits forward of the axles, the pin is higher than estimated. **Get a hitch weight from the dealer or a scale before buying.**
+
+**No gooseneck conversion.** At ~3,857 lb it would be over the ceiling. Tow it on a fifth-wheel head such as the [B&W Companion](09-accessories-and-modifications.md).
+
+**Other points.** At **36 ft 2 in** it is over the 35 ft hard limit and sits on the 40 ft list, like the Puma. At **13 ft 2 in** it is 14 in taller than the Puma. It is ten years old: check the tire date codes and the roof.
