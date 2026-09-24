@@ -31,6 +31,7 @@ ENTRIES = [
     ("chapters/13-reference-documents.md",            "13"),
     ("chapters/14-vehicle-history-and-title.md",      "14"),
     ("chapters/15-fifth-wheel-candidates.md",         "15"),
+    ("chapters/16-places-to-visit.md",                "16"),
     ("chapters/appendix-a-workshop-manual-intake.md", "A"),
 ]
 LOGS = [

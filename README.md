@@ -4,7 +4,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 
 **[Read the manual as a single web page](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/)** - every chapter and log on one page, with a contents block and chapter rail. Built from these sources by `build-html.py`; see [HTML edition](#html-edition) below.
 
-**Edition 1.6 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
+**Edition 1.7 - September 2026.** This is a living reference, compiled from the established project conversation and the listed Ford documents. It **summarizes rather than reproduces** source manuals. Values marked *Confirm with Ford WSM* are intentionally not service instructions until verified.
 
 **Manufacturer buyback.** Ford reacquired this truck on 2026-07-01 over a passenger-window fault and Cross Traffic / Blind Spot sensors; **Ford's paperwork records both as repaired**. Purchased 2026-09-08 at 38,278 mi. The buyback brand on the title is permanent, and the bumper-to-bumper warranty has expired. See [chapter 14](chapters/14-vehicle-history-and-title.md).
 
@@ -142,6 +142,11 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Rejected](chapters/15-fifth-wheel-candidates.md#rejected) |
 | | [Notes on the current list](chapters/15-fifth-wheel-candidates.md#notes-on-the-current-list) |
 | | [Verification standard](chapters/15-fifth-wheel-candidates.md#verification-standard) |
+| **16** | **[Places to Visit](chapters/16-places-to-visit.md)** |
+| | [Rig limits for route and site planning](chapters/16-places-to-visit.md#rig-limits-for-route-and-site-planning) |
+| | [Wish list](chapters/16-places-to-visit.md#wish-list) |
+| | [Visited](chapters/16-places-to-visit.md#visited) |
+| | [Place record template](chapters/16-places-to-visit.md#place-record-template) |
 | **A** | **[Future Workshop Manual Intake](chapters/appendix-a-workshop-manual-intake.md)** |
 | | [Required additions](chapters/appendix-a-workshop-manual-intake.md#required-additions) |
 | | [Source - received](chapters/appendix-a-workshop-manual-intake.md#source---received) |
@@ -161,7 +166,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 
 ## HTML edition
 
-`manual.html` is a single-page HTML build of the whole manual - all 14 chapters, Appendix A, and the four running records, with a chapter rail and cross-links resolved to on-page anchors. Rebuild it after editing any Markdown source:
+`manual.html` is a single-page HTML build of the whole manual - all 16 chapters, Appendix A, and the four running records, with a chapter rail and cross-links resolved to on-page anchors. Rebuild it after editing any Markdown source:
 
 ```bash
 python3 build-html.py
@@ -225,4 +230,5 @@ Chapters 3 and 6 are populated from the Owner's Manual (REF-001). Chapter 5 now 
 | 1.3 | September 2026 | Chapters 3 and 6 populated from the Owner's Manual: Motorcraft parts, engine specs, service intervals, fluid capacities |
 | 1.4 | September 2026 | Accessories roadmap costed: prices, status columns, load support and dash cam options; equipment confirmed not fitted recorded in chapter 2 |
 | 1.6 | 10 September 2026 | Chapter 15 added: fifth-wheel shortlist screened against the truck's pin weight ceiling |
+| 1.7 | 23 September 2026 | Chapter 16 added: places to visit, with the rig's height and length limits for route and site planning |
 | 1.5 | 8 September 2026 | **Vehicle purchased.** Door jamb labels transcribed (GAWRs, axle code, 4,566 lb payload); first CAT scale weights recorded; chapter 10 loading rebuilt on measured figures; buyback defects recorded as repaired per Ford paperwork |
