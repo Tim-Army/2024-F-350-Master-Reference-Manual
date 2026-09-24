@@ -31,7 +31,7 @@ def price_of(cell: str):
 
 
 def main() -> None:
-    lines = CHAPTER.read_text().splitlines()
+    lines = CHAPTER.read_text(encoding="utf-8").splitlines()
     out, phase, changed = [], None, 0
     i = 0
     while i < len(lines):
@@ -79,7 +79,7 @@ def main() -> None:
 
     if not changed:
         sys.exit("no window tables found - check the names in PHASES")
-    CHAPTER.write_text("\n".join(out) + "\n")
+    CHAPTER.write_text("\n".join(out) + "\n", encoding="utf-8")
     print(f"\nupdated {changed} tables")
 
 

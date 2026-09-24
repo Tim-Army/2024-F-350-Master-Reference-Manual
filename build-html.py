@@ -54,7 +54,7 @@ def convert(path: pathlib.Path) -> str:
     """Render one Markdown file to an HTML fragment via pandoc."""
     res = subprocess.run(
         ["pandoc", "-f", "gfm", "-t", "html", str(path)],
-        capture_output=True, text=True,
+        capture_output=True, text=True, encoding="utf-8",
     )
     if res.returncode:
         sys.exit(f"pandoc failed on {path}: {res.stderr}")
@@ -86,7 +86,7 @@ def promote_headings(frag: str, anchor: str) -> str:
 
 
 def title_of(path: pathlib.Path) -> str:
-    for line in path.read_text().splitlines():
+    for line in path.read_text(encoding="utf-8").splitlines():
         if line.startswith("# "):
             return line[2:].strip()
     return path.stem
@@ -145,7 +145,7 @@ def build() -> str:
             f'<span class="toc-num">{num}</span>{heading}</a>'
             f'<ul>{subs}</ul></div>'
         )
-    tpl = (ROOT / "template.html").read_text()
+    tpl = (ROOT / "template.html").read_text(encoding="utf-8")
     return (tpl.replace("<!--NAV-->", "\n".join(nav))
                .replace("<!--TOC-->", "\n".join(toc))
                .replace("<!--BODY-->", "\n".join(body)))
@@ -153,6 +153,6 @@ def build() -> str:
 
 if __name__ == "__main__":
     page = build()
-    OUT.write_text(page)
-    INDEX.write_text(page)
+    OUT.write_text(page, encoding="utf-8")
+    INDEX.write_text(page, encoding="utf-8")
     print(f"wrote {OUT.name} and {INDEX.name} ({OUT.stat().st_size // 1024} KB)")

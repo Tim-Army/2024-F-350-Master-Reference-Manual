@@ -51,7 +51,7 @@ def slug(text: str) -> str:
 def parse(path: pathlib.Path):
     """Return (h1 title, [h2 section titles]) for one file."""
     title, sections = path.stem, []
-    for line in path.read_text().splitlines():
+    for line in path.read_text(encoding="utf-8").splitlines():
         if line.startswith("# ") and title == path.stem:
             title = line[2:].strip()
         elif line.startswith("## "):
@@ -88,10 +88,10 @@ def build() -> str:
 
 if __name__ == "__main__":
     readme = ROOT / "README.md"
-    text = readme.read_text()
+    text = readme.read_text(encoding="utf-8")
     if BEGIN not in text:
         sys.exit(f"{BEGIN} marker not found in README.md")
     head, rest = text.split(BEGIN, 1)
     _, tail = rest.split(END, 1)
-    readme.write_text(f"{head}{BEGIN}\n\n{build()}\n\n{END}{tail}")
+    readme.write_text(f"{head}{BEGIN}\n\n{build()}\n\n{END}{tail}", encoding="utf-8")
     print(f"rewrote Contents ({len(build().splitlines()) - 2} rows)")
