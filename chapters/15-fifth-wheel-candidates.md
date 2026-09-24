@@ -631,6 +631,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
 | 2018 Keystone Impact 3219 | Rejected by the owner 21 September 2026 |
+| 2022 Keystone Carbon 338 | **Too heavy.** Rejected by the owner 23 September 2026. 12,230 lb empty and 16,820 lb GVWR, both from the federal label; at full GVWR the pin share would have to stay under ~22% to fit the accepted 3,700 lb, and at a typical 25% it would be ~4,205 lb |
 | 2014 Palomino Puma Unleashed 356QLB | **Pin too heavy.** Rejected by the owner 22 September 2026. 27.8% dry pin share gives ~3,678 lb at its 13,243 lb GVWR - inside the accepted 3,700 lb by only ~22 lb, with no gooseneck option (~3,818 lb) and owner reports of a very heavy pin. $16,922 at San Antonio RVs |
 | 2022 Forest River Puma 382THS | **CCC too low and too expensive.** Rejected by the owner 22 September 2026. 3,682 lb derived / 3,821 lb label maximum, under the 4,000 lb bar, at $31,594 - $11,599 more than the Palomino Puma Unleashed, which carries more |
 | 2021 Forest River Cherokee Wolf Pack 315PACK12 | **CCC too low - 3,274 lb.** Rejected by the owner 22 September 2026, having been the favorite the previous day. Towed well within limits (pin ~2,655 lb) and came with a Reese Goose Box already fitted, but it carried 700-1,200 lb less than the candidates with 4,000 lb-plus capacity |
@@ -971,7 +972,7 @@ Owner-supplied [San Antonio RVs listing](https://www.sanantoniorvs.com/product/u
 
 **Which changes the verdict - it fits, but only just.** At the brochure's own figures the pin share is **2,557 / 9,208 = 27.8%**, and scaled to the correct **13,243 lb GVWR** that gives a pin of about **3,678 lb**. That is **inside the accepted 3,700 lb ceiling by roughly 22 lb** - not the ~3,896 lb calculated earlier against the listing's inflated GVWR. It is the tightest fit of any candidate: 22 lb of margin means the bed must be empty, and any loading forward of the axles pushes it over. **A gooseneck conversion is out of the question** at ~3,818 lb.
 
-**What owners say - it corroborates the heavy pin.****What owners say - it corroborates the heavy pin.** Searching owner forums on 22 September 2026 turned up no published scale ticket for a 356QLB, but two owner reports that both point the wrong way:
+**What owners say - it corroborates the heavy pin.** Searching owner forums on 22 September 2026 turned up no published scale ticket for a 356QLB, but two owner reports that both point the wrong way:
 
 - An owner of a 356 described it as having a **"very heavy pin weight"**, and specifically warned that **adding a gooseneck adapter would put a lot of stress on the frame** because of it. That is independent support for the 2014 brochure's 2,557 lb rather than the listing's 1,766 lb - and it also argues against the gooseneck conversion that makes the other candidates attractive.
 - On dry weight, **the literature says about 9,200 lb while one owner reported over 9,600 lb empty** - the usual direction of travel, and consistent with the listing's 9,935 lb being closer to reality than the brochure's 9,208 lb.
@@ -984,3 +985,23 @@ Owner-supplied [San Antonio RVs listing](https://www.sanantoniorvs.com/product/u
 
 **Other points.** 1 slide, sleeps 6, 100 gal fresh (830 lb), 74 gray, 42 black, 30,000 BTU furnace, 80 in interior height. At **36 ft 2 in** it is shorter than the 351THSS by 10 in and second only to the Rogue SUT among live candidates. **13 ft 2 in** is tall - 14 in more than the 351THSS's 12 ft 0 in.
 
+### Keystone Carbon 338 (2022) - federal label, REJECTED 23 September 2026
+
+**Rejected by the owner on 23 September 2026: too heavy.** Screened from an owner-supplied photo of the federal certification label, taken from a General RV listing. The details below are kept for reference.
+
+| Item | Figure | Source |
+| --- | --- | --- |
+| VIN | `4YDFCNR27NR805805`, model **CN33822** | Federal label |
+| Built | **22 June 2022** | Federal label |
+| **Unloaded weight (UVW)** | **12,230 lb** (5,548 kg) | **Federal label** |
+| **GVWR** | **16,820 lb** (7,630 kg) | **Federal label** |
+| GAWR each axle | **7,000 lb** (3,175 kg) x 2 = 14,000 lb | Federal label |
+| Tires | **ST235/80R16 F** on 16 x 6 rims, **100 psi cold**, single | Federal label |
+| **CCC** | **3,745 lb** (1,699 kg), with 785 lb of fresh water counted | Federal label |
+| Waste tanks full | 1,052 lb | Federal label |
+| Hitch (dry pin) | **not published on the label** | - |
+| Length | not recorded | - |
+
+**Why it fails.** **12,230 lb empty** is about what the three lightest shortlisted models weigh fully loaded (11,500-12,500 lb GVWR), and its GVWR is over 2,000 lb above the heaviest (the Nightfall 270N at 14,759 lb). At its **16,820 lb GVWR**, staying under the accepted **3,700 lb** pin means a pin share of **22.0% or less** (21.6% against the ~3,625 lb estimate). Fifth wheels typically run 20-25%, so at a typical 25% the pin would be about **4,205 lb**. To stay inside the ceiling at 25%, it would have to be loaded to no more than about **14,500 lb**. That leaves roughly 2,270 lb of its 3,745 lb CCC usable.
+
+**The truck's other limits are not the problem.** At GVWR the trailer is well under Ford's 21,300 lb fifth-wheel maximum, and the combination comes to about 24,800 lb against the 29,000 lb GCWR ([chapter 10](10-fifth-wheel-and-towing.md)).
