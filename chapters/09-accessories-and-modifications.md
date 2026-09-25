@@ -9,7 +9,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 13 | **$3,142.57** |
-| **Short-term** | by 7 December 2026 (90 days) | 24 | **$4,399.68** |
+| **Short-term** | by 7 December 2026 (90 days) | 25 | **$4,489.67** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
@@ -75,7 +75,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Bolt It On Condor / Wheel Dock chock bracket](https://boltiton.com/products/condor-bracket) | **$69.99** | Towing | Planned | Tool-free crossbar that clamps a Condor chock to the **factory D-rings**, removable in seconds. **Requires drilling two 3/8 in holes in the chock.** Fits both chocks below. One bracket - order a second if both bikes travel at once |
 | [Condor SC-2000 trailer-only motorcycle chock](https://www.condor-lift.com/product/trailer-only-chock-part-sc-2000/) | **$187.00** | Towing | Planned | **For the large motorcycle.** Sale price; list $259.00. All-steel, 26 lb, folds to 7 in high. Fits 14-22 in wheels, 80-230 mm wide, bikes up to 3,000 lb |
 | [Condor SCC-4000 scooter chock](https://www.condor-lift.com/product/scooter-chock-part-scc-4000/) | **$175.00** | Towing | Planned | **For the Yamaha Zuma 125.** Sale price; list $215.00. Built for scooters and mopeds. **Floor adapter not included** - price it separately if the bracket isn't used |
-| **Phase total** | **$4,399.68** |  |  | *24 items priced* |
+| [ICON 3/4 in drive Professional 36 in breaker bar](https://www.harborfreight.com/34-in-drive-professional-36-in-breaker-bar-63854.html) (Harbor Freight `63854`, model B436) | **$89.99** | Maintenance & security | Planned | 180-degree swivel head, chrome-vanadium, 3.75 lb, lifetime warranty. For breaking loose the 150 lb-ft lug nuts and other high-torque fasteners - set final torque with the ½ in torque wrench, not this. **Needs 3/4 in drive sockets**, or a 3/4-to-1/2 in adapter for ½ in impact sockets. No torque rating published |
+| **Phase total** | **$4,489.67** |  |  | *25 items priced* |
 
 ### Long-term
 
