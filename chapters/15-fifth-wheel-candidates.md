@@ -641,6 +641,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | 2014 Keystone Fuzion 331 Chrome | Rejected by the owner 21 September 2026. Pin ~3,910 lb at its 16,500 lb GVWR, ~285 lb over the ceiling; 37 ft 7 in; $39,997 |
 | 2014 Keystone Fuzion 371 | Rejected by the owner 21 September 2026. Pin ~3,805 lb at its 16,500 lb GVWR, ~180 lb over the ceiling; 38 ft 11 in; $34,990 |
 | Forest River Cherokee Black Label 256RRBL | Too expensive. Rejected by the owner 14 September 2026; it had the most weight margin of any candidate (see the section above) |
+| 2027 Alliance Valor 35A14 ([Alliance](https://www.alliancerv.com/floorplan/valor/35a14)) | **Too heavy.** Rejected by the owner 25 September 2026. 23.1% dry pin share (2,912 lb hitch on 12,590 lb dry) gives ~3,886 lb at its 16,800 lb GVWR, ~186 lb over the accepted 3,700 lb; workable only below ~16,000 lb gross, leaving ~3,410 lb of its 4,210 lb CCC usable. No gooseneck (~4,026 lb). Also 39 ft 11 in, 13 ft 5 in tall, MSRP from $105,519; shared All-Access garage |
 | 2026 Alliance Valor 32A10 | Too expensive - $72,995 used (Campers Inn RV of Davenport, IA). Rejected by the owner 14 September 2026 |
 | 2027 Forest River Cherokee Wolf Pack 290PACK13 ([floorplan](https://forestriverinc.com/rvs/wolf-pack/290PACK13/12144)) | **Length only** - 39 ft 5 in, rejected under the 35 ft limit before the 40 ft list existed; only 2 in longer than the favored 315PACK12. Rejected by the owner 14 September 2026; it fit on weight (see the section above) |
 
