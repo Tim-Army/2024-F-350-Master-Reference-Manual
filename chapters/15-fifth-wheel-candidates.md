@@ -193,7 +193,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 | Grand Design Momentum 351MS | 39 ft 11 in | 19,000 | 3,000 | 19% | Cannot be loaded to GVWR at a normal pin ratio |
 | Grand Design Momentum 394G | 44 ft 11 in | 22,500 | 3,500 | 16% | Cannot be loaded to GVWR at a normal pin ratio |
 | Grand Design Momentum 399M | 44 ft 10 in | 23,500 | 3,406 | 15% | Cannot be loaded to GVWR at a normal pin ratio |
-| Grand Design Momentum 350G | 39 ft 9 in | 18,000 | 2,600 | 20% | Needs pin at or under 20% - no working margin; also 39 ft 9 in |
+| Grand Design Momentum 350G | 39 ft 9 in | 18,000 | 2,600 | 20% | Needs pin at or under 20% - no working margin; also 39 ft 9 in. A 2026 unit's labels are recorded under [Grand Design Momentum 350G (2026)](#grand-design-momentum-350g-2026---federal-label-recorded) |
 
 **The Momentum line is built for a heavier truck.** At 22,500-23,500 lb GVWR the combined weight with this truck would reach **34,400-35,400 lb** - diesel dually territory, well beyond any gasoline F-350. Four of these trailers would put the truck over its rear axle rating before anything is loaded into them. Nothing about their length, garage or layout needs examining.
 
@@ -1082,3 +1082,38 @@ The brochure footnote says its **weights reflect a fully equipped coach**, so op
 - **Buying checks owners suggest** ([thread](https://www.keystoneforums.com/threads/about-to-purchase-a-2012-raptor-297se-what-to-look-for.607612/)): tire date codes, and **soft spots in the garage floor by the ramp door**. In a 10 ft garage, check headroom under the drop-down beds - one owner found two quads filled it, and a side-by-side or golf cart would not clear the raised beds.
 
 **Age.** A 2013: check the EPDM roof, the slide seals and the tire date codes. At the dealer, also walk the garage floor by the ramp, run the furnace and the generator, ask what the fuel tank actually holds, and read the yellow weight label.
+
+### Grand Design Momentum 350G (2026) - federal label recorded
+
+Owner-supplied photos of a specific unit's **federal certification label** and **tire and loading label**, 26 September 2026 (`imports/Grand Design Momentum 350G/IMG_1784.jpeg`, `IMG_1785.jpeg`). No floorplan or hitch weight for this unit yet. **Not marked a maybe or rejected** - recorded for reference.
+
+| Item | This unit's labels | Grand Design published (2026) |
+| --- | --- | --- |
+| VIN | `573FM4221TBB04456`, fifth wheel | - |
+| Built | **7/2025** (2026 model year) | - |
+| **UVW** | **14,242 lb** (6,460 kg) | 12,950 lb - **this unit is 1,292 lb heavier** |
+| **GVWR** | **18,000 lb** (8,165 kg) | 18,000 lb |
+| GAWR each axle | **8,000 lb** (3,629 kg) x 2 = 16,000 lb | - |
+| **Cargo** | **3,698 lb** (1,677 kg), tire and loading label maximum | 5,050 lb |
+| Hitch (dry pin) | not on the labels | 2,600 lb - **20.1%** of 12,950 |
+| Tires | **ST215/75R17.5 load range H**, 17.5 x 6.75 rims, **123 psi cold**, single; spare the same | - |
+| Length | - | 39 ft 9 in |
+| Equipment | **Factory-installed inverter** (owner). Batteries to be installed by the dealer | - |
+
+**What the label weights include.** The UVW is a scale weight taken at the factory. It includes the factory inverter but **not batteries** - Grand Design ships without them and the dealer fits them - and the propane cylinders are shipped empty. The labels show the propane allowance: 18,000 - 14,242 = 3,758 lb, against the 3,698 lb cargo figure, a **60 lb** difference matching full propane in two 30 lb cylinders. **So the dealer's batteries come out of the 3,698 lb and the propane does not.** A lithium bank of 2-4 x 100 Ah is about 50-125 lb; four 6 V lead-acid batteries are about 250 lb.
+
+**Check the inverter package.** Grand Design's factory [Extreme Lithium Package](https://www.granddesignrv.com/adventure-more/buy/Extreme-Lithium-Package) for Momentum models includes **800 Ah of lithium** and 1,320 W of solar, installed at the factory. A unit with that package would already carry its batteries in the UVW. The dealer's plan to install batteries suggests this unit has a smaller factory inverter setup - confirm from the roof solar and the battery monitor.
+
+**Pin estimate.** Scaled at the published 20.1% dry share:
+
+| Case | Fifth wheel | Gooseneck (+140 lb Goose Box) |
+| --- | --- | --- |
+| Empty (14,242 lb) | ~2,860 lb | ~3,000 lb |
+| At GVWR (18,000 lb) | **~3,614 lb** - ~86 lb inside 3,700 | **~3,754 lb** - ~54 lb over |
+| Loaded weight at which the pin reaches 3,700 lb | beyond GVWR | **~17,730 lb** - ~3,490 lb of cargo usable |
+
+**The share is the weak link.** The extra 1,292 lb over the brochure includes the factory inverter, usually mounted in the front compartment. At **~21%**, the gooseneck pin reaches 3,700 lb at about **16,950 lb**, leaving only ~2,710 lb of cargo usable, and the fifth wheel reaches ~3,780 lb at GVWR. **A scale reading of this unit's hitch settles it**: measured pin / 14,242 is the share to use.
+
+**How it would have to be loaded as a gooseneck.** Empty, it already puts about 3,000 lb on the ball, leaving ~570-700 lb of pin for everything loaded. Weight near the kingpin counts almost fully on the pin, weight over the axles counts about zero, and weight in the rear of the garage takes pin off. **Using the full cargo figure means putting most of it in the garage**, keeping front storage, bedroom and pantry to a few hundred pounds, and traveling with the fresh tank low. The dealer's batteries go on the pin side if they are mounted forward.
+
+**Against the owner's other limits:** **cargo 3,698 lb is under the 4,000 lb bar** (the reason the Wolf Pack 315PACK12 and Puma 382THS were rejected), and **39 ft 9 in** is at the edge of the 40 ft list. At GVWR the combination is ~25,960 lb against the 29,000 lb GCWR.
