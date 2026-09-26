@@ -1131,7 +1131,34 @@ Owner-supplied photos of a specific unit's **federal certification label** and *
 
 **The share is the weak link.** The extra 1,292 lb over the brochure includes the factory inverter, usually mounted in the front compartment. At **~21%**, the gooseneck pin reaches 3,700 lb at about **16,950 lb**, leaving only ~2,710 lb of cargo usable, and the fifth wheel reaches ~3,780 lb at GVWR. **A scale reading of this unit's hitch settles it**: measured pin / 14,242 is the share to use.
 
-**How it would have to be loaded as a gooseneck.** Empty, it already puts about 3,000 lb on the ball, leaving ~570-700 lb of pin for everything loaded. Weight near the kingpin counts almost fully on the pin, weight over the axles counts about zero, and weight in the rear of the garage takes pin off. **Using the full cargo figure means putting most of it in the garage**, keeping front storage, bedroom and pantry to a few hundred pounds, and traveling with the fresh tank low. The dealer's batteries go on the pin side if they are mounted forward.
+**How it would have to be loaded as a gooseneck** (revised 26 September 2026 with the brochure floorplan). Zone positions below are measured from the floorplan, in feet behind the kingpin; the axle center is **not on the floorplan and is assumed at ~28 ft**. A zone's share of its weight that lands on the ball is (axle distance - zone distance) / axle distance.
+
+| Zone | Feet behind kingpin | Share of its weight on the ball |
+| --- | --- | --- |
+| Bedroom and closets | ~4 | ~86% |
+| Pass-through storage (under the bedroom) and dealer batteries | ~5 | ~82% |
+| Bath, kitchen, pantry, living | ~15 | ~46% |
+| Fresh water, 98 gal (~817 lb full; tank position assumed) | ~20 | ~29% |
+| Fuel station, 30 gal (~183 lb), fill at the garage front wall | ~23 | ~18% |
+| Garage, front half | ~27 | ~4% |
+| Garage, rear half | ~34 | **about -21%** - takes weight off the ball |
+
+At a ~21% empty pin share (the factory inverter probably sits forward) plus ~140 lb for the conversion, the ball carries **~3,130 lb empty**, leaving **~570 lb** for everything loaded.
+
+**Loading rules:**
+
+1. **Heavy toys and gear go at the back of the garage.** The rear half is the only zone that reduces pin; the front half of the garage sits almost over the axles and does little either way.
+2. **Keep the pass-through and bedroom light.** Nearly everything there lands on the ball - 500 lb of gear in the pass-through adds about 410 lb of pin.
+3. **Travel with the fresh tank low** and fill at the campground. Full, it adds roughly 235 lb of pin.
+4. **Count the dealer's batteries** as front cargo: a lithium pair adds ~50 lb of pin, four 6 V lead-acid ~200 lb.
+5. **Kitchen, pantry and clothes are the budget.** About half their weight reaches the ball; a few hundred pounds is all the headroom allows once the batteries are in.
+
+**Worked cases** (gooseneck, 21% share, axles at 28 ft):
+
+- **Garage-heavy, full cargo:** ~3,690 lb of cargo - 1,800 lb in the rear half of the garage, 1,200 lb in the front half, a full fuel station, a battery pair, ~450 lb in the pass-through, bedroom and kitchen, and the fresh tank empty. Pin **~3,070 lb**, well inside 3,700 lb.
+- **Front-heavy, the same total:** heavy batteries, a loaded pass-through and bedroom, a stocked kitchen and a full fresh tank, with only 1,000 lb in the garage. Pin **~4,500 lb** - far over.
+
+**Settle the two assumptions** with a scale reading of the hitch (measured pin / 14,242 gives the empty share) and a tape measure from the kingpin to the axle center. The same loading also applies towed as a fifth wheel, less the 140 lb of conversion weight.
 
 **From the factory brochure** (pages 12-13, G-Class fifth wheels):
 
