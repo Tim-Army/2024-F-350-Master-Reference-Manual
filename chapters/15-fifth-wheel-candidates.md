@@ -1133,4 +1133,20 @@ Owner-supplied photos of a specific unit's **federal certification label** and *
 
 **How it would have to be loaded as a gooseneck.** Empty, it already puts about 3,000 lb on the ball, leaving ~570-700 lb of pin for everything loaded. Weight near the kingpin counts almost fully on the pin, weight over the axles counts about zero, and weight in the rear of the garage takes pin off. **Using the full cargo figure means putting most of it in the garage**, keeping front storage, bedroom and pantry to a few hundred pounds, and traveling with the fresh tank low. The dealer's batteries go on the pin side if they are mounted forward.
 
+**Price, 26 September 2026.** No selling prices turned up - owners on the Grand Design forum have not posted what they paid for a 350G, and no dealer page shows a sold figure. The evidence is asking prices and the discounts Momentum buyers report.
+
+| Unit | Asking | Note |
+| --- | --- | --- |
+| 2026 new - [Bish's RV, Oak Grove, KY](https://www.bishs.com/product/new-2026-grand-design-momentum-g-class-350g-3407374-26) | **$94,995** | MSRP ~$132,000-137,000 |
+| 2026 new - [Blue Compass RV, Cincinnati, OH](https://www.bluecompassrv.com/product/new-2026-grand-design-momentum-g-class-350g-3555882-26) | **$94,995** | |
+| 2026 new - McClain's RV | $116,295 | |
+| 2024 used - Brookston, TX | $69,500 | |
+| 2023 used - Salida, CO | $82,000 | |
+| 2022 used - Monroe, MI | $74,500 | |
+| 2021 used - Tucson, AZ | $68,500 | Used asking prices span ~$63,000-135,000 across [RV Trader](https://www.rvtrader.com/Grand-Design-Momentum-G-Class-350g/rvs-for-sale?make=Grand+Design%7C765322279&model=MOMENTUM+G-CLASS%7C764977277&trim=350G%7C58334) and [RVUniverse](https://www.rvuniverse.com/listings/for-sale/grand-design/momentum-g-class-350g/rvs) |
+
+- **Momentum buyers report 25-30% off MSRP** before tax ([My Grand RV](https://www.mygrandrv.com/forum/showthread.php/31567-Ordered-Momentum-320G-Today-Interesting); one 320G buyer got 27%). On a ~$132,000-137,000 MSRP that is **~$92,000-103,000 for a new 350G**, so the $94,995 asking prices are already near the bottom of the range.
+- **More than twice the Rogue SUT 323SUT**, which sells new for ~$42,000-45,000. Even a used 2021-2024 350G asks $68,500-82,000.
+- The price of the labeled unit (VIN `573FM4221TBB04456`) is not recorded.
+
 **Against the owner's other limits:** **cargo 3,698 lb is under the 4,000 lb bar** (the reason the Wolf Pack 315PACK12 and Puma 382THS were rejected), and **39 ft 9 in** is at the edge of the 40 ft list. At GVWR the combination is ~25,960 lb against the 29,000 lb GCWR.
