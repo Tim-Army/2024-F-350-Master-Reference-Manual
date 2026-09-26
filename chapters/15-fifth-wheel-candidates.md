@@ -489,14 +489,15 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 
 ## Maybes - live candidates, 21 September 2026
 
-Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating.
+Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating. The Raptor 297SE fits at its full GVWR with ~55 lb to spare, and is the only maybe at or under the 35 ft limit.
 
 | Trailer | Year | Price | Dealer | Length | Height | Garage | GVWR | Pin at GVWR (est.) | Pin at GVWR with GN (est.) | Margin at the accepted 3,700 lb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Palomino Puma Unleashed 351THSS** | 2016 | $19,995 | Bish's RV, Great Falls MT | 37 ft 0 in | 12 ft 0 in | 11 ft 8 in, enclosed, permanent wall | 13,560 | ~2,617 | ~2,757 | **~1,083 lb spare**, or ~943 lb if converted |
 | **Prime Time Spartan 300 3210** (added 23 September 2026) | 2016 | $29,995 | General RV, North Canton OH | 36 ft 2 in (3P; listing says 32 ft 2 in) | 13 ft 2 in | ~10 ft, enclosed, door to the living area | 16,616 | ~3,717 | ~3,857 - **over** | **~17 lb over at full GVWR**; fits loaded to ~16,540 lb. No gooseneck |
+| **Keystone Raptor 297SE** (added 25 September 2026) | 2013 | $39,487 out the door | Campers Inn, Johnstown CO | **35 ft 0 in** (brochure) / 34 ft 1 in (listing) | 13 ft 2 in | 10 ft, **shared** - open to the kitchen | 15,400 | ~3,645 | ~3,785 - **over** | **~55 lb spare** at full GVWR; as a gooseneck, fits loaded to ~15,040 lb |
 
-**The Wolf Pack 315PACK12 was rejected on 22 September 2026 for a 3,274 lb CCC**, after a day as the favorite - see [Rejected](#rejected). The Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). Live candidates are over the 35 ft hard limit and sit on the 40 ft list. Full detail for each is in the verified subsections below.
+**The Wolf Pack 315PACK12 was rejected on 22 September 2026 for a 3,274 lb CCC**, after a day as the favorite - see [Rejected](#rejected). The Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). The Puma and Spartan are over the 35 ft hard limit and sit on the 40 ft list; the Raptor 297SE is at the limit on the brochure's figure. Full detail for each is in the verified subsections below.
 
 ## Enclosed-garage toy haulers - 40 ft maximum
 
@@ -1037,3 +1038,39 @@ Owner-supplied [San Antonio RVs listing](https://www.sanantoniorvs.com/product/u
 **No gooseneck conversion.** At ~3,857 lb it would be over the ceiling. Tow it on a fifth-wheel head such as the [B&W Companion](09-accessories-and-modifications.md).
 
 **Other points.** At **36 ft 2 in** it is over the 35 ft hard limit and sits on the 40 ft list, like the Puma. At **13 ft 2 in** it is 14 in taller than the Puma. It is ten years old: check the tire date codes and the roof.
+
+### Keystone Raptor 297SE (2013) - screened, **MAYBE**
+
+**Marked a maybe by the owner on 25 September 2026.** Owner-supplied [Campers Inn listing](https://www.campersinn.com/product/used-2013-keystone-rv-raptor-raptor-297-3665757-26), floorplan, and the Raptor brochure's **SE Fifth Wheels** spec page.
+
+| Item | Brochure (SE page) | Listing |
+| --- | --- | --- |
+| Shipping (dry) weight | **11,070 lb** | 11,003 lb |
+| Carrying capacity | **4,330 lb** | 4,397 lb |
+| GVWR (dry + carrying) | **15,400 lb** | 15,400 lb |
+| Hitch (dry pin) | **2,620 lb - 23.7%** | 2,610 lb - 23.7% |
+| Exterior length | **35 ft 0 in** (small print; could read 36 ft) | 34 ft 1 in |
+| Height with A/C | 13 ft 2 in | 13 ft 2 in |
+| Tanks - fresh / gray / black | 86 / 82 / 39 gal | the same |
+| LP / awning | 60 lb / 16 ft | - |
+
+The brochure footnote says its **weights reflect a fully equipped coach**, so options such as the Onan 5,500 W generator should already be counted.
+
+| Item | Figure |
+| --- | --- |
+| Price | **$38,988** + $499 doc = **$39,487**; $37,487 with dealer financing (list $51,333) |
+| Dealer | Campers Inn, **Johnstown, CO** - stock 21166547A |
+| VIN | `4YDF29722DR800121` |
+| Layout | 2 slides, sleeps 7, 97 in sofa, dinette, front queen bedroom, side-aisle bath, two entry doors |
+| Garage | **10 ft, shared** - open to the kitchen and dinette, no wall. Optional double electric queen beds with a U-shaped lounge. 30 gal fuel station at the garage end |
+| Tires | ST235/80R16 E on 7,000 lb axles |
+
+**Pin: fits at full GVWR, narrowly.** A 23.7% share scales to **~3,645 lb at 15,400 lb** - **~55 lb inside the accepted 3,700 lb** and ~20 lb over the ~3,625 lb estimate. Against the estimate it would have to stay under ~15,300 lb, which still leaves ~4,230 lb of cargo usable. **CCC 4,330 lb clears the 4,000 lb bar** on the brochure's figure; check the unit's yellow label, which has come in lower than the brochure before.
+
+**Gooseneck conversion - over at GVWR, workable loaded lighter.** A Goose Box adds about 140 lb of pin, giving **~3,785 lb at GVWR, ~85 lb over the 3,700 lb ceiling**. As a gooseneck it fits loaded to about **15,040 lb**, leaving **~3,970 lb** of CCC usable (~3,650 lb against the ~3,625 lb estimate). Whether a Goose Box bolts on depends on the pin box: Reese lists Lippert 1621, 1716, 0719, Rhino and Fabex PB 600, and the Gen 3 adds Lippert 1116, 0115 and RBW 7019/7028. **Read the pin box's tag before counting on it.**
+
+**Length.** The listing's 34 ft 1 in would put it under the 35 ft hard limit; the brochure's **35 ft 0 in** puts it exactly on it. Measure before relying on either.
+
+**Loading.** At 23.7% the pin share is on the high side, so where weight sits matters: garage loading, behind the axles, pulls the pin down, while forward storage pushes it up. The fuel station is at the garage end, which helps.
+
+**Age.** A 2013: check the EPDM roof, the slide seals and the tire date codes.
