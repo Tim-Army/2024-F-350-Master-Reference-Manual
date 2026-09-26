@@ -141,6 +141,23 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 
 - **The count is probably low.** Search results also surfaced 323SUT pages at Quietwoods RV (WI), Oak Lake RV (MN) and Fun Town RV (Texarkana, AR). These were not opened and may be sold.
 
+#### Rogue SUT 323SUT - price range, 26 September 2026
+
+**What units actually sell for is about $42,000-45,000 new**, under half the ~$89,500-92,000 MSRP. Owners rarely post prices paid; no forum post with an out-the-door figure turned up. The evidence:
+
+| Source | Year | Price | Status |
+| --- | --- | --- | --- |
+| Fun Town RV, North Branch, MI (unit 1 above) | 2025 new | **$42,195** | **Sold** - the only confirmed selling price |
+| [Roughrider RV](https://www.roughriderrvs.net/2026-vengeance-rogue-323sut), Dickinson, ND | 2026 new | not disclosed ("call for pricing") | Sold |
+| [RV Dynasty](https://www.rvdynasty.com/product/new-2024-forest-river-rv-vengeance-rogue-sut-323sut-2443937-26), Bunker Hill, IN | 2025 new | $43,495 | Asking |
+| RV Dynasty, Bunker Hill, IN (unit 2 above) | 2026 new | $43,995-44,995\* | Asking; one unit sale pending 14 September |
+| [Fun Town RV](https://www.funtownrv.com/product/new-2025-forest-river-rv-vengeance-rogue-sut-323sut-2936115-26), Amarillo, TX | 2025 new | $54,888 (MSRP $92,066) | Asking |
+| Dakota Discount RV, Rapid City, SD (unit 6 above) | 2025 new | $59,517 (MSRP $90,363) | Asking |
+
+- **Negotiating target: ~$42,000-45,000 plus tax, doc fees and freight** for a new unit.
+- **The $51,000-61,000 listings are asking prices** well above what units have sold for - Kunes (Lake Mills, WI) and the two Camping World units.
+- **The used 2025 at Camping World, Las Vegas is priced above new**: $56,848, raised to $59,598 on 17 September.
+
 ### How they screen against the truck
 
 Pin weight ceiling **~3,625 lb**, from [chapter 10](10-fifth-wheel-and-towing.md).
