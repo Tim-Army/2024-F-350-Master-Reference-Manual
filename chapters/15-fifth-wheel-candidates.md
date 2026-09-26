@@ -1102,7 +1102,7 @@ The brochure footnote says its **weights reflect a fully equipped coach**, so op
 
 ### Grand Design Momentum 350G (2026) - federal label recorded
 
-Owner-supplied photos of a specific unit's **federal certification label** and **tire and loading label**, 26 September 2026 (`imports/Grand Design Momentum 350G/IMG_1784.jpeg`, `IMG_1785.jpeg`). No floorplan or hitch weight for this unit yet. **Not marked a maybe or rejected** - recorded for reference.
+Owner-supplied photos of a specific unit's **federal certification label** and **tire and loading label**, 26 September 2026 (`imports/Grand Design Momentum 350G/IMG_1784.jpeg`, `IMG_1785.jpeg`), and the **2026 Grand Design Momentum brochure** (`imports/Grand Design Momentum 350G/brand_brochure_202606250418566100108946.pdf`, rev 2.24.26). No hitch weight for this unit yet. **Not marked a maybe or rejected** - recorded for reference.
 
 | Item | This unit's labels | Grand Design published (2026) |
 | --- | --- | --- |
@@ -1132,6 +1132,25 @@ Owner-supplied photos of a specific unit's **federal certification label** and *
 **The share is the weak link.** The extra 1,292 lb over the brochure includes the factory inverter, usually mounted in the front compartment. At **~21%**, the gooseneck pin reaches 3,700 lb at about **16,950 lb**, leaving only ~2,710 lb of cargo usable, and the fifth wheel reaches ~3,780 lb at GVWR. **A scale reading of this unit's hitch settles it**: measured pin / 14,242 is the share to use.
 
 **How it would have to be loaded as a gooseneck.** Empty, it already puts about 3,000 lb on the ball, leaving ~570-700 lb of pin for everything loaded. Weight near the kingpin counts almost fully on the pin, weight over the axles counts about zero, and weight in the rear of the garage takes pin off. **Using the full cargo figure means putting most of it in the garage**, keeping front storage, bedroom and pantry to a few hundred pounds, and traveling with the fresh tank low. The dealer's batteries go on the pin side if they are mounted forward.
+
+**From the factory brochure** (pages 12-13, G-Class fifth wheels):
+
+| Item | Brochure |
+| --- | --- |
+| UVW / hitch / GVWR | 12,950 / **2,600** / 18,000 lb - weights "based on average weight of the standard build" |
+| Length / height | **39 ft 9 in hitch to rear** / 13 ft 6 in |
+| Tanks | Fresh **98** / gray 52 / black 52 / 52 gal - the half-bath tank doubles as black or gray |
+| Garage | **14 ft 6 in**. The 350G is the 320G floorplan with the garage lengthened from 11 ft; the 3 ft 6 in difference is the whole length difference (36 ft 3 in vs 39 ft 9 in) |
+| Layout, front to rear | Front queen bedroom (king optional) over an **unobstructed pass-through storage** bay; full bath; kitchen island, 15 cu ft refrigerator and pantry; theater seating in the slide; **30 gal fuel station** with its fill at the **front wall of the garage**; garage with HappiJac rollover sofas and table (optional), overhead bed, TV and washer/dryer prep; ramp door / patio |
+| Standard | **Roto-Flex pin box**; MORryde CRE 3000 suspension; Dexter Tow Assist ABS brakes and sway control; 17.5 in H-rated tires; electric 6-point auto-leveling; **330 W solar, 50 A controller and inverter prep**; 30,000 BTU ducted A/C; 60K BTU tankless water heater |
+| Optional | Generator (4.5 or 6 kW, model-specific); rear patio awning |
+
+**What the brochure changes:**
+
+- **The inverter is an option.** Inverter *prep* is standard, so this unit's factory inverter is part of the extra weight over the standard build.
+- **The fuel station sits at the front of the garage**, near the axles - not at the rear, as on many toy haulers. Its 30 gal (~180 lb of gasoline) adds little pin either way, but it does not help the pin the way a rear tank would.
+- **The pass-through storage is under the bedroom**, close to the kingpin: almost everything put there lands on the ball.
+- **Gooseneck conversion depends on the Roto-Flex's model.** The Roto-Flex is a Lippert pin box in three versions: **1621/1621HD (18,000 lb)**, **1116 (19,000 lb)** and **1621 (21,000 lb)**. The Reese Goose Box (RP85FR, 20,000 lb) replaces the **18,000 lb 1621** only; there is no Goose Box for the 1116, and replacing the 21,000 lb box with a lower-rated one is not recommended ([etrailer](https://www.etrailer.com/question-407515.html)). A Gen-Y gooseneck pin box is the other route ([etrailer](https://www.etrailer.com/question-497593.html)). **Read the model and rating on the pin box's tag** before counting on a conversion.
 
 **Price, 26 September 2026.** No selling prices turned up - owners on the Grand Design forum have not posted what they paid for a 350G, and no dealer page shows a sold figure. The evidence is asking prices and the discounts Momentum buyers report.
 
