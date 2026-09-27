@@ -108,11 +108,11 @@ These are the units found in the lower 48 on 14 September 2026: seven on RV Trad
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | ~~2025~~ | ~~New~~ | ~~North Branch, MI~~ | Fun Town RV - North Detroit | ~~$42,195~~ - **SOLD** (owner, 17 September 2026) | ~480 mi |
 | 2 | 2026 | New | Bunker Hill, IN | [RV Dynasty](https://www.rvdynasty.com/product/new-2026-forest-river-rv-cherokee-rogue-sut-323sut-3464834-26) | $44,995* ("will ship") - **sale pending** (owner, 14 September 2026) | ~257 mi |
-| 3 | 2026 | New | Lake Mills, WI | [Kunes RV of Lake Mills](https://kunesrv.com/inventory/New-2026-Forest_River-Cherokee_Rogue_SUT-323SUT-5NHFVGH27TC005643-163), stock 41W179 | $51,373* | ~315 mi |
+| 3 | 2026 | New | Lake Mills, WI | [Kunes RV of Lake Mills](https://kunesrv.com/inventory/New-2026-Forest_River-Cherokee_Rogue_SUT-323SUT-5NHFVGH27TC005643-163), stock 41W179 | $51,373*; **$49,594\* on 27 September** (price reduced; same on Facebook Marketplace) | ~315 mi |
 | 4 | 2024 | Used | Seffner, FL | [Lazydays by Campers Inn RV](https://www.lazydays.com/rvs/tampa-fl/fifth-wheel/used/2024/forest-river-vengeance-rogue-21164518a) | $56,995 (negotiable) | ~862 mi |
 | 5 | 2025 | Used | Las Vegas, NV | [Camping World](https://rv.campingworld.com/rv/2025-forest-river-rogue-323sut-2658951-las-vegas-nv), stock 2658951 | $56,848; **$59,598 on 17 September** | ~1,381 mi |
 | 6 | 2025 | New | Rapid City, SD | [Dakota Discount RV](https://www.dakotadiscountrv.com/product/new-2025-forest-river-rv-vengeance-rogue-sut-323sut-2820466-26) | $59,517 | ~775 mi |
-| 7 | 2026 | New | Avondale, AZ | [Camping World](https://rv.campingworld.com/rv/2026-forest-river-rogue-323sut-2638510-avondale-az), stock 2638510 | $61,348 | ~1,288 mi |
+| 7 | 2026 | New | Avondale, AZ | [Camping World](https://rv.campingworld.com/rv/2026-forest-river-rogue-323sut-2638510-avondale-az), stock 2638510, VIN `5NHFVGH23TC005638` | $61,348 - **re-listed 27 September at the same price**; **liked by the owner** - see below | ~1,288 mi |
 | 8 | ~~2026~~ | ~~New~~ | ~~Lakeview, OH~~ | RV Wholesalers, stock 005644 | **SOLD** (owner, 17 September 2026) | - |
 
 **Unit 3 labels photographed (owner, 17 September 2026).** VIN **5NHFVGH27TC005643**, matching the Kunes listing. The trailer's own weight label reads:
@@ -154,6 +154,31 @@ At the 14,090 lb GVWR, that leaves about **4,161 lb** of cargo capacity rather t
 Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, sale pending 14 September) and Lake Mills, WI ($51,373\*). Listing links: [Bunker Hill](https://www.rvtrader.com/listing/2026-Forest+River+Rv-Cherokee+Rogue+SUT+323SUT-5039108192), [Lake Mills](https://www.rvtrader.com/listing/2026-Forest+River-Cherokee+Rogue+SUT+323SUT-5040377216), [North Branch](https://www.rvtrader.com/listing/2025-Forest+River+Rv-Vengeance+Rogue+SUT+323SUT-5037909932), [Rapid City](https://www.rvtrader.com/listing/2025-Forest+River+Rv-Vengeance+Rogue+SUT+323SUT-5035405951), [Seffner](https://www.rvtrader.com/listing/2024-Forest+River+Rv-Vengeance+Rogue+323SUT-5039226904), [Avondale](https://www.rvtrader.com/listing/2026-Forest+River-ROGUE+323SUT-5042070125), [Las Vegas](https://www.rvtrader.com/listing/2025-Forest+River-ROGUE+323SUT-5039891362). The Michigan unit is VIN 5NHFVGH25SC005431, stock 215025; the Bunker Hill unit confirms 14,090 lb GVWR and carries a second A/C.
 
 - **The count is probably low.** Search results also surfaced 323SUT pages at Quietwoods RV (WI), Oak Lake RV (MN) and Fun Town RV (Texarkana, AR). These were not opened and may be sold.
+
+**Re-checked 27 September 2026** (RV Trader keyword search, RV Dynasty, RV Wholesalers, Facebook Marketplace). **No new units.** Changes:
+
+| Unit | Change |
+| --- | --- |
+| Lake Mills, WI (Kunes) | **Price reduced $51,373 to $49,594** (also on Facebook Marketplace) |
+| Avondale, AZ (Camping World) | **Re-listed** under a new RV Trader listing (5042070125), same **$61,348** |
+| Bunker Hill, IN (RV Dynasty) | Still advertised at $44,995, "lowest nationwide - will ship"; was sale pending 14 September - **confirm availability** |
+| Lakeview, OH (RV Wholesalers) | Still sold |
+| Rapid City, SD / Seffner, FL / Las Vegas, NV | Unchanged |
+
+**Unit 7, Avondale - liked by the owner (27 September 2026).** Camping World's listing ([RV Trader](https://www.rvtrader.com/listing/2026-Forest+River-ROGUE+323SUT-5042070125)): VIN **5NHFVGH23TC005638**, stock 2638510, **$61,348 "ClearPrice" including freight, prep and documentation fee**.
+
+| Item | Listing |
+| --- | --- |
+| Options | **6,000 W generator**, **second A/C**, Premium package (listed twice), ramp patio railing, two black Euro recliners, Cappuccino interior |
+| Length / exterior height | 34.83 ft / **13 ft 4 in** - the first published height for the 323SUT |
+| Electrical | listed as "55 amp" - presumably 50 amp; confirm |
+| Tanks | 96 gal fresh, 44 gal black |
+| Weight | "9,575 lb" shown as GVWR and weight - a listing error; the GVWR is 14,090 lb |
+
+**What the options mean for loading.** A generator and a second A/C are **factory weight in the UVW**, so they come off the cargo figure: expect this unit's label cargo to be **several hundred pounds below** the Bunker Hill unit's 4,329 lb - plausibly **under the 4,000 lb bar**. If the generator sits in a front compartment, as generators usually do, most of its weight lands on the pin; the truck still has ample margin (~3,060 lb at GVWR on the brochure share, ~640 lb under 3,700), but less than a base unit. **Ask Camping World for a photo of the unit's white and yellow labels** before going further.
+
+**Price.** $61,348 is **~$16,000-19,000 above** what base units sell for (~$42,000-45,000). The generator (a 5.5-6 kW unit is typically a $4,000-6,000 option) and second A/C account for part of that; freight, prep and doc fees are included here but not in RV Dynasty's price. Camping World prices are usually negotiable.
+
 
 #### Rogue SUT 323SUT - loading rules, 26 September 2026
 
