@@ -1584,6 +1584,12 @@ Sources: [Keystone's 2027 page](https://www.keystonerv.com/product/carbon/toy-ha
 | **Options** | Interior Camping Package ($12,350), Exterior Camping Package ($13,650), **5.5 kW generator** ($5,714), ramp patio with awning and steps ($2,847), sliding rear patio door ($904), Solar Flex Protect ($624), **Triple A/C package**, electric beds with dual opposing couches, 6-point hydraulic auto-leveling. **Inverter** included (owner) - not a separate line, so presumably in a camping package | - |
 | **Price** | **MSRP $129,943** (base $93,717 + $36,226 options); sale price not published | A PleasureLand RV listing was $93,995 (14 September) |
 
+**Keystone's Raptor Carbon Series fifth wheel brochure** (`imports/Brochures/brand_brochure_202511200211586966512700.pdf`, owner-supplied 27 September 2026) covers the lineup before the 330 - the **310, 321LT, 338, 360, 363 and 368** - so it gives no 330 figures, but it settles three things:
+
+- **Length is measured from the hitch pin to the rear bumper** ("the distance from the centerline of hitch pin/coupler to rear bumper of trailer"). **The 330's 35 ft 11 in is therefore pin-to-bumper; overall, with the front cap over the truck bed, it is roughly 38 ft** - the figure a campground reservation asks for (see [chapter 16](16-places-to-visit.md)). The same applies to the rejected Carbon 310 (35 ft 11 in).
+- **Standard equipment:** Dexter E-Z Lube **7,000 lb axles** with 12 x 2 in self-adjusting electric brakes; MORryde CRE3000 suspension; **Rota-Flex pin box with MaxTurn**; 6-point hydraulic leveling; **RV Mobile Power Dual Fuel Flex Power fuel-injected 5500e generator**; Furrion Chill Cube A/C with an optional third unit; Everchill 16 cu ft 12 V refrigerator; 35,000 BTU furnace; tankless water heater; Adjust-a-Track frame-welded tie-downs; Extreme Weather Package; two awnings; a new chassis with larger pass-through storage.
+- **The 338 is the nearest listed sibling:** 35 ft 11 in, **12,160 lb**, a **10 ft garage area** with a wall, electric bed with dual opposing sofas, loft twin bed, washer/dryer prep, a single 30 gal fuel tank, dinette and a front king bed. No hitch weight is given for any model.
+
 **Against the truck (Holman unit):**
 
 - **Pin at its 16,415 lb GVWR: ~3,660 lb as a fifth wheel - about 40 lb under 3,700 lb.** As a gooseneck ~3,800 lb, **~100 lb over**. The lower GVWR is what keeps the fifth-wheel pin inside the ceiling.
