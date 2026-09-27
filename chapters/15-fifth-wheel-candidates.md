@@ -1304,7 +1304,7 @@ Owner-supplied **Vehicle Weight Information Sheet (Momentum)**, dated **11/12/20
 | **Cargo** | - | **4,001 lb** |
 | Slides | 2 - **wrong** | **1**, the dinette slide - **confirmed by the owner from the unit's photos**, 27 September 2026 |
 | Sleeps | 4 | 8 |
-| Tanks | 110 fresh / 102 black | 110 fresh / 103 gray / 103 black; 2 x 30 lb LP |
+| Tanks | 110 fresh / 102 black | 110 fresh / 103 gray / 103 black; 2 x 30 lb LP - **wrong: KZ's 2012 brochure gives 102.6 gal waste and gray combined** |
 | Layout | Front bath, front bed, mid kitchen | Floorplan, front to rear: 60 in bed in the front bedroom; bath with a step up to the bedroom; refrigerator and pantry; kitchen and a dinette table in the slide; TV wall with a door into the garage; **10 ft cargo area** with a **96 in cargo door** |
 
 The listing's dry weight and GVWR repeat the spec figures, so they are not this unit's own weights. Kunes also labels its feature list "typical features vary by model", including an **Excursion Edition** package (EZ Flex suspension, aluminum wheels, power awning, dual electric rear beds, 8 cu ft refrigerator) that may or may not be fitted.
@@ -1321,6 +1321,23 @@ The listing's dry weight and GVWR repeat the spec figures, so they are not this 
 4. The **pin box tag**, if a gooseneck conversion is being considered.
 
 **From the unit's photos** (`imports/KZ Inferno 2910T/unit-photo-12.webp`, `unit-photo-13.webp`): the front cap is **chalky and stained**, the front pass-through bay is open with its door not visible, and the graphics are weathered - cosmetic, but consistent with outdoor storage. Look closely at the front cap and the roof edge above it for sealant cracks, and check the compartment door.
+
+**KZ's 2012 Inferno brochure** (`imports/Brochures/KZ12_Inferno_Bro6pg.pdf`, dated 10/7/11) confirms the weights and corrects the tanks:
+
+| Item | 2012 brochure |
+| --- | --- |
+| UVW / hitch / axle weight | **9,699 / 1,742 / 7,957 lb** - "the rolling average unit weight for each model"; a unit's options change it |
+| NCC / GVWR | **4,001 / 13,700 lb** |
+| Length / exterior height / width / interior height | 34 ft 10 in / 148 in (12 ft 4 in) / 100 in / 81 in |
+| Tanks | Fresh **110 gal**; **waste and gray 102.6 gal combined** - not 103 gal each, as RVGuide lists |
+| Refrigerator / water heater / furnace / A/C | 6 cu ft standard (8 cu ft with the Excursion Edition) / 12 gal DSI / 30,000 BTU / 15,000 BTU |
+| Electrical | **50 amp** with a removable cord; Surge Guard transfer switch |
+| Excursion Edition | 8 cu ft refrigerator, aluminum wheels, Fan-Tastic vent, **dual electric rear beds**, ladder, 26 in living-room TV on the 2910T, outside stereo, power awning, ramp threshold, rear screen wall, **ceiling fan** (not otherwise available on the 2910T), diamond plate on sidewalls, Dexter E-Z Flex suspension |
+| Options of note | Fuel cell with pump; 5.5 kW Onan generator (requires the fuel cell); second 13,500 BTU A/C in the bedroom; dual pane windows |
+
+The Kunes unit's ceiling fan, garage beds and aluminum wheels match the **Excursion Edition**.
+
+**A near miss in the same brochure:** the **Inferno 3310T** - 35 ft 3 in, 10,270 lb UVW, 1,820 lb hitch (17.7%), 3,430 lb NCC, 13,700 lb GVWR - is 3 in over the 35 ft limit and under the 4,000 lb cargo bar. The 2012 Sportsmen toy hauler line tops out at the 315TH (35 ft 2 in, 10,300 lb GVWR, 2,220 lb NCC).
 
 **Loading rules** (modeled 27 September 2026 on the 2012 spec weights: 9,699 lb dry, 13,700 lb GVWR, 4,001 lb cargo, 18.0% empty pin share). Zone positions come from the floorplan stretched to the 34 ft 10 in spec length - the floorplan is not to scale. The **axle center (~23 ft) and the fresh tank position are assumed**, and the **axle rating is 2 x 6,000 lb** - confirmed for this floorplan by KZ's 2009 Sportster brochure (the 2910 was the same floorplan); read the unit's white label to be sure. A zone's share of its weight on the pin is (axle distance - zone distance) / axle distance.
 
@@ -1379,7 +1396,7 @@ As a gooseneck, add ~140 lb to each pin figure: front-heavy is ~3,390 lb, still 
 | **Axles** | **2 x 6,000 lb** | - | - |
 | GVWR | 13,700 lb | 13,400 lb | 13,700 lb |
 | **Carrying capacity** | **4,030 lb** | 4,115 lb | 4,001 lb |
-| Tanks - fresh / gray / black | 110 / **38 / 38** gal | 110 / 38 / 38 | 110 / 103 / 103 |
+| Tanks - fresh / gray / black | 110 / **38 / 38** gal (76 gal waste combined) | 110 / 38 / 38 | 110 / **102.6 gal waste and gray combined** (2012 brochure) |
 | LP / furnace / A/C / water heater | 60 lb / 25,000 BTU / 13,500 BTU ducted / 10 gal | - | - |
 | Electrical | **30 amp** | - | 50 amp |
 | Garage | **10 ft**, wall with door at the TV/helmet cabinet; **96 in cargo door**; ramp rated **3,000 lb**; diamond-plate wall protection, D-rings, comfort fan | - | 10 ft, enclosed (photo) |
@@ -1387,7 +1404,7 @@ As a gooseneck, add ~140 lb to each pin figure: front-heavy is ~3,390 lb, still 
 
 **Pin: the most margin of any candidate.** A 17.6% dry share gives **~2,415 lb at 13,700 lb GVWR** as a fifth wheel and **~2,555 lb** as a gooseneck - about **1,285 lb and 1,145 lb** under 3,700 lb. **Cargo 4,030 lb clears the 4,000 lb bar by 30 lb** on the brochure figure; the unit's yellow label decides it. The [Inferno 2910T loading rules](#kz-inferno-2910t-2012---screened-maybe) apply to this floorplan: keep the garage to about 2,400 lb, load forward, and keep the pin share at or above ~15%.
 
-**Tanks are the practical limit.** The 38 gal gray and black tanks are about a third of the 2012 Inferno's - fine at full hookups, tight for dry camping.
+**Tanks are the practical limit.** 38 gal gray and 38 gal black - **76 gal of waste capacity against the 2012 Inferno's 102.6 gal**, about three-quarters of it. (RVGuide's 103 gal *each* for the Inferno was wrong; KZ's 2012 brochure gives 102.6 gal combined.) Fine at full hookups, tight for dry camping.
 
 **From the dealer's 39 photos:**
 
