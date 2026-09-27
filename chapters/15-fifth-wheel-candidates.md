@@ -1534,7 +1534,7 @@ Recorded 27 September 2026 for its data; **not marked a maybe or rejected**. Two
 - **Unit A - federal and tire labels**, owner-supplied (`imports/2027 Stealth 2710/white label.png`): VIN `4X4FSFC22VF025856`. The owner reports a **factory-installed inverter**.
 - **Unit B - Rowley White RV, Phoenix, AZ**, stock 25840W, VIN `4X4FSFC29VF025840` ([listing](https://www.rowleywhite.com/product/new-2027-forest-river-rv-stealth-2710-3664139-26)). **Sold - deal pending** on 27 September; kept for its price and option data.
 
-**It is the same design as the [Sandstorm 2710 and Nightfall 270N](#the-sandstorm-2710-and-nightfall-270n---two-different-campers)** - Forest River publishes identical specifications for all three. The Sandstorm 2710 was rejected on 14 September as too expensive.
+**It is a Stealth, a separate model from the Sandstorm 2710** (owner, 27 September 2026). Forest River happens to publish the same headline specifications for the 2027 Stealth 2710, [Sandstorm 2710 and Nightfall 270N](#the-sandstorm-2710-and-nightfall-270n---two-different-campers) - as with those two, matching spec sheets do not make them the same trailer. The Sandstorm 2710's rejection on price does not carry over.
 
 | Item | Unit A labels | Unit B listing | Forest River 2027 |
 | --- | --- | --- | --- |
@@ -1560,5 +1560,5 @@ Recorded 27 September 2026 for its data; **not marked a maybe or rejected**. Two
 - **Pin is the uncertainty.** At the published 22.9% share, scaled to GVWR, the pin is **~3,380 lb** (~3,520 lb as a gooseneck). But an inverter with lithium batteries and a generator usually sit in the **front compartment**; if most of Unit A's extra 810 lb is there, the empty pin could reach ~2,800 lb and a full load could **approach or exceed 3,700 lb**. A dealer hitch weight or a scale reading settles it.
 - **The 150 gal fresh tank is ~1,250 lb full** - over a quarter of the cargo figure. Travel with it low.
 
-**Price:** $64,900 out the door before tax for a generator-equipped unit - about **$20,000 above** a new Rogue SUT 323SUT, and in line with the earlier Sandstorm 2710 rejection on price.
+**Price:** $64,900 out the door before tax for a generator-equipped unit - about **$20,000 above** a new Rogue SUT 323SUT.
 
