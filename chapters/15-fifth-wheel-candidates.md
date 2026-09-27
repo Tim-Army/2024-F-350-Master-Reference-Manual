@@ -177,6 +177,28 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 
 **What the options mean for loading.** A generator and a second A/C are **factory weight in the UVW**, so they come off the cargo figure: expect this unit's label cargo to be **several hundred pounds below** the Bunker Hill unit's 4,329 lb - plausibly **under the 4,000 lb bar**. If the generator sits in a front compartment, as generators usually do, most of its weight lands on the pin; the truck still has ample margin (~3,060 lb at GVWR on the brochure share, ~640 lb under 3,700), but less than a base unit. **Ask Camping World for a photo of the unit's white and yellow labels** before going further.
 
+**Loading rules for this unit** (modeled 27 September 2026). The base is the Bunker Hill unit's label-implied empty weight (~9,760 lb) and Forest River's 21.7% dry pin share, plus **estimated** option weights: **generator ~230 lb** with mount (5.5-6 kW RV generators typically weigh 200-300 lb), assumed in a **front compartment ~3 ft behind the kingpin**; **second A/C ~90 lb** on the bedroom roof; **patio railing ~40 lb** at the rear. Zones and the ~23 ft axle center are as in the [323SUT loading rules](#rogue-sut-323sut---loading-rules-26-september-2026).
+
+- **Empty weight ~10,120 lb**, so **estimated cargo ~3,970 lb - about 30 lb under the 4,000 lb bar** (the Bunker Hill label shows 4,329 lb).
+- **Empty pin ~2,370 lb**, about 250 lb more than a base unit, because the generator and A/C sit forward.
+
+| Loading, fifth wheel | Cargo | Pin | Trailer axles (12,000 lb) |
+| --- | --- | --- | --- |
+| Empty | 0 | ~2,370 lb | ~7,750 lb |
+| Full, balanced | ~3,590 lb | **~2,610 lb** | ~11,100 lb |
+| Full, garage-heavy | ~3,630 lb | ~2,220 lb (16% share) | ~11,525 lb |
+| Full, front-heavy (loaded front bay, full fresh tank, heavy batteries) | ~3,530 lb | **~3,570 lb** - ~130 lb under 3,700 | ~10,500 lb |
+
+As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 lb.**
+
+**Rules for this unit:**
+
+1. **Moderate the front.** The generator already puts ~200 lb on the pin, so keep the front bay light and do not travel with a full fresh tank *and* heavy front storage - especially as a gooseneck.
+2. **The garage is less of a risk than on a base unit.** The forward option weight balances a loaded garage; the pin share stays near 16% and the axles have ~500 lb in hand even garage-heavy. The ~2,500 lb garage guideline still applies.
+3. **Find out where the generator is mounted.** Toward the garage (~23 ft) its pin effect nearly disappears; in the front compartment it is the largest single forward weight.
+4. **Count the dealer's batteries** as front cargo.
+5. **The labels decide it.** The white label gives this unit's real empty weight and the yellow label its cargo figure. At an estimated ~3,970 lb it could fall either side of the 4,000 lb bar.
+
 **Price.** $61,348 is **~$16,000-19,000 above** what base units sell for (~$42,000-45,000). The generator (a 5.5-6 kW unit is typically a $4,000-6,000 option) and second A/C account for part of that; freight, prep and doc fees are included here but not in RV Dynasty's price. Camping World prices are usually negotiable.
 
 
