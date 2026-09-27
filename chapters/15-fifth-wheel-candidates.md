@@ -754,6 +754,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | Grand Design Momentum 325G | Over 35 ft (35 ft 6 in); also marginal on weight, and its 15 ft garage is shared, not enclosed. Rejected 14 September 2026 under the length limit |
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
+| 2027 Forest River Stealth 2710 | **Shared garage** - 15 ft 7 in, open to the living area. Rejected by the owner 27 September 2026. Otherwise fit: 32 ft 3 in; 4,431 lb cargo on a unit's label; pin ~3,380 lb at GVWR on the published share, higher if its generator and inverter sit forward. A generator-equipped unit sold for $64,900 (MSRP $97,216) at Rowley White RV |
 | 2018 Keystone Impact 3219 | Rejected by the owner 21 September 2026 |
 | 2022 Keystone Carbon 338 | **Too heavy.** Rejected by the owner 23 September 2026. 12,230 lb empty and 16,820 lb GVWR, both from the federal label; at full GVWR the pin share would have to stay under ~22% to fit the accepted 3,700 lb, and at a typical 25% it would be ~4,205 lb |
 | 2014 Palomino Puma Unleashed 356QLB | **Pin too heavy.** Rejected by the owner 22 September 2026. 27.8% dry pin share gives ~3,678 lb at its 13,243 lb GVWR - inside the accepted 3,700 lb by only ~22 lb, with no gooseneck option (~3,818 lb) and owner reports of a very heavy pin. $16,922 at San Antonio RVs |
@@ -1527,9 +1528,9 @@ The same floorplan three years apart - the Findlay unit against the Kunes unit.
 
 **What each still has to prove:** for the Sportster, **that its garage is walled** - no photo shows it yet; for the Inferno, **that it has no hidden water damage**, given the long outdoor storage its front cap shows. For both, the roof, underside, tire date codes and the **yellow cargo label** settle it. Both brochure cargo figures sit within 30 lb of the 4,000 lb bar, so each unit's actual weight decides whether it passes.
 
-### Forest River Stealth 2710 (2027) - recorded for reference
+### Forest River Stealth 2710 (2027) - REJECTED 27 September 2026 (shared garage)
 
-Recorded 27 September 2026 for its data; **not marked a maybe or rejected**. Two units, 16 VIN serials apart:
+**Rejected by the owner on 27 September 2026: shared garage.** Recorded 27 September 2026; the details below are kept for reference. Two units, 16 VIN serials apart:
 
 - **Unit A - federal and tire labels**, owner-supplied (`imports/2027 Stealth 2710/white label.png`): VIN `4X4FSFC22VF025856`. The owner reports a **factory-installed inverter**.
 - **Unit B - Rowley White RV, Phoenix, AZ**, stock 25840W, VIN `4X4FSFC29VF025840` ([listing](https://www.rowleywhite.com/product/new-2027-forest-river-rv-stealth-2710-3664139-26)). **Sold - deal pending** on 27 September; kept for its price and option data.
