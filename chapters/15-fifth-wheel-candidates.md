@@ -108,7 +108,7 @@ These are the units found in the lower 48 on 14 September 2026: seven on RV Trad
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | ~~2025~~ | ~~New~~ | ~~North Branch, MI~~ | Fun Town RV - North Detroit | ~~$42,195~~ - **SOLD** (owner, 17 September 2026) | ~480 mi |
 | 2 | 2026 | New | Bunker Hill, IN | [RV Dynasty](https://www.rvdynasty.com/product/new-2026-forest-river-rv-cherokee-rogue-sut-323sut-3464834-26) | $44,995* ("will ship") - **sale pending** (owner, 14 September 2026) | ~257 mi |
-| 3 | 2026 | New | Lake Mills, WI | [Kunes RV of Lake Mills](https://kunesrv.com/inventory/New-2026-Forest_River-Cherokee_Rogue_SUT-323SUT-5NHFVGH27TC005643-163), stock 41W179 | $51,373*; **$49,594\* on 27 September** (price reduced; same on Facebook Marketplace) | ~315 mi |
+| 3 | 2026 | New | Lake Mills, WI | [Kunes RV of Lake Mills](https://kunesrv.com/inventory/New-2026-Forest_River-Cherokee_Rogue_SUT-323SUT-5NHFVGH27TC005643-163), stock 41W179 | $51,373*; **$49,594\* on 27 September** (price reduced; same on Facebook Marketplace). **Listed since about 16 May 2026** - 19 weeks on Facebook, "120+ days" on RV Trader | ~315 mi |
 | 4 | 2024 | Used | Seffner, FL | [Lazydays by Campers Inn RV](https://www.lazydays.com/rvs/tampa-fl/fifth-wheel/used/2024/forest-river-vengeance-rogue-21164518a) | $56,995 (negotiable) | ~862 mi |
 | 5 | 2025 | Used | Las Vegas, NV | [Camping World](https://rv.campingworld.com/rv/2025-forest-river-rogue-323sut-2658951-las-vegas-nv), stock 2658951 | $56,848; **$59,598 on 17 September** | ~1,381 mi |
 | 6 | 2025 | New | Rapid City, SD | [Dakota Discount RV](https://www.dakotadiscountrv.com/product/new-2025-forest-river-rv-vengeance-rogue-sut-323sut-2820466-26) | $59,517 | ~775 mi |
@@ -159,7 +159,7 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 
 | Unit | Change |
 | --- | --- |
-| Lake Mills, WI (Kunes) | **Price reduced $51,373 to $49,594** (also on Facebook Marketplace) |
+| Lake Mills, WI (Kunes) | **Price reduced $51,373 to $49,594** (also on Facebook Marketplace). **On sale since about 16 May 2026** - over 4 months. Negotiating points: aged 2026 stock with 2027s arriving, one price cut already, new units selling at ~$42,000-45,000, and RV Dynasty's $44,995 with no prep or freight fees. A reasonable opening is ~$43,000-44,000 |
 | Avondale, AZ (Camping World) | **Re-listed** under a new RV Trader listing (5042070125), same **$61,348** |
 | Bunker Hill, IN (RV Dynasty) | Still advertised at $44,995, "lowest nationwide - will ship"; was sale pending 14 September - **confirm availability** |
 | Lakeview, OH (RV Wholesalers) | Still sold |
