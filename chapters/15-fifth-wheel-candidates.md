@@ -1285,7 +1285,7 @@ Owner-supplied **Vehicle Weight Information Sheet (Momentum)**, dated **11/12/20
 
 ### KZ Inferno 2910T (2012) - screened, **MAYBE**
 
-**Marked a maybe by the owner on 27 September 2026.** Owner-supplied [Kunes RV listing](https://kunesrv.com/inventory/Used-2012-KZ-Inferno-2910T-4EZFH2920C6071430-159) and a photo of the garage. Specifications from [RVGuide's 2012 entry](https://www.rvguide.com/specs/kz/toy-hauler/2012/inferno/2910t.html).
+**Marked a maybe by the owner on 27 September 2026.** Owner-supplied [Kunes RV listing](https://kunesrv.com/inventory/Used-2012-KZ-Inferno-2910T-4EZFH2920C6071430-159), a photo of the garage, and the 2012 floorplan from RVGuide (`imports/KZ Inferno 2910T/floorplan-2012-2910T.png`). Specifications from [RVGuide's 2012 entry](https://www.rvguide.com/specs/kz/toy-hauler/2012/inferno/2910t.html).
 
 **It is the third toy hauler found at 35 ft or under with an enclosed garage**, after the Rogue SUT 323SUT and the KZ Sportster 311TH10. The owner's photo shows a solid wall between garage and living area, with a **glass-panel door**, a pass-through window with a fold-down shelf, and the side entry door opening into the garage.
 
@@ -1300,16 +1300,16 @@ Owner-supplied **Vehicle Weight Information Sheet (Momentum)**, dated **11/12/20
 | Dry weight / GVWR | 9,699 / 13,700 lb | 9,699 / 13,700 lb |
 | **Hitch** | - | **1,742 lb - 18.0%** |
 | **Cargo** | - | **4,001 lb** |
-| Slides | **2** | **1** |
+| Slides | **2** | **1** - the floorplan shows one, the dinette slide |
 | Sleeps | 4 | 8 |
 | Tanks | 110 fresh / 102 black | 110 fresh / 103 gray / 103 black; 2 x 30 lb LP |
-| Layout | Front bath, front bed, mid kitchen | Front bedroom, center bath |
+| Layout | Front bath, front bed, mid kitchen | Floorplan, front to rear: 60 in bed in the front bedroom; bath with a step up to the bedroom; refrigerator and pantry; kitchen and a dinette table in the slide; TV wall with a door into the garage; **10 ft cargo area** with a **96 in cargo door** |
 
 The listing's dry weight and GVWR repeat the spec figures, so they are not this unit's own weights. Kunes also labels its feature list "typical features vary by model", including an **Excursion Edition** package (EZ Flex suspension, aluminum wheels, power awning, dual electric rear beds, 8 cu ft refrigerator) that may or may not be fitted.
 
 **Pin: the most margin of any candidate.** An 18.0% dry share scales to **~2,470 lb at 13,700 lb GVWR** as a fifth wheel and **~2,610 lb** as a gooseneck - about **1,230 lb and 1,090 lb** under 3,700 lb. At GVWR the combination is ~21,660 lb against the 29,000 lb GCWR.
 
-**Cargo is the open question.** The spec's **4,001 lb clears the 4,000 lb bar by 1 lb**. A 14-year-old unit has usually gained weight, and if this one has **2 slides** rather than the spec's 1, its real cargo figure is very likely under 4,000 lb. **The unit's yellow cargo label decides it.**
+**Cargo is the open question.** The spec's **4,001 lb clears the 4,000 lb bar by 1 lb**. A 14-year-old unit has usually gained weight. **The floorplan shows one slide**, so the listing's "2 slides" is probably an error, but confirm it: a second slide would put the real cargo figure well under 4,000 lb. **The unit's yellow cargo label decides it.**
 
 **Before going further, ask Kunes for:**
 
