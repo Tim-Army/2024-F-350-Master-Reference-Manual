@@ -1320,6 +1320,38 @@ The listing's dry weight and GVWR repeat the spec figures, so they are not this 
 
 **From the unit's photos** (`imports/KZ Inferno 2910T/unit-photo-12.webp`, `unit-photo-13.webp`): the front cap is **chalky and stained**, the front pass-through bay is open with its door not visible, and the graphics are weathered - cosmetic, but consistent with outdoor storage. Look closely at the front cap and the roof edge above it for sealant cracks, and check the compartment door.
 
+**Loading rules** (modeled 27 September 2026 on the 2012 spec weights: 9,699 lb dry, 13,700 lb GVWR, 4,001 lb cargo, 18.0% empty pin share). Zone positions come from the floorplan stretched to the 34 ft 10 in spec length - the floorplan is not to scale. The **axle center (~23 ft) and the fresh tank position are assumed**, and the **axle rating (2 x 6,000 lb) is assumed** until read off the white label. A zone's share of its weight on the pin is (axle distance - zone distance) / axle distance.
+
+| Zone | Feet behind kingpin | Share of its weight on the pin |
+| --- | --- | --- |
+| Batteries and propane (front) | ~1 | ~96% |
+| Front pass-through storage | ~2 | ~91% |
+| Bedroom and bath | ~5 | ~78% |
+| Kitchen, pantry, dinette | ~15 | ~35% |
+| Fresh water, 110 gal (~917 lb full; position assumed) | ~16 | ~30% |
+| Fuel station, optional (30 gal) | ~23 | ~0% |
+| Garage, front half | ~25 | about -8% |
+| Garage, rear half | ~30 | **about -30%** - takes weight off the pin |
+
+At 18.0% the pin is **~1,750 lb empty**, about 1,950 lb below 3,700 lb.
+
+| Loading, fifth wheel (~3,990 lb cargo) | Pin | Pin share | Trailer axles |
+| --- | --- | --- | --- |
+| Empty | ~1,750 lb | 18.0% | ~7,950 lb |
+| Full, balanced | **~2,205 lb** | 16% | ~11,480 lb |
+| Full, garage-heavy (~3,050 lb in the garage) | ~1,670 lb | **12% - too light** | **~12,020 lb - at the assumed rating** |
+| Full, front-heavy (full fresh tank, loaded front bay) | **~3,250 lb** - ~450 lb under 3,700 | 24% | ~10,430 lb |
+
+As a gooseneck, add ~140 lb to each pin figure: front-heavy is ~3,390 lb, still inside 3,700 lb.
+
+**Like the Rogue SUT, and the reverse of the Momentum 350G:** the truck is never the constraint. The trailer's own axles and a too-light pin are.
+
+1. **Keep the garage to about 2,400 lb.** More than that approaches the trailer axles' likely rating.
+2. **Keep the pin share at or above ~15%.** This trailer starts at 18%, the lowest recorded, so heavy garage loading takes it below the ~15-25% generally recommended for steady towing.
+3. **Use the front pass-through bay freely** - forward weight is the fix here, and the truck has ~1,500 lb of pin headroom at full cargo when balanced.
+4. **Fresh water is fine for the truck** (a full tank adds ~280 lb of pin) but a full 110 gal tank is ~917 lb - almost a quarter of the cargo figure.
+5. **The 4,001 lb spec cargo does not take out propane.** Two full 30 lb cylinders use 60 lb of it.
+
 **Dealer photo set, 22 images** (`imports/2910T kunes/`, reviewed 27 September 2026):
 
 - **Confirmed:** one slide - the U-dinette; the enclosed garage (wall, glass-panel door, pass-through window with shelf, side entry door), diamond-plate trim, floor D-rings and an overhead cargo net; **dual electric beds in the garage**, which with the aluminum wheels confirms the **Excursion Edition**; a Norcold gas/electric refrigerator; a tub and shower with skylight; queen bed with mirrored wardrobes; ceiling fan, 12 V lights and a flat-screen TV.
