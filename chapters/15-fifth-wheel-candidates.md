@@ -155,6 +155,44 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 
 - **The count is probably low.** Search results also surfaced 323SUT pages at Quietwoods RV (WI), Oak Lake RV (MN) and Fun Town RV (Texarkana, AR). These were not opened and may be sold.
 
+#### Rogue SUT 323SUT - loading rules, 26 September 2026
+
+Modeled on the **Bunker Hill unit** (unit 2): 14,090 lb GVWR, 4,329 lb cargo label, 6,000 lb axles, **no inverter**, and an empty weight of ~9,760 lb implied by the cargo figure. Zone positions are measured from [Forest River's floorplan](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843), in feet behind the kingpin. The **axle center (~23 ft) and the fuel station and fresh tank positions are not on the floorplan and are assumed**. A zone's share of its weight that lands on the pin is (axle distance - zone distance) / axle distance.
+
+| Zone | Feet behind kingpin | Share of its weight on the pin |
+| --- | --- | --- |
+| Dealer batteries (front compartment) | ~2 | ~91% |
+| Front storage and wardrobes | ~3 | ~87% |
+| Bedroom and bath | ~6 | ~74% |
+| Kitchen, pantry, living | ~16 | ~30% |
+| Fresh water, 96 gal (~800 lb full; position assumed) | ~17 | ~26% |
+| Fuel station, 30 gal (~183 lb; position assumed) | ~23 | ~0% |
+| Garage, front half | ~24.5 | about -7% |
+| Garage, rear half | ~30 | **about -30%** - takes weight off the pin |
+
+At the brochure's 21.7% dry share the pin is **~2,120 lb empty** - about 1,580 lb below 3,700 lb.
+
+**This trailer's risk is the reverse of the Momentum 350G's.** The truck is not the constraint; the trailer's own axles and the pin share are.
+
+| Loading, fifth wheel | Cargo | Pin | Trailer axles (12,000 lb) |
+| --- | --- | --- | --- |
+| Empty | 0 | ~2,120 lb | ~7,640 lb |
+| Full, balanced | ~4,210 lb | **~2,430 lb** (17% share) | ~11,540 lb |
+| Full, almost all in the garage (~3,100 lb there) | ~4,160 lb | ~1,910 lb (**14% share**) | **~12,010 lb - at the rating** |
+| Full, front-heavy (heavy batteries, loaded front storage, full fresh tank) | ~4,230 lb | **~3,405 lb** - ~295 lb under 3,700 | ~10,590 lb |
+
+As a gooseneck, add ~140 lb to each pin figure: even front-heavy it is ~3,545 lb, still inside 3,700 lb.
+
+**Loading rules:**
+
+1. **Spread the load; do not pile it in the garage.** Keep the garage to about **2,500 lb** total. Much more than that brings the trailer axles to their 12,000 lb rating.
+2. **Keep the pin share at or above ~15%.** Loading heavily behind the axles drops it to ~14%, below the ~15-25% generally recommended for a fifth wheel to tow steadily.
+3. **Load the front storage, bedroom and kitchen normally.** The truck has ~1,300 lb of pin headroom even at full cargo, so forward weight is not a problem here.
+4. **Fresh water is free to carry** as far as the truck is concerned - a full tank adds ~210 lb of pin - but it counts against the 4,329 lb cargo figure.
+5. **Count the dealer's batteries** as front cargo; almost all of their weight lands on the pin.
+
+**Settle the assumptions** with the dealer's weight sheet or a scale reading of the hitch (measured pin / UVW gives the empty share) and a tape measure from the kingpin to the axle center.
+
 #### Rogue SUT 323SUT - price range, 26 September 2026
 
 **What units actually sell for is about $42,000-45,000 new**, under half the ~$89,500-92,000 MSRP. Owners rarely post prices paid; no forum post with an out-the-door figure turned up. The evidence:
