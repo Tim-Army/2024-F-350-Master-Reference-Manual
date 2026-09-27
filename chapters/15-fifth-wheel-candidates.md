@@ -220,7 +220,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 | --- | --- | --- | --- | --- | --- |
 | Keystone Raptor Carbon **310** (2026, Keystone model page supplied by the owner) | 35 ft 11 in | **16,380** (11,085 shipping + 5,295 CCC) | 2,380 | 22% | **Open concept, shared 20 ft garage** (19 ft 9 in on the floorplan, 72 in wide at the kitchen), dual opposing sofas with queen bed above, swivel chairs, 5,000 lb tie-downs, 94 / 88 / 44 gal, 13 ft 3 in high. Its 21.5% dry pin ratio gives **~3,515 lb at GVWR, about 110 lb under the ceiling**. Workable only with disciplined loading. Added 14 September 2026 |
 | Grand Design Momentum 320G | 36 ft 3 in | 16,400 (Grand Design; RVGuide 2025 says 16,800) | 2,300 | 22% | Workable only well under GVWR - **rejected by the owner 14 September 2026: too expensive**. Floorplan shows an **enclosed 11 ft garage** (17 September) |
-| Grand Design Momentum 325G | 35 ft 6 in | 16,400 | 2,474 | 22% | As above - **no used units for sale** (owner, 14 September 2026) |
+| Grand Design Momentum 325G | 35 ft 6 in | 16,400 | 2,474 | 22% | As above - **no used units for sale** (owner, 14 September 2026). **Shared 15 ft garage** - the floorplan (owner, 26 September 2026) shows no wall: 16 ft 3 in of open floor from the ramp door to the kitchen island, with a rollover sofa and Euro chairs in the living area. 60 gal fuel station |
 | Dutchmen Voltage Triton 3351 (2018) | 36 ft 5 in | **16,800** | 2,872 | 22% | Proposed from [J.D. Power](https://www.jdpower.com/rvs/2018/voltage/m-3351/specs): 16,800 lb GVWR and a **15 ft 6 in** garage, against the 16,500 lb and 20 ft 3 in previously carried. **The Dutchmen brochure (14 September 2026) confirms the 16,800 lb GVWR and the 20 ft 3 in garage.** The 15 ft 6 in figure was wrong |
 
 #### Verified 11 September 2026
@@ -646,7 +646,7 @@ This table lists the brands that have built fifth-wheel toy haulers since 2018. 
 | 2021 Forest River Stealth SA3019G | Over 35 ft (36 ft 5 in). Rejected 14 September 2026 under the length limit |
 | Keystone Raptor Carbon 310 | Over 35 ft (35 ft 11 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Cherokee Wolf Pack 315PACK12 | Over 35 ft (39 ft 3 in-40 ft 7 in). Rejected 14 September 2026 under the length limit |
-| Grand Design Momentum 325G | Over 35 ft (35 ft 6 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
+| Grand Design Momentum 325G | Over 35 ft (35 ft 6 in); also marginal on weight, and its 15 ft garage is shared, not enclosed. Rejected 14 September 2026 under the length limit |
 | Grand Design Momentum 351M | Over 35 ft (38 ft 9 in); also marginal on weight. Rejected 14 September 2026 under the length limit |
 | Forest River Sandstorm 2710 (2027) | Too expensive. Rejected by the owner 14 September 2026 |
 | 2018 Keystone Impact 3219 | Rejected by the owner 21 September 2026 |
