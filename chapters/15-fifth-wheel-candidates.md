@@ -1196,3 +1196,36 @@ At a ~21% empty pin share (the factory inverter probably sits forward) plus ~140
 - The price of the labeled unit (VIN `573FM4221TBB04456`) is not recorded.
 
 **Against the owner's other limits:** **cargo 3,698 lb is under the 4,000 lb bar** (the reason the Wolf Pack 315PACK12 and Puma 382THS were rejected), and **39 ft 9 in** is at the edge of the 40 ft list. At GVWR the combination is ~25,960 lb against the 29,000 lb GCWR.
+
+#### Grand Design weight sheet - a weighed 350G sibling, built 11/2019
+
+Owner-supplied **Vehicle Weight Information Sheet (Momentum)**, dated **11/12/2019**, for VIN `573FM4120L1115744` (`imports/Grand Design Momentum 350G/weight-sheet-573FM4120L1115744.png`). The owner identified it as a 2019 Momentum; the **L** in the VIN's model-year position makes it a **2020 model year**. The sheet does not name the floorplan, but the VIN pattern (`573FM412...`) matches a known 2019 350G (`573FM412XK1113787`), and the tanks match that unit's listing (105 + 12 gal water heater = 117 gal fresh, 78 gray, 78 black), so it is very likely the same 350G design.
+
+| Item | Weight sheet (weighed) | 2026 brochure |
+| --- | --- | --- |
+| GVWR / GAWR | 16,800 lb / 7,000 lb x 2 = 14,000 lb | 18,000 lb / 8,000 lb x 2 |
+| **UVW** | **12,864 lb** | 12,950 lb |
+| **Hitch** | **2,656 lb - 20.6% of UVW** | 2,600 lb - 20.1% |
+| Street / curb side | 5,284 / 4,924 lb (axles 10,208 lb) | - |
+| Fresh water | 105 gal (872 lb) + 12 gal water heater (100 lb) | 98 gal |
+| Gray / black | 78 / 78 gal | 52 / 52 / 52 |
+| LP | 60 lb | - |
+| **CCC** | **3,876 lb - fresh water *not* subtracted** | - |
+
+**It is the first measured hitch weight for this model family.** Hitch plus axles equals the UVW exactly (2,656 + 10,208 = 12,864), so the sheet is internally consistent. The unit sits about **360 lb heavier on the street side**.
+
+**What it shows:**
+
+- **The real pin share runs a little above the brochure: 20.6%, not 20.1%.** Use 20.6% for this model until a unit's own hitch is weighed.
+- **Grand Design's CCC assumes an empty fresh tank.** The sheet's own definition subtracts full fresh water and LP, but its footnote says fresh water was *not* subtracted: 16,800 - 12,864 - 60 = 3,876. **With the fresh tank and water heater full (972 lb), usable cargo is ~2,900 lb.**
+- **This unit at GVWR:** ~3,470 lb pin as a fifth wheel, ~3,610 lb as a gooseneck - inside 3,700 lb by ~90 lb.
+
+**Applied to the other 350Gs recorded here, at 20.6%:**
+
+| Unit | UVW | Pin empty (FW / GN) | Pin at GVWR (FW / GN) | Cargo, GD method (GVWR - UVW - 60 lb LP) |
+| --- | --- | --- | --- | --- |
+| 2019, VIN `573FM412XK1113787` (General RV, Orlando, $39,995) | 13,470 | ~2,780 / ~2,920 | ~3,470 / **~3,610** | **~3,270 lb** - under the 4,000 lb bar |
+| 2026, VIN `573FM4221TBB04456` (labels above) | 14,242 | ~2,935 / ~3,075 | **~3,710 / ~3,850** - over | 3,698 lb (tire and loading label) |
+
+**The 2026 unit's verdict changes at the measured share.** At 20.1% it fit at GVWR as a fifth wheel with ~86 lb to spare; at 20.6% it is **~10 lb over as a fifth wheel and ~150 lb over as a gooseneck** at full GVWR, before allowing for the factory inverter. The loading rules above still apply - garage-heavy loading keeps it inside - but it cannot be loaded to its rating front-heavy or evenly.
+
