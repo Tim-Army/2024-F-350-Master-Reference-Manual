@@ -51,6 +51,30 @@ This matters on back-in sites where the truck must fit on the pad, and on tight 
 
 This is the trade-off behind the **35 ft hard limit** and the separate **40 ft list** in chapter 15.
 
+## Trip costs - propane
+
+Added 26 September 2026. Prices are for refilling the trailer's own cylinders at a pay-at-the-pump station (U-Haul, Tractor Supply and similar), **excluding the western states**.
+
+| Region | Refill price |
+| --- | --- |
+| South and Midwest | ~$3.00-3.50/gal |
+| Northeast | ~$3.75-4.00/gal, some stores up to ~$4.50 |
+| **Planning figure** | **~$3.50/gal** |
+
+**Refill, do not exchange.** An exchange "20 lb" cylinder (Blue Rhino and similar) holds only 15 lb, so it costs far more per gallon than refilling your own. Residential delivery prices are lower (EIA national average **$2.67/gal**, end of March 2026) and do not apply to cylinder refills.
+
+**Cost for the trailer's two 30 lb cylinders** (about 7 gal each, ~14 gal together - the 60 lb propane allowance on the trailer labels in [chapter 15](15-fifth-wheel-candidates.md)), refilled from empty every two weeks:
+
+| | At $3.00/gal | At $3.50/gal | At $4.00/gal |
+| --- | --- | --- | --- |
+| Per refill, both cylinders | $42 | **$49** | $56 |
+| Per month (~2.2 refills) | $91 | **$106** | $121 |
+| Per year (26 refills) | $1,092 | **$1,274** | $1,456 |
+
+**Budget about $50 every two weeks, roughly $1,300 a year.** Actual spending is usually lower: cylinders are topped up before they run dry, and only what goes in is paid for. **The furnace is the big user** - in cold weather it can empty both cylinders in a week or less, while mild weather (fridge, water heater, cooktop) can stretch 14 gal over several weeks. A single 20 lb cylinder (~4.7 gal) costs ~$14-19 to refill.
+
+Sources: [PropaneTankRefillCost](https://propanetankrefillcost.com/), [U-Haul refill 2026](https://propanetankrefillcost.com/u-haul/), [Tractor Supply](https://www.tractorsupply.com/tsc/services/propane-refill), [EIA residential propane price](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=M_EPLLPA_PRS_NUS_DPG&f=M).
+
 ## Wish list
 
 | Place | Region / state | Type | Best season | Access and rig notes | Status |
