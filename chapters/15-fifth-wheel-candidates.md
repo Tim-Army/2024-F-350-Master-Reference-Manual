@@ -1300,7 +1300,7 @@ Owner-supplied **Vehicle Weight Information Sheet (Momentum)**, dated **11/12/20
 | Dry weight / GVWR | 9,699 / 13,700 lb | 9,699 / 13,700 lb |
 | **Hitch** | - | **1,742 lb - 18.0%** |
 | **Cargo** | - | **4,001 lb** |
-| Slides | **2** | **1** - the floorplan shows one, the dinette slide |
+| Slides | 2 - **wrong** | **1**, the dinette slide - **confirmed by the owner from the unit's photos**, 27 September 2026 |
 | Sleeps | 4 | 8 |
 | Tanks | 110 fresh / 102 black | 110 fresh / 103 gray / 103 black; 2 x 30 lb LP |
 | Layout | Front bath, front bed, mid kitchen | Floorplan, front to rear: 60 in bed in the front bedroom; bath with a step up to the bedroom; refrigerator and pantry; kitchen and a dinette table in the slide; TV wall with a door into the garage; **10 ft cargo area** with a **96 in cargo door** |
@@ -1309,14 +1309,16 @@ The listing's dry weight and GVWR repeat the spec figures, so they are not this 
 
 **Pin: the most margin of any candidate.** An 18.0% dry share scales to **~2,470 lb at 13,700 lb GVWR** as a fifth wheel and **~2,610 lb** as a gooseneck - about **1,230 lb and 1,090 lb** under 3,700 lb. At GVWR the combination is ~21,660 lb against the 29,000 lb GCWR.
 
-**Cargo is the open question.** The spec's **4,001 lb clears the 4,000 lb bar by 1 lb**. A 14-year-old unit has usually gained weight. **The floorplan shows one slide**, so the listing's "2 slides" is probably an error, but confirm it: a second slide would put the real cargo figure well under 4,000 lb. **The unit's yellow cargo label decides it.**
+**Cargo is the open question.** The spec's **4,001 lb clears the 4,000 lb bar by 1 lb**. A 14-year-old unit has usually gained weight. **It has one slide** (owner, from the unit's photos), so the listing's "2 slides" was an error and does not count against the cargo figure. **The unit's yellow cargo label decides it.**
 
 **Before going further, ask Kunes for:**
 
 1. Photos of the **yellow cargo capacity label** and the **white federal label** - this unit's real UVW and cargo.
-2. **How many slides** it has, and which options (Excursion Edition, generator) are fitted.
+2. Which options are fitted - Excursion Edition (the photos show aluminum wheels and an awning, consistent with it) and a generator.
 3. Photos of the **roof and seams**, the **garage floor by the ramp** (soft spots), the **frame and pin box**, and the **tire date codes**.
 4. The **pin box tag**, if a gooseneck conversion is being considered.
+
+**From the unit's photos** (`imports/KZ Inferno 2910T/unit-photo-12.webp`, `unit-photo-13.webp`): the front cap is **chalky and stained**, the front pass-through bay is open with its door not visible, and the graphics are weathered - cosmetic, but consistent with outdoor storage. Look closely at the front cap and the roof edge above it for sealant cracks, and check the compartment door.
 
 **Age is the risk that matches the price.** At about a quarter of a new Rogue SUT's price, this is the cheapest enclosed garage under 35 ft found, but a 2012 needs a close inspection for water damage, axle and bearing wear, and tires before it is worth the money.
 
