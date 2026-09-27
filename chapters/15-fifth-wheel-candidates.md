@@ -558,15 +558,16 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 
 ## Maybes - live candidates, 21 September 2026
 
-Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating. The Raptor 297SE fits at its full GVWR with ~55 lb to spare, and is the only maybe at or under the 35 ft limit.
+Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating. The Raptor 297SE fits at its full GVWR with ~55 lb to spare. The KZ Inferno 2910T fits with ~1,230 lb to spare and has an enclosed garage under 35 ft.
 
 | Trailer | Year | Price | Dealer | Length | Height | Garage | GVWR | Pin at GVWR (est.) | Pin at GVWR with GN (est.) | Margin at the accepted 3,700 lb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Palomino Puma Unleashed 351THSS** | 2016 | $19,995 | Bish's RV, Great Falls MT | 37 ft 0 in | 12 ft 0 in | 11 ft 8 in, enclosed, permanent wall | 13,560 | ~2,617 | ~2,757 | **~1,083 lb spare**, or ~943 lb if converted |
 | **Prime Time Spartan 300 3210** (added 23 September 2026) | 2016 | $29,995 | General RV, North Canton OH | 36 ft 2 in (3P; listing says 32 ft 2 in) | 13 ft 2 in | ~10 ft, enclosed, door to the living area | 16,616 | ~3,717 | ~3,857 - **over** | **~17 lb over at full GVWR**; fits loaded to ~16,540 lb. No gooseneck |
 | **Keystone Raptor 297SE** (added 25 September 2026) | 2013 | $39,487 out the door | Campers Inn, Johnstown CO | **35 ft 0 in** (brochure) / 34 ft 1 in (listing) | 13 ft 2 in | 10 ft, **shared** - open to the kitchen | 15,400 | ~3,645 | ~3,785 - **over** | **~55 lb spare** at full GVWR; as a gooseneck, fits loaded to ~15,040 lb |
+| **KZ Inferno 2910T** (added 27 September 2026) | 2012 | **$10,995** incl. doc fee | Kunes RV of Fox Valley, Neenah WI | 34 ft 0 in (listing) / 34 ft 10 in (spec) | 12 ft 4 in | 10 ft, **enclosed** - wall with glass-panel door | 13,700 | ~2,470 | ~2,610 | **~1,230 lb spare**, ~1,090 lb if converted |
 
-**The Wolf Pack 315PACK12 was rejected on 22 September 2026 for a 3,274 lb CCC**, after a day as the favorite - see [Rejected](#rejected). The Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). The Puma and Spartan are over the 35 ft hard limit and sit on the 40 ft list; the Raptor 297SE is at the limit on the brochure's figure. Full detail for each is in the verified subsections below.
+**The Wolf Pack 315PACK12 was rejected on 22 September 2026 for a 3,274 lb CCC**, after a day as the favorite - see [Rejected](#rejected). The Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). The Puma and Spartan are over the 35 ft hard limit and sit on the 40 ft list; the Raptor 297SE is at the limit on the brochure's figure; the KZ Inferno 2910T is under it. Full detail for each is in the verified subsections below.
 
 ## Enclosed-garage toy haulers - 40 ft maximum
 
@@ -577,6 +578,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | Trailer | Years | Length | Height | Enclosed garage | GVWR | CCC | Dry pin | Dry GN pin (est.) | Pin at GVWR (est.) | Pin at GVWR with GN (est.) | Weight note |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~1,740 | ~2,275 | ~2,415 | Fits comfortably |
+| KZ Inferno 2910T **(MAYBE)** | 2012 (this unit) | 34 ft 0 in (listing) / 34 ft 10 in (spec) | 12 ft 4 in | 10 ft (120 in); wall with glass-panel door and pass-through window; 8 ft ramp | 13,700 | 4,001 (spec) | 1,742 | ~1,882 | **~2,470** | ~2,610 | **Fits easily - ~1,230 lb of pin to spare.** 18.0% dry pin share, the lowest recorded. CCC clears 4,000 lb by 1 lb on the spec figure |
 | ~~Forest River Cherokee Wolf Pack 315PACK12~~ **REJECTED** | 2019-2022 (this unit 2021) | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | ~2,176 | **~2,655** | ~2,795 | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
 | ~~Genesis Supreme Rage'n 3016RIKS~~ **REJECTED** | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - **shared**, not enclosed | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | ~2,840 | **~3,504** | ~3,644 | **~121 lb inside the ~3,625 lb estimate, ~196 lb inside the accepted 3,700 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
 | ~~KZ Venom V3411TK~~ **REJECTED** | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
@@ -1280,4 +1282,41 @@ Owner-supplied **Vehicle Weight Information Sheet (Momentum)**, dated **11/12/20
 | 2026, VIN `573FM4221TBB04456` (labels above) | 14,242 | ~2,940 / ~3,080 | **~3,715 / ~3,855** - over | 3,698 lb (tire and loading label) |
 
 **The 2026 unit's verdict changes at the measured share.** At 20.1% it fit at GVWR as a fifth wheel with ~86 lb to spare; at 20.6% it is **~15 lb over as a fifth wheel and ~155 lb over as a gooseneck** at full GVWR, before allowing for the factory inverter. The loading rules above still apply - garage-heavy loading keeps it inside - but it cannot be loaded to its rating front-heavy or evenly.
+
+### KZ Inferno 2910T (2012) - screened, **MAYBE**
+
+**Marked a maybe by the owner on 27 September 2026.** Owner-supplied [Kunes RV listing](https://kunesrv.com/inventory/Used-2012-KZ-Inferno-2910T-4EZFH2920C6071430-159) and a photo of the garage. Specifications from [RVGuide's 2012 entry](https://www.rvguide.com/specs/kz/toy-hauler/2012/inferno/2910t.html).
+
+**It is the third toy hauler found at 35 ft or under with an enclosed garage**, after the Rogue SUT 323SUT and the KZ Sportster 311TH10. The owner's photo shows a solid wall between garage and living area, with a **glass-panel door**, a pass-through window with a fold-down shelf, and the side entry door opening into the garage.
+
+| Item | Kunes listing | RVGuide 2012 spec |
+| --- | --- | --- |
+| Price | **$10,995** ($10,396 + $599 WI dealer service fee), before tax and title | MSRP $51,320 |
+| Dealer | Kunes RV of Fox Valley, **Neenah, WI** - stock 32W609XB, (920) 274-2102 | - |
+| VIN | `4EZFH2920C6071430` | - |
+| Length | **34 ft 0 in** | 34 ft 10 in |
+| Height | - | 12 ft 4 in |
+| Garage | 10 ft | 120 in; **interior cargo access door standard**; 8 ft ramp |
+| Dry weight / GVWR | 9,699 / 13,700 lb | 9,699 / 13,700 lb |
+| **Hitch** | - | **1,742 lb - 18.0%** |
+| **Cargo** | - | **4,001 lb** |
+| Slides | **2** | **1** |
+| Sleeps | 4 | 8 |
+| Tanks | 110 fresh / 102 black | 110 fresh / 103 gray / 103 black; 2 x 30 lb LP |
+| Layout | Front bath, front bed, mid kitchen | Front bedroom, center bath |
+
+The listing's dry weight and GVWR repeat the spec figures, so they are not this unit's own weights. Kunes also labels its feature list "typical features vary by model", including an **Excursion Edition** package (EZ Flex suspension, aluminum wheels, power awning, dual electric rear beds, 8 cu ft refrigerator) that may or may not be fitted.
+
+**Pin: the most margin of any candidate.** An 18.0% dry share scales to **~2,470 lb at 13,700 lb GVWR** as a fifth wheel and **~2,610 lb** as a gooseneck - about **1,230 lb and 1,090 lb** under 3,700 lb. At GVWR the combination is ~21,660 lb against the 29,000 lb GCWR.
+
+**Cargo is the open question.** The spec's **4,001 lb clears the 4,000 lb bar by 1 lb**. A 14-year-old unit has usually gained weight, and if this one has **2 slides** rather than the spec's 1, its real cargo figure is very likely under 4,000 lb. **The unit's yellow cargo label decides it.**
+
+**Before going further, ask Kunes for:**
+
+1. Photos of the **yellow cargo capacity label** and the **white federal label** - this unit's real UVW and cargo.
+2. **How many slides** it has, and which options (Excursion Edition, generator) are fitted.
+3. Photos of the **roof and seams**, the **garage floor by the ramp** (soft spots), the **frame and pin box**, and the **tire date codes**.
+4. The **pin box tag**, if a gooseneck conversion is being considered.
+
+**Age is the risk that matches the price.** At about a quarter of a new Rogue SUT's price, this is the cheapest enclosed garage under 35 ft found, but a 2012 needs a close inspection for water damage, axle and bearing wear, and tires before it is worth the money.
 
