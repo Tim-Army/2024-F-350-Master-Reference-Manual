@@ -1404,6 +1404,38 @@ As a gooseneck, add ~140 lb to each pin figure: front-heavy is ~3,390 lb, still 
 
 **Pin: the most margin of any candidate.** A 17.6% dry share gives **~2,415 lb at 13,700 lb GVWR** as a fifth wheel and **~2,555 lb** as a gooseneck - about **1,285 lb and 1,145 lb** under 3,700 lb. **Cargo 4,030 lb clears the 4,000 lb bar by 30 lb** on the brochure figure; the unit's yellow label decides it. The [Inferno 2910T loading rules](#kz-inferno-2910t-2012---screened-maybe) apply to this floorplan: keep the garage to about 2,400 lb, load forward, and keep the pin share at or above ~15%.
 
+**Loading rules** (modeled 27 September 2026 on the 2009 brochure: 9,670 lb dry, 13,700 lb GVWR, 4,030 lb cargo, 17.6% empty pin share, 2 x 6,000 lb axles, fuel cell fitted). Zone positions come from the brochure floorplan stretched to 33 ft 9 in - the floorplan is not to scale. The **axle center (~22.5 ft) and the fresh tank position are assumed**. A zone's share of its weight on the pin is (axle distance - zone distance) / axle distance.
+
+| Zone | Feet behind kingpin | Share of its weight on the pin |
+| --- | --- | --- |
+| Batteries and propane (front) | ~1 | ~96% |
+| Front pass-through storage | ~2 | ~91% |
+| Bedroom and bath | ~5 | ~78% |
+| Kitchen, pantry, dinette | ~14.5 | ~36% |
+| Fresh water, 110 gal (~917 lb full; position assumed) | ~15.5 | ~31% |
+| Fuel cell, 30 gal (~183 lb), front of the garage | ~22 | ~2% |
+| Garage, front half | ~24 | about -6% |
+| Garage, rear half | ~29 | **about -28%** - takes weight off the pin |
+
+At 17.6% the pin is **~1,700 lb empty**.
+
+| Loading, fifth wheel (~4,020-4,030 lb cargo) | Pin | Pin share | Trailer axles (12,000 lb) |
+| --- | --- | --- | --- |
+| Empty | ~1,700 lb | 17.6% | ~7,970 lb |
+| Full, balanced | **~2,260 lb** | 16.5% | ~11,430 lb |
+| Full, garage-heavy (2,900 lb in the garage) | ~1,735 lb | **~13% - too light** | **~11,955 lb - just under the rating** |
+| Full, front-heavy (full fresh tank, loaded front bay) | **~3,260 lb** - ~440 lb under 3,700 | 24% | ~10,440 lb |
+
+As a gooseneck, add ~140 lb to each pin figure: front-heavy is ~3,400 lb, still inside 3,700 lb.
+
+**The same rules as the [Inferno 2910T](#kz-inferno-2910t-2012---screened-maybe)** - it is the same floorplan, about a foot shorter:
+
+1. **Keep the garage to about 2,400 lb.** Around 2,900 lb there brings the 12,000 lb axles to their rating.
+2. **Keep the pin share at or above ~15%.** Heavy garage loading takes it to ~13%.
+3. **Use the front pass-through bay and kitchen freely** - the truck has ~1,440 lb of pin headroom at full cargo when balanced.
+4. **The fuel cell sits almost over the axles.** A full 30 gal barely changes the pin but uses ~183 lb of the cargo figure.
+5. **A full 110 gal fresh tank is ~917 lb** - fine for the truck (~285 lb of pin), but almost a quarter of the cargo figure. The 4,030 lb brochure figure also has to cover 60 lb of propane.
+
 **Tanks are the practical limit.** 38 gal gray and 38 gal black - **76 gal of waste capacity against the 2012 Inferno's 102.6 gal**, about three-quarters of it. (RVGuide's 103 gal *each* for the Inferno was wrong; KZ's 2012 brochure gives 102.6 gal combined.) Fine at full hookups, tight for dry camping.
 
 **From the dealer's 39 photos:**
