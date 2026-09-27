@@ -1598,3 +1598,35 @@ Sources: [Keystone's 2027 page](https://www.keystonerv.com/product/carbon/toy-ha
 - **Its options barely moved the empty weight** - 45 lb over the published figure - so Keystone's published shipping weight appears to assume a well-optioned build. Whether the 22.3% share reflects where the generator and three A/Cs sit is unknown: **a scale reading of the hitch settles it**.
 - **Gooseneck:** the Roto-Flex takes a Reese Goose Box only in its 18,000 lb 1621 version - read the tag - and the pin would be over the ceiling as a gooseneck in any case.
 
+**Loading rules** (modeled 27 September 2026 on the Holman unit's label: 12,450 lb UVW, 16,415 lb GVWR, 3,905 lb cargo, 7,000 lb axles). Zone positions come from Keystone's floorplan scaled to 35 ft 11 in pin-to-bumper. The **22.3% empty pin share is Keystone's published figure** and may not reflect where this unit's generator and Triple A/C sit; the **axle center (~25 ft) and the fresh tank position are assumed**. A zone's share of its weight on the pin is (axle distance - zone distance) / axle distance.
+
+| Zone | Feet behind kingpin | Share of its weight on the pin |
+| --- | --- | --- |
+| Dealer batteries, if added (front) | ~2 | ~92% |
+| Front pass-through storage | ~3 | ~88% |
+| Bedroom and bath | ~6 | ~76% |
+| Kitchen, pantry, living | ~17 | ~32% |
+| Fresh water, 94 gal (~780 lb full; position assumed) | ~18 | ~28% |
+| Garage, front half | ~25 | about -2% |
+| Fuel tank, 30 gal (~183 lb), in the garage | ~27 | about -8% |
+| Garage, rear half | ~31 | **about -23%** - takes weight off the pin |
+
+At 22.3% the pin is **~2,780 lb empty** - only **~920 lb of headroom** to 3,700 lb.
+
+| Loading, fifth wheel | Cargo | Pin | Trailer axles (14,000 lb) |
+| --- | --- | --- | --- |
+| Empty | 0 | ~2,780 lb | ~9,670 lb |
+| Balanced | ~3,450 lb | **~3,050 lb** | ~12,850 lb |
+| Garage-heavy | ~3,370 lb | ~2,760 lb | ~13,050 lb |
+| Front-heavy (full fresh tank, loaded front bay and bedroom) | ~3,910 lb - at the label limit | **~3,720 lb - just over 3,700** | ~12,640 lb |
+
+As a gooseneck, add ~140 lb: front-heavy is ~3,860 lb.
+
+**This trailer behaves like the [Momentum 350G](#grand-design-momentum-350g-2026---federal-label-recorded), not like the Rogue SUT or the KZ 2910s:** it starts heavy on the pin, forward loading uses up the headroom, and the trailer's 7,000 lb axles are never the constraint.
+
+1. **Put toys and heavy gear in the rear half of the garage.** It is the only zone that takes real weight off the pin; the garage fuel tank helps a little too.
+2. **Keep the front pass-through and bedroom moderate.** Nearly everything there lands on the pin.
+3. **Travel with the fresh tank low.** Full, it adds ~220 lb of pin and uses 780 lb of the 3,905 lb cargo figure.
+4. **Cargo is the tight number, not the axles.** 3,905 lb is under the 4,000 lb bar before any water.
+5. **Settle the pin share with a scale reading of the hitch** - the generator and three A/Cs may sit further forward than Keystone's average build.
+
