@@ -1447,3 +1447,34 @@ As a gooseneck, add ~140 lb to each pin figure: front-heavy is ~3,400 lb, still 
 
 **Age:** a 2009 - 17 years old. Check the roof and seams, the garage floor by the ramp, the frame and pin box, the tire date codes, and the Norcold refrigerator's recall status.
 
+#### Sportster 2910 (2009) against Inferno 2910T (2012), 27 September 2026
+
+The same floorplan three years apart - the Findlay unit against the Kunes unit.
+
+| | 2009 Sportster 2910 | 2012 Inferno 2910T |
+| --- | --- | --- |
+| **Price** | **$15,975** (Findlay, OH) | **$10,995** incl. doc fee (Neenah, WI) |
+| Age | 17 years | 14 years |
+| Length | **33 ft 9 in** | 34 ft 10 in |
+| Height / width | 12 ft 4 in / 102 in | 12 ft 4 in / 100 in |
+| Dry weight | 9,670 lb | 9,699 lb |
+| Hitch (dry) | 1,705 lb - 17.6% | 1,742 lb - 18.0% |
+| GVWR / axles | 13,700 lb / 2 x 6,000 lb | 13,700 lb / 2 x 6,000 lb (same floorplan) |
+| **Cargo (brochure)** | **4,030 lb** | **4,001 lb** |
+| **Pin at GVWR** | ~2,415 lb - ~1,285 lb spare | ~2,470 lb - ~1,230 lb spare |
+| Fresh water | 110 gal | 110 gal |
+| **Gray + black** | **76 gal** (38 + 38) | **102.6 gal** combined |
+| **Electrical** | **30 amp** | **50 amp** |
+| A/C / furnace | 13,500 / 25,000 BTU | 15,000 / 30,000 BTU |
+| Water heater | 10 gal | 12 gal DSI |
+| Garage | 10 ft, walled per the brochure - **no photos yet** | 10 ft, walled - **confirmed in photos** |
+| Fuel cell | **Fitted** (fuel gauge on the panel) | Not seen; an option |
+| Package | Unknown; aluminum wheels | **Excursion Edition** - garage beds, power awning, ceiling fan, 8 cu ft refrigerator |
+| **Condition in photos** | **Better** - clean cap and sidewalls, updated flooring, tires look recent | Front cap heavily oxidized, dinette table missing, stained slide carpet |
+
+**The 2009 Sportster** looks better kept, is the shortest (33 ft 9 in), has slightly more pin margin and cargo, and has the fuel cell - but costs **$4,980 more** and is **3 years older**.
+
+**The 2012 Inferno** is cheaper, and has **50 amp** service, about **35% more waste capacity**, a larger A/C and furnace, and the Excursion Edition equipment. Its garage wall is confirmed; cosmetically it is rougher.
+
+**What each still has to prove:** for the Sportster, **that its garage is walled** - no photo shows it yet; for the Inferno, **that it has no hidden water damage**, given the long outdoor storage its front cap shows. For both, the roof, underside, tire date codes and the **yellow cargo label** settle it. Both brochure cargo figures sit within 30 lb of the 4,000 lb bar, so each unit's actual weight decides whether it passes.
+
