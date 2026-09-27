@@ -1320,5 +1320,12 @@ The listing's dry weight and GVWR repeat the spec figures, so they are not this 
 
 **From the unit's photos** (`imports/KZ Inferno 2910T/unit-photo-12.webp`, `unit-photo-13.webp`): the front cap is **chalky and stained**, the front pass-through bay is open with its door not visible, and the graphics are weathered - cosmetic, but consistent with outdoor storage. Look closely at the front cap and the roof edge above it for sealant cracks, and check the compartment door.
 
+**Dealer photo set, 22 images** (`imports/2910T kunes/`, reviewed 27 September 2026):
+
+- **Confirmed:** one slide - the U-dinette; the enclosed garage (wall, glass-panel door, pass-through window with shelf, side entry door), diamond-plate trim, floor D-rings and an overhead cargo net; **dual electric beds in the garage**, which with the aluminum wheels confirms the **Excursion Edition**; a Norcold gas/electric refrigerator; a tub and shower with skylight; queen bed with mirrored wardrobes; ceiling fan, 12 V lights and a flat-screen TV.
+- **Condition visible:** ceilings, walls, cabinets and bath look clean, with **no water stains visible** in any photo. The **front cap is heavily oxidized and pitted**. The **dinette table is missing** - only its three pedestal bases remain - and the slide's carpet is stained. The front pass-through bay stands open; its door is not visible in any photo.
+- **Not shown:** the roof, the underside and frame, the tires, the pin box tag, and **the yellow and white weight labels**. Those remain the items to request.
+- **Norcold refrigerator:** Norcold recalled several gas/electric refrigerator series of this era over fire risk. Read the model and serial number inside the fridge and check them against Norcold's recall list before buying.
+
 **Age is the risk that matches the price.** At about a quarter of a new Rogue SUT's price, this is the cheapest enclosed garage under 35 ft found, but a 2012 needs a close inspection for water damage, axle and bearing wear, and tires before it is worth the money.
 
