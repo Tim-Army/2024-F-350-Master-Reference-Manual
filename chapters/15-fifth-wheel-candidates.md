@@ -1225,7 +1225,7 @@ Owner-supplied **Vehicle Weight Information Sheet (Momentum)**, dated **11/12/20
 | Unit | UVW | Pin empty (FW / GN) | Pin at GVWR (FW / GN) | Cargo, GD method (GVWR - UVW - 60 lb LP) |
 | --- | --- | --- | --- | --- |
 | 2019, VIN `573FM412XK1113787` (General RV, Orlando, $39,995) | 13,470 | ~2,780 / ~2,920 | ~3,470 / **~3,610** | **~3,270 lb** - under the 4,000 lb bar |
-| 2026, VIN `573FM4221TBB04456` (labels above) | 14,242 | ~2,935 / ~3,075 | **~3,710 / ~3,850** - over | 3,698 lb (tire and loading label) |
+| 2026, VIN `573FM4221TBB04456` (labels above) | 14,242 | ~2,940 / ~3,080 | **~3,715 / ~3,855** - over | 3,698 lb (tire and loading label) |
 
-**The 2026 unit's verdict changes at the measured share.** At 20.1% it fit at GVWR as a fifth wheel with ~86 lb to spare; at 20.6% it is **~10 lb over as a fifth wheel and ~150 lb over as a gooseneck** at full GVWR, before allowing for the factory inverter. The loading rules above still apply - garage-heavy loading keeps it inside - but it cannot be loaded to its rating front-heavy or evenly.
+**The 2026 unit's verdict changes at the measured share.** At 20.1% it fit at GVWR as a fifth wheel with ~86 lb to spare; at 20.6% it is **~15 lb over as a fifth wheel and ~155 lb over as a gooseneck** at full GVWR, before allowing for the factory inverter. The loading rules above still apply - garage-heavy loading keeps it inside - but it cannot be loaded to its rating front-heavy or evenly.
 
