@@ -124,6 +124,20 @@ At the 14,090 lb GVWR, that leaves about **4,161 lb** of cargo capacity rather t
 
 **Kunes's listing uses brochure figures, not this trailer's.** It shows 9,613 lb dry and 34 ft 0 in, while the unit's label says **9,929 lb** and **34 ft 10 in**. Trust the label. The listing also gives 14,090 lb gross, an 11 ft garage, 96 / 44 / 44 gal tanks, one slide, sleeps 8, and a white exterior with Cappuccino interior.
 
+**Unit 2 labels photographed (owner, 26 September 2026).** Screenshots of the federal certification label and the tire and loading label (`imports/323SUT/`). The photos are blurred, so the VIN's check digit and the model code are not legible. The serial **C005589** on the tire label matches RV Dynasty's stock number for the Bunker Hill, IN unit (unit 2 above), so these are that trailer's labels. It was **sale pending on 14 September**; confirm it is still available.
+
+| Item | Unit 2 labels | Unit 3 (Kunes) label | Brochure |
+| --- | --- | --- | --- |
+| VIN | `5NHFVGH2?TC005589` - check digit illegible | `5NHFVGH27TC005643` | - |
+| Built | **01/22/2026** | - | - |
+| GVWR | **14,090 lb** (6,391 kg) | 14,090 lb | 14,090 lb |
+| GAWR each axle | **6,000 lb** (2,722 kg) x 2 | - | - |
+| Tires / rims | **ST235/80R16 E** on 16 x 6.0J, **80 psi** cold (552 kPa), spare the same | - | - |
+| **Cargo** | **4,329 lb** (1,964 kg), tire and loading label maximum | ~4,161 lb (GVWR - 9,929 lb dry) | 4,477 lb |
+| Dry weight | not legible on these labels; **~9,700-9,760 lb** implied by the cargo figure | 9,929 lb | 9,613 lb |
+
+**It is the lighter of the two labeled units** - about 170 lb more cargo than the Kunes trailer, and **clear of the 4,000 lb bar by ~330 lb**. At the brochure's 21.7% dry pin share, the pin is roughly **2,110 lb dry** and **~3,060 lb at GVWR** - about **640 lb under 3,700 lb**, or ~500 lb as a gooseneck. A clearer photo of the federal label, or the dealer's weight sheet, would give the exact UVW.
+
 \* RV Trader marks these prices with an asterisk, which usually signals conditions such as financing or fees. Ask what is included.
 
 - **Price benchmark:** the North Branch, MI unit sold at **$42,195**, less than half the $89,530 MSRP that [Fun Town RV](https://funtownrvindiana.com/inventory/new-2025-forest-river-vengeance-rogue-sut-323sut-for-sale-in-at-212801/) lists for the 2025. It stands as the benchmark for what this floorplan can be bought for, even though the unit is gone. **Of the units listed on 14 September, the cheapest still available is the RV Dynasty 2026 at $44,995 - also sale pending.**
