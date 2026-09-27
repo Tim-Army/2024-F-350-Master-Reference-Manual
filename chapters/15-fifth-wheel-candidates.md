@@ -1527,3 +1527,38 @@ The same floorplan three years apart - the Findlay unit against the Kunes unit.
 
 **What each still has to prove:** for the Sportster, **that its garage is walled** - no photo shows it yet; for the Inferno, **that it has no hidden water damage**, given the long outdoor storage its front cap shows. For both, the roof, underside, tire date codes and the **yellow cargo label** settle it. Both brochure cargo figures sit within 30 lb of the 4,000 lb bar, so each unit's actual weight decides whether it passes.
 
+### Forest River Stealth 2710 (2027) - recorded for reference
+
+Recorded 27 September 2026 for its data; **not marked a maybe or rejected**. Two units, 16 VIN serials apart:
+
+- **Unit A - federal and tire labels**, owner-supplied (`imports/2027 Stealth 2710/white label.png`): VIN `4X4FSFC22VF025856`. The owner reports a **factory-installed inverter**.
+- **Unit B - Rowley White RV, Phoenix, AZ**, stock 25840W, VIN `4X4FSFC29VF025840` ([listing](https://www.rowleywhite.com/product/new-2027-forest-river-rv-stealth-2710-3664139-26)). **Sold - deal pending** on 27 September; kept for its price and option data.
+
+**It is the same design as the [Sandstorm 2710 and Nightfall 270N](#the-sandstorm-2710-and-nightfall-270n---two-different-campers)** - Forest River publishes identical specifications for all three. The Sandstorm 2710 was rejected on 14 September as too expensive.
+
+| Item | Unit A labels | Unit B listing | Forest River 2027 |
+| --- | --- | --- | --- |
+| Built | **07/15/2026** | - | - |
+| Dry weight (UVW) | **10,269 lb** | 9,948 lb | 9,459 lb |
+| GVWR / axles | 14,759 lb / **7,000 lb x 2** | 14,759 lb | 14,759 lb |
+| **Cargo** | **4,431 lb** (tire and loading label; 60 lb below GVWR - UVW, the propane allowance) | ~4,811 lb derived | 5,300 lb |
+| Hitch | not on the label | - | **2,165 lb - 22.9%** |
+| Length | **32 ft 3 in overall** as manufactured | - | 32 ft 3 in |
+| Height / width | - | - | 13 ft 5 in / 102 in |
+| Tanks - fresh / gray / black | - | - | **150** / 97 / 40 gal |
+| Tires | ST235/80R16 **G** on 16 x 7.0J, **110 psi** | - | - |
+| Garage | - | Opposing rear power dinette | **15 ft 7 in, shared** |
+| Options | Factory inverter (owner) | **Yamaha 6,000 W generator**, **600 W solar with 1,800 W inverter**, fireplace, fuel station | - |
+| Price | - | **$64,900** plus tax, title and license - **no dealer fees**; **MSRP $97,216** | - |
+
+**What the two units show.** Both run well above the published 9,459 lb UVW - **by ~490 lb (Unit B) and ~810 lb (Unit A)** - consistent with a generator, solar and inverter package. Unit A's label is heavier still than Unit B's listed UVW, so it likely carries at least the same equipment.
+
+**Against the truck:**
+
+- **Length 32 ft 3 in** - well under the 35 ft limit.
+- **Cargo 4,431 lb on Unit A's own label** clears the 4,000 lb bar by ~430 lb.
+- **Pin is the uncertainty.** At the published 22.9% share, scaled to GVWR, the pin is **~3,380 lb** (~3,520 lb as a gooseneck). But an inverter with lithium batteries and a generator usually sit in the **front compartment**; if most of Unit A's extra 810 lb is there, the empty pin could reach ~2,800 lb and a full load could **approach or exceed 3,700 lb**. A dealer hitch weight or a scale reading settles it.
+- **The 150 gal fresh tank is ~1,250 lb full** - over a quarter of the cargo figure. Travel with it low.
+
+**Price:** $64,900 out the door before tax for a generator-equipped unit - about **$20,000 above** a new Rogue SUT 323SUT, and in line with the earlier Sandstorm 2710 rejection on price.
+
