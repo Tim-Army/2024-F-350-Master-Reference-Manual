@@ -302,7 +302,7 @@ The Nightfall 270NF row agrees with the verified figures; its dry pin, shown as 
 
 | Trailer | Length | GVWR | Dry pin | Pin share that would reach the limit at full GVWR | Why |
 | --- | --- | --- | --- | --- | --- |
-| Keystone Raptor Carbon 330 (2027; RVingPlanet / PleasureLand RV listing, $93,995) | 35 ft 11 in | 16,765 (12,405 dry + 4,360 CCC) | 2,765 | 22% | 22.3% dry pin ratio gives **~3,740 lb at GVWR - over the ceiling**. Enclosed 10 ft garage (wall, washer/dryer prep, loft bunks, 5,000 lb tie-downs). Added 14 September 2026 |
+| Keystone Raptor Carbon 330 (2027; RVingPlanet / PleasureLand RV listing, $93,995) | 35 ft 11 in | 16,765 (12,405 dry + 4,360 CCC) | 2,765 | 22% | 22.3% dry pin ratio gives **~3,740 lb at GVWR - ~40 lb over, marginal rather than ruled out** (revised 27 September 2026). Enclosed 10 ft garage (wall, washer/dryer prep, loft bunks, 5,000 lb tie-downs). Added 14 September 2026 | **Now the owner's second favorite - see [Keystone Raptor Carbon 330 (2027)](#keystone-raptor-carbon-330-2027---second-favorite).**
 | Grand Design Momentum 381MS | 43 ft 11 in | 23,500 | 3,726 | 15% | **Over the pin ceiling empty** |
 | Grand Design Momentum 392M | 45 ft 11 in | 23,500 | 3,650 | 15% | **Over the pin ceiling empty** |
 | Grand Design Momentum 395MT | 46 ft 4 in | 23,500 | 3,760 | 15% | **Over the pin ceiling empty** |
@@ -607,7 +607,7 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 
 ## Maybes - live candidates, 21 September 2026
 
-Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating. The Raptor 297SE fits at its full GVWR with ~55 lb to spare. The KZ Inferno 2910T and its predecessor, the 2009 Sportster 2910, fit with ~1,230-1,285 lb to spare and have enclosed garages under 35 ft.
+**Favorites (owner, 27 September 2026): first the Rogue SUT 323SUT, second the Keystone Raptor Carbon 330.** Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating. The Raptor 297SE fits at its full GVWR with ~55 lb to spare. The KZ Inferno 2910T and its predecessor, the 2009 Sportster 2910, fit with ~1,230-1,285 lb to spare and have enclosed garages under 35 ft.
 
 | Trailer | Year | Price | Dealer | Length | Height | Garage | GVWR | Pin at GVWR (est.) | Pin at GVWR with GN (est.) | Margin at the accepted 3,700 lb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -639,7 +639,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | ~~Keystone Fuzion 331 Chrome~~ **REJECTED** | 2014 | 37 ft 7 in | 13 ft 1 in | 11 ft; 8 ft spring-assisted ramp door; safety-glass patio doors to the living area | 16,500 (derived) | 3,775 | 3,015 | ~3,155 | **~3,910** | ~4,050 | **Over the ~3,625 lb pin ceiling at full GVWR by ~285 lb.** Workable only loaded below about **15,300 lb gross**, which leaves ~2,575 lb of the 3,775 lb CCC usable. 23.7% dry pin share; the limit is reached at 22.0% |
 | ~~Keystone Fuzion 371~~ **REJECTED** | 2014 | 38 ft 11 in | 13 ft 3 in | 11 ft; 8 ft ramp door; half bath in the garage | 16,500 (**federal label**) | 3,360 brochure / **2,650 federal label** with fresh water full | 3,030 | ~3,170 | **~3,805** | ~3,945 | **Over the ~3,625 lb pin ceiling at full GVWR by ~180 lb.** Workable under about **15,700 lb gross**, leaving ~2,580 lb usable. 23.1% dry pin share; limit reached at 22.0% |
 | **Forest River Rogue SUT 323SUT** :star: | 2025-2026 | 34 ft 10 in | not published (Forest River: TBD) | 11 ft (~8½ ft clear) | 14,090 | 4,477 (Kunes unit ~4,161) | 2,090 | ~2,230 | ~3,060 | ~3,200 | Fits. Kunes unit label: 9,929 lb dry |
-| Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 13 ft 3 in | 10 ft | 16,765 | 4,360 | 2,765 | ~2,905 | ~3,740 | ~3,880 | Over the ceiling at GVWR |
+| Keystone Raptor Carbon 330 | 2027 | 35 ft 11 in | 13 ft 3 in | 10 ft | 16,765 | 4,360 | 2,765 | ~2,905 | ~3,740 | ~3,880 | **Owner's second favorite (27 September 2026).** Marginal at published GVWR (~40 lb over); a labeled unit (Holman, 16,415 lb GVWR) fits at ~3,660 lb as a fifth wheel but has 3,905 lb cargo |
 | Prime Time Spartan 300 3210 **(MAYBE)** | 2016 (this unit) | 36 ft 2 in | 13 ft 2 in | ~10 ft; HappiJac power bunk; 3,000 lb ramp door | 16,616 | **4,319 derived** from the unit's 12,297 lb dry weight | 2,616 (2016, RVUSA) | ~2,756 | **~3,717** | ~3,857 - **over** | **~17 lb over the accepted 3,700 lb at full GVWR.** Fits loaded to ~16,540 lb, which leaves ~4,240 lb of CCC usable. 22.4% dry pin share |
 | [Grand Design Momentum G-Class 320G](https://www.granddesignrv.com/toy-haulers/momentum-g-class/320g) | current (Grand Design page) | 36 ft 3 in | 13 ft 6 in (13 ft 5 in with optional A/C, as published) | 11 ft; wall with W/D prep, HappiJac rollover sofas and table, flip-up pet dish, optional overhead bed | **16,400** | **3,300** (computed) | 2,300 | ~2,440 | ~2,880 (17.6% dry ratio); ~4,100 at 25% | ~3,020 | Fits at its dry pin ratio, with about 745 lb spare; over the ceiling above ~22.1% pin. **Grand Design's own figures** (supplied by the owner 17 September 2026): UVW 13,100 lb, 98 / 52 / 104 gal, 3 slides, 17.5 in wheels, 8 ft 5 in wide, tankless water heater. RVGuide's 2025 page differs (12,400 UVW, 16,800 GVWR, 4,400 CCC) - trust Grand Design, and read the unit's label. Enclosed garage confirmed from the floorplan. Rejected on price 14 September - kept here per the no-rejection rule |
 | Forest River XLR Nitro 321 **(LIVE)** | 2021-2024 | 37 ft 10 in | 13 ft 4 in | **11 ft** (floorplan verified); 93 in wide; partition with doorway; ramp to patio deck | 16,585 | 4,351 | 2,585 | ~2,725 | ~3,500 | ~3,640 | Marginal |
@@ -1562,4 +1562,32 @@ The same floorplan three years apart - the Findlay unit against the Kunes unit.
 - **The 150 gal fresh tank is ~1,250 lb full** - over a quarter of the cargo figure. Travel with it low.
 
 **Price:** $64,900 out the door before tax for a generator-equipped unit - about **$20,000 above** a new Rogue SUT 323SUT.
+
+### Keystone Raptor Carbon 330 (2027) - second favorite
+
+**Made the owner's second favorite on 27 September 2026**, behind the Rogue SUT 323SUT. It **exceeds two of the chapter's screens** - 35 ft 11 in against the 35 ft hard limit, and 3,905 lb cargo on the labeled unit against the 4,000 lb bar - and is favored regardless for its enclosed garage and equipment.
+
+Sources: [Keystone's 2027 page](https://www.keystonerv.com/product/carbon/toy-hauler-fifth-wheels/floorplans/330); Keystone's and a dealer's floorplans; and a specific unit's federal label and Keystone window sticker - [Holman RV, Batavia, OH](https://www.holmanrv.com/product/new-2027-keystone-rv-raptor-carbon-series-330-3713815-26), stock 54991 (all in `imports/2027 Carbon 330/`).
+
+| Item | Holman unit (label / window sticker) | Keystone 2027 published |
+| --- | --- | --- |
+| VIN / built | `4YDFCNR22VF805034` / **5/26/2026** | - |
+| **UVW** | **12,450 lb** | 12,405 lb (shipping weight) |
+| **GVWR** | **16,415 lb** | 16,765 lb |
+| GAWR / tires | 7,000 lb x 2 / ST235/80R16 G, 16 x 7, 110 psi | ST235/80R16 G |
+| **Cargo** | **3,905 lb** - "calculated with the propane tanks full and all other tanks empty" | 4,360 lb |
+| Fresh water full / waste tanks full | 780 lb / 1,096 lb | 94 / 88 gray / 44 black gal |
+| Hitch | - | **2,765 lb - 22.3%** |
+| Length / height | - | **35 ft 11 in** / 13 ft 3 in |
+| Garage | - | **10 ft, enclosed** - wall with door; dual opposing sofas with top queen bed (electric beds on this unit), loft bunks, washer/dryer prep, frame-welded Adjust-a-Track tie-downs, separate garage entry door with tri-fold steps, 30 gal fuel tank in the garage |
+| Other | 16 cu ft 12 V refrigerator; **Roto-Flex pin box**; front queen bedroom; theater seating; pull-out dinette | - |
+| **Options** | Interior Camping Package ($12,350), Exterior Camping Package ($13,650), **5.5 kW generator** ($5,714), ramp patio with awning and steps ($2,847), sliding rear patio door ($904), Solar Flex Protect ($624), **Triple A/C package**, electric beds with dual opposing couches, 6-point hydraulic auto-leveling. **Inverter** included (owner) - not a separate line, so presumably in a camping package | - |
+| **Price** | **MSRP $129,943** (base $93,717 + $36,226 options); sale price not published | A PleasureLand RV listing was $93,995 (14 September) |
+
+**Against the truck (Holman unit):**
+
+- **Pin at its 16,415 lb GVWR: ~3,660 lb as a fifth wheel - about 40 lb under 3,700 lb.** As a gooseneck ~3,800 lb, **~100 lb over**. The lower GVWR is what keeps the fifth-wheel pin inside the ceiling.
+- **Cargo 3,905 lb - 95 lb under the 4,000 lb bar**, before any fresh water.
+- **Its options barely moved the empty weight** - 45 lb over the published figure - so Keystone's published shipping weight appears to assume a well-optioned build. Whether the 22.3% share reflects where the generator and three A/Cs sit is unknown: **a scale reading of the hitch settles it**.
+- **Gooseneck:** the Roto-Flex takes a Reese Goose Box only in its 18,000 lb 1621 version - read the tag - and the pin would be over the ceiling as a gooseneck in any case.
 
