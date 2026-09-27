@@ -558,7 +558,7 @@ It is about 1,050 miles from the truck's home area, so factor collection into th
 
 ## Maybes - live candidates, 21 September 2026
 
-Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating. The Raptor 297SE fits at its full GVWR with ~55 lb to spare. The KZ Inferno 2910T fits with ~1,230 lb to spare and has an enclosed garage under 35 ft.
+Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR. The Spartan sits right at the pin ceiling at GVWR and fits if it is loaded slightly under its rating. The Raptor 297SE fits at its full GVWR with ~55 lb to spare. The KZ Inferno 2910T and its predecessor, the 2009 Sportster 2910, fit with ~1,230-1,285 lb to spare and have enclosed garages under 35 ft.
 
 | Trailer | Year | Price | Dealer | Length | Height | Garage | GVWR | Pin at GVWR (est.) | Pin at GVWR with GN (est.) | Margin at the accepted 3,700 lb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -566,8 +566,9 @@ Marked a maybe by the owner. The Puma clears every truck limit at its full GVWR.
 | **Prime Time Spartan 300 3210** (added 23 September 2026) | 2016 | $29,995 | General RV, North Canton OH | 36 ft 2 in (3P; listing says 32 ft 2 in) | 13 ft 2 in | ~10 ft, enclosed, door to the living area | 16,616 | ~3,717 | ~3,857 - **over** | **~17 lb over at full GVWR**; fits loaded to ~16,540 lb. No gooseneck |
 | **Keystone Raptor 297SE** (added 25 September 2026) | 2013 | $39,487 out the door | Campers Inn, Johnstown CO | **35 ft 0 in** (brochure) / 34 ft 1 in (listing) | 13 ft 2 in | 10 ft, **shared** - open to the kitchen | 15,400 | ~3,645 | ~3,785 - **over** | **~55 lb spare** at full GVWR; as a gooseneck, fits loaded to ~15,040 lb |
 | **KZ Inferno 2910T** (added 27 September 2026) | 2012 | **$10,995** incl. doc fee | Kunes RV of Fox Valley, Neenah WI | 34 ft 0 in (listing) / 34 ft 10 in (spec) | 12 ft 4 in | 10 ft, **enclosed** - wall with glass-panel door | 13,700 | ~2,470 | ~2,610 | **~1,230 lb spare**, ~1,090 lb if converted |
+| **KZ Sportster 2910** (added 27 September 2026) | 2009 | **$15,975** | Findlay Truck & RV, Findlay OH | **33 ft 9 in** | 12 ft 4 in with A/C | 10 ft, **enclosed** per the brochure floorplan - no garage photos yet | 13,700 | ~2,415 | ~2,555 | **~1,285 lb spare**, ~1,145 lb if converted |
 
-**The Wolf Pack 315PACK12 was rejected on 22 September 2026 for a 3,274 lb CCC**, after a day as the favorite - see [Rejected](#rejected). The Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). The Puma and Spartan are over the 35 ft hard limit and sit on the 40 ft list; the Raptor 297SE is at the limit on the brochure's figure; the KZ Inferno 2910T is under it. Full detail for each is in the verified subsections below.
+**The Wolf Pack 315PACK12 was rejected on 22 September 2026 for a 3,274 lb CCC**, after a day as the favorite - see [Rejected](#rejected). The Puma is a conventional kingpin and would need the [B&W Companion](09-accessories-and-modifications.md). The Puma and Spartan are over the 35 ft hard limit and sit on the 40 ft list; the Raptor 297SE is at the limit on the brochure's figure; the KZ Inferno 2910T and Sportster 2910 are under it. Full detail for each is in the verified subsections below.
 
 ## Enclosed-garage toy haulers - 40 ft maximum
 
@@ -579,6 +580,7 @@ Created 17 September 2026 at the owner's request. It lists every enclosed-garage
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KZ Sportster 311TH10 | 2021-2023 | 34 ft | 12 ft 7 in (with A/C) | 10 ft; 88 x 91 in ramp | 12,500 | 3,690 | 1,600 | ~1,740 | ~2,275 | ~2,415 | Fits comfortably |
 | KZ Inferno 2910T **(MAYBE)** | 2012 (this unit) | 34 ft 0 in (listing) / 34 ft 10 in (spec) | 12 ft 4 in | 10 ft (120 in); wall with glass-panel door and pass-through window; 8 ft ramp | 13,700 | 4,001 (spec) | 1,742 | ~1,882 | **~2,470** | ~2,610 | **Fits easily - ~1,230 lb of pin to spare.** 18.0% dry pin share, the lowest recorded. CCC clears 4,000 lb by 1 lb on the spec figure |
+| KZ Sportster 2910 **(MAYBE)** | 2009 (this unit) | 33 ft 9 in | 12 ft 4 in with A/C | 10 ft; wall with door; 96 in cargo door; 3,000 lb ramp | 13,700 | 4,030 (brochure) | 1,705 | ~1,845 | **~2,415** | ~2,555 | **Fits easily - ~1,285 lb of pin to spare.** 17.6% dry pin share, the lowest recorded. Gray and black tanks only 38 gal each |
 | ~~Forest River Cherokee Wolf Pack 315PACK12~~ **REJECTED** | 2019-2022 (this unit 2021) | 39 ft 3 in | 13 ft 5 in | 12 ft enclosed garage, solid wall with sliding door; 96 x 96 in ramp "party patio" | 14,036 (**federal label**) | 3,274 | 2,036 | ~2,176 | **~2,655** | ~2,795 | **Fits comfortably - about 970 lb of pin to spare.** 18.9% dry pin share, the lowest recorded |
 | ~~Genesis Supreme Rage'n 3016RIKS~~ **REJECTED** | 2024 | 36 ft 10 in | not published | **16 ft 4 in** garage - **shared**, not enclosed | 15,000 (**federal label**) | 3,440 brochure / **3,043 federal label** | 2,700 | ~2,840 | **~3,504** | ~3,644 | **~121 lb inside the ~3,625 lb estimate, ~196 lb inside the accepted 3,700 lb.** 23.4% dry pin share. 160 gal fresh water is 1,328 lb - where it sits decides whether this stays legal |
 | ~~KZ Venom V3411TK~~ **REJECTED** | 2017 | 37 ft 8 in | 13 ft 4 in | 11 ft; 96 in cargo door; **garage entry door** + roll-down screen wall; half bath; E-track | 16,000 | 2,700 | 2,520 | ~2,660 | **~3,032** | ~3,172 | Fits - ~593 lb under the accepted 3,700 lb. Lowest CCC of the live candidates |
@@ -1320,7 +1322,7 @@ The listing's dry weight and GVWR repeat the spec figures, so they are not this 
 
 **From the unit's photos** (`imports/KZ Inferno 2910T/unit-photo-12.webp`, `unit-photo-13.webp`): the front cap is **chalky and stained**, the front pass-through bay is open with its door not visible, and the graphics are weathered - cosmetic, but consistent with outdoor storage. Look closely at the front cap and the roof edge above it for sealant cracks, and check the compartment door.
 
-**Loading rules** (modeled 27 September 2026 on the 2012 spec weights: 9,699 lb dry, 13,700 lb GVWR, 4,001 lb cargo, 18.0% empty pin share). Zone positions come from the floorplan stretched to the 34 ft 10 in spec length - the floorplan is not to scale. The **axle center (~23 ft) and the fresh tank position are assumed**, and the **axle rating (2 x 6,000 lb) is assumed** until read off the white label. A zone's share of its weight on the pin is (axle distance - zone distance) / axle distance.
+**Loading rules** (modeled 27 September 2026 on the 2012 spec weights: 9,699 lb dry, 13,700 lb GVWR, 4,001 lb cargo, 18.0% empty pin share). Zone positions come from the floorplan stretched to the 34 ft 10 in spec length - the floorplan is not to scale. The **axle center (~23 ft) and the fresh tank position are assumed**, and the **axle rating is 2 x 6,000 lb** - confirmed for this floorplan by KZ's 2009 Sportster brochure (the 2910 was the same floorplan); read the unit's white label to be sure. A zone's share of its weight on the pin is (axle distance - zone distance) / axle distance.
 
 | Zone | Feet behind kingpin | Share of its weight on the pin |
 | --- | --- | --- |
@@ -1360,4 +1362,39 @@ As a gooseneck, add ~140 lb to each pin figure: front-heavy is ~3,390 lb, still 
 - **Norcold refrigerator:** Norcold recalled several gas/electric refrigerator series of this era over fire risk. Read the model and serial number inside the fridge and check them against Norcold's recall list before buying.
 
 **Age is the risk that matches the price.** At about a quarter of a new Rogue SUT's price, this is the cheapest enclosed garage under 35 ft found, but a 2012 needs a close inspection for water damage, axle and bearing wear, and tires before it is worth the money.
+
+### KZ Sportster 2910 (2009) - screened, **MAYBE**
+
+**Marked a maybe by the owner on 27 September 2026.** Owner-supplied [Findlay Truck & RV listing](https://findlaytruckrvsales.com/vehicles/12126945-2009-SPORTSMAN%20BY%20KZ-SPORTSTER%202910/) (stock 5211T, just in on trade), the floorplan, J.D. Power's 2008 specifications, and **KZ's 2009 Sportster brochure** (`imports/Brochures/KZ09_SprtSprt_Broch.pdf`). The dealer's 39 photos are saved in `imports/2009 Sportster 2910 findlay/`.
+
+**It is the same floorplan as the [KZ Inferno 2910T](#kz-inferno-2910t-2012---screened-maybe)** - KZ sold it as the Sportster 2910 through 2009 and as the Inferno 2910T from 2010 (RVGuide gives the Inferno's introduction year as 2010). The 2009 Inferno SST brochure (`imports/Brochures/KZ09_InfernoSST_Broch.pdf`) covers only open-garage travel trailers.
+
+| Item | 2009 brochure | 2008 (J.D. Power) | 2012 Inferno 2910T (for comparison) |
+| --- | --- | --- | --- |
+| Price | **$15,975** (Findlay, OH) | - | $10,995 (Kunes, Neenah WI) |
+| Length / height / width | **33 ft 9 in** / 12 ft 4 in with A/C / 102 in | 33 ft 9 in | 34 ft 10 in / 12 ft 4 in |
+| Dry weight | 9,670 lb | 9,285 lb | 9,699 lb |
+| **Hitch** | **1,705 lb - 17.6%** | 1,555 lb - 16.7% | 1,742 lb - 18.0% |
+| Axle weight | 7,965 lb (hitch + axle = dry weight exactly) | - | - |
+| **Axles** | **2 x 6,000 lb** | - | - |
+| GVWR | 13,700 lb | 13,400 lb | 13,700 lb |
+| **Carrying capacity** | **4,030 lb** | 4,115 lb | 4,001 lb |
+| Tanks - fresh / gray / black | 110 / **38 / 38** gal | 110 / 38 / 38 | 110 / 103 / 103 |
+| LP / furnace / A/C / water heater | 60 lb / 25,000 BTU / 13,500 BTU ducted / 10 gal | - | - |
+| Electrical | **30 amp** | - | 50 amp |
+| Garage | **10 ft**, wall with door at the TV/helmet cabinet; **96 in cargo door**; ramp rated **3,000 lb**; diamond-plate wall protection, D-rings, comfort fan | - | 10 ft, enclosed (photo) |
+| Options (brochure) | Fuel cell with pump and fuel gauge; dual electric garage beds; convertible sofa; rear pull-down screen | - | - |
+
+**Pin: the most margin of any candidate.** A 17.6% dry share gives **~2,415 lb at 13,700 lb GVWR** as a fifth wheel and **~2,555 lb** as a gooseneck - about **1,285 lb and 1,145 lb** under 3,700 lb. **Cargo 4,030 lb clears the 4,000 lb bar by 30 lb** on the brochure figure; the unit's yellow label decides it. The [Inferno 2910T loading rules](#kz-inferno-2910t-2012---screened-maybe) apply to this floorplan: keep the garage to about 2,400 lb, load forward, and keep the pin share at or above ~15%.
+
+**Tanks are the practical limit.** The 38 gal gray and black tanks are about a third of the 2012 Inferno's - fine at full hookups, tight for dry camping.
+
+**From the dealer's 39 photos:**
+
+- **Better kept than the Kunes Inferno:** clean front cap and sidewalls with no heavy oxidation; aluminum wheels with tires that look fairly recent; one slide with a black leatherette U-dinette; updated plank-style flooring; Norcold refrigerator; two 30 lb LP cylinders.
+- **The fuel cell appears to be fitted** - the control panel has a **fuel gauge**, which the brochure lists as part of the fuel cell option.
+- The front pass-through bay is still full of the previous owner's gear.
+- **Not shown:** the **garage interior**, bedroom, bathroom, roof, underside, tire date codes and the **weight labels**. Ask for garage photos first - no photo yet confirms the wall on this unit.
+
+**Age:** a 2009 - 17 years old. Check the roof and seams, the garage floor by the ramp, the frame and pin box, the tire date codes, and the Norcold refrigerator's recall status.
 
