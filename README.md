@@ -58,6 +58,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Verified factory equipment](chapters/02-factory-build-and-operation.md#verified-factory-equipment) |
 | | [Camera and trailer guidance quick reference](chapters/02-factory-build-and-operation.md#camera-and-trailer-guidance-quick-reference) |
 | | [Driving systems notes](chapters/02-factory-build-and-operation.md#driving-systems-notes) |
+| | [Folding the rear seatbacks - Crew Cab](chapters/02-factory-build-and-operation.md#folding-the-rear-seatbacks---crew-cab) |
 | **3** | **[OEM Parts Catalog](chapters/03-oem-parts-catalog.md)** |
 | | [Catalog status](chapters/03-oem-parts-catalog.md#catalog-status) |
 | | [Motorcraft parts - 7.3L gasoline](chapters/03-oem-parts-catalog.md#motorcraft-parts---73l-gasoline) |

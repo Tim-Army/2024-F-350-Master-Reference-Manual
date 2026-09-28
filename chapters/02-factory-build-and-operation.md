@@ -66,3 +66,30 @@ Full context and a verification list are in [chapter 14](14-vehicle-history-and-
 - Hill Descent Control operating range recorded from quick guide: 2-20 mph (3-32 km/h).
 - Trail Control is low-speed off-road cruise control; braking reduces set speed without turning it off.
 - AdvanceTrac with RSC and Hill Start Assist are standard.
+
+## Folding the rear seatbacks - Crew Cab
+
+Added 28 September 2026. The owner's manual (REF-001, "Rear Seats - Crew Cab/SuperCab") covers only flipping the **seat cushions** up; the **seatback** release is shown in Ford's workshop manual. Confirmed by the owner with [this video](https://youtu.be/keRyR_cn8Wk) ("How to fold down rear seats in a 2020 F-350/F-series" - the previous generation, same mechanism).
+
+**Driver side (left rear) - no strap; the latch is hidden behind the backrest:**
+
+1. **Raise the rear seat cushion** until it locks vertical. The backrest latch is only reachable with the cushion up.
+2. **Find the metal latch** behind and below the backrest, at floor level where the backrest frame meets a striker bracket on the cab's back wall. Move the factory tool kit aside if it is in the way - it is stowed under the driver-side rear seat.
+3. **Push the top of the backrest slightly rearward** to take the load off the latch, then **lift the release lever straight up at its upper end** - the part that rises above the horizontal striker pin. Do not pull on the striker pin itself; it is fixed to the cab.
+4. **Holding the lever up, pull the backrest forward** and fold it down.
+
+**Passenger side (right rear):** pull the **release strap on the outboard side** of the backrest and fold it down. **The jack is stowed behind this backrest**, on the floor, held by retainers that turn counterclockwise.
+
+**Returning a seatback:** clear the floor and anything behind the seat, raise the backrest firmly until the latch snaps over the striker, then **pull it forward to confirm it has locked** - an unlatched seatback is dangerous in a sudden stop. Ford notes the striker must be in its lowest position for the latch to engage. Lower the cushion with its strap, with nothing trapped underneath.
+
+**Ford illustrations** (workshop manual, `imports/2023 - 2025 Ford F-350 Super Duty 7.3L/images/`):
+
+| Illustration | Shows | File |
+| --- | --- | --- |
+| E195107 | **Crew Cab left rear**: 1 raise cushion, 2 lift the latch off the striker (inset), 3 fold the backrest | `GFD781655.jpeg` |
+| E319269 | The same sequence, from the in-cab inverter procedure | `GFD780281.jpeg` |
+| E194399 | **Right rear**: release strap on the outboard side | `GFD781656.jpeg` |
+| E198356 | SuperCab left rear, which has a pull loop on the latch - **not this truck** | `GFD781654.jpeg` |
+
+Sources: workshop manual procedures "Child Safety Seat Tether Anchor - Crew Cab/SuperCab" (Crew Cab steps), "Rear Seat Armrest - Crew Cab" and the DC/AC inverter removal; owner's manual pages 46 (tether anchors behind the backrest), 167 (cushions) and 510 (jack location).
+
