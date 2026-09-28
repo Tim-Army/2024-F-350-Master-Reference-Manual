@@ -169,7 +169,7 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 
 | Item | Listing |
 | --- | --- |
-| Options | **6,000 W generator**, **second A/C**, Premium package (listed twice), ramp patio railing, two black Euro recliners, Cappuccino interior |
+| Options | **6,000 W generator - a Next-Gen NPS6000, the "eco" variable-speed version** per the dealer's photos (`imports/323SUT/avondale-generator-nps6000eco.webp`): Yamaha-based pure-sine inverter, **185 lb** (Next-Gen), wireless key-fob start, 3-year / 2,000-hour warranty; fuel from the 30 gal fuel station at ~0.12 gal/hr minimal load and ~0.37 gal/hr half load - roughly 80 hours at half load on a full station. Its mounting compartment is not identifiable from the photo; **ask where it sits** (front compartment adds pin weight). **Second A/C**, Premium package (listed twice), ramp patio railing, two black Euro recliners, Cappuccino interior |
 | Length / exterior height | 34.83 ft / **13 ft 4 in** - the first published height for the 323SUT |
 | Electrical | listed as "55 amp" - presumably 50 amp; confirm |
 | Tanks | 96 gal fresh, 44 gal black |
