@@ -201,7 +201,16 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 4. **Count the dealer's batteries** as front cargo.
 5. **The labels decide it.** The white label gives this unit's real empty weight and the yellow label its cargo figure. At an estimated ~3,970 lb it could fall either side of the 4,000 lb bar.
 
-**Price.** $61,348 is **~$16,000-19,000 above** what base units sell for (~$42,000-45,000). The generator (a 5.5-6 kW unit is typically a $4,000-6,000 option) and second A/C account for part of that; freight, prep and doc fees are included here but not in RV Dynasty's price. Camping World prices are usually negotiable.
+**Price.** $61,348 is **~$16,000-19,000 above** what base units sell for (~$42,000-45,000). **Freight is about $6,000 of it** (owner, 28 September 2026), so the trailer itself, before prep and doc fees, is about **$55,300**. RV Dynasty's $44,995 charges no prep or freight fees. Against that, the Avondale unit's remaining **~$10,000** premium buys the generator (a 5.5-6 kW unit is typically a $4,000-6,000 option), the second A/C, patio railing and recliners, plus prep and doc fees; its Premium Package is common to most 323SUTs. Camping World prices are usually negotiable, and the unit is reportedly already on clearance after ~6 months on the lot.
+
+| | Avondale (Camping World) | Bunker Hill (RV Dynasty) |
+| --- | --- | --- |
+| Advertised | $61,348 | $44,995 |
+| Freight | ~$6,000 included | none charged |
+| Prep and doc | included (amounts not stated) | none charged |
+| Trailer before fees | **~$55,300** | **$44,995** |
+| Options beyond the Premium Package | 6,000 W generator, 2nd A/C, ramp patio railing, 2 Euro recliners | none recorded |
+| Cargo (label) | not yet seen; ~3,970 lb estimated | **4,329 lb** |
 
 
 #### Rogue SUT 323SUT - loading rules, 26 September 2026
