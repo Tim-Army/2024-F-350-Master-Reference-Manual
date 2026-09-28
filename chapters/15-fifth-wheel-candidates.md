@@ -211,7 +211,7 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 | Trailer before fees | **~$55,300** | **$44,995** |
 | Options beyond the Premium Package | 6,000 W generator, 2nd A/C, ramp patio railing, 2 Euro recliners | none recorded |
 | Cargo (label) | not yet seen; ~3,970 lb estimated | **4,329 lb** |
-| Getting it home (from ZIP 62222) | ~1,290 mi. **Camping World delivery ~$5,000** (owner, 28 September 2026); self-pickup ~$1,500-2,000 in fuel (~240-250 gal at ~$3.50) and 2-4 nights' lodging | ~255 mi; RV Dynasty advertises nationwide delivery |
+| Getting it home (from ZIP 62222) | ~1,290 mi. **Camping World delivery ~$5,000** (owner, 28 September 2026); self-pickup, round trip (~2,580 mi), **~$1,050-1,250**: ~$850 fuel (~240-250 gal at ~$3.50) plus food; **no lodging cost** (owner, 28 September 2026); 4-6 days | ~255 mi; RV Dynasty advertises nationwide delivery |
 
 **Negotiating guide** (27-28 September 2026, estimates): fair value **~$50,000-53,000 out the door before tax and title** - a new base unit at ~$44,000-45,000, plus the generator (~$4,000-5,000), second A/C (~$1,000-1,500), railing and recliners (~$500-1,000), and little or none of the freight. Open at **~$47,000-48,000**, target **~$50,000-52,000**, walk away above **~$54,000-55,000**. **Ask for delivery to be included, or at least cut** - $5,000 on top of ~$6,000 of freight already in the price means paying to ship the trailer twice. Get the **yellow cargo label** first: at an estimated ~3,970 lb the unit may fail the 4,000 lb bar whatever the price.
 
