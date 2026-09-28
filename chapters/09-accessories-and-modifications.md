@@ -9,7 +9,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 13 | **$3,142.57** |
-| **Short-term** | by 7 December 2026 (90 days) | 26 | **$4,508.66** |
+| **Short-term** | by 7 December 2026 (90 days) | 27 | **$4,525.31** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
@@ -77,7 +77,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Condor SCC-4000 scooter chock](https://www.condor-lift.com/product/scooter-chock-part-scc-4000/) | **$175.00** | Towing | Planned | **For the Yamaha Zuma 125.** Sale price; list $215.00. Built for scooters and mopeds. **Floor adapter not included** - price it separately if the bracket isn't used |
 | [ICON 3/4 in drive Professional 36 in breaker bar](https://www.harborfreight.com/34-in-drive-professional-36-in-breaker-bar-63854.html) (Harbor Freight `63854`, model B436) | **$89.99** | Maintenance & security | Planned | 180-degree swivel head, chrome-vanadium, 3.75 lb, lifetime warranty. For breaking loose the 150 lb-ft lug nuts and other high-torque fasteners - set final torque with the ½ in torque wrench, not this. **Needs 3/4 in drive sockets**, or a 3/4-to-1/2 in adapter for ½ in impact sockets. No torque rating published |
 | [PITTSBURGH 6 in straight-jaw sheet metal seamer](https://www.harborfreight.com/6-inch-jaw-straight-sheet-metal-seamer-98728.html) (Harbor Freight `98728`) | **$18.99** | Maintenance & security | Planned | Regularly $24.99. Drop-forged jaws marked in 1/4 in bending increments, nickel-plated steel, 2.2 lb, lifetime warranty. Bends, seams or flattens sheet metal |
-| **Phase total** | **$4,508.66** |  |  | *26 items priced* |
+| [IRWIN VISE-GRIP Original locking sheet metal tool, 8 in](https://www.amazon.com/dp/B0000TFGFU) (model `23`) | **$16.65** | Maintenance & security | Planned | Locking pliers with wide flat jaws for bending, forming and crimping sheet metal; turn screw sets the pressure, trigger release. Heat-treated alloy steel. Pairs with the PITTSBURGH seamer above |
+| **Phase total** | **$4,525.31** |  |  | *27 items priced* |
 
 ### Long-term
 
