@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Generator and Solar Calculator</title>
+<meta name="description" content="NPS6000eco generator load, fuel and runtime, and 200 W solar daily balance, for the Rogue SUT 323SUT at Camping World Avondale.">
+<style>
+:root{--bg:#fafaf8;--surface:#f1efe8;--text:#1f1f1d;--muted:#5f5e5a;--faint:#888780;--border:rgba(0,0,0,.12);--ok:#3b6d11;--warn:#854f0b;--bad:#a32d2d;--good-fill:#1D9E75;--warn-fill:#EF9F27;--bad-fill:#E24B4A}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--ok:#97c459;--warn:#fac775;--bad:#f09595}}
+:root[data-theme="dark"]{--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--ok:#97c459;--warn:#fac775;--bad:#f09595}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:760px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:22px;font-weight:600;margin:0 0 4px}
+h2{font-size:17px;font-weight:600;margin:28px 0 6px}
+p.lead,.note{color:var(--muted);font-size:13px;margin:0 0 10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:4px 16px;margin:6px 0 12px}
+.ap{display:flex;align-items:center;gap:8px;font-size:13px;padding:5px 0;border-bottom:1px solid var(--border)}
+.ap span.w{margin-left:auto;color:var(--muted);font-variant-numeric:tabular-nums}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:12px 0}
+.card{background:var(--surface);border-radius:8px;padding:10px 12px}
+.card .l{font-size:12px;color:var(--muted)}
+.card .v{font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.card .s{font-size:12px}
+.ok{color:var(--ok)}.bad{color:var(--bad)}.warn{color:var(--warn)}
+.presets{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 10px}
+button{font:inherit;font-size:13px;padding:6px 10px;border-radius:8px;border:1px solid var(--border);background:transparent;color:var(--text);cursor:pointer}
+button:hover{background:var(--surface)}
+.row{display:grid;grid-template-columns:minmax(140px,200px) minmax(0,1fr) 84px;align-items:center;gap:10px;font-size:13px;margin:6px 0}
+.row label{color:var(--muted)}
+.row output{text-align:right;font-variant-numeric:tabular-nums}
+input[type=range]{width:100%}
+svg text{fill:var(--muted)}
+footer{margin-top:28px;font-size:12px;color:var(--faint)}
+a{color:inherit}
+</style>
+</head>
+<body>
+<main>
+<h1>Generator and solar calculator</h1>
+<p class="lead">Next-Gen NPS6000eco generator and the 200 W Premium Package solar on the 2026 Rogue SUT 323SUT at Camping World, Avondale AZ (stock 2638510). From the <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/#c15">2024 F-350 master reference manual, chapter 15</a>.</p>
+
+<h2>Generator: what is running</h2>
+<div class="presets">
+<button data-p="charge">Battery charging only</button>
+<button data-p="evening">Evening, no A/C</button>
+<button data-p="oneac">One A/C afternoon</button>
+<button data-p="twoac">Both A/Cs</button>
+<button data-p="breakfast">Breakfast with one A/C</button>
+<button data-p="over">Too much at once</button>
+</div>
+<svg id="bar" viewBox="0 0 680 70" width="100%" role="img" aria-label="Running watts against the generator's 5,500 W continuous and 6,000 W peak ratings"></svg>
+<div class="cards">
+<div class="card"><div class="l">Running load</div><div class="v" id="w">-</div><div class="s" id="wS"></div></div>
+<div class="card"><div class="l">Fuel burn (est.)</div><div class="v" id="g">-</div><div class="s">gal/hr</div></div>
+<div class="card"><div class="l">Runtime on usable fuel</div><div class="v" id="r">-</div><div class="s" id="rS"></div></div>
+<div class="card"><div class="l">Cost per hour</div><div class="v" id="ch">-</div><div class="s" id="chS"></div></div>
+</div>
+<div class="grid" id="aps"></div>
+<div class="row"><label for="price">Gas price</label><input type="range" id="price" min="2.5" max="5.5" step="0.05" value="3.5"><output id="priceO"></output></div>
+<div class="row"><label for="hrs">Generator hours per day</label><input type="range" id="hrs" min="1" max="24" step="1" value="8"><output id="hrsO"></output></div>
+<div class="row"><label for="fuel">Usable fuel in the station</label><input type="range" id="fuel" min="5" max="30" step="1" value="30"><output id="fuelO"></output></div>
+<div class="cards">
+<div class="card"><div class="l">Cost per day of use</div><div class="v" id="cd">-</div><div class="s" id="cdS"></div></div>
+<div class="card"><div class="l">Cost per week of use</div><div class="v" id="cw">-</div><div class="s" id="cwS"></div></div>
+<div class="card"><div class="l">Filling the station</div><div class="v" id="cf">-</div><div class="s" id="cfS"></div></div>
+</div>
+
+<h2>Solar and the 12 V batteries: one day off-grid</h2>
+<p class="note">The fridge, lights, fans, water pump and furnace blower run on 12 V from the batteries. Solar and the converter (charging from the generator or shore power) both refill them.</p>
+<div class="row"><label for="pv">Solar panels</label><input type="range" id="pv" min="0" max="800" step="50" value="200"><output id="pvO"></output></div>
+<div class="row"><label for="sun">Peak sun hours</label><input type="range" id="sun" min="1" max="7" step="0.5" value="5"><output id="sunO"></output></div>
+<div class="row"><label for="fr">12 V fridge, per day</label><input type="range" id="fr" min="0" max="1000" step="25" value="600"><output id="frO"></output></div>
+<div class="row"><label for="misc">Lights, pump, fans, devices</label><input type="range" id="misc" min="0" max="1000" step="25" value="350"><output id="miscO"></output></div>
+<div class="row"><label for="furn">Furnace blower hours</label><input type="range" id="furn" min="0" max="12" step="1" value="0"><output id="furnO"></output></div>
+<div class="cards">
+<div class="card"><div class="l">Solar harvest</div><div class="v" id="sh">-</div><div class="s" id="shS"></div></div>
+<div class="card"><div class="l">12 V use</div><div class="v" id="use">-</div><div class="s" id="useS"></div></div>
+<div class="card"><div class="l">Daily balance</div><div class="v" id="bal">-</div><div class="s" id="balS"></div></div>
+<div class="card"><div class="l">Generator to make it up</div><div class="v" id="gen">-</div><div class="s" id="genS"></div></div>
+</div>
+
+<footer>Estimates. Rating 5,500 W continuous (45.8 A at 120 V), 6,000 W peak. Fuel burn: 0.12 gal/hr minimal and 0.37 gal/hr half load (published); ~0.6 gal/hr full load is an estimate, interpolated between. Appliance watts are typical, not nameplate. Solar at 75% system efficiency; converter charging ~850 W drawn, ~700 W into the batteries. A/C start-up surge is 2-3x running watts; start A/Cs one at a time.</footer>
+</main>
+<script>
+const CONT=5500,PEAK=6000,EFF=0.75,CHG=700;
+const A=[
+{k:'ac1',n:'A/C 1, 15,000 BTU',w:1600},
+{k:'ac2',n:'A/C 2 (option)',w:1600},
+{k:'conv',n:'Converter charging batteries (55 A)',w:850},
+{k:'micro',n:'Microwave, 1,000 W cooking',w:1500},
+{k:'coffee',n:'Coffee maker',w:1000},
+{k:'hair',n:'Hair dryer',w:1500},
+{k:'heater',n:'Electric space heater',w:1500},
+{k:'tv',n:'TV and stereo',w:120},
+{k:'dev',n:'Laptops and phones',w:150}];
+const P={charge:['conv','dev'],evening:['tv','dev'],oneac:['ac1','tv','dev','conv'],twoac:['ac1','ac2','tv','dev'],breakfast:['ac1','micro','coffee','dev'],over:['ac1','ac2','micro','coffee']};
+const $=id=>document.getElementById(id),f=n=>Math.round(n).toLocaleString(),m=n=>'$'+n.toFixed(2);
+A.forEach(x=>$('aps').insertAdjacentHTML('beforeend',`<label class="ap"><input type="checkbox" id="c_${x.k}"> ${x.n}<span class="w">${x.w.toLocaleString()} W</span></label>`));
+function burn(w){const h=CONT/2;return w<=h?0.12+(0.37-0.12)*(w/h):0.37+(0.60-0.37)*((w-h)/h);}
+function calc(){
+let w=0;A.forEach(x=>{if($('c_'+x.k).checked)w+=x.w});
+const fuel=+$('fuel').value,price=+$('price').value,hpd=+$('hrs').value;
+$('fuelO').textContent=fuel+' gal';$('priceO').textContent='$'+price.toFixed(2);$('hrsO').textContent=hpd+' hr';
+$('w').textContent=f(w)+' W';
+const s=$('wS');s.className='s '+(w>CONT?'bad':w>CONT*0.85?'warn':'ok');
+s.textContent=w>CONT?`${f(w-CONT)} W over rating - breaker trips`:`${Math.round(w/CONT*100)}% of 5,500 W; ${(w/120).toFixed(1)} of 45.8 A`;
+const gph=w>0?burn(Math.min(w,CONT)):0.12;$('g').textContent=gph.toFixed(2);
+const hrs=fuel/gph;$('r').textContent=hrs>=48?(hrs/24).toFixed(1)+' days':Math.round(hrs)+' hr';$('rS').textContent=`${Math.round(hrs)} hours running`;
+const ch=gph*price;$('ch').textContent=m(ch);$('chS').textContent=`${gph.toFixed(2)} gal x $${price.toFixed(2)}`;
+$('cd').textContent=m(ch*hpd);$('cdS').textContent=`${hpd} hr, ${(gph*hpd).toFixed(1)} gal`;
+$('cw').textContent='$'+f(ch*hpd*7);$('cwS').textContent=`${(gph*hpd*7).toFixed(1)} gal`;
+$('cf').textContent='$'+f(fuel*price);$('cfS').textContent=`${fuel} gal at $${price.toFixed(2)}`;
+const px=v=>20+Math.min(v,7000)/7000*640;
+let b=`<rect x="20" y="20" width="640" height="24" rx="4" fill="var(--surface)"/><rect x="20" y="20" width="${Math.max(0,px(w)-20)}" height="24" rx="4" fill="${w>CONT?'var(--bad-fill)':w>CONT*0.85?'var(--warn-fill)':'var(--good-fill)'}"/>`;
+[[CONT,'5,500 W rated'],[PEAK,'6,000 W peak']].forEach(([v,l])=>{b+=`<line x1="${px(v)}" y1="14" x2="${px(v)}" y2="50" stroke="var(--text)" stroke-dasharray="3 3"/><text x="${px(v)}" y="64" text-anchor="middle" font-size="11">${l}</text>`});
+$('bar').innerHTML=b;
+const pv=+$('pv').value,sun=+$('sun').value,fr=+$('fr').value,misc=+$('misc').value,fh=+$('furn').value;
+$('pvO').textContent=pv+' W';$('sunO').textContent=sun+' hr';$('frO').textContent=fr+' Wh';$('miscO').textContent=misc+' Wh';$('furnO').textContent=fh+' hr';
+const harvest=pv*sun*EFF,use=fr+misc+fh*100,bal=harvest-use;
+$('sh').textContent=f(harvest)+' Wh';$('shS').textContent=`${pv} W x ${sun} hr x 75%; ~${Math.round(harvest/12.8)} Ah`;
+$('use').textContent=f(use)+' Wh';$('useS').textContent=`~${Math.round(use/12.8)} Ah`;
+$('bal').textContent=(bal>=0?'+':'')+f(bal)+' Wh';const bs=$('balS');bs.className='s '+(bal>=0?'ok':'bad');bs.textContent=bal>=0?'solar covers the day':'batteries fall behind';
+const gh=bal<0?(-bal)/CHG:0;$('gen').textContent=gh===0?'none':gh.toFixed(1)+' hr';
+$('genS').textContent=gh===0?'no charging needed':`~700 W into the batteries; ~${m(gh*burn(850)*price)}/day in gas`;}
+document.querySelectorAll('[data-p]').forEach(bt=>bt.onclick=()=>{A.forEach(x=>$('c_'+x.k).checked=P[bt.dataset.p].includes(x.k));calc()});
+document.querySelectorAll('input').forEach(i=>i.oninput=calc);
+document.querySelector('[data-p="oneac"]').click();
+</script>
+</body>
+</html>

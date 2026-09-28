@@ -215,6 +215,34 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 
 **Negotiating guide** (27-28 September 2026, estimates): fair value **~$50,000-53,000 out the door before tax and title** - a new base unit at ~$44,000-45,000, plus the generator (~$4,000-5,000), second A/C (~$1,000-1,500), railing and recliners (~$500-1,000), and little or none of the freight. Open at **~$47,000-48,000**, target **~$50,000-52,000**, walk away above **~$54,000-55,000**. **Ask for delivery to be included, or at least cut** - $5,000 on top of ~$6,000 of freight already in the price means paying to ship the trailer twice. Get the **yellow cargo label** first: at an estimated ~3,970 lb the unit may fail the 4,000 lb bar whatever the price.
 
+**Generator and solar** (28 September 2026). **Interactive calculator: [generator and solar calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/nps6000-generator-solar.html)** (`tools/nps6000-generator-solar.html` in this repository) - appliance load against the generator's rating, fuel burn, runtime and cost at an adjustable gas price, and a daily 12 V energy balance for the solar.
+
+**Generator: Next-Gen NPS6000eco** (dealer photos). Rated **5,500 W continuous** (45.8 A at 120 V), 6,000 W peak; fuel from the 30 gal fuel station at ~0.12 gal/hr minimal load and ~0.37 gal/hr half load (published), ~0.6 gal/hr full load (estimated).
+
+| Load | Running watts | Fuel | Runtime, 30 gal | Cost at $3.50/gal, 8 hr/day |
+| --- | --- | --- | --- | --- |
+| Battery charging only | ~1,070 W | ~0.22 gal/hr | ~5.8 days | ~$6/day |
+| One A/C afternoon | ~2,790 W | ~0.37 gal/hr | ~80 hr | **~$10/day, ~$73/week** |
+| Both A/Cs | ~3,540 W | ~0.44 gal/hr | ~69 hr | ~$12/day |
+| Two A/Cs + microwave + coffee maker | ~5,770 W | - | **over the rating - breaker trips** | - |
+
+- **It runs both A/Cs** at about 64% of its rating. Do not stack the microwave or coffee maker on top of two A/Cs.
+- **Start A/Cs one at a time** - start-up surge is 2-3x running watts; soft-start kits largely remove the problem.
+- **Filling the station costs ~$105** at $3.50/gal. Campground quiet hours usually limit generator use more than fuel does.
+- Ask Camping World whether the generator's fuel pickup draws the station all the way down; some toy haulers stop it partway to keep fuel for the toys.
+
+**Solar: 200 W** (Premium Package), with a **55 A converter**. The **converter** turns 120 V from shore power or the generator into 12 V to run the 12 V systems and **charge the house batteries** - "converter charging" draws up to ~850 W from the generator when the batteries are low, tapering as they fill.
+
+| Day off-grid (5 peak sun hours) | Solar harvest | 12 V use | Balance | Generator to make it up |
+| --- | --- | --- | --- | --- |
+| 200 W, summer (fridge ~600 Wh + ~350 Wh other) | ~750 Wh | ~950 Wh | **~-200 Wh** | **~20 min/day** |
+| 200 W, cold night (+6 hr furnace blower) | ~750 Wh | ~1,550 Wh | ~-800 Wh | ~1.1 hr/day |
+| 400 W, summer | ~1,500 Wh | ~950 Wh | **~+550 Wh** | none |
+
+**200 W nearly covers a summer day** but not the 12 V fridge plus the furnace in cold weather; **400-600 W** plus a lithium bank is the usual boondocking upgrade. The generator is needed for the A/Cs in any case.
+
+Estimates throughout: appliance watts are typical, not nameplate; solar at 75% system efficiency; ~700 W into the batteries while converter charging.
+
 
 #### Rogue SUT 323SUT - loading rules, 26 September 2026
 
