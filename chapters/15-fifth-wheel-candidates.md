@@ -116,11 +116,11 @@ These are the units found in the lower 48 on 14 September 2026: seven on RV Trad
 | 1 | ~~2025~~ | ~~New~~ | ~~North Branch, MI~~ | Fun Town RV - North Detroit | ~~$42,195~~ - **SOLD** (owner, 17 September 2026) | ~480 mi |
 | 2 | 2026 | New | Bunker Hill, IN | [RV Dynasty](https://www.rvdynasty.com/product/new-2026-forest-river-rv-cherokee-rogue-sut-323sut-3464834-26) | $44,995* ("will ship") - **sale pending** (owner, 14 September 2026) | ~257 mi |
 | 3 | 2026 | New | Lake Mills, WI | [Kunes RV of Lake Mills](https://kunesrv.com/inventory/New-2026-Forest_River-Cherokee_Rogue_SUT-323SUT-5NHFVGH27TC005643-163), stock 41W179 | $51,373*; **$49,594\* on 27 September** (price reduced; same on Facebook Marketplace). **Listed since about 16 May 2026** - 19 weeks on Facebook, "120+ days" on RV Trader | ~315 mi |
-| 3 | 2024 | Used | Seffner, FL | [Lazydays by Campers Inn RV](https://www.lazydays.com/rvs/tampa-fl/fifth-wheel/used/2024/forest-river-vengeance-rogue-21164518a) | $56,995 (negotiable) | ~862 mi |
-| 4 | 2025 | Used | Las Vegas, NV | [Camping World](https://rv.campingworld.com/rv/2025-forest-river-rogue-323sut-2658951-las-vegas-nv), stock 2658951 | $56,848; **$59,598 on 17 September** | ~1,381 mi |
-| 5 | 2025 | New | Rapid City, SD | [Dakota Discount RV](https://www.dakotadiscountrv.com/product/new-2025-forest-river-rv-vengeance-rogue-sut-323sut-2820466-26) | $59,517 | ~775 mi |
-| 6 | 2026 | New | Avondale, AZ | [Camping World](https://rv.campingworld.com/rv/2026-forest-river-rogue-323sut-2638510-avondale-az), stock 2638510, VIN `5NHFVGH23TC005638` | $61,348 - **re-listed 27 September at the same price**; **liked by the owner** - see below | ~1,288 mi |
-| 7 | ~~2026~~ | ~~New~~ | ~~Lakeview, OH~~ | RV Wholesalers, stock 005644 | **SOLD** (owner, 17 September 2026) | - |
+| 4 | 2024 | Used | Seffner, FL | [Lazydays by Campers Inn RV](https://www.lazydays.com/rvs/tampa-fl/fifth-wheel/used/2024/forest-river-vengeance-rogue-21164518a) | $56,995 (negotiable) | ~862 mi |
+| 5 | 2025 | Used | Las Vegas, NV | [Camping World](https://rv.campingworld.com/rv/2025-forest-river-rogue-323sut-2658951-las-vegas-nv), stock 2658951 | $56,848; **$59,598 on 17 September** | ~1,381 mi |
+| 6 | 2025 | New | Rapid City, SD | [Dakota Discount RV](https://www.dakotadiscountrv.com/product/new-2025-forest-river-rv-vengeance-rogue-sut-323sut-2820466-26) | $59,517 | ~775 mi |
+| 7 | 2026 | New | Avondale, AZ | [Camping World](https://rv.campingworld.com/rv/2026-forest-river-rogue-323sut-2638510-avondale-az), stock 2638510, VIN `5NHFVGH23TC005638` | $61,348 - **re-listed 27 September at the same price**; **liked by the owner** - see below | ~1,288 mi |
+| 8 | ~~2026~~ | ~~New~~ | ~~Lakeview, OH~~ | RV Wholesalers, stock 005644 | **SOLD** (owner, 17 September 2026) | - |
 
 **Unit 3 labels photographed (owner, 17 September 2026).** VIN **5NHFVGH27TC005643**, matching the Kunes listing. The trailer's own weight label reads:
 
@@ -1689,11 +1689,11 @@ Added 29 September 2026.
 | --- | --- | --- | --- | --- | --- |
 | 1 | **The owner's lender rate sheet** (below) | **5.25%** at 84 mo; 7.75% at 96; 8.50% at 120-180 | Ask | Ask | Best rate on record |
 | 2 | [My Financing USA](https://www.myfinancingusa.com/faqs/) | **5.99%** (to 19.95%) fixed APR, advertised | **Yes - programs for full-time living** ([FAQ](https://www.myfinancingusa.com/faqs/)) | **Yes** - needs an example unit; can switch units after approval; approval good 45-60 days | Nationwide broker (Bailey Carrier Capital, Louisville KY). Terms 60-240 months, no prepayment penalty on most loans; minimum credit 550, $10,000 minimum; most lenders want 10-15% down; DTI under ~40-50%. **May cause more than one hard inquiry** if it shops several lenders |
-| 4 | [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html) | **7.45%**, advertised (3-year example) | Ask | **No** - apply with the signed purchase agreement | Military - eligible |
-| 5 | [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **8.87%** for $50,000-74,999 over 240 mo (owner's quote; advertised from 7.12%) | Ask | Yes | Broker. On $70,000: ~$624 a month, ~$79,750 interest over 20 years |
-| 6 | [IntoRV](https://www.intorv.com/post/we-offer-full-time-rv-loans-with-great-rates-and-terms) | Quote only | **Yes - specializes in full-time RV loans** | Yes, online | Broker; up to $400,000, 20 years, 10% down |
-| 7 | [U.S. Bank](https://www.usbank.com/vehicle-loans/rv-loans/rv-loan-pre-approval.html) | Not published | Ask | **Online, good for 60 days** | $10,000-150,000; only at dealers U.S. Bank works with; rate finalized at the dealer |
-| 8 | [LightStream](https://www.lightstream.com/) | **10.04%** at 36 mo to 11.29% at 120-144 mo (owner's quote; range to 14.49%; advertised from 6.49%) | Unsecured - use should not matter; confirm | Approves and funds before purchase | $5,000-100,000. On $70,000: $2,260 (36 mo), $1,504 (60), $1,321 (72), $1,200 (84), $976 (120), $890 (144) a month |
+| 3 | [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html) | **7.45%**, advertised (3-year example) | Ask | **No** - apply with the signed purchase agreement | Military - eligible |
+| 4 | [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **8.87%** for $50,000-74,999 over 240 mo (owner's quote; advertised from 7.12%) | Ask | Yes | Broker. On $70,000: ~$624 a month, ~$79,750 interest over 20 years |
+| 5 | [IntoRV](https://www.intorv.com/post/we-offer-full-time-rv-loans-with-great-rates-and-terms) | Quote only | **Yes - specializes in full-time RV loans** | Yes, online | Broker; up to $400,000, 20 years, 10% down |
+| 6 | [U.S. Bank](https://www.usbank.com/vehicle-loans/rv-loans/rv-loan-pre-approval.html) | Not published | Ask | **Online, good for 60 days** | $10,000-150,000; only at dealers U.S. Bank works with; rate finalized at the dealer |
+| 7 | [LightStream](https://www.lightstream.com/) | **10.04%** at 36 mo to 11.29% at 120-144 mo (owner's quote; range to 14.49%; advertised from 6.49%) | Unsecured - use should not matter; confirm | Approves and funds before purchase | $5,000-100,000. On $70,000: $2,260 (36 mo), $1,504 (60), $1,321 (72), $1,200 (84), $976 (120), $890 (144) a month |
 | 8 | Great RV Loan / BoatLoan.com ([CNBC](https://www.cnbc.com/select/best-rv-loans/), [Forbes](https://www.forbes.com/advisor/personal-loans/best-rv-loans/)) | Quote only | Ask | Yes | Nationwide brokers named by the rate-comparison sites |
 | 9 | A bank or credit union where the owner lives | Varies | Ask | Usually | Membership rules met; often the lowest actual rates |
 
