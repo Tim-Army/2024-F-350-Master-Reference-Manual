@@ -1676,6 +1676,22 @@ Added 29 September 2026.
 
 **Who lends lowest.** Credit unions advertise the lowest RV rates. September 2026 "as low as" rates for excellent credit: ~~FivePoint Credit Union 3.50%~~ - **rejected by the owner 29 September 2026: membership is limited to where it serves, and the owner does not live there** ([membership](https://www.5pointcu.org/personal/accounts/open-an-account/)); ~~Neches Credit Union 3.75%~~ - **rejected by the owner 29 September 2026 for the same reason: outside its membership area**; ~~United Federal Credit Union 5.45-18.00%~~ - **rejected by the owner 29 September 2026: outside its membership area**; ~~APG Federal Credit Union 5.99% (97-180 months)~~ - **rejected by the owner 29 September 2026: outside its membership area**; Bankrate's national range 6.49% to 35.99%; **Navy Federal from 7.45%** (3-year example). USAA and PenFed do not publish RV rates. Sources: [Bankrate](https://www.bankrate.com/loans/personal-loans/rv-loans/), [APG FCU](https://www.apgfcu.com/rates/loan-rates.html), [United FCU](https://unitedfcu.com/personal/borrow/recreational-vehicle-loans/rv-loans), [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html), [USAA](https://www.usaa.com/banking/loans/rv/?akredirect=true).
 
+**Nationwide RV lenders - lowest advertised rates** (29 September 2026; no geographic membership limit):
+
+| Lender | Lowest advertised APR | Terms and limits | Notes |
+| --- | --- | --- | --- |
+| [LightStream](https://www.bankrate.com/loans/personal-loans/rv-loans/) | **6.49%** (to 13.89%) | $5,000-100,000; minimum credit 660 | **Unsecured** - no lien on the trailer; funds in about a day. Shorter terms than a secured RV loan |
+| [Southeast Financial](https://www.lendingtree.com/auto/rv/) | **6.49%** (to 8.95%) | $10,000-4 million; up to 180 months; minimum credit 575 | Nationwide RV lender |
+| [Alliant Credit Union](https://www.alliantcreditunion.org/borrow/recreational-vehicle-loans) | **6.74%** at 120 mo; 7.24% at 144; 7.49% at 180; 7.74% at 240 | $10,000-400,000; up to 20 years; all 50 states | **Anyone can join**; finances full-timers; preapproval online |
+| [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **7.12%** | Rate depends on RV age, credit and amount | Nationwide broker |
+| [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html) | **7.45%** (3-year example) | Longer terms higher | Military - eligible |
+| [Good Sam Finance Center](https://loans.goodsam.com/resources/rv-loan-rates) | just under **8%** to 16%+ | $10,000-2 million | Camping World's finance arm; best rates at 740+ credit |
+| [USAA](https://www.usaa.com/banking/loans/rv/?akredirect=true) | not published | Travel trailers, campers, motorhomes | Military - eligible; apply to see a rate |
+
+**PenFed does not appear to offer RV loans now** - its RV loan calculator page redirects to its auto loans, which carry "vehicle weight and mileage restrictions" and top out at 84 months. Confirm at 1-800-247-5626.
+
+**For a new 323SUT at ~$50,000 financed, the best nationwide options are roughly 6.5-7.5%.** The rate sheet below, where the owner qualifies, beats them at **84 months or shorter** (5.25% at 84 months) but not beyond 96 months (7.75-8.50%). Get preapprovals from **Alliant, Navy Federal and USAA**, plus Southeast Financial or Trident for a broker quote, within the same 14-45 days.
+
 **Getting the lowest rate:** get preapproved at two or three credit unions, including the military lenders, before talking to a dealer - rate-shopping for the same loan within about 14-45 days usually counts as one credit inquiry. New RVs get better rates than used, and many lenders will not finance RVs 14-17 years old. Shorter terms and 10-20% down lower the rate. Dealers (Good Sam Finance at Camping World, RV Dynasty) can sometimes beat a preapproval, but only if there is one to show them.
 
 **Interactive calculator: [RV loan calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/rv-loan-calculator.html)** (`tools/rv-loan-calculator.html`) - price, down payment, rate and term, with the payment, total interest, total paid and a balance chart. A table shows every term for the same amount; **by default it uses the rate slider for every term**, with a switch to show this lender rate sheet instead.
