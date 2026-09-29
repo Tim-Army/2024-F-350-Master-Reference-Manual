@@ -1692,11 +1692,11 @@ Added 29 September 2026.
 | [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **8.87%** for $50,000-74,999 over **240 months** (owner, 29 September 2026); advertised from 7.12% | Rate depends on RV age, credit and amount | Nationwide broker. **On $70,000: ~$624 a month, ~$79,750 interest over 20 years** |
 | [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html) | **7.45%** (3-year example) | Longer terms higher | Military - eligible. **No preapproval** (owner, 29 September 2026): negotiate the deal first, then apply with the signed purchase agreement |
 | [USAA](https://www.usaa.com/banking/loans/rv/?akredirect=true) | **7.79%** (owner, 29 September 2026) | Travel trailers, campers, motorhomes | Military - eligible. **Does not lend on an RV used for full-time living** (owner, 29 September 2026) |
-| [Good Sam Finance Center](https://loans.goodsam.com/resources/rv-loan-rates) | just under **8%** to 16%+ | $10,000-2 million | Camping World's finance arm; best rates at 740+ credit. **Finances full-time RVers** (owner, 29 September 2026) |
+| [Good Sam Finance Center](https://loans.goodsam.com/resources/rv-loan-rates) | just under **8%** to 16%+ | $10,000-2 million | Camping World's finance arm; best rates at 740+ credit. **Does not finance full-time RVers** (owner, 29 September 2026) |
 | [LightStream](https://www.lightstream.com/) | **10.04%** at 36 mo to 11.29% at 120-144 mo - **owner's quote, 29 September 2026** (range 10.04-14.49%, with AutoPay and excellent credit); advertised as low as 6.49% | $5,000-100,000; minimum credit 660 | **Unsecured** - no lien. On $70,000: $2,260 (36 mo), $1,504 (60), $1,321 (72), $1,200 (84), $976 (120), $890 (144) a month |
 
 
-**Full-time living.** Some lenders will not finance an RV that will be lived in full-time: **USAA will not** (owner, 29 September 2026); **Good Sam does** (owner, 29 September 2026). Ask every other lender before applying. Of the lenders recorded here, Alliant advertised financing for full-timers (rejected by the owner for other reasons); LightStream's unsecured loan carries no use restriction on the trailer.
+**Full-time living.** Some lenders will not finance an RV that will be lived in full-time: **USAA and Good Sam will not** (owner, 29 September 2026). Ask every other lender before applying. Of the lenders recorded here, Alliant advertised financing for full-timers (rejected by the owner for other reasons); LightStream's unsecured loan carries no use restriction on the trailer.
 
 **PenFed does not appear to offer RV loans now** - its RV loan calculator page redirects to its auto loans, which carry "vehicle weight and mileage restrictions" and top out at 84 months. Confirm at 1-800-247-5626.
 
