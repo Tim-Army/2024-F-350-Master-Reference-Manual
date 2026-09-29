@@ -85,7 +85,7 @@ $('downPct').addEventListener('change',()=>{applyPct();calc()});
 ['price','priceR'].forEach(id=>$(id).addEventListener('input',()=>{applyPct();calc()}));
 ['down','downR'].forEach(id=>$(id).addEventListener('input',()=>{$('downPct').value='';}));
 document.querySelectorAll('input[name=mode]').forEach(e=>e.addEventListener('change',()=>calc()));
-(function(){const dl=$('termTicks'),tk=$('ticks'),th=16;for(let y=1;y<=20;y++){const o=document.createElement('option');o.value=y*12;dl.appendChild(o);if(y===1||y%2===0||y===15){const s=document.createElement('span');s.dataset.m=y*12;s.textContent=y===1?'1 yr':y+'';s.style.left=`calc(${th/2}px + (100% - ${th}px) * ${(y*12-12)/228})`;tk.appendChild(s);}}})();
+(function(){const dl=$('termTicks'),tk=$('ticks'),th=16;for(let y=1;y<=20;y++){const o=document.createElement('option');o.value=y*12;dl.appendChild(o);if(y===1||y%2===0){const s=document.createElement('span');s.dataset.m=y*12;s.textContent=y===1?'1 yr':y+'';s.style.left=`calc(${th/2}px + (100% - ${th}px) * ${(y*12-12)/228})`;tk.appendChild(s);}}})();
 function calc(){
 const price=Math.max(0,+$('price').value||0),down=Math.min(price,Math.max(0,+$('down').value||0)),r=Math.max(0,+$('rate').value||0),n=Math.max(1,Math.round(+$('term').value||1));
 const P=price-down,m=pay(P,r,n),tot=m*n,it=tot-P;
