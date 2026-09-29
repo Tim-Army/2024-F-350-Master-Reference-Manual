@@ -60,9 +60,9 @@ a{color:inherit}
 <div class="legend"><span><span class="sw" style="background:var(--principal)"></span>Principal paid</span><span><span class="sw" style="background:var(--interest)"></span>Interest paid</span><span><span class="sw" style="background:var(--accent)"></span>Balance owed</span></div>
 <svg id="chart" viewBox="0 0 680 220" width="100%" role="img" aria-label="Loan balance and cumulative principal and interest over the term"></svg>
 
-<h2>Lender rate sheet, applied to this amount</h2>
-<p class="note">Every row updates with the price and down payment. The top row is your loan from the sliders. Choose which rates the other rows use:</p>
-<div class="mode" role="radiogroup" aria-label="Rates in the table"><label><input type="radio" name="mode" value="sheet" checked> Lender sheet (lowest and highest per term)</label> <label><input type="radio" name="mode" value="mine"> My rate on every term</label></div>
+<h2>Every term, applied to this amount</h2>
+<p class="note">Every row updates with the price and down payment. The top row is your loan from the sliders. By default every other row uses your rate too, so the whole table follows the rate slider; switch to the lender sheet to see its lowest and highest rate per term.</p>
+<div class="mode" role="radiogroup" aria-label="Rates in the table"><label><input type="radio" name="mode" value="mine" checked> My rate on every term</label> <label><input type="radio" name="mode" value="sheet"> Lender sheet (lowest and highest per term)</label></div>
 <div class="tablewrap"><table id="sheet"><thead><tr><th>Term</th><th>Rate</th><th>Payment</th><th>Interest</th><th>Total paid</th><th></th></tr></thead><tbody></tbody></table></div>
 
 <footer>Standard amortization: payment = amount x i / (1 - (1 + i)^-n), with i the monthly rate. Excludes taxes, title, fees and insurance. Rates vary by lender, credit, term, down payment and RV age; get quotes.</footer>
