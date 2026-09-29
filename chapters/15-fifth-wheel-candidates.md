@@ -1681,7 +1681,7 @@ Added 29 September 2026.
 | Lender | Lowest advertised APR | Terms and limits | Notes |
 | --- | --- | --- | --- |
 | ~~[Southeast Financial](https://www.lendingtree.com/auto/rv/)~~ | **6.49%** (to 8.95%) | $10,000-4 million; up to 180 months; minimum credit 575 | **Rejected by the owner 29 September 2026 - the same reason as the credit unions above: the owner is outside its area** |
-| [Alliant Credit Union](https://www.alliantcreditunion.org/borrow/recreational-vehicle-loans) | **6.74%** at 120 mo; 7.24% at 144; 7.49% at 180; 7.74% at 240 | $10,000-400,000; up to 20 years; all 50 states | **Anyone can join**; finances full-timers; preapproval online |
+| ~~[Alliant Credit Union](https://www.alliantcreditunion.org/borrow/recreational-vehicle-loans)~~ | **6.74%** at 120 mo; 7.24% at 144; 7.49% at 180; 7.74% at 240 | $10,000-400,000; up to 20 years; all 50 states | **Rejected by the owner 29 September 2026 - the same reason as the credit unions above.** (Alliant's page says everyone is eligible to join) |
 | [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **7.12%** | Rate depends on RV age, credit and amount | Nationwide broker |
 | [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html) | **7.45%** (3-year example) | Longer terms higher | Military - eligible |
 | [USAA](https://www.usaa.com/banking/loans/rv/?akredirect=true) | **7.79%** (owner, 29 September 2026) | Travel trailers, campers, motorhomes | Military - eligible |
@@ -1691,7 +1691,7 @@ Added 29 September 2026.
 
 **PenFed does not appear to offer RV loans now** - its RV loan calculator page redirects to its auto loans, which carry "vehicle weight and mileage restrictions" and top out at 84 months. Confirm at 1-800-247-5626.
 
-**For a new 323SUT at ~$50,000 financed, the best nationwide options are roughly 6.5-7.5%.** LightStream's actual quote (10.04-11.29%) is far above its advertised 6.49% - on $70,000 over 120 months it costs ~$47,100 in interest against ~$26,400 at Alliant's 6.74%. The rate sheet below, where the owner qualifies, beats them at **84 months or shorter** (5.25% at 84 months) but not beyond 96 months (7.75-8.50%). Get preapprovals from **Alliant, Navy Federal and USAA**, plus Trident for a broker quote, within the same 14-45 days.
+**For a new 323SUT at ~$50,000 financed, the best nationwide options are roughly 6.5-7.5%.** LightStream's actual quote (10.04-11.29%) is far above its advertised 6.49% - on $70,000 over 120 months it costs ~$47,100 in interest against ~$26,400 at 6.74%. The rate sheet below, where the owner qualifies, beats them at **84 months or shorter** (5.25% at 84 months) but not beyond 96 months (7.75-8.50%). Get preapprovals from **Navy Federal and USAA**, plus Trident for a broker quote, within the same 14-45 days.
 
 **Getting the lowest rate:** get preapproved at two or three credit unions, including the military lenders, before talking to a dealer - rate-shopping for the same loan within about 14-45 days usually counts as one credit inquiry. New RVs get better rates than used, and many lenders will not finance RVs 14-17 years old. Shorter terms and 10-20% down lower the rate. Dealers (Good Sam Finance at Camping World, RV Dynasty) can sometimes beat a preapproval, but only if there is one to show them.
 
