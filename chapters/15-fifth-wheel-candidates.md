@@ -1670,3 +1670,39 @@ As a gooseneck, add ~140 lb: front-heavy is ~3,860 lb.
 4. **Cargo is the tight number, not the axles.** 3,905 lb is under the 4,000 lb bar before any water.
 5. **Settle the pin share with a scale reading of the hitch** - the generator and three A/Cs may sit further forward than Keystone's average build.
 
+## Financing
+
+Added 29 September 2026.
+
+**Who lends lowest.** Credit unions advertise the lowest RV rates. September 2026 "as low as" rates for excellent credit: FivePoint Credit Union 3.50% and Neches Credit Union 3.75% (regional; membership limits, likely promotional or short-term); United Federal Credit Union 5.45-18.00%; APG Federal Credit Union 5.99% (97-180 months); Bankrate's national range 6.49% to 35.99%; **Navy Federal from 7.45%** (3-year example). USAA and PenFed do not publish RV rates. Sources: [Bankrate](https://www.bankrate.com/loans/personal-loans/rv-loans/), [APG FCU](https://www.apgfcu.com/rates/loan-rates.html), [United FCU](https://unitedfcu.com/personal/borrow/recreational-vehicle-loans/rv-loans), [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html), [USAA](https://www.usaa.com/banking/loans/rv/?akredirect=true).
+
+**Getting the lowest rate:** get preapproved at two or three credit unions, including the military lenders, before talking to a dealer - rate-shopping for the same loan within about 14-45 days usually counts as one credit inquiry. New RVs get better rates than used, and many lenders will not finance RVs 14-17 years old. Shorter terms and 10-20% down lower the rate. Dealers (Good Sam Finance at Camping World, RV Dynasty) can sometimes beat a preapproval, but only if there is one to show them.
+
+**A $70,000 loan across a lender's rate sheet** (the owner-supplied sheet gives a lowest and highest rate for each term; standard amortization):
+
+| Term | Rate | Monthly payment | Total interest | Total paid |
+| --- | --- | --- | --- | --- |
+| **36 mo** | 3.50% | $2,051 | $3,841 | $73,841 |
+|  | 15.75% | $2,452 | $18,285 | $88,285 |
+| **48 mo** | 4.00% | $1,581 | $5,866 | $75,866 |
+|  | 16.00% | $1,984 | $25,223 | $95,223 |
+| **60 mo** | 4.25% | $1,297 | $7,824 | $77,824 |
+|  | 16.25% | $1,712 | $32,695 | $102,695 |
+| **72 mo** | 4.75% | $1,119 | $10,586 | $80,586 |
+|  | 16.25% | $1,528 | $40,022 | $110,022 |
+| **78 mo** | 5.00% | $1,053 | $12,135 | $82,135 |
+|  | 16.25% | $1,459 | $43,790 | $113,790 |
+| **84 mo** | 5.25% | $998 | $13,800 | $83,800 |
+|  | 16.25% | $1,400 | $47,628 | $117,628 |
+| **96 mo** | 7.75% | $981 | $24,147 | $94,147 |
+|  | 16.75% | $1,328 | $57,495 | $127,495 |
+| **120 mo** | 8.50% | $868 | $34,148 | $104,148 |
+|  | 16.75% | $1,206 | $74,662 | $144,662 |
+| **180 mo** | 8.50% | $689 | $54,077 | $124,077 |
+|  | 16.75% | $1,065 | $121,686 | $191,686 |
+
+- **Moving from 84 to 96 months is expensive.** The lowest rate jumps from 5.25% to 7.75%: the payment falls only **~$17 a month** while total interest nearly **doubles**, ~$13,800 to ~$24,100.
+- **180 months at the lowest rate** gives the smallest payment (~$689) but **~$54,100 in interest** - about $40,000 more than 84 months, on a trailer that depreciates meanwhile.
+- **84 months at 5.25%** keeps the payment under $1,000 and interest under $14,000.
+- **Credit decides where in each range the rate falls** - at 180 months the spread is ~$54,100 against ~$121,700 in interest.
+- **Check the sheet's 36-month line.** It lists **$28.51 per $1,000** at 3.50%, but 3.50% over 36 months is **$29.30 per $1,000**; the other terms match within a few cents. Either the rate or the payment on that line is off.

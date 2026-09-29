@@ -143,6 +143,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Rejected](chapters/15-fifth-wheel-candidates.md#rejected) |
 | | [Notes on the current list](chapters/15-fifth-wheel-candidates.md#notes-on-the-current-list) |
 | | [Verification standard](chapters/15-fifth-wheel-candidates.md#verification-standard) |
+| | [Financing](chapters/15-fifth-wheel-candidates.md#financing) |
 | **16** | **[Places to Visit](chapters/16-places-to-visit.md)** |
 | | [Rig limits for route and site planning](chapters/16-places-to-visit.md#rig-limits-for-route-and-site-planning) |
 | | [Trailer length and state parks - 35 ft against ~40 ft](chapters/16-places-to-visit.md#trailer-length-and-state-parks---35-ft-against-40-ft) |
