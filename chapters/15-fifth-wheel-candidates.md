@@ -1688,7 +1688,7 @@ Added 29 September 2026.
 | # | Lender | Lowest rate | Full-time living | Preapproval | Notes |
 | --- | --- | --- | --- | --- | --- |
 | 1 | **The owner's lender rate sheet** (below) | **5.25%** at 84 mo; 7.75% at 96; 8.50% at 120-180 | Ask | Ask | Best rate on record |
-| 2 | [My Financing USA](https://www.myfinancingusa.com/rv-loans/rates-calculator/) | **5.99%** (to 19.95%), advertised | Ask | Yes, online | Nationwide broker; rate depends on amount, RV age, location and credit |
+| 2 | [My Financing USA](https://www.myfinancingusa.com/faqs/) | **5.99%** (to 19.95%) fixed APR, advertised | **Yes - programs for full-time living** ([FAQ](https://www.myfinancingusa.com/faqs/)) | **Yes** - needs an example unit; can switch units after approval; approval good 45-60 days | Nationwide broker (Bailey Carrier Capital, Louisville KY). Terms 60-240 months, no prepayment penalty on most loans; minimum credit 550, $10,000 minimum; most lenders want 10-15% down; DTI under ~40-50%. **May cause more than one hard inquiry** if it shops several lenders |
 | 3 | [First Tech FCU](https://www.firsttechfed.com/borrow/recreational-vehicle-loans/rv-loans) (merged with DCU, 1 January 2026) | **7.29%**, advertised | Ask | Yes | Up to 180 mo; up to 90 days' payment deferral. **Anyone can join** through a partner association ([U.S. News](https://www.usnews.com/banking/articles/credit-unions-anyone-can-join)) |
 | 4 | [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html) | **7.45%**, advertised (3-year example) | Ask | **No** - apply with the signed purchase agreement | Military - eligible |
 | 5 | [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **8.87%** for $50,000-74,999 over 240 mo (owner's quote; advertised from 7.12%) | Ask | Yes | Broker. On $70,000: ~$624 a month, ~$79,750 interest over 20 years |
@@ -1709,9 +1709,9 @@ Added 29 September 2026.
 | Good Sam Finance Center (~8% and up) | Does not finance full-time RVers (owner) |
 | PenFed | No RV loan product - its RV calculator now redirects to auto loans, which carry weight restrictions and a maximum of 84 months |
 
-**Plan:** ask Nos. 1 and 2 whether they finance full-timers and preapprove; apply to IntoRV (No. 6) as the confirmed full-timer option; add First Tech (No. 3) if joining through its association is acceptable; after negotiating, apply to Navy Federal; take the best offer to the dealer. Keep the applications within about 14-45 days so they count as one credit inquiry.
+**Plan:** ask No. 1 whether it finances full-timers and preapproves; **get a preapproval from My Financing USA (No. 2)** - confirmed for full-timers - using a candidate trailer as the example unit; apply to IntoRV (No. 6) as a second full-timer option; add First Tech (No. 3) if joining through its association is acceptable; after negotiating, apply to Navy Federal; take the best offer to the dealer. Keep the applications within about 14-45 days so they count as one credit inquiry.
 
-**Full-time living.** Some lenders will not finance an RV that will be lived in full-time: **USAA and Good Sam will not** (owner, 29 September 2026). Ask every other lender before applying. IntoRV specializes in full-time RV loans; LightStream's unsecured loan carries no use restriction on the trailer.
+**Full-time living.** Some lenders will not finance an RV that will be lived in full-time: **USAA and Good Sam will not** (owner, 29 September 2026). Ask every other lender before applying. My Financing USA offers full-time programs and IntoRV specializes in full-time RV loans; LightStream's unsecured loan carries no use restriction on the trailer.
 
 **Getting the lowest rate:** get preapproved at two or three credit unions, including the military lenders, before talking to a dealer - rate-shopping for the same loan within about 14-45 days usually counts as one credit inquiry. New RVs get better rates than used, and many lenders will not finance RVs 14-17 years old. Shorter terms and 10-20% down lower the rate. Dealers (Good Sam Finance at Camping World, RV Dynasty) can sometimes beat a preapproval, but only if there is one to show them.
 
