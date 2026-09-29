@@ -34,6 +34,10 @@ button{font:inherit;font-size:12px;padding:3px 8px;border-radius:6px;border:1px 
 button:hover{background:var(--surface)}
 svg text{fill:var(--muted)}
 .mode{display:flex;flex-wrap:wrap;gap:16px;font-size:13px;margin:0 0 10px}
+.tslide{position:relative;padding-bottom:18px}
+.ticks{position:absolute;left:0;right:0;bottom:0;height:16px;font-size:11px;color:var(--faint)}
+.ticks span{position:absolute;transform:translateX(-50%);white-space:nowrap}
+.ticks span.on{color:var(--text);font-weight:600}
 .legend{display:flex;gap:16px;font-size:12px;color:var(--muted);margin:4px 0}
 .sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
 footer{margin-top:28px;font-size:12px;color:var(--faint)}
@@ -49,7 +53,7 @@ a{color:inherit}
 <div class="row"><label for="downPct">Down payment preset</label><select id="downPct" style="font:inherit;padding:4px 6px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--text)"><option value="">Custom (use the slider)</option><option value="0">None</option><option value="10">10% of price</option><option value="15">15% of price</option><option value="20">20% of price</option><option value="25">25% of price</option></select><span></span></div>
 <div class="row"><label for="down">Down payment</label><input type="range" id="downR" min="0" max="40000" step="500" value="0"><input type="number" id="down" min="0" step="100" value="0"></div>
 <div class="row"><label for="rate">Interest rate (APR %)</label><input type="range" id="rateR" min="2" max="20" step="0.05" value="5.25"><input type="number" id="rate" min="0" max="40" step="0.05" value="5.25"></div>
-<div class="row"><label for="term">Term (months) <span id="termY" style="color:var(--faint)"></span></label><input type="range" id="termR" min="12" max="240" step="6" value="84"><input type="number" id="term" min="1" max="360" step="1" value="84"></div>
+<div class="row"><label for="term">Term (months) <span id="termY" style="color:var(--faint)"></span></label><div class="tslide"><input type="range" id="termR" min="12" max="240" step="6" value="84" list="termTicks"><datalist id="termTicks"></datalist><div class="ticks" id="ticks" aria-hidden="true"></div></div><input type="number" id="term" min="1" max="360" step="1" value="84"></div>
 
 <div class="cards">
 <div class="card"><div class="l">Amount financed</div><div class="v" id="amt">-</div><div class="s" id="amtS"></div></div>
@@ -81,6 +85,7 @@ $('downPct').addEventListener('change',()=>{applyPct();calc()});
 ['price','priceR'].forEach(id=>$(id).addEventListener('input',()=>{applyPct();calc()}));
 ['down','downR'].forEach(id=>$(id).addEventListener('input',()=>{$('downPct').value='';}));
 document.querySelectorAll('input[name=mode]').forEach(e=>e.addEventListener('change',()=>calc()));
+(function(){const dl=$('termTicks'),tk=$('ticks'),th=16;for(let y=1;y<=20;y++){const o=document.createElement('option');o.value=y*12;dl.appendChild(o);if(y===1||y%2===0||y===15){const s=document.createElement('span');s.dataset.m=y*12;s.textContent=y===1?'1 yr':y+'';s.style.left=`calc(${th/2}px + (100% - ${th}px) * ${(y*12-12)/228})`;tk.appendChild(s);}}})();
 function calc(){
 const price=Math.max(0,+$('price').value||0),down=Math.min(price,Math.max(0,+$('down').value||0)),r=Math.max(0,+$('rate').value||0),n=Math.max(1,Math.round(+$('term').value||1));
 const P=price-down,m=pay(P,r,n),tot=m*n,it=tot-P;
@@ -88,7 +93,7 @@ $('amt').textContent=usd(P);$('amtS').textContent=down?`${usd(price)} less ${usd
 $('pay').textContent=usd2(m);$('payS').textContent=`${mo(n)} at ${r.toFixed(2)}%`;
 $('int').textContent=usd(it);$('intS').textContent=P?`${Math.round(it/P*100)}% of the amount financed`:'';
 $('tot').textContent=usd(tot+down);$('totS').textContent=down?`${usd(tot)} in payments + ${usd(down)} down`:`${(n/12).toFixed(1)} years of payments`;
-$('termY').textContent='/ '+yrs(n);
+$('termY').textContent='/ '+yrs(n);document.querySelectorAll('#ticks span').forEach(s=>s.classList.toggle('on',+s.dataset.m===n));
 drawChart(P,r,n,m);
 const tb=$('sheet').querySelector('tbody');tb.innerHTML='';const you=document.createElement('tr');you.className='pick';you.innerHTML=`<td><strong>Your loan</strong> ${mo(n)}</td><td>${r.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(m)}</td><td>${usd(it)}</td><td>${usd(tot+down)}</td><td></td>`;tb.appendChild(you);
 const mine=document.querySelector('input[name=mode]:checked').value==='mine';
