@@ -4,6 +4,13 @@ Shortlist of fifth wheels under consideration, and the screening arithmetic that
 
 ## Requirement
 
+**Full-time living** (owner, 29 September 2026). The trailer will be lived in full-time, which affects:
+
+- **Financing** - the lender must finance an RV used as a full-time residence. **USAA does not**; ask every lender before applying (see [Financing](#financing)).
+- **Insurance** - a full-timer RV policy, which covers the trailer as a residence (liability, personal property, loss of use), rather than a recreational policy.
+- **Domicile** - a legal state of residence for taxes, vehicle registration, the driver's license and mail.
+- **The trailer itself** - tank capacity, insulation and heated tanks, storage and cargo capacity matter more when it is the home, not a weekend camper.
+
 **Garage type is a data point, not a requirement** (owner, 14 September 2026). Each candidate records whether its garage is *enclosed* (a wall and door separating it from the living area) or *shared* (open to the living area), so the layouts can be compared. Neither type rules a trailer in or out.
 
 **Bikes: not a requirement.** Correction, 17 September 2026: the owner confirmed there was **never a requirement to carry two bikes**. The chapter had treated it as one. The Condor chocks in [chapter 9](09-accessories-and-modifications.md) (SCC-4000 for a Yamaha Zuma 125, ~282 lb wet, and SC-2000 for a large motorcycle) are equipment, not a sizing rule. Garage length and CCC are compared on their merits, not against a two-bike load.
