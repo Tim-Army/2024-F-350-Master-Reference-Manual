@@ -60,7 +60,7 @@ a{color:inherit}
 <svg id="chart" viewBox="0 0 680 220" width="100%" role="img" aria-label="Loan balance and cumulative principal and interest over the term"></svg>
 
 <h2>Lender rate sheet, applied to this amount</h2>
-<p class="note">Lowest and highest rate per term from the rate sheet recorded in the manual. Click "Use" to load a row into the calculator.</p>
+<p class="note">Every row updates with the price and down payment above. The top row is your loan from the rate and term sliders; the rest are the lender's lowest and highest rate per term. Click "Use" to load a row into the sliders.</p>
 <div class="tablewrap"><table id="sheet"><thead><tr><th>Term</th><th>Rate</th><th>Payment</th><th>Interest</th><th>Total paid</th><th></th></tr></thead><tbody></tbody></table></div>
 
 <footer>Standard amortization: payment = amount x i / (1 - (1 + i)^-n), with i the monthly rate. Excludes taxes, title, fees and insurance. Rates vary by lender, credit, term, down payment and RV age; get quotes.</footer>
@@ -80,8 +80,8 @@ $('pay').textContent=usd2(m);$('payS').textContent=`${n} months at ${r.toFixed(2
 $('int').textContent=usd(it);$('intS').textContent=P?`${Math.round(it/P*100)}% of the amount financed`:'';
 $('tot').textContent=usd(tot+down);$('totS').textContent=down?`${usd(tot)} in payments + ${usd(down)} down`:`${(n/12).toFixed(1)} years of payments`;
 drawChart(P,r,n,m);
-const tb=$('sheet').querySelector('tbody');tb.innerHTML='';
-SHEET.forEach(([tn,lo,hi])=>[lo,hi].forEach((rt,k)=>{const pm=pay(P,rt,tn),tt=pm*tn;const tr=document.createElement('tr');if(tn===n&&Math.abs(rt-r)<0.001)tr.className='pick';
+const tb=$('sheet').querySelector('tbody');tb.innerHTML='';const you=document.createElement('tr');you.className='pick';you.innerHTML=`<td><strong>Your loan</strong> ${n} mo</td><td>${r.toFixed(2)}%</td><td>${usd(m)}</td><td>${usd(it)}</td><td>${usd(tot)}</td><td></td>`;tb.appendChild(you);
+SHEET.forEach(([tn,lo,hi])=>[lo,hi].forEach((rt,k)=>{const pm=pay(P,rt,tn),tt=pm*tn;const tr=document.createElement('tr');if(tn===n&&Math.abs(rt-r)<0.001)tr.style.fontWeight='600';
 tr.innerHTML=`<td>${k?'':tn+' mo'}</td><td>${rt.toFixed(2)}%</td><td>${usd(pm)}</td><td>${usd(tt-P)}</td><td>${usd(tt)}</td><td><button type="button">Use</button></td>`;
 tr.querySelector('button').onclick=()=>{$('rate').value=$('rateR').value=rt;$('term').value=$('termR').value=tn;calc()};tb.appendChild(tr);}));}
 function drawChart(P,r,n,m){
