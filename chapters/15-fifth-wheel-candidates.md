@@ -1682,7 +1682,7 @@ Added 29 September 2026.
 | --- | --- | --- | --- |
 | ~~[Southeast Financial](https://www.lendingtree.com/auto/rv/)~~ | **6.49%** (to 8.95%) | $10,000-4 million; up to 180 months; minimum credit 575 | **Rejected by the owner 29 September 2026 - the same reason as the credit unions above: the owner is outside its area** |
 | ~~[Alliant Credit Union](https://www.alliantcreditunion.org/borrow/recreational-vehicle-loans)~~ | **6.74%** at 120 mo; 7.24% at 144; 7.49% at 180; 7.74% at 240 | $10,000-400,000; up to 20 years; all 50 states | **Rejected by the owner 29 September 2026 - the same reason as the credit unions above.** (Alliant's page says everyone is eligible to join) |
-| [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **7.12%** | Rate depends on RV age, credit and amount | Nationwide broker |
+| [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **8.87%** for $50,000-74,999 over **240 months** (owner, 29 September 2026); advertised from 7.12% | Rate depends on RV age, credit and amount | Nationwide broker. **On $70,000: ~$624 a month, ~$79,750 interest over 20 years** |
 | [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html) | **7.45%** (3-year example) | Longer terms higher | Military - eligible |
 | [USAA](https://www.usaa.com/banking/loans/rv/?akredirect=true) | **7.79%** (owner, 29 September 2026) | Travel trailers, campers, motorhomes | Military - eligible |
 | [Good Sam Finance Center](https://loans.goodsam.com/resources/rv-loan-rates) | just under **8%** to 16%+ | $10,000-2 million | Camping World's finance arm; best rates at 740+ credit |
