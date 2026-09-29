@@ -46,6 +46,7 @@ a{color:inherit}
 <p class="lead">Payment, interest and total cost for a trailer loan. From the <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/#c15">2024 F-350 master reference manual, chapter 15 (Financing)</a>.</p>
 
 <div class="row"><label for="price">Price, out the door</label><input type="range" id="priceR" min="10000" max="120000" step="500" value="70000"><input type="number" id="price" min="0" step="100" value="70000"></div>
+<div class="row"><label for="downPct">Down payment preset</label><select id="downPct" style="font:inherit;padding:4px 6px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--text)"><option value="">Custom (use the slider)</option><option value="0">None</option><option value="10">10% of price</option><option value="15">15% of price</option><option value="20">20% of price</option><option value="25">25% of price</option></select><span></span></div>
 <div class="row"><label for="down">Down payment</label><input type="range" id="downR" min="0" max="40000" step="500" value="0"><input type="number" id="down" min="0" step="100" value="0"></div>
 <div class="row"><label for="rate">Interest rate (APR %)</label><input type="range" id="rateR" min="2" max="20" step="0.05" value="5.25"><input type="number" id="rate" min="0" max="40" step="0.05" value="5.25"></div>
 <div class="row"><label for="term">Term (months)</label><input type="range" id="termR" min="12" max="240" step="6" value="84"><input type="number" id="term" min="1" max="360" step="1" value="84"></div>
@@ -74,6 +75,10 @@ const usd=n=>'$'+Math.round(n).toLocaleString(), usd2=n=>'$'+n.toLocaleString(un
 function pay(P,r,n){const i=r/1200;return i===0?P/n:P*i/(1-Math.pow(1+i,-n));}
 function link(a,b){$(a).addEventListener('input',()=>{$(b).value=$(a).value;calc()});$(b).addEventListener('input',()=>{$(a).value=$(b).value;calc()});}
 [['priceR','price'],['downR','down'],['rateR','rate'],['termR','term']].forEach(p=>link(...p));
+function applyPct(){const v=$('downPct').value;if(v==='')return;const d=Math.round((+$('price').value||0)*v/100/100)*100;$('down').value=d;$('downR').value=d;}
+$('downPct').addEventListener('change',()=>{applyPct();calc()});
+['price','priceR'].forEach(id=>$(id).addEventListener('input',()=>{applyPct();calc()}));
+['down','downR'].forEach(id=>$(id).addEventListener('input',()=>{$('downPct').value='';}));
 document.querySelectorAll('input[name=mode]').forEach(e=>e.addEventListener('change',()=>calc()));
 function calc(){
 const price=Math.max(0,+$('price').value||0),down=Math.min(price,Math.max(0,+$('down').value||0)),r=Math.max(0,+$('rate').value||0),n=Math.max(1,Math.round(+$('term').value||1));
