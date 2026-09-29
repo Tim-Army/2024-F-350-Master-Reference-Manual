@@ -1690,21 +1690,21 @@ Added 29 September 2026.
 | 1 | **The owner's lender rate sheet** (below) | **5.25%** at 84 mo; 7.75% at 96; 8.50% at 120-180 | Ask | Ask | Best rate on record |
 | 2 | [My Financing USA](https://www.myfinancingusa.com/faqs/) | **5.99%** (to 19.95%) fixed APR, advertised | **Yes - programs for full-time living** ([FAQ](https://www.myfinancingusa.com/faqs/)) | **Yes** - needs an example unit; can switch units after approval; approval good 45-60 days | Nationwide broker (Bailey Carrier Capital, Louisville KY). Terms 60-240 months, no prepayment penalty on most loans; minimum credit 550, $10,000 minimum; most lenders want 10-15% down; DTI under ~40-50%. **May cause more than one hard inquiry** if it shops several lenders |
 | 3 | [Navy Federal](https://www.navyfederal.org/loans-cards/auto-loans/rv-loans.html) | **7.45%**, advertised (3-year example) | Ask | **No** - apply with the signed purchase agreement | Military - eligible |
-| 4 | [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **8.87%** for $50,000-74,999 over 240 mo (owner's quote; advertised from 7.12%) | Ask | Yes | Broker. On $70,000: ~$624 a month, ~$79,750 interest over 20 years |
+| 4 | [Trident Funding](https://www.tridentfunding.com/rv-loans/rate-estimator/) | **8.87%** for $50,000-74,999 over 240 mo (Trident's published rate table, recorded by the owner; its headline rate starts at 7.12%) | Ask | Yes | Broker. On $70,000: ~$624 a month, ~$79,750 interest over 20 years |
 | 5 | [IntoRV](https://www.intorv.com/post/we-offer-full-time-rv-loans-with-great-rates-and-terms) | Quote only | **Yes - specializes in full-time RV loans** | Yes, online | Broker; up to $400,000, 20 years, 10% down |
 | 6 | [U.S. Bank](https://www.usbank.com/vehicle-loans/rv-loans/rv-loan-pre-approval.html) | Not published | Ask | **Online, good for 60 days** | $10,000-150,000; only at dealers U.S. Bank works with; rate finalized at the dealer |
-| 7 | [LightStream](https://www.lightstream.com/) | **10.04%** at 36 mo to 11.29% at 120-144 mo (owner's quote; range to 14.49%; advertised from 6.49%) | Unsecured - use should not matter; confirm | Approves and funds before purchase | $5,000-100,000. On $70,000: $2,260 (36 mo), $1,504 (60), $1,321 (72), $1,200 (84), $976 (120), $890 (144) a month |
+| 7 | [LightStream](https://www.lightstream.com/) | **10.04%** at 36 mo to 11.29% at 120-144 mo (LightStream's published rate table on its website, with AutoPay and excellent credit; range to 14.49%; rate-comparison sites cite 6.49%) | Unsecured - use should not matter; confirm | Approves and funds before purchase | $5,000-100,000. On $70,000: $2,260 (36 mo), $1,504 (60), $1,321 (72), $1,200 (84), $976 (120), $890 (144) a month |
 | 8 | Great RV Loan / BoatLoan.com ([CNBC](https://www.cnbc.com/select/best-rv-loans/), [Forbes](https://www.forbes.com/advisor/personal-loans/best-rv-loans/)) | Quote only | Ask | Yes | Nationwide brokers named by the rate-comparison sites |
 | 9 | A bank or credit union where the owner lives | Varies | Ask | Usually | Membership rules met; often the lowest actual rates |
 
-**Advertised rates run low.** LightStream (6.49% advertised, 10.04% quoted) and Trident (7.12% advertised, 8.87% quoted) both came in well above their headline rates; expect the same of My Financing USA.
+**Headline rates run low.** LightStream's own published table starts at 10.04%, though rate-comparison sites cite 6.49%; Trident's published table gives 8.87% for $50,000-74,999 over 240 months against a headline "from 7.12%". None of these are personal quotes - expect actual quotes, including My Financing USA's, to land within or above the published ranges.
 
 **Ruled out:**
 
 | Lender | Reason |
 | --- | --- |
 | FivePoint Credit Union (3.50%), Neches Credit Union (3.75%), United Federal Credit Union (5.45%), APG Federal Credit Union (5.99%), Southeast Financial (6.49%), Alliant Credit Union (6.74%), First Tech FCU / DCU (7.29%) | Rejected by the owner, 29 September 2026 - outside their membership or service areas. Southeast Financial's partners also do not finance full-timers |
-| USAA (7.79% quoted) | Does not lend on an RV used for full-time living |
+| USAA (7.79%) | Does not lend on an RV used for full-time living |
 | Good Sam Finance Center (~8% and up) | Does not finance full-time RVers (owner) |
 | PenFed | No RV loan product - its RV calculator now redirects to auto loans, which carry weight restrictions and a maximum of 84 months |
 
