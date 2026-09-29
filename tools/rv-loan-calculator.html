@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RV Loan Calculator</title>
+<meta name="description" content="Monthly payment, total interest and total cost for an RV loan, with a lender rate sheet compared term by term.">
+<style>
+:root{--bg:#fafaf8;--surface:#f1efe8;--text:#1f1f1d;--muted:#5f5e5a;--faint:#888780;--border:rgba(0,0,0,.12);--accent:#185FA5;--interest:#D85A30;--principal:#1D9E75;--ok:#3b6d11;--bad:#a32d2d}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--accent:#85B7EB;--ok:#97c459;--bad:#f09595}}
+:root[data-theme="dark"]{--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--accent:#85B7EB;--ok:#97c459;--bad:#f09595}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:760px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:22px;font-weight:600;margin:0 0 4px}
+h2{font-size:17px;font-weight:600;margin:28px 0 6px}
+p.lead,.note{color:var(--muted);font-size:13px;margin:0 0 10px}
+.row{display:grid;grid-template-columns:minmax(120px,170px) minmax(0,1fr) 110px;align-items:center;gap:10px;font-size:14px;margin:8px 0}
+.row label{color:var(--muted)}
+.row input[type=number]{width:100%;font:inherit;padding:4px 6px;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--text);text-align:right}
+input[type=range]{width:100%}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:14px 0}
+.card{background:var(--surface);border-radius:8px;padding:10px 12px}
+.card .l{font-size:12px;color:var(--muted)}
+.card .v{font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.card .s{font-size:12px;color:var(--muted)}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+th,td{padding:6px 8px;border-bottom:1px solid var(--border);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left}
+th{color:var(--muted);font-weight:600}
+tr.pick td{background:var(--surface)}
+button{font:inherit;font-size:12px;padding:3px 8px;border-radius:6px;border:1px solid var(--border);background:transparent;color:var(--text);cursor:pointer}
+button:hover{background:var(--surface)}
+svg text{fill:var(--muted)}
+.legend{display:flex;gap:16px;font-size:12px;color:var(--muted);margin:4px 0}
+.sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+footer{margin-top:28px;font-size:12px;color:var(--faint)}
+a{color:inherit}
+</style>
+</head>
+<body>
+<main>
+<h1>RV loan calculator</h1>
+<p class="lead">Payment, interest and total cost for a trailer loan. From the <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/#c15">2024 F-350 master reference manual, chapter 15 (Financing)</a>.</p>
+
+<div class="row"><label for="price">Price, out the door</label><input type="range" id="priceR" min="10000" max="120000" step="500" value="70000"><input type="number" id="price" min="0" step="100" value="70000"></div>
+<div class="row"><label for="down">Down payment</label><input type="range" id="downR" min="0" max="40000" step="500" value="0"><input type="number" id="down" min="0" step="100" value="0"></div>
+<div class="row"><label for="rate">Interest rate (APR %)</label><input type="range" id="rateR" min="2" max="20" step="0.05" value="5.25"><input type="number" id="rate" min="0" max="40" step="0.05" value="5.25"></div>
+<div class="row"><label for="term">Term (months)</label><input type="range" id="termR" min="12" max="240" step="6" value="84"><input type="number" id="term" min="1" max="360" step="1" value="84"></div>
+
+<div class="cards">
+<div class="card"><div class="l">Amount financed</div><div class="v" id="amt">-</div><div class="s" id="amtS"></div></div>
+<div class="card"><div class="l">Monthly payment</div><div class="v" id="pay">-</div><div class="s" id="payS"></div></div>
+<div class="card"><div class="l">Total interest</div><div class="v" id="int">-</div><div class="s" id="intS"></div></div>
+<div class="card"><div class="l">Total paid</div><div class="v" id="tot">-</div><div class="s" id="totS"></div></div>
+</div>
+
+<div class="legend"><span><span class="sw" style="background:var(--principal)"></span>Principal paid</span><span><span class="sw" style="background:var(--interest)"></span>Interest paid</span><span><span class="sw" style="background:var(--accent)"></span>Balance owed</span></div>
+<svg id="chart" viewBox="0 0 680 220" width="100%" role="img" aria-label="Loan balance and cumulative principal and interest over the term"></svg>
+
+<h2>Lender rate sheet, applied to this amount</h2>
+<p class="note">Lowest and highest rate per term from the rate sheet recorded in the manual. Click "Use" to load a row into the calculator.</p>
+<div class="tablewrap"><table id="sheet"><thead><tr><th>Term</th><th>Rate</th><th>Payment</th><th>Interest</th><th>Total paid</th><th></th></tr></thead><tbody></tbody></table></div>
+
+<footer>Standard amortization: payment = amount x i / (1 - (1 + i)^-n), with i the monthly rate. Excludes taxes, title, fees and insurance. Rates vary by lender, credit, term, down payment and RV age; get quotes.</footer>
+</main>
+<script>
+const SHEET=[[36,3.50,15.75],[48,4.00,16.00],[60,4.25,16.25],[72,4.75,16.25],[78,5.00,16.25],[84,5.25,16.25],[96,7.75,16.75],[120,8.50,16.75],[180,8.50,16.75]];
+const $=id=>document.getElementById(id);
+const usd=n=>'$'+Math.round(n).toLocaleString(), usd2=n=>'$'+n.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2});
+function pay(P,r,n){const i=r/1200;return i===0?P/n:P*i/(1-Math.pow(1+i,-n));}
+function link(a,b){$(a).addEventListener('input',()=>{$(b).value=$(a).value;calc()});$(b).addEventListener('input',()=>{$(a).value=$(b).value;calc()});}
+[['priceR','price'],['downR','down'],['rateR','rate'],['termR','term']].forEach(p=>link(...p));
+function calc(){
+const price=Math.max(0,+$('price').value||0),down=Math.min(price,Math.max(0,+$('down').value||0)),r=Math.max(0,+$('rate').value||0),n=Math.max(1,Math.round(+$('term').value||1));
+const P=price-down,m=pay(P,r,n),tot=m*n,it=tot-P;
+$('amt').textContent=usd(P);$('amtS').textContent=down?`${usd(price)} less ${usd(down)} down`:'no down payment';
+$('pay').textContent=usd2(m);$('payS').textContent=`${n} months at ${r.toFixed(2)}%`;
+$('int').textContent=usd(it);$('intS').textContent=P?`${Math.round(it/P*100)}% of the amount financed`:'';
+$('tot').textContent=usd(tot+down);$('totS').textContent=down?`${usd(tot)} in payments + ${usd(down)} down`:`${(n/12).toFixed(1)} years of payments`;
+drawChart(P,r,n,m);
+const tb=$('sheet').querySelector('tbody');tb.innerHTML='';
+SHEET.forEach(([tn,lo,hi])=>[lo,hi].forEach((rt,k)=>{const pm=pay(P,rt,tn),tt=pm*tn;const tr=document.createElement('tr');if(tn===n&&Math.abs(rt-r)<0.001)tr.className='pick';
+tr.innerHTML=`<td>${k?'':tn+' mo'}</td><td>${rt.toFixed(2)}%</td><td>${usd(pm)}</td><td>${usd(tt-P)}</td><td>${usd(tt)}</td><td><button type="button">Use</button></td>`;
+tr.querySelector('button').onclick=()=>{$('rate').value=$('rateR').value=rt;$('term').value=$('termR').value=tn;calc()};tb.appendChild(tr);}));}
+function drawChart(P,r,n,m){
+const W=680,H=220,L=56,R=12,T=10,B=30,i=r/1200;let bal=P,cp=0,ci=0;const pts=[[0,P,0,0]];
+for(let k=1;k<=n;k++){const int=bal*i,pr=m-int;bal=Math.max(0,bal-pr);cp+=pr;ci+=int;pts.push([k,bal,cp,ci]);}
+const max=Math.max(P,cp+ci)||1,x=k=>L+(W-L-R)*k/n,y=v=>T+(H-T-B)*(1-v/max);
+const path=f=>pts.map((p,j)=>(j?'L':'M')+x(p[0]).toFixed(1)+' '+y(f(p)).toFixed(1)).join(' ');
+let s='';for(let g=0;g<=4;g++){const v=max*g/4;s+=`<line x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--border)"/><text x="${L-6}" y="${y(v)+4}" text-anchor="end" font-size="11">$${Math.round(v/1000)}k</text>`;}
+const yrs=n/12,step=yrs>10?2:1;for(let yr=0;yr<=yrs;yr+=step){s+=`<text x="${x(yr*12)}" y="${H-10}" text-anchor="middle" font-size="11">${yr}y</text>`;}
+s+=`<path d="${path(p=>p[2]+p[3])} L${x(n)} ${y(0)} L${x(0)} ${y(0)} Z" fill="var(--interest)" fill-opacity=".35"/>`;
+s+=`<path d="${path(p=>p[2])} L${x(n)} ${y(0)} L${x(0)} ${y(0)} Z" fill="var(--principal)" fill-opacity=".45"/>`;
+s+=`<path d="${path(p=>p[1])}" fill="none" stroke="var(--accent)" stroke-width="2"/>`;
+$('chart').innerHTML=s;}
+calc();
+</script>
+</body>
+</html>
