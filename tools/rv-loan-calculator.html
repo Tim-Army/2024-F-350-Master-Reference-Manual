@@ -49,7 +49,7 @@ a{color:inherit}
 <div class="row"><label for="downPct">Down payment preset</label><select id="downPct" style="font:inherit;padding:4px 6px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--text)"><option value="">Custom (use the slider)</option><option value="0">None</option><option value="10">10% of price</option><option value="15">15% of price</option><option value="20">20% of price</option><option value="25">25% of price</option></select><span></span></div>
 <div class="row"><label for="down">Down payment</label><input type="range" id="downR" min="0" max="40000" step="500" value="0"><input type="number" id="down" min="0" step="100" value="0"></div>
 <div class="row"><label for="rate">Interest rate (APR %)</label><input type="range" id="rateR" min="2" max="20" step="0.05" value="5.25"><input type="number" id="rate" min="0" max="40" step="0.05" value="5.25"></div>
-<div class="row"><label for="term">Term (months)</label><input type="range" id="termR" min="12" max="240" step="6" value="84"><input type="number" id="term" min="1" max="360" step="1" value="84"></div>
+<div class="row"><label for="term">Term (months) <span id="termY" style="color:var(--faint)"></span></label><input type="range" id="termR" min="12" max="240" step="6" value="84"><input type="number" id="term" min="1" max="360" step="1" value="84"></div>
 
 <div class="cards">
 <div class="card"><div class="l">Amount financed</div><div class="v" id="amt">-</div><div class="s" id="amtS"></div></div>
@@ -72,6 +72,7 @@ a{color:inherit}
 const SHEET=[[36,3.50,15.75],[48,4.00,16.00],[60,4.25,16.25],[72,4.75,16.25],[78,5.00,16.25],[84,5.25,16.25],[96,7.75,16.75],[120,8.50,16.75],[180,8.50,16.75]];
 const $=id=>document.getElementById(id);
 const usd=n=>'$'+Math.round(n).toLocaleString(), usd2=n=>'$'+n.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2});
+const yrs=n=>(n%12?(n/12).toFixed(1):n/12)+' yr', mo=n=>`${n} mo / ${yrs(n)}`;
 function pay(P,r,n){const i=r/1200;return i===0?P/n:P*i/(1-Math.pow(1+i,-n));}
 function link(a,b){$(a).addEventListener('input',()=>{$(b).value=$(a).value;calc()});$(b).addEventListener('input',()=>{$(a).value=$(b).value;calc()});}
 [['priceR','price'],['downR','down'],['rateR','rate'],['termR','term']].forEach(p=>link(...p));
@@ -84,14 +85,15 @@ function calc(){
 const price=Math.max(0,+$('price').value||0),down=Math.min(price,Math.max(0,+$('down').value||0)),r=Math.max(0,+$('rate').value||0),n=Math.max(1,Math.round(+$('term').value||1));
 const P=price-down,m=pay(P,r,n),tot=m*n,it=tot-P;
 $('amt').textContent=usd(P);$('amtS').textContent=down?`${usd(price)} less ${usd(down)} down`:'no down payment';
-$('pay').textContent=usd2(m);$('payS').textContent=`${n} months at ${r.toFixed(2)}%`;
+$('pay').textContent=usd2(m);$('payS').textContent=`${mo(n)} at ${r.toFixed(2)}%`;
 $('int').textContent=usd(it);$('intS').textContent=P?`${Math.round(it/P*100)}% of the amount financed`:'';
 $('tot').textContent=usd(tot+down);$('totS').textContent=down?`${usd(tot)} in payments + ${usd(down)} down`:`${(n/12).toFixed(1)} years of payments`;
+$('termY').textContent='/ '+yrs(n);
 drawChart(P,r,n,m);
-const tb=$('sheet').querySelector('tbody');tb.innerHTML='';const you=document.createElement('tr');you.className='pick';you.innerHTML=`<td><strong>Your loan</strong> ${n} mo</td><td>${r.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(m)}</td><td>${usd(it)}</td><td>${usd(tot+down)}</td><td></td>`;tb.appendChild(you);
+const tb=$('sheet').querySelector('tbody');tb.innerHTML='';const you=document.createElement('tr');you.className='pick';you.innerHTML=`<td><strong>Your loan</strong> ${mo(n)}</td><td>${r.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(m)}</td><td>${usd(it)}</td><td>${usd(tot+down)}</td><td></td>`;tb.appendChild(you);
 const mine=document.querySelector('input[name=mode]:checked').value==='mine';
 SHEET.forEach(([tn,lo,hi])=>(mine?[r]:[lo,hi]).forEach((rt,k)=>{const pm=pay(P,rt,tn),tt=pm*tn;const tr=document.createElement('tr');if(tn===n&&Math.abs(rt-r)<0.001)tr.style.fontWeight='600';
-tr.innerHTML=`<td>${k?'':tn+' mo'}</td><td>${rt.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(pm)}</td><td>${usd(tt-P)}</td><td>${usd(tt+down)}</td><td><button type="button">Use</button></td>`;
+tr.innerHTML=`<td>${k?'':mo(tn)}</td><td>${rt.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(pm)}</td><td>${usd(tt-P)}</td><td>${usd(tt+down)}</td><td><button type="button">Use</button></td>`;
 tr.querySelector('button').onclick=()=>{$('rate').value=$('rateR').value=rt;$('term').value=$('termR').value=tn;calc()};tb.appendChild(tr);}));}
 function drawChart(P,r,n,m){
 const W=680,H=220,L=56,R=12,T=10,B=30,i=r/1200;let bal=P,cp=0,ci=0;const pts=[[0,P,0,0]];
