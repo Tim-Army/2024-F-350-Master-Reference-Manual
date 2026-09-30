@@ -176,7 +176,7 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 
 | Item | Listing |
 | --- | --- |
-| Options | **6,000 W generator - a Next-Gen NPS6000, the "eco" variable-speed version** per the dealer's photos (`imports/323SUT/avondale-generator-nps6000eco.webp`): Yamaha-based pure-sine inverter, **185 lb** (Next-Gen), wireless key-fob start, 3-year / 2,000-hour warranty; fuel from the 30 gal fuel station at ~0.12 gal/hr minimal load and ~0.37 gal/hr half load - roughly 80 hours at half load on a full station. Its mounting compartment is not identifiable from the photo; **ask where it sits** (front compartment adds pin weight). **Second A/C**, Premium package (listed twice), ramp patio railing, two black Euro recliners, Cappuccino interior |
+| Options | **6,000 W generator - a Next-Gen NPS6000, the "eco" variable-speed version** per the dealer's photos (`imports/323SUT/avondale-generator-nps6000eco.webp`): Yamaha-based pure-sine inverter, **185 lb** (Next-Gen), wireless key-fob start, 3-year / 2,000-hour warranty; fuel from the 30 gal fuel station at 0.12 gal/hr zero load, 0.39 half load and 0.64 full load (published) - roughly 77 hours at half load on a full station. Its mounting compartment is not identifiable from the photo; **ask where it sits** (front compartment adds pin weight). **Second A/C**, Premium package (listed twice), ramp patio railing, two black Euro recliners, Cappuccino interior |
 | Length / exterior height | 34.83 ft / **13 ft 4 in** - the first published height for the 323SUT |
 | Electrical | listed as "55 amp" - presumably 50 amp; confirm |
 | Tanks | 96 gal fresh, 44 gal black |
@@ -224,13 +224,35 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 
 **Generator and solar** (28 September 2026). **Interactive calculator: [generator and solar calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/nps6000-generator-solar.html)** (`tools/nps6000-generator-solar.html` in this repository) - appliance load against the generator's rating, fuel burn, runtime and cost at an adjustable gas price, and a daily 12 V energy balance for the solar.
 
-**Generator: Next-Gen NPS6000eco** (dealer photos). Rated **5,500 W continuous** (45.8 A at 120 V), 6,000 W peak; fuel from the 30 gal fuel station at ~0.12 gal/hr minimal load and ~0.37 gal/hr half load (published), ~0.6 gal/hr full load (estimated).
+**Generator: Next-Gen NPS6000eco** (dealer photos), carbureted. Rated **5,500 W continuous** (45.8 A at 120 V), 6,000 W peak; fuel from the 30 gal fuel station at **0.12 gal/hr at zero load, 0.39 at half load and 0.64 at full load**. Published figures from the NPS owner's guides, 30 September 2026.
+
+| NPS6000eco specification | Value |
+| --- | --- |
+| Output | 5.5 kVA; **5,500 W running** at 3,600 RPM, **6,000 W max**; 120 V, 60 Hz; rated 45.8 A, max 50 A; pure sine wave inverter |
+| Engine | NPS185, 357 cc air-cooled 4-stroke OHV (the Yamaha MZ360 family); 8.4 hp net |
+| Fuel | Unleaded gas, **87 octane or higher**; 0.12 / 0.39 / 0.64 gal/hr at zero / half / full load |
+| Oil | **1.16 qt**, YAMALUBE 10W-40 |
+| Weight and size | **185 lb**; 29.33 x 21.46 x 16.10 in |
+| Starting | Electric, wireless key fob, wired remote in the cab; no pull start |
+| Fuel system on towables | Must have the **ECI** fuel system, marked by a **red tag** - one shows in the Avondale generator photo |
+
+| Maintenance (NPS owner's guides) | Interval |
+| --- | --- |
+| Oil change | **First at 20 hours** (factory break-in oil), then every **100 hours or yearly** |
+| Exhaust assembly and support strap | Inspect at first start-up and **every 10 hours** of running |
+| Spark arrester and muffler screen | Clean every **40 hours** |
+| Air filter (AE002) | Replace every **140 hours** |
+| Spark plug | Replace every **400 hours** |
+| Battery connections | Check monthly |
+| CO and smoke detectors | Test at every start-up |
+
+Prime a dry fuel line by holding **Stop/Prime for 10 seconds** before starting. The guides are held locally in `imports/NPS Generators/`.
 
 | Load | Running watts | Fuel | Runtime, 30 gal | Cost at $3.50/gal, 8 hr/day |
 | --- | --- | --- | --- | --- |
-| Battery charging only | ~1,070 W | ~0.22 gal/hr | ~5.8 days | ~$6/day |
-| One A/C afternoon | ~2,790 W | ~0.37 gal/hr | ~80 hr | **~$10/day, ~$73/week** |
-| Both A/Cs | ~3,540 W | ~0.44 gal/hr | ~69 hr | ~$12/day |
+| Battery charging only | ~1,070 W | ~0.23 gal/hr | ~5.5 days | ~$6/day |
+| One A/C afternoon | ~2,790 W | ~0.39 gal/hr | ~76 hr | **~$11/day, ~$77/week** |
+| Both A/Cs | ~3,540 W | ~0.46 gal/hr | ~65 hr | ~$13/day |
 | Two A/Cs + microwave + coffee maker | ~5,770 W | - | **over the rating - breaker trips** | - |
 
 - **It runs both A/Cs** at about 64% of its rating. Do not stack the microwave or coffee maker on top of two A/Cs.
@@ -248,7 +270,7 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 
 **200 W nearly covers a summer day** but not the 12 V fridge plus the furnace in cold weather; **400-600 W** plus a lithium bank is the usual boondocking upgrade. The generator is needed for the A/Cs in any case.
 
-Estimates throughout: appliance watts are typical, not nameplate; solar at 75% system efficiency; ~700 W into the batteries while converter charging.
+Estimates throughout: appliance watts are typical, not nameplate; fuel is interpolated between the published zero, half and full-load rates; solar at 75% system efficiency; ~700 W into the batteries while converter charging.
 
 
 #### Rogue SUT 323SUT - loading rules, 26 September 2026

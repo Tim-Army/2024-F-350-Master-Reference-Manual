@@ -53,7 +53,7 @@ a{color:inherit}
 <svg id="bar" viewBox="0 0 680 70" width="100%" role="img" aria-label="Running watts against the generator's 5,500 W continuous and 6,000 W peak ratings"></svg>
 <div class="cards">
 <div class="card"><div class="l">Running load</div><div class="v" id="w">-</div><div class="s" id="wS"></div></div>
-<div class="card"><div class="l">Fuel burn (est.)</div><div class="v" id="g">-</div><div class="s">gal/hr</div></div>
+<div class="card"><div class="l">Fuel burn</div><div class="v" id="g">-</div><div class="s">gal/hr</div></div>
 <div class="card"><div class="l">Runtime on usable fuel</div><div class="v" id="r">-</div><div class="s" id="rS"></div></div>
 <div class="card"><div class="l">Cost per hour</div><div class="v" id="ch">-</div><div class="s" id="chS"></div></div>
 </div>
@@ -81,7 +81,7 @@ a{color:inherit}
 <div class="card"><div class="l">Generator to make it up</div><div class="v" id="gen">-</div><div class="s" id="genS"></div></div>
 </div>
 
-<footer>Estimates. Rating 5,500 W continuous (45.8 A at 120 V), 6,000 W peak. Fuel burn: 0.12 gal/hr minimal and 0.37 gal/hr half load (published); ~0.6 gal/hr full load is an estimate, interpolated between. Appliance watts are typical, not nameplate. Solar at 75% system efficiency; converter charging ~850 W drawn, ~700 W into the batteries. A/C start-up surge is 2-3x running watts; start A/Cs one at a time.</footer>
+<footer>Estimates. Rating 5,500 W continuous (45.8 A at 120 V), 6,000 W peak. Fuel burn: 0.12 gal/hr zero, 0.39 half and 0.64 full load (NPS6000eco owner's guide), interpolated between. Appliance watts are typical, not nameplate. Solar at 75% system efficiency; converter charging ~850 W drawn, ~700 W into the batteries. A/C start-up surge is 2-3x running watts; start A/Cs one at a time.</footer>
 </main>
 <script>
 const CONT=5500,PEAK=6000,EFF=0.75,CHG=700;
@@ -98,7 +98,7 @@ const A=[
 const P={charge:['conv','dev'],evening:['tv','dev'],oneac:['ac1','tv','dev','conv'],twoac:['ac1','ac2','tv','dev'],breakfast:['ac1','micro','coffee','dev'],over:['ac1','ac2','micro','coffee']};
 const $=id=>document.getElementById(id),f=n=>Math.round(n).toLocaleString(),m=n=>'$'+n.toFixed(2);
 A.forEach(x=>$('aps').insertAdjacentHTML('beforeend',`<label class="ap"><input type="checkbox" id="c_${x.k}"> ${x.n}<span class="w">${x.w.toLocaleString()} W</span></label>`));
-function burn(w){const h=CONT/2;return w<=h?0.12+(0.37-0.12)*(w/h):0.37+(0.60-0.37)*((w-h)/h);}
+function burn(w){const h=CONT/2;return w<=h?0.12+(0.39-0.12)*(w/h):0.39+(0.64-0.39)*((w-h)/h);}
 function calc(){
 let w=0;A.forEach(x=>{if($('c_'+x.k).checked)w+=x.w});
 const fuel=+$('fuel').value,price=+$('price').value,hpd=+$('hrs').value;
