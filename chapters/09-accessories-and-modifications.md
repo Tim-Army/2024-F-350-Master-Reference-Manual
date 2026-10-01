@@ -9,7 +9,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 13 | **$3,142.57** |
-| **Short-term** | by 7 December 2026 (90 days) | 27 | **$4,615.31** |
+| **Short-term** | by 7 December 2026 (90 days) | 30 | **$5,780.28** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
@@ -75,10 +75,13 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Bolt It On Condor / Wheel Dock chock bracket](https://boltiton.com/products/condor-bracket) | **$69.99** | Towing | Planned | Tool-free crossbar that clamps a Condor chock to the **factory D-rings**, removable in seconds. **Requires drilling two 3/8 in holes in the chock.** Fits both chocks below. One bracket - order a second if both bikes travel at once |
 | [Condor SC-2000 trailer-only motorcycle chock](https://www.condor-lift.com/product/trailer-only-chock-part-sc-2000/) | **$187.00** | Towing | Planned | **For the large motorcycle.** Sale price; list $259.00. All-steel, 26 lb, folds to 7 in high. Fits 14-22 in wheels, 80-230 mm wide, bikes up to 3,000 lb |
 | [Condor SCC-4000 scooter chock](https://www.condor-lift.com/product/scooter-chock-part-scc-4000/) | **$175.00** | Towing | Planned | **For the Yamaha Zuma 125.** Sale price; list $215.00. Built for scooters and mopeds. **Floor adapter not included** - price it separately if the bracket isn't used |
+| [PITTSBURGH 1000 lb dirt bike stand](https://www.harborfreight.com/dirt-bike-stand-67151.html) (Harbor Freight `67151`) | **$39.99** | Towing | Planned | Regularly $59.99. **In-store only.** Welded steel, 16 in high, 16.5 x 15.25 in top, 10.5 lb. Rubber top resists gas and oil and has an oil drain hole. Lifts the wheels clear for chain, tire and oil work |
+| [Black Widow BW-9440-HD 8 ft folding arched motorcycle ramp](https://www.discountramps.com/motorcycle/ramps/full-width/p/BW-9440-HD/) | **$499.99** | Towing | Planned | List $714.99. Aluminum, 4-beam, 3-piece arched, **40 in wide**, 81 lb. Center section rated **1,500 lb**, side sections 600 lb each. Folds to about 4 ft x 6.5 in. Three safety straps, 1-year warranty. Ships in 3-5 business days. **The shorter of the two ramps listed - compare it with the 10 ft one below** |
+| [Black Widow MF-12038 10 ft HD folding arched motorcycle ramp](https://www.blackwidowpro.com/motorcycle/ramps/full-width/p/mf-12038/) | **$624.99** | Towing | Planned | List $924.99. Aluminum, 3-piece arched, **38 in wide**, rated **1,500 lb**, 75 lb. Folds to 5 ft x 6 in. Safety straps included, free shipping. **The extra 2 ft makes a gentler slope** up to a tailgate or ramp door - easier for the large motorcycle |
 | [ICON 3/4 in drive Professional 36 in breaker bar](https://www.harborfreight.com/34-in-drive-professional-36-in-breaker-bar-63854.html) (Harbor Freight `63854`, model B436) | **$89.99** | Maintenance & security | Planned | 180-degree swivel head, chrome-vanadium, 3.75 lb, lifetime warranty. For breaking loose the 150 lb-ft lug nuts and other high-torque fasteners - set final torque with the ½ in torque wrench, not this. **Needs 3/4 in drive sockets**, or a 3/4-to-1/2 in adapter for ½ in impact sockets. No torque rating published |
 | [PITTSBURGH 6 in straight-jaw sheet metal seamer](https://www.harborfreight.com/6-inch-jaw-straight-sheet-metal-seamer-98728.html) (Harbor Freight `98728`) | **$18.99** | Maintenance & security | Planned | Regularly $24.99. Drop-forged jaws marked in 1/4 in bending increments, nickel-plated steel, 2.2 lb, lifetime warranty. Bends, seams or flattens sheet metal |
 | [IRWIN VISE-GRIP Original locking sheet metal tool, 8 in](https://www.amazon.com/dp/B0000TFGFU) (model `23`) | **$16.65** | Maintenance & security | Planned | Locking pliers with wide flat jaws for bending, forming and crimping sheet metal; turn screw sets the pressure, trigger release. Heat-treated alloy steel. Pairs with the PITTSBURGH seamer above |
-| **Phase total** | **$4,615.31** |  |  | *27 items priced* |
+| **Phase total** | **$5,780.28** |  |  | *30 items priced* |
 
 ### Long-term
 
