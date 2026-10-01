@@ -119,7 +119,7 @@ These are the units found in the lower 48 on 14 September 2026: seven on RV Trad
 | 4 | 2024 | Used | Seffner, FL | [Lazydays by Campers Inn RV](https://www.lazydays.com/rvs/tampa-fl/fifth-wheel/used/2024/forest-river-vengeance-rogue-21164518a) | $56,995 (negotiable) | ~862 mi |
 | 5 | 2025 | Used | Las Vegas, NV | [Camping World](https://rv.campingworld.com/rv/2025-forest-river-rogue-323sut-2658951-las-vegas-nv), stock 2658951 | $56,848; **$59,598 on 17 September** | ~1,381 mi |
 | 6 | 2025 | New | Rapid City, SD | [Dakota Discount RV](https://www.dakotadiscountrv.com/product/new-2025-forest-river-rv-vengeance-rogue-sut-323sut-2820466-26) | $59,517 | ~775 mi |
-| 7 | 2026 | New | Avondale, AZ | [Camping World](https://rv.campingworld.com/rv/2026-forest-river-rogue-323sut-2638510-avondale-az), stock 2638510, VIN `5NHFVGH23TC005638` | $61,348 - **re-listed 27 September at the same price**; **liked by the owner** - see below | ~1,288 mi |
+| 7 | 2026 | New | Avondale, AZ | [Camping World](https://rv.campingworld.com/rv/2026-forest-river-rogue-323sut-2638510-avondale-az), stock 2638510, VIN `5NHFVGH23TC005638` | **$64,098** (1 October 2026) - **up $2,750** from $61,348; re-listed 27 September; **liked by the owner** - see below | ~1,288 mi |
 | 8 | ~~2026~~ | ~~New~~ | ~~Lakeview, OH~~ | RV Wholesalers, stock 005644 | **SOLD** (owner, 17 September 2026) | - |
 
 **Unit 3 labels photographed (owner, 17 September 2026).** VIN **5NHFVGH27TC005643**, matching the Kunes listing. The trailer's own weight label reads:
@@ -167,12 +167,14 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 | Unit | Change |
 | --- | --- |
 | Lake Mills, WI (Kunes) | **Price reduced $51,373 to $49,594** (also on Facebook Marketplace). **On sale since about 16 May 2026** - over 4 months. Negotiating points: aged 2026 stock with 2027s arriving, one price cut already, new units selling at ~$42,000-45,000, and RV Dynasty's $44,995 with no prep or freight fees. A reasonable opening is ~$43,000-44,000 |
-| Avondale, AZ (Camping World) | **Re-listed** under a new RV Trader listing (5042070125), same **$61,348**. **On the lot ~6 months** (owner, 28 September) - leftover 2026 stock, strong grounds to negotiate. **The owner was told it is already on clearance** - so $61,348 may already be the clearance price |
+| Avondale, AZ (Camping World) | **Price raised to $64,098 by 1 October** (+$2,750 from $61,348). Re-listed 27 September under a new RV Trader listing (5042070125). **On the lot ~6 months** (owner, 28 September) - leftover 2026 stock, strong grounds to negotiate. **The owner was told it is already on clearance** - so $61,348 may already be the clearance price |
 | Bunker Hill, IN (RV Dynasty) | Still advertised at $44,995, "lowest nationwide - will ship"; was sale pending 14 September - **confirm availability** |
 | Lakeview, OH (RV Wholesalers) | Still sold |
 | Rapid City, SD / Seffner, FL / Las Vegas, NV | Unchanged |
 
 **Unit 7, Avondale - liked by the owner (27 September 2026).** Camping World's listing ([RV Trader](https://www.rvtrader.com/listing/2026-Forest+River-ROGUE+323SUT-5042070125)): VIN **5NHFVGH23TC005638**, stock 2638510, **$61,348 "ClearPrice" including freight, prep and documentation fee**.
+
+**Price raised to $64,098 (Camping World page, 1 October 2026) - up $2,750.** The page shows MSRP **$109,256** ("You save $52,906"), no "Clearance" tag, and a "Make an Offer" button. Its sample payment is **$481/mo at 8.74% APR over 240 months with $9,615 (15%) down**, $54,483 financed - informational only, excluding tax and fees. Listed specs: 34 ft 10 in, 13 ft 4 in high, 11 ft garage, 1 slide, 55 A service, 96 gal fresh water, "dry weight 9,575 lb" (the same figure the page earlier gave as GVWR - still unreliable). **Ask what the $2,750 is** - a new fee, an add-on or a plain markup - and whether $64,098 still includes freight, prep and doc fees. **A price rise after six months on the lot and a "clearance" claim is a reason to negotiate harder, not to accept it**; the negotiating targets below are unchanged.
 
 | Item | Listing |
 | --- | --- |
@@ -212,7 +214,7 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 
 | | Avondale (Camping World) | Bunker Hill (RV Dynasty) |
 | --- | --- | --- |
-| Advertised | $61,348 | $44,995 |
+| Advertised | **$64,098** (was $61,348 to 30 September) | $44,995 |
 | Freight | ~$6,000 included | none charged |
 | Prep and doc | included (amounts not stated) | none charged |
 | Trailer before fees | **~$55,300** | **$44,995** |
