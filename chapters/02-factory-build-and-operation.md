@@ -78,6 +78,21 @@ Added 28 September 2026. The owner's manual (REF-001, "Rear Seats - Crew Cab/Sup
 3. **Push the top of the backrest slightly rearward** to take the load off the latch, then **lift the release lever straight up at its upper end** - the part that rises above the horizontal striker pin. Do not pull on the striker pin itself; it is fixed to the cab.
 4. **Holding the lever up, pull the backrest forward** and fold it down.
 
+**Owner modification, 1 October 2026 - aftermarket release kit fitted.** The factory driver-side latch has no strap, so the owner installed a [2009-2025 F-150/F-250/F-350 rear seat release kit](https://www.amazon.com/dp/B0HCNCXSPB) (Amazon, **$18.32**) - a replacement side seatback latch with a **pull strap**, so the backrest releases without reaching behind it for the lever (steps 2-3 above).
+
+| Step | What was done |
+| --- | --- |
+| Striker bracket (rear wall) | **Two 5/16 in flat washers** sandwiched between the striker bracket and the cab's rear wall, to space the striker out |
+| Seat-side latch | **One 5/16 in flat washer** sandwiched under the latch at **each bolt location** |
+| Latching | With a **slight slam**, the backrest latches |
+| Strap | A light carabiner clips the pull strap's ring in place, as photographed |
+
+Washers: Hillman Project Pak #43764 (Hillman #492009), 5/16 in zinc flat washers, 25 per pack. Photos in `imports/2023 - 2025 Ford F-350 Super Duty 7.3L/images/rear seat mod 1/` (IMG_1794 washers, IMG_1795 shimmed striker, IMG_1796 new latch, IMG_1797 strap and carabiner).
+
+- **Tug-test it every time** the backrest goes up: pull it forward hard and confirm it holds. The latch carries the seatback, its occupant and any cargo behind it in a crash, so a shimmed aftermarket latch must engage fully, not just catch. If it ever releases under a pull, add or remove a washer at the striker until it engages cleanly.
+- **The carabiner is non-structural** - it only keeps the strap within reach (it is stamped for a 150 lb working load). It must not carry the seat.
+- **Removal:** refit the factory latch and take out the washers; keep the factory latch with the truck.
+
 **Passenger side (right rear):** pull the **release strap on the outboard side** of the backrest and fold it down. **The jack is stowed behind this backrest**, on the floor, held by retainers that turn counterclockwise.
 
 **Returning a seatback:** clear the floor and anything behind the seat, raise the backrest firmly until the latch snaps over the striker, then **pull it forward to confirm it has locked** - an unlatched seatback is dangerous in a sudden stop. Ford notes the striker must be in its lowest position for the latch to engage. Lower the cushion with its strap, with nothing trapped underneath.
