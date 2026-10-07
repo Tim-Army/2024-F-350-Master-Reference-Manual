@@ -15,7 +15,7 @@ Part numbers are current as published in that edition. **Confirm supersessions**
 | Air filtration | Air filter element | **FA-1950** | Replace more often in dusty/dirty service |
 | Cabin | Cabin air filter | **FP-92** | **Resolved 21 September 2026.** The owner fitted a Motorcraft **FP-92** bought at the Ford dealer against this VIN, $36.78, and it fit. The owner's manual (REF-001) prints **FP-119** in the 7.3L gasoline table - and in the 6.7L diesel and 6.8L tables too, so this is **not an engine-variant difference**. **FP-92 is the current number and FP-119 has been discontinued** (owner, confirmed at the dealer) - so the number printed in the 2024 owner's manual can no longer be ordered at all. This is Ford's own standing warning in this chapter in practice: Motorcraft numbers are revised between editions, and here the published one outlived the part. **Order FP-92.** Replace more often in dusty or dirty service |
 | Transmission | 10R140 fluid filter | **FT-221** | Ten-speed automatic |
-| Electrical | Battery (one) | **BXT-65-750** | Single-battery configuration |
+| Electrical | Battery (one) | **BXT-65-750** | Single-battery configuration. **Currently fitted: an aftermarket Rural King Select group 65, 850 CCA** - see [chapter 1](01-vehicle-information.md). Replace with BXT-65-750 or another group 65 of at least 750 CCA |
 | Electrical | Battery (two, optional) | **BAGM-65-A** | Dual-battery configuration - confirm which this truck has |
 | Wipers | Windshield wiper blades | **WW-2248-A** | Replaced under the six-month check when worn |
 

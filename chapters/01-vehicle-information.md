@@ -17,6 +17,7 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 | Transmission | 10-speed automatic TorqShift | REF-003 |
 | Rear axle | **11.6 in**, 4.30 electronic-locking - tag `4E30 - 11.6` | REF-003; axle tag, 11 Sep 2026 |
 | Tires | **Michelin Defender LTX M/S2, LT275/70R18E 125/122S**, installed 18 Sep 2026 at 38,904 mi. Factory fitment was LT275/70R18E BSW all-terrain; the spare is presumed factory | Service log; REF-003 (factory) |
+| Starting battery | **[Rural King Select, group 65](https://www.ruralking.com/rural-king-select-automotive-battery-65-72) (SKU 65240588, model 65-72), 850 CCA** - aftermarket, in the truck at purchase; not the factory Motorcraft BXT-65-750 (750 CCA). 24-month free replacement, 72-month limited warranty. Purchase and date code unknown. **Tested good 6 Oct 2026**: 910 A CCA (100%), 12.67 V, 3.22 mOhm ([service log](../logs/service-log.md)) | Owner; Rural King listing |
 | Exterior / interior | Carbonized Gray / Medium Dark Slate cloth | REF-003 |
 | Equipment package | Preferred Equipment Package 613A | REF-003 |
 | GVWR package | 11,900 lb | REF-003 |
