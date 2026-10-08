@@ -114,7 +114,15 @@ Planned 7 October 2026. **Truck plus a 7,000 lb enclosed cargo trailer** (bumper
 
 **Suggested timing.** Leave about **5:00 am**: Nashville ~10:30 am, past Birmingham before ~3:00 pm, Crestview ~7:00 pm. **That is a long day alone with a trailer** - for two days, stop overnight near **Cullman or Birmingham** (~440-480 mi), leaving ~230-270 mi for the second day.
 
-**All-interstate alternative.** Stay on I-65 to Mobile, then I-10 East to Crestview (I-10 exit 56): no two-lane roads, but roughly 80-100 mi farther. Worth it in the dark or in bad weather.
+**Interstate alternatives - compared 7 October 2026, at the 60 mph cap** (OSRM routing; times are driving only):
+
+| Route | Distance | Interstate / other | Driving time | Extra fuel (9 mpg, $3.50) |
+| --- | --- | --- | --- | --- |
+| **A. Georgiana - AL 55 - Andalusia - AL 137 / FL 189 - Crestview** (planned) | **~711 mi** | 619 / 92 mi | **~12.4 hr** | - |
+| B. I-65 to **Bay Minette** (exit 37), **AL 59** four-lane to I-10 at Loxley, I-10 east | ~815 mi | 769 / ~45 mi | ~13.5 hr | +~12 gal, ~$40 |
+| C. I-65 to its end at **Mobile**, I-10 east (through the Wallace Tunnel and the Bayway) | ~845-855 mi | 824 / ~30 mi | ~14.2 hr | +~15 gal, ~$52 |
+
+**Route A stays fastest - by about 1 hour over B and about 2 hours over C.** The two-lane section averages ~44 mph against 60 on the interstate, with roughly 10-20 signals and stop signs (Georgiana, Andalusia, Baker, Crestview), which costs about 25 minutes over its 92 miles. But B and C add **105-145 miles**, which is 1.7-2.4 hours at 60 mph. **The 60 mph cap is what decides it:** the interstate's usual edge is its 70 mph limit, and towing at 60 gives that up, while AL 55's 55 mph limit is almost the same speed. Choose **B** at night or in bad weather - it keeps to four-lane roads with only ~25 miles off the interstate. C adds Mobile traffic, and its tunnel bans hazardous cargo such as propane cylinders (use the signed truck detour on US 90/98 if carrying any).
 
 **Before leaving**
 
