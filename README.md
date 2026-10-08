@@ -148,6 +148,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Rig limits for route and site planning](chapters/16-places-to-visit.md#rig-limits-for-route-and-site-planning) |
 | | [Trailer length and state parks - 35 ft against ~40 ft](chapters/16-places-to-visit.md#trailer-length-and-state-parks---35-ft-against-40-ft) |
 | | [Trip costs - propane](chapters/16-places-to-visit.md#trip-costs---propane) |
+| | [Trip plan - Belleville, IL to Crestview, FL, towing a cargo trailer](chapters/16-places-to-visit.md#trip-plan---belleville-il-to-crestview-fl-towing-a-cargo-trailer) |
 | | [Wish list](chapters/16-places-to-visit.md#wish-list) |
 | | [Visited](chapters/16-places-to-visit.md#visited) |
 | | [Place record template](chapters/16-places-to-visit.md#place-record-template) |
