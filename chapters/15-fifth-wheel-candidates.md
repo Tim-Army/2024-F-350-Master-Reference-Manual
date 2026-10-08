@@ -1738,7 +1738,7 @@ Added 29 September 2026.
 
 **Getting the lowest rate:** get preapproved at two or three credit unions, including the military lenders, before talking to a dealer - rate-shopping for the same loan within about 14-45 days usually counts as one credit inquiry. New RVs get better rates than used, and many lenders will not finance RVs 14-17 years old. Shorter terms and 10-20% down lower the rate. Dealers (Good Sam Finance at Camping World, RV Dynasty) can sometimes beat a preapproval, but only if there is one to show them.
 
-**Interactive calculator: [RV loan calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/rv-loan-calculator.html)** (`tools/rv-loan-calculator.html`) - price, down payment, rate and term, with the payment, total interest, total paid and a balance chart. A table shows every term for the same amount; **by default it uses the rate slider for every term**, with a switch to show this lender rate sheet instead.
+**Interactive calculator: [RV loan calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/rv-loan-calculator.html)** (`tools/rv-loan-calculator.html`) - price, down payment, rate, term and an **extra monthly payment** (showing the interest saved and how many months early the loan is paid off), with the payment, total interest, total paid and a balance chart. A table shows every term for the same amount; **by default it uses the rate slider for every term**, with a switch to show this lender rate sheet instead.
 
 **A $70,000 loan across a lender's rate sheet** (the owner-supplied sheet gives a lowest and highest rate for each term; standard amortization):
 

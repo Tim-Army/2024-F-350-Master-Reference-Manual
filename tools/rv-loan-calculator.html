@@ -54,23 +54,25 @@ a{color:inherit}
 <div class="row"><label for="down">Down payment</label><input type="range" id="downR" min="0" max="40000" step="100" value="10500"><input type="number" id="down" min="0" step="100" value="10500"></div>
 <div class="row"><label for="rate">Interest rate (APR %)</label><input type="range" id="rateR" min="2" max="20" step="0.05" value="5.25"><input type="number" id="rate" min="0" max="40" step="0.05" value="5.25"></div>
 <div class="row"><label for="term">Term (months) <span id="termY" style="color:var(--faint)"></span></label><div class="tslide"><input type="range" id="termR" min="12" max="240" step="6" value="84" list="termTicks"><datalist id="termTicks"></datalist><div class="ticks" id="ticks" aria-hidden="true"></div></div><input type="number" id="term" min="1" max="360" step="1" value="84"></div>
+<div class="row"><label for="extra">Extra each month</label><input type="range" id="extraR" min="0" max="2000" step="25" value="0"><input type="number" id="extra" min="0" step="25" value="0"></div>
 
 <div class="cards">
 <div class="card"><div class="l">Amount financed</div><div class="v" id="amt">-</div><div class="s" id="amtS"></div></div>
 <div class="card"><div class="l">Monthly payment</div><div class="v" id="pay">-</div><div class="s" id="payS"></div></div>
 <div class="card"><div class="l">Total interest</div><div class="v" id="int">-</div><div class="s" id="intS"></div></div>
 <div class="card"><div class="l">Total paid</div><div class="v" id="tot">-</div><div class="s" id="totS"></div></div>
+<div class="card" id="xCard" hidden><div class="l">Extra payment saves</div><div class="v" id="sav">-</div><div class="s" id="savS"></div></div>
 </div>
 
 <div class="legend"><span><span class="sw" style="background:var(--principal)"></span>Principal paid</span><span><span class="sw" style="background:var(--interest)"></span>Interest paid</span><span><span class="sw" style="background:var(--accent)"></span>Balance owed</span></div>
 <svg id="chart" viewBox="0 0 680 220" width="100%" role="img" aria-label="Loan balance and cumulative principal and interest over the term"></svg>
 
 <h2>Every term, applied to this amount</h2>
-<p class="note">Every row uses the price and down payment above; Total paid is the down payment plus all payments, as in the card. The top row is your loan from the sliders. By default every other row uses your rate too, so the whole table follows the rate slider; switch to the lender sheet to see its lowest and highest rate per term.</p>
+<p class="note">Every row uses the price, down payment and extra monthly payment above; Total paid is the down payment plus all payments, as in the card. The top row is your loan from the sliders. By default every other row uses your rate too, so the whole table follows the rate slider; switch to the lender sheet to see its lowest and highest rate per term.</p>
 <div class="mode" role="radiogroup" aria-label="Rates in the table"><label><input type="radio" name="mode" value="mine" checked> My rate on every term</label> <label><input type="radio" name="mode" value="sheet"> Lender sheet (lowest and highest per term)</label></div>
-<div class="tablewrap"><table id="sheet"><thead><tr><th>Term</th><th>Rate</th><th>Down</th><th>Payment</th><th>Interest</th><th>Total paid</th><th></th></tr></thead><tbody></tbody></table></div>
+<div class="tablewrap"><table id="sheet"><thead><tr><th>Term</th><th>Rate</th><th>Down</th><th>Payment</th><th>Paid off</th><th>Interest</th><th>Total paid</th><th></th></tr></thead><tbody></tbody></table></div>
 
-<footer>Standard amortization: payment = amount x i / (1 - (1 + i)^-n), with i the monthly rate. Excludes taxes, title, fees and insurance. Rates vary by lender, credit, term, down payment and RV age; get quotes.</footer>
+<footer>Standard amortization: payment = amount x i / (1 - (1 + i)^-n), with i the monthly rate. Extra payments go to principal each month, so the loan ends early; confirm the lender has no prepayment penalty and applies extra to principal. Excludes taxes, title, fees and insurance. Rates vary by lender, credit, term, down payment and RV age; get quotes.</footer>
 </main>
 <script>
 const SHEET=[[36,3.50,15.75],[48,4.00,16.00],[60,4.25,16.25],[72,4.75,16.25],[78,5.00,16.25],[84,5.25,16.25],[96,7.75,16.75],[120,8.50,16.75],[180,8.50,16.75]];
@@ -78,8 +80,9 @@ const $=id=>document.getElementById(id);
 const usd=n=>'$'+Math.round(n).toLocaleString(), usd2=n=>'$'+n.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2});
 const yrs=n=>(n%12?(n/12).toFixed(1):n/12)+' yr', mo=n=>`${n} mo / ${yrs(n)}`;
 function pay(P,r,n){const i=r/1200;return i===0?P/n:P*i/(1-Math.pow(1+i,-n));}
+function sched(P,r,n,x){const i=r/1200,m=pay(P,r,n);let b=P,k=0,it=0,paid=0;while(b>0.005&&k<n){const int=b*i,due=Math.min(m+x,b+int);it+=int;paid+=due;b=b+int-due;k++;}return{m,k,it,paid};}
 function link(a,b){$(a).addEventListener('input',()=>{$(b).value=$(a).value;calc()});$(b).addEventListener('input',()=>{$(a).value=$(b).value;calc()});}
-[['priceR','price'],['downR','down'],['rateR','rate'],['termR','term']].forEach(p=>link(...p));
+[['priceR','price'],['downR','down'],['rateR','rate'],['termR','term'],['extraR','extra']].forEach(p=>link(...p));
 function applyPct(){const v=$('downPct').value;if(v==='')return;const d=Math.round((+$('price').value||0)*v/100/100)*100;$('down').value=d;$('downR').value=d;}
 $('downPct').addEventListener('change',()=>{applyPct();calc()});
 ['price','priceR'].forEach(id=>$(id).addEventListener('input',()=>{applyPct();calc()}));
@@ -88,21 +91,22 @@ document.querySelectorAll('input[name=mode]').forEach(e=>e.addEventListener('cha
 (function(){const dl=$('termTicks'),tk=$('ticks'),th=16;for(let y=1;y<=20;y++){const o=document.createElement('option');o.value=y*12;dl.appendChild(o);if(y===1||y%2===0){const s=document.createElement('span');s.dataset.m=y*12;s.textContent=y===1?'1 yr':y+'';s.style.left=`calc(${th/2}px + (100% - ${th}px) * ${(y*12-12)/228})`;tk.appendChild(s);}}})();
 function calc(){
 const price=Math.max(0,+$('price').value||0),down=Math.min(price,Math.max(0,+$('down').value||0)),r=Math.max(0,+$('rate').value||0),n=Math.max(1,Math.round(+$('term').value||1));
-const P=price-down,m=pay(P,r,n),tot=m*n,it=tot-P;
+const x=Math.max(0,+$('extra').value||0),P=price-down,base=sched(P,r,n,0),S=sched(P,r,n,x),m=base.m,tot=S.paid,it=S.it;
 $('amt').textContent=usd(P);$('amtS').textContent=down?`${usd(price)} less ${usd(down)} down`:'no down payment';
-$('pay').textContent=usd2(m);$('payS').textContent=`${mo(n)} at ${r.toFixed(2)}%`;
+$('pay').textContent=usd2(m+x);$('payS').textContent=x?`${usd2(m)} due + ${usd(x)} extra; ${mo(n)} at ${r.toFixed(2)}%`:`${mo(n)} at ${r.toFixed(2)}%`;
 $('int').textContent=usd(it);$('intS').textContent=P?`${Math.round(it/P*100)}% of the amount financed`:'';
-$('tot').textContent=usd(tot+down);$('totS').textContent=down?`${usd(tot)} in payments + ${usd(down)} down`:`${(n/12).toFixed(1)} years of payments`;
+$('tot').textContent=usd(tot+down);$('totS').textContent=down?`${usd(tot)} in payments + ${usd(down)} down`:`${(S.k/12).toFixed(1)} years of payments`;
+$('xCard').hidden=!(x>0&&P>0);if(x>0&&P>0){$('sav').textContent=usd(base.it-it);$('savS').textContent=`interest; paid off in ${mo(S.k)}, ${n-S.k} months early`;}
 $('termY').textContent='/ '+yrs(n);document.querySelectorAll('#ticks span').forEach(s=>s.classList.toggle('on',+s.dataset.m===n));
-drawChart(P,r,n,m);
-const tb=$('sheet').querySelector('tbody');tb.innerHTML='';const you=document.createElement('tr');you.className='pick';you.innerHTML=`<td><strong>Your loan</strong> ${mo(n)}</td><td>${r.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(m)}</td><td>${usd(it)}</td><td>${usd(tot+down)}</td><td></td>`;tb.appendChild(you);
+drawChart(P,r,n,m+x);
+const tb=$('sheet').querySelector('tbody');tb.innerHTML='';const you=document.createElement('tr');you.className='pick';you.innerHTML=`<td><strong>Your loan</strong> ${mo(n)}</td><td>${r.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(m+x)}</td><td>${yrs(S.k)}</td><td>${usd(it)}</td><td>${usd(tot+down)}</td><td></td>`;tb.appendChild(you);
 const mine=document.querySelector('input[name=mode]:checked').value==='mine';
-SHEET.forEach(([tn,lo,hi])=>(mine?[r]:[lo,hi]).forEach((rt,k)=>{const pm=pay(P,rt,tn),tt=pm*tn;const tr=document.createElement('tr');if(tn===n&&Math.abs(rt-r)<0.001)tr.style.fontWeight='600';
-tr.innerHTML=`<td>${k?'':mo(tn)}</td><td>${rt.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(pm)}</td><td>${usd(tt-P)}</td><td>${usd(tt+down)}</td><td><button type="button">Use</button></td>`;
+SHEET.forEach(([tn,lo,hi])=>(mine?[r]:[lo,hi]).forEach((rt,k)=>{const q=sched(P,rt,tn,x),pm=q.m+x,tt=q.paid;const tr=document.createElement('tr');if(tn===n&&Math.abs(rt-r)<0.001)tr.style.fontWeight='600';
+tr.innerHTML=`<td>${k?'':mo(tn)}</td><td>${rt.toFixed(2)}%</td><td>${usd(down)}</td><td>${usd(pm)}</td><td>${yrs(q.k)}</td><td>${usd(q.it)}</td><td>${usd(tt+down)}</td><td><button type="button">Use</button></td>`;
 tr.querySelector('button').onclick=()=>{$('rate').value=$('rateR').value=rt;$('term').value=$('termR').value=tn;calc()};tb.appendChild(tr);}));}
 function drawChart(P,r,n,m){
 const W=680,H=220,L=56,R=12,T=10,B=30,i=r/1200;let bal=P,cp=0,ci=0;const pts=[[0,P,0,0]];
-for(let k=1;k<=n;k++){const int=bal*i,pr=m-int;bal=Math.max(0,bal-pr);cp+=pr;ci+=int;pts.push([k,bal,cp,ci]);}
+for(let k=1;k<=n;k++){const int=bal*i,pr=Math.min(m-int,bal);bal=Math.max(0,bal-pr);cp+=pr;ci+=int;pts.push([k,bal,cp,ci]);}
 const max=Math.max(P,cp+ci)||1,x=k=>L+(W-L-R)*k/n,y=v=>T+(H-T-B)*(1-v/max);
 const path=f=>pts.map((p,j)=>(j?'L':'M')+x(p[0]).toFixed(1)+' '+y(f(p)).toFixed(1)).join(' ');
 let s='';for(let g=0;g<=4;g++){const v=max*g/4;s+=`<line x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--border)"/><text x="${L-6}" y="${y(v)+4}" text-anchor="end" font-size="11">$${Math.round(v/1000)}k</text>`;}
