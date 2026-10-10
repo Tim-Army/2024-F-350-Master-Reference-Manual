@@ -279,23 +279,26 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 
 **Pre-purchase inspection - 8 October 2026** (NRVIA-standard report by Blue Ribbon RV Inspection and Service, Phoenix - inspector Tim Schaeffer; 86 pages, held locally as `imports/323SUT Camping World AZ/FullReportHTMLNRVIAbold.pdf`). Inspected on the Camping World lot, 89°F, client not present. **VIN 5NHFVGH23TC005638 confirmed; GVWR 14,090 lb; two 6,000 lb axles; manufactured April 2026** (so the unit is newer than the late-January estimate above, and on the lot at most ~6 months).
 
-**Major issues**
+**Everything wrong or unchecked** (inspection, plus the owner's own notes, 10 October 2026):
 
-| Item | Finding |
-| --- | --- |
-| **Front cap - bent curbside lower corner** | The bottom corner of the front cap overhang is **bent**, and there is a **hole in the sealant** above and beside the bend - a water-intrusion path. Rated Poor. The damage is on the underside of the overhang - the area that sits over a truck bed - so ask how it happened (transport or hitching contact) and **have it repaired and resealed before delivery** |
-| **Slideout not level when retracted** | ~**1-1/2 in** gap at the rear inner corner against ~**1/8 in** at the front - needs adjustment |
-| **Underbelly** | A **"fishmouth"** split on the streetside and a **detached section** - repair to keep rodents and insects out |
-| **Outside shower** | Nozzle broken / missing a piece |
+| # | Item | Severity | What was found | What to ask for |
+| --- | --- | --- | --- | --- |
+| 1 | **Front cap, curbside lower corner** | **Major** | The corner of the cap is bent, and there's a hole in the sealant above and beside the bend - a water-intrusion path. It is on the underside of the overhang, the part that sits over a truck bed | Repair and reseal before delivery, and explain how it happened |
+| 2 | **Slideout alignment** | **Major** | Doesn't sit level when retracted: ~1-1/2 in gap at the rear inner corner against ~1/8 in at the front | Adjust or repair, and show it level |
+| 3 | **Underbelly** | **Major** | A split ("fishmouth") on the streetside, and a section hanging loose | Repair and reseal the underbelly |
+| 4 | **Outdoor shower** | **Major** | Nozzle broken or missing a piece | Replace the nozzle |
+| 5 | **Generator** | **Not working** | Wouldn't start. The fuel station was under 1/4 tank; oil level OK. Model CGC6.0NiE1-B, serial CG60J2509841 | Fuel it, start it and run it under load with both A/Cs on, in front of you |
+| 6 | Kitchen cabinet | Minor | Side panel above the sink is bowed, with a gap at the trim | Adjust or replace the panel and trim |
+| 7 | Slide molding, toward the front corner | Minor | The molding by the slideout, toward the front corner, needs fixing (owner's note) | Repair or replace the molding |
+| 8 | Bunk ladder | Minor | Missing; not found anywhere in the trailer | Supply the ladder |
+| 9 | Roof ladder | Minor | None on the trailer ("Roof Ladder Type: Not Present"); confirm whether it is standard on the 323SUT | Install a roof ladder |
+| 10 | Awning light | Minor (noted) | Detached and sagging in at least two places | Reattach it |
+| 11 | Roof | **Not inspected** | Camping World's corporate policy barred walking it; seen only from a ladder (one solar panel; vents, skylight, A/C shrouds and cap joints acceptable as seen) | Accept the dealer's offer of a full roof video by a harnessed technician |
+| 12 | City water connection | **Not inspected** | No pressure-regulated water hookup at the site; fresh tank read 2/3 | Show the city water inlet working, with no leaks |
+| 13 | Waste tanks and dump valves | **Not inspected** | No dump station at the site; gray and black read empty | Show both valves and the tanks draining |
+| 14 | Trailer brakes | **Not fully tested** | The breakaway switch clicked and drew power, but braking wasn't confirmed | A hitched pull test, or wheels pulled and brakes checked |
 
-**Minor issues:** house battery cover not screwed down; the cabinet side above the kitchen sink is **bowed**, with a gap at the moulding; **bunk ladder missing**; awning light detached and sagging in two places. **Added by the owner (10 October 2026): the moulding by the slideout, toward the front corner, needs to be fixed** (minor). **Roof ladder: not present** (the report's roof section records "Roof Ladder Type: Not Present"); confirm whether Forest River fits one as standard on the 323SUT - if it should be there, have it installed (minor).
-
-**Not tested - get these done or demonstrated before signing:**
-
-- **Generator would not start.** The fuel station was under 1/4 tank; oil level fine. Model **CGC6.0NiE1-B**, serial **CG60J2509841** (an NPS unit). **Require a demonstrated start and a run under load** (both A/Cs) before delivery.
-- **Roof not walked** - Camping World's corporate policy barred the inspector; seen from a ladder only (one solar panel; vents, skylight, both A/C shrouds, front and rear cap joints acceptable as seen). The dealer offered to have a harnessed technician **video the whole roof - accept the offer.**
-- **City water connection and the waste/dump valves** - no water hookup or dump at the site; tanks and valves unchecked. Fresh tank read 2/3, gray and black empty.
-- **Trailer brakes** - breakaway switch clicked and drew current, but brake engagement needs a hitched pull test or wheels pulled.
+**4 major issues, 1 dead generator, 5 minor issues, and 4 items not checked.** Also from the report, and left off the list by the owner: the house battery cover is not screwed down, and the tires were at 70-72 psi (set to 80 psi cold before towing).
 
 **Passed:** frame and axles (no rust, damage or leaks); all 12 V chassis lights, 7-pin cord and breakaway switch; 50 A / 240 V power with no hot-skin voltage, correct polarity and GFCIs tripping; converter 13.57 V on shore power; **LP leak-down test passed**; LP, CO and smoke detectors (2026) and a 10 B:C extinguisher; Furrion 12 V residential fridge (FCR11DC, -14°F / 30°F), cooktop, oven and microwave; **Suburban tankless gas water heater (ST-42)** and furnace; **both Furrion A/Cs at a 20°F temperature drop** (within the 14-22°F norm); interior with no water damage or soft spots; patio deck, screens, doors and the **3,000 lb-rated ramp**; garage fuel station; electric landing gear and Lippert leveling.
 
