@@ -288,7 +288,7 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 | **Underbelly** | A **"fishmouth"** split on the streetside and a **detached section** - repair to keep rodents and insects out |
 | **Outside shower** | Nozzle broken / missing a piece |
 
-**Minor issues:** house battery cover not screwed down; the cabinet side above the kitchen sink is **bowed**, with a gap at the moulding; **bunk ladder missing**; awning light detached and sagging in two places. **Added by the owner (10 October 2026): the moulding by the slideout, toward the front corner, needs to be fixed** (minor).
+**Minor issues:** house battery cover not screwed down; the cabinet side above the kitchen sink is **bowed**, with a gap at the moulding; **bunk ladder missing**; awning light detached and sagging in two places. **Added by the owner (10 October 2026): the moulding by the slideout, toward the front corner, needs to be fixed** (minor). **Roof ladder: not present** (the report's roof section records "Roof Ladder Type: Not Present"); confirm whether Forest River fits one as standard on the 323SUT - if it should be there, have it installed (minor).
 
 **Not tested - get these done or demonstrated before signing:**
 
