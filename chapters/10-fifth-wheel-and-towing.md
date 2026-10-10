@@ -307,6 +307,28 @@ See [logs/scale-weights.md](../logs/scale-weights.md) for recorded weigh tickets
 
 **So 3,700 lb is workable on a lightly loaded bed and defensible given how conservative the derivation is - but it removes the cushion that absorbed the estimate's own error.** The way to buy that cushion back is a **loaded CAT ticket with the hitch fitted**, which replaces every estimate here with a measurement. Until then: **plan at 3,600 lb, accept up to 3,700 lb, and keep the bed light whenever the pin is near the top.**
 
+## Trailer nose clearance and hitch height
+
+Measured by the owner, 9 October 2026, truck unloaded and unhitched ([chapter 1](01-vehicle-information.md)):
+
+| Point | Height above ground |
+| --- | --- |
+| Tailgate top, centre peak | **59 in** |
+| Bed rail top, at the middle (gooseneck) puck | **58 in** |
+| Bed floor at the middle puck | **~37 in** (58 in less the 21 in bed depth) |
+
+**Clearance target: 6 in or more** between the bed rails and the underside of the trailer's front overhang, with the trailer **level**. So:
+
+- **The trailer's front underside must sit at least ~64 in above the ground** when level and hitched (58 + 6). Measure from the ground to the lowest point under the front cap on the candidate trailer.
+- **Allow for squat.** These heights are unloaded; a 3,000-3,700 lb pin compresses the rear springs, typically 1-2 in, which narrows the gap at the rails by the same amount. On an uneven site or a steep driveway apron the trailer pitches toward the bed, so more than 6 in is better.
+- **The tailgate is 1 in higher than the rails**, at 59 in. A trailer that clears the rails by less than ~1 in at the tail of the box would strike a closed tailgate on dips; with a fifth wheel the tailgate is normally down or off while hitching anyway.
+
+**Hitch height.** The trailer's level coupling height - ground to the pin box's bearing plate (fifth wheel) or coupler (gooseneck), trailer level - fixes the head height above the bed floor:
+
+> hitch head height above the bed floor = trailer coupling height - ~37 in
+
+Set the [B&W Companion](#bw-companion-25k-rvk3305---setup-and-upkeep), or the pin-box drop on a gooseneck conversion such as a Reese Goose Box or Gen-Y Executive, to that figure, keeping the trailer level and the 6 in rail clearance. The Lippert pin box measuring guide (`imports/Brochures/Printable_Pin_Box_Measuring_Guide.pdf`) covers the trailer-side measurements.
+
 ## Factory fifth-wheel and gooseneck prep - what this truck actually has
 
 **Two separate line items on the window sticker (REF-003)**, each a real option that was paid for:
