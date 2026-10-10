@@ -317,19 +317,29 @@ Measured by the owner, 9 October 2026, truck unloaded and unhitched ([chapter 1]
 | Bed rail top, at the middle (gooseneck) puck | **58 in** |
 | Bed floor at the middle puck | **~37 in** (58 in less the 21 in bed depth) |
 
-**Clearance target: 6 in or more** between the bed rails and the underside of the trailer's front overhang, with the trailer **level**. So:
+**Ford's method** - its fifth-wheel hitch owner's manual for this truck (REF-007, `imports/truck-f350/2023_CMY_Super_Duty_5th_Wheel_Hitch_Owner_Manual_and_Installation.pdf`, pp. 8-10). Truck and trailer **level, on level ground**:
 
-- **The trailer's front underside must sit at least ~64 in above the ground** when level and hitched (58 + 6). Measure from the ground to the lowest point under the front cap on the candidate trailer.
-- **Allow for squat.** These heights are unloaded; a 3,000-3,700 lb pin compresses the rear springs, typically 1-2 in, which narrows the gap at the rails by the same amount. On an uneven site or a steep driveway apron the trailer pitches toward the bed, so more than 6 in is better.
-- **The tailgate is 1 in higher than the rails**, at 59 in, so **the closed tailgate is the tightest point** - the 6 in target applies there too, which means ~65 in of level overhang to have it everywhere. **Tow with the tailgate closed:** lower it only to hitch or unhitch, then close it. Left down, it sticks out behind the bed where the trailer can strike it in turns, damaging both truck and trailer.
+| Measure | This truck |
+| --- | --- |
+| **A** - ground to the trailer's king pin box | trailer |
+| **B** - ground to the inside of the truck bed | **~37 in** |
+| **C** - ground to the truck bed side rails | **58 in** |
+| **D** - ground to the underside of the trailer's front | trailer |
 
-**Hitch height.** The trailer's level coupling height - ground to the pin box's bearing plate (fifth wheel) or coupler (gooseneck), trailer level - fixes the head height above the bed floor:
+> **Hitch height = A - B + 2 in**  
+> **Trailer / side rail clearance = D - C + 2 in - must be 6 in or more**
 
-> hitch head height above the bed floor = trailer coupling height - ~37 in
+**The 2 in is Ford's estimate of rear suspension compression under the pin** (1-5 in depending on truck and trailer). It is *added* because the hitch is set 2 in taller to compensate: hitched and loaded, the trailer sits level at its own height while the truck's rails drop about 2 in, so the gap grows. For this truck: **clearance = D - 56 in**, so **a level overhang of 62 in or more meets Ford's 6 in** at the rails.
 
-Set the [B&W Companion](#bw-companion-25k-rvk3305---setup-and-upkeep), or the pin-box drop on a gooseneck conversion such as a Reese Goose Box or Gen-Y Executive, to that figure, keeping the trailer level and the 6 in rail clearance. **The hitch, not the jacks, sets the hitched nose height** - a measurement taken on the jacks only counts once the trailer is level. Setting the hitch higher raises the nose and the clearance, but past level the trailer tows nose-high; neither hitch type changes the trailer's level overhang height. The Lippert pin box measuring guide (`imports/Brochures/Printable_Pin_Box_Measuring_Guide.pdf`) covers the trailer-side measurements.
+- **The closed tailgate is 1 in higher**, at 59 in: clearance there = D - 57 in, so **63 in** gives 6 in at the tailgate as well. **Tow with the tailgate closed:** lower it only to hitch or unhitch, then close it. Left down, it sticks out behind the bed where the trailer can strike it in turns, damaging both truck and trailer.
+- Ford also recommends **at least 24 in between the bumper and the trailer** (measured at the same height) in turns - check with a slow, tight turn in an open lot with someone watching.
+- More than 6 in is better on steep aprons and uneven sites, where the trailer pitches toward the bed.
 
-**Measured so far:** Rogue SUT 323SUT front overhang **62 in** (9 October 2026, trailer possibly not level) - **4 in over the rails**, short of the 6 in target; see [chapter 15](15-fifth-wheel-candidates.md).
+**Hitch height.** For the B&W Companion or Ford's own hitch, set the head to **A - 37 + 2 = A - 35 in** above the bed floor. Ford's hitch has three settings: **14.96, 16.54 (as shipped) and 18.11 in**; choose the nearest. For a gooseneck conversion (Reese Goose Box, Gen-Y Executive), set the box's drop so the trailer sits level on the ball **with the truck loaded** - the ball top sits about 2 in lower hitched than unhitched. **The hitch, not the jacks, sets the hitched nose height:** a measurement on the jacks only counts once the trailer is level, and raising the hitch past level tows nose-high; neither hitch type changes the trailer's level overhang height. The Lippert pin box measuring guide (`imports/Brochures/Printable_Pin_Box_Measuring_Guide.pdf`) covers the trailer-side measurements.
+
+**Gooseneck ball.** The truck has Ford's **Gooseneck Hitch Kit** ($250 on the sticker) - for a single-rear-wheel Super Duty, Ford's kit is **LC3Z-19F503-A**: a drop-in 2-5/16 in ball for the centre pad, rated **27,500 lb GTWR and 4,125 lb maximum kingpin weight**, with two cast safety-chain loops and a storage case. **Ford does not publish the ball's height above the bed floor - measure it** (bed floor to the top of the installed ball) when the ball is first fitted. Confirm the part number on the kit itself.
+
+**Measured so far:** Rogue SUT 323SUT front overhang **62 in** (9 October 2026, trailer possibly not level) - **6 in at the rails and 5 in at the closed tailgate** by Ford's method, if 62 in is the level figure; see [chapter 15](15-fifth-wheel-candidates.md).
 
 ## Factory fifth-wheel and gooseneck prep - what this truck actually has
 

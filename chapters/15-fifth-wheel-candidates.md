@@ -111,15 +111,16 @@ The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ g
 
 **Front overhang measured at 62 in to the ground** (owner, 9 October 2026), **but the trailer may not have been level**, so this is provisional.
 
-| Against this truck ([chapter 10](10-fifth-wheel-and-towing.md#trailer-nose-clearance-and-hitch-height)) | Gap |
-| --- | --- |
-| Bed rails, 58 in | **4 in** unloaded - about **2-3 in** once a ~3,000 lb pin squats the rear springs |
-| Tailgate top, 59 in | **3 in** |
-| Target | **6 in** - so the level overhang needs **64 in** over the rails, **65 in** over the closed tailgate |
+By **Ford's method** (REF-007: clearance = D - C + 2 in, the 2 in being rear-spring compression under the pin, which the hitch height makes up) - see [chapter 10](10-fifth-wheel-and-towing.md):
 
-**If 62 in holds up when level, it is tight but workable:** tow slightly nose-high (an inch or two of extra hitch height), and take steep aprons and dips slowly and at an angle. **Tow with the tailgate closed** - an open tailgate sticks out behind the bed where the trailer can strike it on turns, damaging both. Lower it only to hitch or unhitch, then close it. **That makes the closed tailgate's 3 in the tightest gap** - check it on the first tow and on any steep apron. The permanent fix is raising the trailer - an **axle flip** (axles moved from under to over the springs) or a lift kit, typically 3-5 in. **Hitched, the overhang sits wherever the hitch puts it**, not where it sat on its jacks: with a gooseneck conversion, the box's drop setting and the ball height set the front height (with a fifth wheel, the head height does). So a Goose Box or Gen-Y set for the right height could leave the nose higher than the 62 in measured. **The limit is level:** neither hitch changes the trailer's *level* overhang height, which comes from its axles, tires and frame, so any height gained past level means towing nose-high. A little is fine; a lot shifts weight rearward and loads the rear trailer axle.
+| Point | Unhitched gap | **Hitched, by Ford's method** | Ford's minimum |
+| --- | --- | --- | --- |
+| Bed rails, 58 in | 4 in | **6 in** | 6 in - **met, with nothing to spare** |
+| Closed tailgate, 59 in | 3 in | **5 in** | 6 in - **1 in short** |
 
-**To finish:** level the trailer front to back on its landing jacks, then measure again - the overhang underside to the ground, and the **pin box plate to the ground** (fifth wheel) or, for a gooseneck conversion, the **ball height needed** with the box at its chosen setting. The fifth-wheel head height above the bed floor is the pin plate height less ~37 in; for a gooseneck, compare the needed ball-top height with the factory ball's height above the ground (~37 in bed floor plus the ball's own height - measure it) and adjust the box's drop to match.
+**If 62 in holds up when level, it works at the rails but the tailgate is 1 in short.** Options: set the hitch **about an inch high** (slightly nose-high) to bring the tailgate gap to 6 in; take steep aprons and dips slowly and at an angle. **Tow with the tailgate closed** - an open tailgate sticks out behind the bed where the trailer can strike it on turns, damaging both; lower it only to hitch or unhitch. The permanent fix, if wanted, is raising the trailer - an **axle flip** (axles from under to over the springs) or a lift kit, typically 3-5 in. **Hitched, the overhang sits wherever the hitch puts it**, not where it sat on its jacks: with a gooseneck conversion, the box's drop setting and the ball height set the front height. **The limit is level** - neither hitch changes the trailer's level overhang height, so height gained past level means towing nose-high; a little is fine, a lot shifts weight onto the rear trailer axle.
+
+**To finish:** level the trailer front to back on its landing jacks, then measure again - the overhang underside to the ground, and the **pin box plate to the ground** (fifth wheel) or, for a gooseneck conversion, the **ball height needed** with the box at its chosen setting. The fifth-wheel head height above the bed floor is the pin plate height less ~35 in (Ford: A - B + 2 in); for a gooseneck, compare the needed ball-top height with the factory ball's height above the ground (~37 in bed floor plus the ball's own height - measure it) and adjust the box's drop to match.
 
 #### Rogue SUT 323SUT - units for sale, 14 September 2026
 
