@@ -279,6 +279,12 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 
 **Pre-purchase inspection - 8 October 2026** (NRVIA-standard report by Blue Ribbon RV Inspection and Service, Phoenix - inspector Tim Schaeffer; 86 pages - **[full report (PDF, 21 MB)](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection-2026-10-08.pdf)**, REF-033 in [chapter 13](13-reference-documents.md)). Inspected on the Camping World lot, 89°F, client not present. **VIN 5NHFVGH23TC005638 confirmed; GVWR 14,090 lb; two 6,000 lb axles; manufactured April 2026** (so the unit is newer than the late-January estimate above, and on the lot at most ~6 months).
 
+<object data="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection-2026-10-08.pdf" type="application/pdf" style="width:100%;height:85vh;min-height:500px;border:1px solid rgba(127,127,127,.35);border-radius:6px" aria-label="323SUT pre-purchase inspection report, 86 pages">
+<p>This browser can't display the report inline - <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection-2026-10-08.pdf">open the full inspection report (PDF, 21 MB)</a>.</p>
+</object>
+
+*The full 86-page report, embedded. On phones that don't show PDFs inline, use the [direct link](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection-2026-10-08.pdf).*
+
 **Everything wrong or unchecked** (inspection, plus the owner's own notes, 10 October 2026):
 
 | # | Item | Severity | What was found | What to ask for |
