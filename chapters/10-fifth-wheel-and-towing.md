@@ -339,6 +339,15 @@ Measured by the owner, 9 October 2026, truck unloaded and unhitched ([chapter 1]
 
 **Gooseneck ball.** The truck has Ford's **Gooseneck Hitch Kit** ($250 on the sticker) - for a single-rear-wheel Super Duty, Ford's kit is **LC3Z-19F503-A**: a drop-in 2-5/16 in ball for the centre pad, rated **27,500 lb GTWR and 4,125 lb maximum kingpin weight**, with two cast safety-chain loops and a storage case. **Ford does not publish the ball's height above the bed floor - measure it** (bed floor to the top of the installed ball) when the ball is first fitted. Confirm the part number on the kit itself.
 
+**The owner will tow on a B&W ball instead** (9 October 2026): **[B&W GNXA2061 ball and safety chain kit](https://www.etrailer.com/Gooseneck-Hitch/B-and-W/BWGNXA2061.html)** for Ford's puck system (2011-2027 Super Duty with the prep package) - 2-5/16 in ball with handle and ball-bearing lock, two safety-chain loops, rubber hole cover and storage case; **30,000 lb gross trailer weight**, limited to the hitch's own rating; limited lifetime warranty; made in USA. **Ball top: about 5-3/4 in above the bed floor** (etrailer Q&A; another answer gives 7-1/4 in overall from the locking bearings to the ball top - confirm by measuring once fitted).
+
+| Gooseneck ball top, B&W GNXA2061 | Height above ground |
+| --- | --- |
+| Truck unhitched | **~42.75 in** (37 in bed floor + 5.75 in) |
+| Hitched, after Ford's ~2 in of squat | **~40.75 in** |
+
+**Set the gooseneck conversion so the trailer is level with its coupler on a ~40.75 in ball top.** With the trailer level on its jacks, measure ground to the coupler socket on the Goose Box or Gen-Y and adjust the drop until it reads about **40.75 in**; raise it about an inch if the tailgate clearance needs it.
+
 **Measured so far:** Rogue SUT 323SUT front overhang **62 in** (9 October 2026, trailer possibly not level) - **6 in at the rails and 5 in at the closed tailgate** by Ford's method, if 62 in is the level figure; see [chapter 15](15-fifth-wheel-candidates.md).
 
 ## Factory fifth-wheel and gooseneck prep - what this truck actually has
