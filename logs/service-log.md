@@ -37,7 +37,7 @@ Reported dealer service under the first owner. Line items are as summarized by C
 
 **Tire pressures.** Ford's cold settings are **60 psi front / 80 psi rear** (door label). The 65 / 64 / 84 / 85 readings were taken **with the tires warm** (owner), so 4-5 psi over the cold setting is expected. Check cold, before driving, and set to 60 / 80.
 
-Gap in oil-change records between 25,826 mi (2025-09) and the last reported reading of 38,278 mi - roughly 12,400 miles with no reported oil service. Confirm actual interval before assuming the truck is current on maintenance.
+Gap in oil-change records between 25,826 mi (2025-09) and the last reported reading of 38,278 mi - roughly 12,400 miles with no reported oil service. Confirm actual interval before assuming the truck is current on maintenance. **FordPass showed oil life at 65% on 18 September 2026 (38,904 mi)**, which points to an oil change after 25,826 mi that CARFAX does not show - likely during Ford's reacquisition or dealer prep. Its date is unknown, so Ford's 12-month limit cannot be counted from it: **plan the next change by the oil-life monitor or by about 40,000-42,000 mi, whichever comes first**, and log it here.
 
 See [chapter 14](../chapters/14-vehicle-history-and-title.md) for the buyback context surrounding the 2026 electrical entries.
 
