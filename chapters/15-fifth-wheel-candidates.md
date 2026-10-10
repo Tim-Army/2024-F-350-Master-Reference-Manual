@@ -129,6 +129,24 @@ Heavier GVWR bands (16,365-25,450 and 25,455-30,000 lb) are the GH-8075AL/8076AL
 
 So the coupler height on a given trailer must be **measured after fitting**: with the trailer level, set the 2 in adjustment so the coupler sits at the ~40.75 in loaded ball-top height in chapter 10, and check the 6 in clearance. **Call Gen-Y (574-218-6363) with the trailer's level measurements before ordering** to confirm 2 in of adjustment is enough for this truck.
 
+**What owners report** (forum posts, mostly 2020-2024 and anecdotal; none from a 2024 F-350 long bed - researched 9 October 2026):
+
+| Truck | Bed rail clearance, trailer level |
+| --- | --- |
+| F-350 SuperCrew short bed | ~7 in, with a taller-than-usual ball |
+| Not stated | 7.5 in, riding level |
+| F-250, 6.75 ft bed | over 7 in |
+| Another owner | ~6.5 in, estimated |
+
+- **Adjustment:** the bolt holes are on **2 in vertical steps**; a Gen-Y rep reportedly said extra holes were added because bed sides keep getting taller. One owner gained **~2 in** of front height on the top row; one went from **6.5 to 10.5 in** at the highest position; another replaced a stock Lippert box that left **under 3 in**.
+- **Length:** owners measured **16.375 in** from the first bolt row to the coupler, against **18.56 in** for the Reese Goose Box and **17.79 in** for a MorRyde box - the Gen-Y holds the trailer a couple of inches closer to the truck.
+- **The tailgate is the usual complaint.** One owner said it "will hit the RV if I am angled"; another that 5 in is not enough - plan on **6-7 in minimum**. A bed cover can add ~1/2 in to the rail height.
+- **Turns:** a short-bed F-350 owner found cab and front cap nearly touching at 80-85 degrees. **The 8 ft bed on this truck gives far more room**; still check Ford's 24 in bumper clearance with a slow, tight turn.
+
+**For this truck and the 323SUT** (if 62 in is its level overhang): Ford's method gives ~6 in at the rails and **5 in at the closed tailgate** - where owners report contact. **Plan on mounting the Gen-Y one hole higher** (about 2 in more nose height, ~7 in at the tailgate, slightly nose-high), and confirm against the trailer's level measurements before ordering.
+
+Sources: [Ford Tremor forum](https://www.fordtremor.com/threads/does-anyone-have-the-gen-y-executive-gooseneck-hitch.12384/), [Brinkley owners](https://brinkleyowners.com/t/gen-y-gooseneck-on-2900-or-3100-with-f-350-shortbed/425), [HD Rams](https://hdrams.com/forum/threads/gen-y-executive-gooseneck-hitch-with-short-bed.3005/), [Ford Truck Enthusiasts - pin box measurements](https://www.ford-trucks.com/forums/1705666-reese-20k-goose-box-vs-gen-y-4-5-20k-vs-morryde-rubber-pin-box-measurements.html), [Ford Truck Enthusiasts - Gen-Y](https://www.ford-trucks.com/forums/1692574-talk-me-into-or-out-of-this-hitch-gen-y.html), [Grand Design owners](https://www.gdrvowners.com/towing-and-hitches/75190-anyone-using-a-gen-y-5th-wheel-pin-box-replacement-with-gooseneck-coupler), [etrailer Q&A](https://www.etrailer.com/question-749241.html).
+
 #### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
 
 **Front overhang measured at 62 in to the ground** (owner, 9 October 2026), **but the trailer may not have been level**, so this is provisional.
