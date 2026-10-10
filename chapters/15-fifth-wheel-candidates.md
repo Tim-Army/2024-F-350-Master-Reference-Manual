@@ -107,6 +107,28 @@ The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ g
 
 **One genuine advantage for this trailer specifically:** the Rogue SUT is **current production**, so a conversion could be ordered and fitted by the selling dealer as part of the deal rather than bought afterwards - and a new unit's pin box type is easy to confirm before purchase.
 
+**Alternative: Gen-Y Executive Torsion-Flex** (checked 9 October 2026 - [Gen-Y product page](https://genyhitch.com/products/executive-5th-wheel-king-pin-replacement-w-snap-latch-gooseneck-w-snap-latch-coupler), [installation guide](https://cdn.shopify.com/s/files/1/0768/4174/6685/files/Executive_Installation_Guide.pdf?v=1774284590), and Gen-Y's printable measuring guide, `imports/Brochures/Printable_Pin_Box_Measuring_Guide.pdf`). A bolt-on replacement pin box with a rubber torsion cushion and a 2-5/16 in SnapLatch coupler; 180 lb (about 110 lb more pin than a ~70 lb stock box, against ~140 lb for the Goose Box).
+
+**Identify the trailer's pin box frame first** - measure centre to centre from the front row of mounting bolts to the back row:
+
+| Bolt row spacing | Frame | Gen-Y model, trailer GVWR 7,275-16,360 lb (the 323SUT's 14,090 lb) |
+| --- | --- | --- |
+| **7-7/8 in** | Lippert 1621 / 1621 HD | **GH-8055AL** |
+| **8-3/4 in** | Lippert 1116 / 1716 | **GH-8055AL** + GH-8000 shim plates ($49.95) |
+| **7-1/2 in** | LCI Rhino Box | **GH-8056AL** |
+| - | LCI Turning Point | **GH-8047AL** |
+
+Heavier GVWR bands (16,365-25,450 and 25,455-30,000 lb) are the GH-8075AL/8076AL and GH-8095AL/8096AL - not needed for any candidate here. **Earlier advice in this chapter's discussions named the GH-8056AL generally; that is the Rhino Box model** - order by the measured frame.
+
+**What Gen-Y publishes on dimensions:** no drop, overall height or coupler-height figure. It gives:
+
+- **Vertical adjustment: 2 in** in the bolt pattern, used at installation "to ensure a level tow".
+- **Bed rail clearance: Gen-Y recommends 6-8 in** - consistent with Ford's 6 in minimum ([chapter 10](10-fifth-wheel-and-towing.md)).
+- **Ball:** works with a standard above-bed ball such as the owner's B&W GNXA2061 (~5-3/4 in above the bed floor); a *recessed* ball works only if its top is within 1 in of the bed surface.
+- **Mounting:** at least four 5/8 x 2 in Grade 8 bolts per side, **160 lb-ft**, re-torqued after the first 50 miles.
+
+So the coupler height on a given trailer must be **measured after fitting**: with the trailer level, set the 2 in adjustment so the coupler sits at the ~40.75 in loaded ball-top height in chapter 10, and check the 6 in clearance. **Call Gen-Y (574-218-6363) with the trailer's level measurements before ordering** to confirm 2 in of adjustment is enough for this truck.
+
 #### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
 
 **Front overhang measured at 62 in to the ground** (owner, 9 October 2026), **but the trailer may not have been level**, so this is provisional.
