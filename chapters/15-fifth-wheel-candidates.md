@@ -117,7 +117,7 @@ The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ g
 | Tailgate top, 59 in | **3 in** |
 | Target | **6 in**, so the level overhang needs **64 in or more** |
 
-**If 62 in holds up when level, it is tight but workable:** tow slightly nose-high (an inch or two of extra hitch height), keep the tailgate down, and take steep aprons and dips slowly and at an angle. The permanent fix is raising the trailer - an **axle flip** (axles moved from under to over the springs) or a lift kit, typically 3-5 in. **A gooseneck conversion does not change the overhang height.**
+**If 62 in holds up when level, it is tight but workable:** tow slightly nose-high (an inch or two of extra hitch height), and take steep aprons and dips slowly and at an angle. **Tow with the tailgate closed** - an open tailgate sticks out behind the bed where the trailer can strike it on turns, damaging both. Lower it only to hitch or unhitch, then close it. **That makes the closed tailgate's 3 in the tightest gap** - check it on the first tow and on any steep apron. The permanent fix is raising the trailer - an **axle flip** (axles moved from under to over the springs) or a lift kit, typically 3-5 in. **A gooseneck conversion does not change the overhang height.**
 
 **To finish:** level the trailer front to back on its landing jacks, then measure again - the overhang underside to the ground, and the **pin box plate to the ground**. The hitch head height above the bed floor is the pin plate height less ~37 in.
 

@@ -321,7 +321,7 @@ Measured by the owner, 9 October 2026, truck unloaded and unhitched ([chapter 1]
 
 - **The trailer's front underside must sit at least ~64 in above the ground** when level and hitched (58 + 6). Measure from the ground to the lowest point under the front cap on the candidate trailer.
 - **Allow for squat.** These heights are unloaded; a 3,000-3,700 lb pin compresses the rear springs, typically 1-2 in, which narrows the gap at the rails by the same amount. On an uneven site or a steep driveway apron the trailer pitches toward the bed, so more than 6 in is better.
-- **The tailgate is 1 in higher than the rails**, at 59 in. A trailer that clears the rails by less than ~1 in at the tail of the box would strike a closed tailgate on dips; with a fifth wheel the tailgate is normally down or off while hitching anyway.
+- **The tailgate is 1 in higher than the rails**, at 59 in, so **the closed tailgate is the tightest point** - the 6 in target applies there too, which means ~65 in of level overhang to have it everywhere. **Tow with the tailgate closed:** lower it only to hitch or unhitch, then close it. Left down, it sticks out behind the bed where the trailer can strike it in turns, damaging both truck and trailer.
 
 **Hitch height.** The trailer's level coupling height - ground to the pin box's bearing plate (fifth wheel) or coupler (gooseneck), trailer level - fixes the head height above the bed floor:
 
