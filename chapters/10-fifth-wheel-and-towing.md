@@ -329,6 +329,8 @@ Measured by the owner, 9 October 2026, truck unloaded and unhitched ([chapter 1]
 
 Set the [B&W Companion](#bw-companion-25k-rvk3305---setup-and-upkeep), or the pin-box drop on a gooseneck conversion such as a Reese Goose Box or Gen-Y Executive, to that figure, keeping the trailer level and the 6 in rail clearance. The Lippert pin box measuring guide (`imports/Brochures/Printable_Pin_Box_Measuring_Guide.pdf`) covers the trailer-side measurements.
 
+**Measured so far:** Rogue SUT 323SUT front overhang **62 in** (9 October 2026, trailer possibly not level) - **4 in over the rails**, short of the 6 in target; see [chapter 15](15-fifth-wheel-candidates.md).
+
 ## Factory fifth-wheel and gooseneck prep - what this truck actually has
 
 **Two separate line items on the window sticker (REF-003)**, each a real option that was paid for:

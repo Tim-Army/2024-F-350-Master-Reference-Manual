@@ -107,6 +107,20 @@ The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ g
 
 **One genuine advantage for this trailer specifically:** the Rogue SUT is **current production**, so a conversion could be ordered and fitted by the selling dealer as part of the deal rather than bought afterwards - and a new unit's pin box type is easy to confirm before purchase.
 
+#### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
+
+**Front overhang measured at 62 in to the ground** (owner, 9 October 2026), **but the trailer may not have been level**, so this is provisional.
+
+| Against this truck ([chapter 10](10-fifth-wheel-and-towing.md#trailer-nose-clearance-and-hitch-height)) | Gap |
+| --- | --- |
+| Bed rails, 58 in | **4 in** unloaded - about **2-3 in** once a ~3,000 lb pin squats the rear springs |
+| Tailgate top, 59 in | **3 in** |
+| Target | **6 in**, so the level overhang needs **64 in or more** |
+
+**If 62 in holds up when level, it is tight but workable:** tow slightly nose-high (an inch or two of extra hitch height), keep the tailgate down, and take steep aprons and dips slowly and at an angle. The permanent fix is raising the trailer - an **axle flip** (axles moved from under to over the springs) or a lift kit, typically 3-5 in. **A gooseneck conversion does not change the overhang height.**
+
+**To finish:** level the trailer front to back on its landing jacks, then measure again - the overhang underside to the ground, and the **pin box plate to the ground**. The hitch head height above the bed floor is the pin plate height less ~37 in.
+
 #### Rogue SUT 323SUT - units for sale, 14 September 2026
 
 These are the units found in the lower 48 on 14 September 2026: seven on RV Trader under a keyword search for "323SUT", plus one on a dealer's own site. Listings change daily, so confirm availability before travelling. Distances are from the RV Trader search (ZIP 62222).
