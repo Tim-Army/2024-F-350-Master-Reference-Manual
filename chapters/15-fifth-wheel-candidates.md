@@ -115,7 +115,7 @@ The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ g
 | --- | --- |
 | Bed rails, 58 in | **4 in** unloaded - about **2-3 in** once a ~3,000 lb pin squats the rear springs |
 | Tailgate top, 59 in | **3 in** |
-| Target | **6 in**, so the level overhang needs **64 in or more** |
+| Target | **6 in** - so the level overhang needs **64 in** over the rails, **65 in** over the closed tailgate |
 
 **If 62 in holds up when level, it is tight but workable:** tow slightly nose-high (an inch or two of extra hitch height), and take steep aprons and dips slowly and at an angle. **Tow with the tailgate closed** - an open tailgate sticks out behind the bed where the trailer can strike it on turns, damaging both. Lower it only to hitch or unhitch, then close it. **That makes the closed tailgate's 3 in the tightest gap** - check it on the first tow and on any steep apron. The permanent fix is raising the trailer - an **axle flip** (axles moved from under to over the springs) or a lift kit, typically 3-5 in. **A gooseneck conversion does not change the overhang height.**
 
