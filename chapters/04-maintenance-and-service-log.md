@@ -43,7 +43,7 @@ Each hour of idling counts as about 25 mi. **Reset the monitor after every oil c
 | Every 3 years | Change the brake fluid (dealer equipment) |
 | Every 20,000 mi | Replace the cabin air filter (Motorcraft FP-92) |
 | Every 30,000 mi | Replace the engine air filter (Motorcraft FA-1950) |
-| Every 60,000 mi | Repack front wheel bearings - **non-sealed bearings only** |
+| Every 60,000 mi | Repack front wheel bearings - non-sealed bearings only; **not this truck** (sealed 4x4 hubs) |
 | Every 100,000 mi | Replace the spark plugs |
 | Every 100,000 mi | Inspect the accessory drive belt(s); if not replaced, inspect every 15,000 mi after |
 | Every 150,000 mi | Change the automatic transmission fluid and filter; replace the drive belt(s) if not replaced in the last 100,000 mi; change the axle fluid (see the exception below); change the transfer case fluid |
@@ -58,7 +58,7 @@ Ford: follow these when you **primarily** tow; occasional towing needs no extra 
 | Inspect frequently | U-joint grease fittings, if fitted |
 | Every 5,000 mi | Inspect the wheels and related components; **rotate the tires** and measure tread depth |
 | Every 5,000 mi or 6 months | **Change the engine oil and filter**; lubricate U-joint fittings, if fitted |
-| Every 30,000 mi | Repack front wheel bearings - non-sealed bearings only |
+| Every 30,000 mi | Repack front wheel bearings - non-sealed bearings only; **not this truck** (sealed 4x4 hubs) |
 | Every 60,000 mi | **Change the transfer case fluid** (4x4) and **replace the spark plugs** |
 
 Ford has similar extra-maintenance lists for dusty or unpaved roads and off-road use (5,000 mi / 6-month oil changes, and engine and cabin air filters replaced as needed).
@@ -100,7 +100,7 @@ Built 04/2024. Last recorded odometer **38,926 mi** (21 September 2026). From th
 | Drive belt | Original | Inspect at 100,000 mi | Same |
 | Coolant | Original | 200,000 mi or April 2034 | Same |
 
-Front wheel bearings: the repack items apply only to non-sealed bearings. The front hubs were replaced in January 2025 (CARFAX); confirm they are sealed hub assemblies.
+**Front wheel bearings - sealed, so the repack items do not apply.** The workshop manual's 4WD procedure (Front Suspension - 4WD, "Front Wheel Bearing and Wheel Hub") replaces the bearing and hub as **one assembly**, pried out of the knuckle and held by four nuts at **133 lb-ft** (new nuts, cross pattern - [chapter 5](05-torque-specifications.md)); it has no greasing or bearing adjustment. The grease-and-adjust tapered bearings are in the **2WD (RWD)** procedure only. The front hub assemblies replaced in January 2025 (CARFAX) are the same sealed units: inspect for noise, play or drag at each wheel inspection, and replace as an assembly if worn.
 
 ## Service log
 
