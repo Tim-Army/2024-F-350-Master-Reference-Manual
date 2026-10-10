@@ -68,6 +68,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Still to source](chapters/03-oem-parts-catalog.md#still-to-source) |
 | **4** | **[Maintenance & Service Log](chapters/04-maintenance-and-service-log.md)** |
 | | [Maintenance framework](chapters/04-maintenance-and-service-log.md#maintenance-framework) |
+| | [Scheduled maintenance - 7.3L gasoline](chapters/04-maintenance-and-service-log.md#scheduled-maintenance---73l-gasoline) |
 | | [Service log](chapters/04-maintenance-and-service-log.md#service-log) |
 | **5** | **[Torque Specifications](chapters/05-torque-specifications.md)** |
 | | [Source and scope](chapters/05-torque-specifications.md#source-and-scope) |
