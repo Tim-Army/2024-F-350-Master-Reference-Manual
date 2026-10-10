@@ -10,6 +10,7 @@ Naming convention: `REF-0NN-short-title.pdf`, matching the ID in the chapter 13 
 | --- | --- |
 | `REF-003-window-sticker.pdf` | Window sticker / Monroney label - the VIN's build record |
 | `REF-022-carfax-report.pdf` | CARFAX vehicle history report, run 2026-09-05 |
+| `REF-033-323sut-inspection-2026-10-08.pdf` | Pre-purchase inspection of the Avondale 323SUT fifth wheel, 8 October 2026 (Blue Ribbon RV Inspection, NRVIA standards) |
 
 Both are VIN-specific records for this vehicle rather than manufacturer publications, so they are version-controlled with the manual they support.
 

@@ -277,7 +277,7 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 | Cargo (label) | not yet seen; ~3,970 lb estimated | **4,329 lb** |
 | Getting it home (from ZIP 62222) | ~1,290 mi. **Camping World delivery ~$5,000** (owner, 28 September 2026); self-pickup, round trip (~2,580 mi), **~$1,050-1,250**: ~$850 fuel (~240-250 gal at ~$3.50) plus food; **no lodging cost** (owner, 28 September 2026); 4-6 days | ~255 mi; RV Dynasty advertises nationwide delivery |
 
-**Pre-purchase inspection - 8 October 2026** (NRVIA-standard report by Blue Ribbon RV Inspection and Service, Phoenix - inspector Tim Schaeffer; 86 pages, held locally as `imports/323SUT Camping World AZ/FullReportHTMLNRVIAbold.pdf`). Inspected on the Camping World lot, 89°F, client not present. **VIN 5NHFVGH23TC005638 confirmed; GVWR 14,090 lb; two 6,000 lb axles; manufactured April 2026** (so the unit is newer than the late-January estimate above, and on the lot at most ~6 months).
+**Pre-purchase inspection - 8 October 2026** (NRVIA-standard report by Blue Ribbon RV Inspection and Service, Phoenix - inspector Tim Schaeffer; 86 pages - **[full report (PDF, 21 MB)](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection-2026-10-08.pdf)**, REF-033 in [chapter 13](13-reference-documents.md)). Inspected on the Camping World lot, 89°F, client not present. **VIN 5NHFVGH23TC005638 confirmed; GVWR 14,090 lb; two 6,000 lb axles; manufactured April 2026** (so the unit is newer than the late-January estimate above, and on the lot at most ~6 months).
 
 **Everything wrong or unchecked** (inspection, plus the owner's own notes, 10 October 2026):
 
