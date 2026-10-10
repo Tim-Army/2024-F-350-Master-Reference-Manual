@@ -291,14 +291,13 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 | 6 | Kitchen cabinet | Minor | Side panel above the sink is bowed, with a gap at the trim | Adjust or replace the panel and trim |
 | 7 | Slide molding, toward the front corner | Minor | The molding by the slideout, toward the front corner, needs fixing (owner's note) | Repair or replace the molding |
 | 8 | Bunk ladder | Minor | Missing; not found anywhere in the trailer | Supply the ladder |
-| 9 | Roof ladder | Minor | None on the trailer ("Roof Ladder Type: Not Present"); confirm whether it is standard on the 323SUT | Install a roof ladder |
-| 10 | Awning light | Minor (noted) | Detached and sagging in at least two places | Reattach it |
-| 11 | Roof | **Not inspected** | Camping World's corporate policy barred walking it; seen only from a ladder (one solar panel; vents, skylight, A/C shrouds and cap joints acceptable as seen) | Accept the dealer's offer of a full roof video by a harnessed technician |
-| 12 | City water connection | **Not inspected** | No pressure-regulated water hookup at the site; fresh tank read 2/3 | Show the city water inlet working, with no leaks |
-| 13 | Waste tanks and dump valves | **Not inspected** | No dump station at the site; gray and black read empty | Show both valves and the tanks draining |
-| 14 | Trailer brakes | **Not fully tested** | The breakaway switch clicked and drew power, but braking wasn't confirmed | A hitched pull test, or wheels pulled and brakes checked |
+| 9 | Awning light | Minor (noted) | Detached and sagging in at least two places | Reattach it |
+| 10 | Roof | **Not inspected** | Camping World's corporate policy barred walking it; seen only from a ladder (one solar panel; vents, skylight, A/C shrouds and cap joints acceptable as seen) | Accept the dealer's offer of a full roof video by a harnessed technician |
+| 11 | City water connection | **Not inspected** | No pressure-regulated water hookup at the site; fresh tank read 2/3 | Show the city water inlet working, with no leaks |
+| 12 | Waste tanks and dump valves | **Not inspected** | No dump station at the site; gray and black read empty | Show both valves and the tanks draining |
+| 13 | Trailer brakes | **Not fully tested** | The breakaway switch clicked and drew power, but braking wasn't confirmed | A hitched pull test, or wheels pulled and brakes checked |
 
-**4 major issues, 1 dead generator, 5 minor issues, and 4 items not checked.** Also from the report, and left off the list by the owner: the house battery cover is not screwed down, and the tires were at 70-72 psi (set to 80 psi cold before towing).
+**4 major issues, 1 dead generator, 4 minor issues, and 4 items not checked.** Also from the report, and left off the list by the owner: **no roof ladder** - the 323SUT is roof-ladder prepped, so the owner will buy one ([chapter 9](09-accessories-and-modifications.md)); the house battery cover is not screwed down, and the tires were at 70-72 psi (set to 80 psi cold before towing).
 
 **Passed:** frame and axles (no rust, damage or leaks); all 12 V chassis lights, 7-pin cord and breakaway switch; 50 A / 240 V power with no hot-skin voltage, correct polarity and GFCIs tripping; converter 13.57 V on shore power; **LP leak-down test passed**; LP, CO and smoke detectors (2026) and a 10 B:C extinguisher; Furrion 12 V residential fridge (FCR11DC, -14°F / 30°F), cooktop, oven and microwave; **Suburban tankless gas water heater (ST-42)** and furnace; **both Furrion A/Cs at a 20°F temperature drop** (within the 14-22°F norm); interior with no water damage or soft spots; patio deck, screens, doors and the **3,000 lb-rated ramp**; garage fuel station; electric landing gear and Lippert leveling.
 
