@@ -63,7 +63,7 @@ Ford: follow these when you **primarily** tow; occasional towing needs no extra 
 
 Ford has similar extra-maintenance lists for dusty or unpaved roads and off-road use (5,000 mi / 6-month oil changes, and engine and cabin air filters replaced as needed).
 
-**Axle exception** (REF-001 p. 592): axle fluid needs no change unless leaking or submerged. But for **long periods of towing above 70°F**, or long wide-open-throttle runs above 45 mph, **change the rear axle fluid every 30,000 mi if it is non-synthetic.** That is waived - back to 150,000 mi - if the axle holds **75W-140 synthetic** (WSL-M2C192-A, Motorcraft XY-75W140-QL). **Confirm which fluid this truck's 11.6 in axle holds** before full-time towing.
+**Axle exception** (REF-001 p. 592): axle fluid needs no change unless leaking or submerged. But for **long periods of towing above 70°F**, or long wide-open-throttle runs above 45 mph, **change the rear axle fluid every 30,000 mi if it is non-synthetic.** That is waived - back to 150,000 mi - if the axle holds **75W-140 synthetic** (WSL-M2C192-A, Motorcraft XY-75W140-QL). **This truck's 11.6 in axle is factory-filled with 75W-140 synthetic** to WSL-M2C192-A ([chapter 6](06-fluids-and-capacities.md)), and no axle service is recorded, so **the 30,000 mi interval is waived and 150,000 mi applies**. Keep it that way: any axle service must refill with the same synthetic (plus friction modifier only if the axle is a Traction-Lok - this one is the electronic locker).
 
 ### Owner checks
 
@@ -95,7 +95,7 @@ Built 04/2024. Last recorded odometer **38,926 mi** (21 September 2026). From th
 | Battery | Tested good, 6 Oct 2026 | Every 6 months / before winter | Same |
 | Spark plugs | Original | 100,000 mi | **60,000 mi** |
 | Transfer case fluid | Original | 150,000 mi | **60,000 mi** |
-| Rear axle fluid | Original | 150,000 mi | 30,000-mi intervals if non-synthetic - confirm the fill |
+| Rear axle fluid | Original - factory 75W-140 synthetic | 150,000 mi | 150,000 mi (synthetic waives the 30,000 mi towing change) |
 | Transmission fluid and filter | Original | 150,000 mi | 150,000 mi |
 | Drive belt | Original | Inspect at 100,000 mi | Same |
 | Coolant | Original | 200,000 mi or April 2034 | Same |
