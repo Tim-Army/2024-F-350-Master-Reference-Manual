@@ -327,7 +327,7 @@ Measured by the owner, 9 October 2026, truck unloaded and unhitched ([chapter 1]
 
 > hitch head height above the bed floor = trailer coupling height - ~37 in
 
-Set the [B&W Companion](#bw-companion-25k-rvk3305---setup-and-upkeep), or the pin-box drop on a gooseneck conversion such as a Reese Goose Box or Gen-Y Executive, to that figure, keeping the trailer level and the 6 in rail clearance. The Lippert pin box measuring guide (`imports/Brochures/Printable_Pin_Box_Measuring_Guide.pdf`) covers the trailer-side measurements.
+Set the [B&W Companion](#bw-companion-25k-rvk3305---setup-and-upkeep), or the pin-box drop on a gooseneck conversion such as a Reese Goose Box or Gen-Y Executive, to that figure, keeping the trailer level and the 6 in rail clearance. **The hitch, not the jacks, sets the hitched nose height** - a measurement taken on the jacks only counts once the trailer is level. Setting the hitch higher raises the nose and the clearance, but past level the trailer tows nose-high; neither hitch type changes the trailer's level overhang height. The Lippert pin box measuring guide (`imports/Brochures/Printable_Pin_Box_Measuring_Guide.pdf`) covers the trailer-side measurements.
 
 **Measured so far:** Rogue SUT 323SUT front overhang **62 in** (9 October 2026, trailer possibly not level) - **4 in over the rails**, short of the 6 in target; see [chapter 15](15-fifth-wheel-candidates.md).
 
