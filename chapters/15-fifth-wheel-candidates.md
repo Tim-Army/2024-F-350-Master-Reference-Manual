@@ -241,7 +241,7 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 
 **What the options mean for loading.** A generator and a second A/C are **factory weight in the UVW**, so they come off the cargo figure: expect this unit's label cargo to be **several hundred pounds below** the Bunker Hill unit's 4,329 lb - plausibly **under the 4,000 lb bar**. If the generator sits in a front compartment, as generators usually do, most of its weight lands on the pin; the truck still has ample margin (~3,060 lb at GVWR on the brochure share, ~640 lb under 3,700), but less than a base unit. **Ask Camping World for a photo of the unit's white and yellow labels** before going further.
 
-**How long it has been for sale.** **On the lot about 6 months** - since roughly late March 2026 (owner, 28 September 2026). **The owner was also told it is already on clearance** (28 September 2026), so the $61,348 may already include a clearance markdown; Camping World's page does not label it "Clearance" as it does some 2026 Nightfalls on the same lot. The earlier check, 27 September, found no published listing or arrival date: It has been advertised **at least since 14 September**, when it was first recorded here from an earlier RV Trader listing; the current RV Trader listing shows "16 days listed" (from about 11 September) because re-listing resets the counter. Its VIN serial **005638** sits 5 before the Kunes unit's (005643) and about 50 after the Bunker Hill unit's (005589, built 22 January 2026), so it was almost certainly **built in late January 2026** - the Kunes unit from the same batch has been listed since mid-May. **Ask Camping World when it arrived**, and read the build date on the white label. Camping World's page shows **MSRP $109,256** and a "Make an Offer" button; the Avondale lot is already listing 2027 models and has 2026 Nightfalls marked "Clearance" - leverage for a leftover 2026. Compare its **$61,348, which includes freight, prep and doc fees**, with the others on an out-the-door basis.
+**How long it has been for sale.** **On the lot about 6 months** - since roughly late March 2026 (owner, 28 September 2026). **The owner was also told it is already on clearance** (28 September 2026), so the $61,348 may already include a clearance markdown; Camping World's page does not label it "Clearance" as it does some 2026 Nightfalls on the same lot. The earlier check, 27 September, found no published listing or arrival date: It has been advertised **at least since 14 September**, when it was first recorded here from an earlier RV Trader listing; the current RV Trader listing shows "16 days listed" (from about 11 September) because re-listing resets the counter. Its VIN serial **005638** sits 5 before the Kunes unit's (005643) and about 50 after the Bunker Hill unit's (005589, built 22 January 2026), so it was probably built in late January 2026 - **corrected by the 8 October inspection: manufactured April 2026** - the Kunes unit from the same batch has been listed since mid-May. **Ask Camping World when it arrived**, and read the build date on the white label. Camping World's page shows **MSRP $109,256** and a "Make an Offer" button; the Avondale lot is already listing 2027 models and has 2026 Nightfalls marked "Clearance" - leverage for a leftover 2026. Compare its **$61,348, which includes freight, prep and doc fees**, with the others on an out-the-door basis.
 
 **Loading rules for this unit** (modeled 27 September 2026). The base is the Bunker Hill unit's label-implied empty weight (~9,760 lb) and Forest River's 21.7% dry pin share, plus **estimated** option weights: **generator ~230 lb** with mount (5.5-6 kW RV generators typically weigh 200-300 lb), assumed in a **front compartment ~3 ft behind the kingpin**; **second A/C ~90 lb** on the bedroom roof; **patio railing ~40 lb** at the rear. Zones and the ~23 ft axle center are as in the [323SUT loading rules](#rogue-sut-323sut---loading-rules-26-september-2026).
 
@@ -276,6 +276,40 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 | Options beyond the Premium Package | 6,000 W generator, 2nd A/C, ramp patio railing, 2 Euro recliners | none recorded |
 | Cargo (label) | not yet seen; ~3,970 lb estimated | **4,329 lb** |
 | Getting it home (from ZIP 62222) | ~1,290 mi. **Camping World delivery ~$5,000** (owner, 28 September 2026); self-pickup, round trip (~2,580 mi), **~$1,050-1,250**: ~$850 fuel (~240-250 gal at ~$3.50) plus food; **no lodging cost** (owner, 28 September 2026); 4-6 days | ~255 mi; RV Dynasty advertises nationwide delivery |
+
+**Pre-purchase inspection - 8 October 2026** (NRVIA-standard report by Blue Ribbon RV Inspection and Service, Phoenix - inspector Tim Schaeffer; 86 pages, held locally as `imports/323SUT Camping World AZ/FullReportHTMLNRVIAbold.pdf`). Inspected on the Camping World lot, 89°F, client not present. **VIN 5NHFVGH23TC005638 confirmed; GVWR 14,090 lb; two 6,000 lb axles; manufactured April 2026** (so the unit is newer than the late-January estimate above, and on the lot at most ~6 months).
+
+**Major issues**
+
+| Item | Finding |
+| --- | --- |
+| **Front cap - bent curbside lower corner** | The bottom corner of the front cap overhang is **bent**, and there is a **hole in the sealant** above and beside the bend - a water-intrusion path. Rated Poor. The damage is on the underside of the overhang - the area that sits over a truck bed - so ask how it happened (transport or hitching contact) and **have it repaired and resealed before delivery** |
+| **Slideout not level when retracted** | ~**1-1/2 in** gap at the rear inner corner against ~**1/8 in** at the front - needs adjustment |
+| **Underbelly** | A **"fishmouth"** split on the streetside and a **detached section** - repair to keep rodents and insects out |
+| **Outside shower** | Nozzle broken / missing a piece |
+
+**Minor issues:** house battery cover not screwed down; the cabinet side above the kitchen sink is **bowed**, with a gap at the moulding; **bunk ladder missing**; awning light detached and sagging in two places.
+
+**Not tested - get these done or demonstrated before signing:**
+
+- **Generator would not start.** The fuel station was under 1/4 tank; oil level fine. Model **CGC6.0NiE1-B**, serial **CG60J2509841** (an NPS unit). **Require a demonstrated start and a run under load** (both A/Cs) before delivery.
+- **Roof not walked** - Camping World's corporate policy barred the inspector; seen from a ladder only (one solar panel; vents, skylight, both A/C shrouds, front and rear cap joints acceptable as seen). The dealer offered to have a harnessed technician **video the whole roof - accept the offer.**
+- **City water connection and the waste/dump valves** - no water hookup or dump at the site; tanks and valves unchecked. Fresh tank read 2/3, gray and black empty.
+- **Trailer brakes** - breakaway switch clicked and drew current, but brake engagement needs a hitched pull test or wheels pulled.
+
+**Passed:** frame and axles (no rust, damage or leaks); all 12 V chassis lights, 7-pin cord and breakaway switch; 50 A / 240 V power with no hot-skin voltage, correct polarity and GFCIs tripping; converter 13.57 V on shore power; **LP leak-down test passed**; LP, CO and smoke detectors (2026) and a 10 B:C extinguisher; Furrion 12 V residential fridge (FCR11DC, -14°F / 30°F), cooktop, oven and microwave; **Suburban tankless gas water heater (ST-42)** and furnace; **both Furrion A/Cs at a 20°F temperature drop** (within the 14-22°F norm); interior with no water damage or soft spots; patio deck, screens, doors and the **3,000 lb-rated ramp**; garage fuel station; electric landing gear and Lippert leveling.
+
+**Facts it adds:**
+
+| Item | Value |
+| --- | --- |
+| Tires | **Tamarack ST235/80R16, load range E**, 3,520 lb each at 80 psi max; DOT dates **40/25, 49/25, 50/25, 50/25** (Oct-Dec 2025), spare unreadable. **Found at 70-72 psi - set to 80 psi cold** before towing |
+| Propane | **Two 20 lb cylinders** (11/25), auto-changeover regulator - not 30 lb; chapter 16's propane costs assume two 30 lb cylinders, so expect smaller, more frequent refills (~9.4 gal for both) |
+| Ramp door / patio deck | 3,000 lb rated |
+| House battery | One sealed battery, front basement |
+| Pin box | Fixed pin; frame model not identified - measure the bolt-row spacing ([Gen-Y guide](#rogue-sut-323sut---gooseneck-conversion-21-september-2026)) |
+
+**Use it in the deal.** The front-cap damage, slideout adjustment, underbelly and shower are dealer fixes on a new unit, and the non-starting generator must be proven. Ask for **all repairs completed and the generator, roof video, water system and dump valves demonstrated before delivery**, in writing - or a price reduction to cover them. The bent front cap is the strongest lever.
 
 **Negotiating guide** (27-28 September 2026, estimates): fair value **~$50,000-53,000 out the door before tax and title** - a new base unit at ~$44,000-45,000, plus the generator (~$4,000-5,000), second A/C (~$1,000-1,500), railing and recliners (~$500-1,000), and little or none of the freight. Open at **~$47,000-48,000**, target **~$50,000-52,000**, walk away above **~$54,000-55,000**. **Ask for delivery to be included, or at least cut** - $5,000 on top of ~$6,000 of freight already in the price means paying to ship the trailer twice. Get the **yellow cargo label** first: at an estimated ~3,970 lb the unit may fail the 4,000 lb bar whatever the price.
 
