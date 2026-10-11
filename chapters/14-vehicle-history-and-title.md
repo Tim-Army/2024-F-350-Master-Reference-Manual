@@ -89,9 +89,15 @@ Recorded 11 October 2026 from the owner's pre-purchase photos (`imports/truck-f3
 
 | Area | Finding | Photos |
 | --- | --- | --- |
-| **Rear door, driver's side** | **Fine horizontal scratches** in the paint, in the lower half of the door below the handle and running toward the rear edge - light surface scratches, visible in the reflection; no dent seen. Identified by the owner, 11 October 2026 (missed in the first photo review) | IMG_1423, IMG_1424 - circled: [rear door](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/truck-body/IMG_1423-rear-driver-door-circled.jpg), [lower rear door](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/truck-body/IMG_1424-rear-driver-door-lower-circled.jpg) |
+| **Rear door, driver's side** | **Fine horizontal scratches** in the paint, in the lower half of the door below the handle and running toward the rear edge - visible in the reflection; no dent seen. **The owner reports some of them are deep** - through the clear coat, not just surface marks. Identified by the owner, 11 October 2026 (missed in the first photo review) | IMG_1423, IMG_1424 - circled: [rear door](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/truck-body/IMG_1423-rear-driver-door-circled.jpg), [lower rear door](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/truck-body/IMG_1424-rear-driver-door-lower-circled.jpg) |
 
-Light scratches like these usually polish out (clay bar, then a polish or a fine compound); if a fingernail catches in one, it is through the clear coat and needs touch-up paint - Carbonized Gray, paint code **M7** ([chapter 1](01-vehicle-information.md)).
+**Repair.** The shallow ones should polish out (clay bar, then a polish or fine compound). **The deep ones - where a fingernail catches - are through the clear coat and will not polish out.** Options, in rising cost:
+
+1. **Touch-up paint** in Carbonized Gray, paint code **M7** ([chapter 1](01-vehicle-information.md)): fill the scratch with base coat, then clear, level and polish. A small-repair kit (base, clear, applicators) costs roughly $40-70. Seals bare primer or metal from rust; up close the repair will still show.
+2. **Mobile scratch or smart repair:** a technician blends the damaged area only, usually a few hundred dollars per panel.
+3. **Body shop refinish of the door:** prep, paint and blend into the neighbouring panels for an invisible repair - typically several hundred dollars to over $1,000.
+
+**Do at least step 1 soon** if any scratch reaches primer or bare metal, so the door does not start to rust before a full repair.
 
 ## Verification list
 
