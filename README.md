@@ -133,6 +133,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Warranty position](chapters/14-vehicle-history-and-title.md#warranty-position) |
 | | [Ownership and title timeline](chapters/14-vehicle-history-and-title.md#ownership-and-title-timeline) |
 | | [Service history](chapters/14-vehicle-history-and-title.md#service-history) |
+| | [Body condition at purchase](chapters/14-vehicle-history-and-title.md#body-condition-at-purchase) |
 | | [Verification list](chapters/14-vehicle-history-and-title.md#verification-list) |
 | **15** | **[Fifth-Wheel Candidates](chapters/15-fifth-wheel-candidates.md)** |
 | | [Requirement](chapters/15-fifth-wheel-candidates.md#requirement) |

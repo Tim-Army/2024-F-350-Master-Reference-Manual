@@ -83,6 +83,16 @@ Patterns worth noting:
 - **Repeated battery/charging system checks** at 10,914 / 20,571 / 21,321 / 23,725 / 35,930 mi.
 - **Electrical investigation late in life** - electrical system checked at 35,930 and 36,971 mi, outside mirror replaced/repaired and steering wheel centered at 35,930 mi. These immediately precede the buyback and are plausibly related to the cited defects.
 
+## Body condition at purchase
+
+Recorded 11 October 2026 from the owner's pre-purchase photos (`imports/truck-f350/`, IMG_1374-IMG_1468 series). Note anything found here before any claim or trade-in, so pre-existing marks are on record.
+
+| Area | Finding | Photos |
+| --- | --- | --- |
+| **Rear door, driver's side** | **Fine horizontal scratches** in the paint, in the lower half of the door below the handle and running toward the rear edge - light surface scratches, visible in the reflection; no dent seen. Identified by the owner, 11 October 2026 (missed in the first photo review) | IMG_1423, IMG_1424 - circled: [rear door](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/truck-body/IMG_1423-rear-driver-door-circled.jpg), [lower rear door](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/truck-body/IMG_1424-rear-driver-door-lower-circled.jpg) |
+
+Light scratches like these usually polish out (clay bar, then a polish or a fine compound); if a fingernail catches in one, it is through the clear coat and needs touch-up paint - Carbonized Gray, paint code **M7** ([chapter 1](01-vehicle-information.md)).
+
 ## Verification list
 
 Purchased 8 September 2026. Ford's repair paperwork (REF-026) records both cited defects as repaired, so items 1 and 2 are confirmation of work already done rather than fault-finding. The rest still stand:
