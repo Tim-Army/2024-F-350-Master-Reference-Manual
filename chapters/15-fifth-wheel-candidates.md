@@ -297,19 +297,91 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 | 12 | Waste tanks and dump valves | **Not inspected** | No dump station at the site; gray and black read empty | Show both valves and the tanks draining |
 | 13 | Trailer brakes | **Not fully tested** | The breakaway switch clicked and drew power, but braking wasn't confirmed | A hitched pull test, or wheels pulled and brakes checked |
 | 14 | Rear cap seam beside the solar panel (curbside) | **Moderate** (photo review) | Sealant at the roof-to-rear-cap seam looks torn and ragged, with white material showing - [circled Photo #023](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-023.jpg) ([original](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#photo-023)). Rated acceptable by the inspector from a ladder | Inspect and reseal the full rear cap seam; film it close up on the roof video |
-| 15 | Roof membrane creases at the front A/C | Minor, check (photo review) | Diagonal creases in the membrane on both sides of the front A/C - possibly loose membrane - [circled Photo #018](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-018.jpg) ([original](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#photo-018)) | Check on the roof video; re-adhere if loose |
 | 16 | Leftover tape liner on the garage ceiling trim | Minor (photo review) | A thin red strip at the edge of the ceiling trim, by the bed frame - **not a wire**: the owner's close-up shows the red backing film from double-sided mounting tape, left in the trim seam. The trim bulges slightly beside it, so it may not be fully stuck down - [circled close-up](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-071-closeup.jpg), [circled Photo #071](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-071.jpg) ([original](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#photo-071)) | Peel the strip off; press the trim along that stretch and re-glue it if it won't stay flat |
 
-**4 major issues, 1 dead generator, 4 minor issues, 4 items not checked, and 3 more from the owner's photo review (rows 14-16, 11 October 2026; circled in the [flagged photos](#photo-review-flagged) below)** - the photos are low resolution, so those are checks for the dealer rather than confirmed defects. Also from the report, and left off the list by the owner: **no roof ladder** - the 323SUT is roof-ladder prepped, so the owner will buy one - a Lippert On-the-Go 14'6" telescopic ladder for the Lippert ladder receiver ([chapter 9](09-accessories-and-modifications.md)); the house battery cover is not screwed down, and the tires were at 70-72 psi (set to 80 psi cold before towing).
+**4 major issues, 1 dead generator, 4 minor issues, 4 items not checked, and 2 more from the owner's photo review (rows 14 and 16, 11 October 2026; row 15, roof membrane creases at the front A/C, was dropped on 12 October - condensation from the A/C; circled in the [flagged photos](#photo-review-flagged) below)** - the photos are low resolution, so those are checks for the dealer rather than confirmed defects. Also from the report, and left off the list by the owner: **no roof ladder** - the 323SUT is roof-ladder prepped, so the owner will buy one - a Lippert On-the-Go 14'6" telescopic ladder for the Lippert ladder receiver ([chapter 9](09-accessories-and-modifications.md)); the house battery cover is not screwed down, and the tires were at 70-72 psi (set to 80 psi cold before towing).
 
-<a id="photo-review-flagged"></a>**Photo review - flagged areas** (11 October 2026). Copies of the three inspection photos behind rows 14-16, with the area of concern circled in red. The originals are linked under each; the photos are low resolution, so these are checks for the dealer, not confirmed defects.
+<a id="photo-review-flagged"></a>**Photo review - flagged areas** (11 October 2026). Copies of the inspection photos behind rows 14 and 16, with the area of concern circled in red. The originals are linked under each; the photos are low resolution, so these are checks for the dealer, not confirmed defects.
 
 <figure style="margin:14px 0"><a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-023.jpg"><img src="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-023.jpg" alt="Photo #023, area of concern circled: Rear cap seam beside the solar panel (curbside)" loading="lazy" style="display:block;max-width:100%;height:auto;max-height:70vh;border-radius:6px"></a><figcaption><strong>Row 14 - Photo #023: Rear cap seam beside the solar panel (curbside).</strong> The sealant where the roof meets the rear cap looks torn and ragged, with white material showing. Moderate - a possible leak path. <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#photo-023">Original photo in the report</a></figcaption></figure>
 
-<figure style="margin:14px 0"><a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-018.jpg"><img src="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-018.jpg" alt="Photo #018, area of concern circled: Roof membrane creases at the front A/C" loading="lazy" style="display:block;max-width:100%;height:auto;max-height:70vh;border-radius:6px"></a><figcaption><strong>Row 15 - Photo #018: Roof membrane creases at the front A/C.</strong> Diagonal creases in the membrane on both sides of the front A/C - possibly loose membrane. Check on the roof video. <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#photo-018">Original photo in the report</a></figcaption></figure>
 
 <figure style="margin:14px 0"><a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-071.jpg"><img src="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-071.jpg" alt="Photo #071, red strip circled at the garage ceiling trim" loading="lazy" style="display:block;max-width:100%;height:auto;max-height:70vh;border-radius:6px"></a><a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-071-closeup.jpg"><img src="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/flagged/photo-071-closeup.jpg" alt="Owner close-up: red tape liner in the ceiling trim seam, circled" loading="lazy" style="display:block;max-width:100%;height:auto;margin-top:8px;border-radius:6px"></a><figcaption><strong>Row 16 - Photo #071 and the owner's close-up: leftover tape liner on the garage ceiling trim.</strong> What looked like a loose wire in the inspection photo (top) is a thin, flat red strip - the backing film from double-sided mounting tape - left in the trim seam (close-up, bottom). Peel it off, and check that the slightly bulged trim beside it is stuck down. <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#photo-071">Original photo in the report</a></figcaption></figure>
 
+
+<a id="delivery-checklist"></a>**Delivery checklist** (12 October 2026). **The dealer will complete every repair below before the owner signs.** Walk the trailer with this list and check each item on signing day; anything unfinished goes on a "We Owe" form before signing. Page links open the [web version of the inspection report](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/) at that page (the PDF uses the same page numbers).
+
+*1. Open items from the inspection*
+
+| # | Check | Dealer repair, before signing | Report pages |
+| --- | --- | --- | --- |
+| 1 | Front cap's bent curbside corner repaired and resealed | **Yes** | [p. 31-32](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p31) |
+| 2 | Slideout sits level when retracted, gap even front to back | **Yes** | [p. 40-41](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p40) |
+| 3 | Underbelly split repaired and the loose section reattached | **Yes** | [p. 44-46](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p44) |
+| 4 | Outdoor shower nozzle replaced | **Yes** | [p. 52-53](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p52) |
+| 5 | Generator starts and runs both A/Cs under load for at least 15 minutes | No - **owner tests it on site before signing** | [p. 49-50](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p49) |
+| 6 | Kitchen cabinet panel straight, trim gap closed | **Yes** | [p. 71-72](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p71) |
+| 7 | Slide molding near the front corner repaired | **Yes** | [p. 39-41](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p39) |
+| 8 | Bunk ladder supplied | **Yes** | [p. 83](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p83) |
+| 9 | Awning light reattached | **Yes** | [p. 37-38](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p37) |
+| 10 | Roof inspection: seams, vents, A/Cs, solar panel and both cap joints | No - **owner inspects it after buying the ladder** | [p. 15-30](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p15) |
+| 11 | City water inlet under pressure, no leaks | No - **closed**: the inspector confirmed by phone the tanks held water and there were no leaks | [p. 53](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p53) |
+| 12 | Both dump valves operate and the tanks drain | No - **owner not concerned** | [p. 53](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p53) |
+| 13 | Brakes tested with the trailer hitched | No - **owner tests them when first hitched to the truck** | [p. 47](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p47) |
+| 14 | Rear cap seam beside the solar panel checked and resealed (Photo #023) | **Yes** - dealer double-checks the seal | [p. 30](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p30) |
+| 16 | Red tape liner removed from the garage ceiling trim, and the trim stuck down (Photo #071) | **Yes** | [p. 69](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p69) |
+
+**Dealer repairs: #1-4, 6-9, 14 and 16. Owner: #5, 10 and 13. Closed: #11 and 12.** Row 15 was dropped (condensation).
+
+*2. Paperwork and labels*
+
+| Check | Report pages |
+| --- | --- |
+| Final price in writing, with every repair on the purchase agreement or a "We Owe" form | - |
+| **Yellow cargo-capacity label** photographed - must show at least 4,000 lb | - (not in the report) |
+| White label matches VIN 5NHFVGH23TC005638; manufactured April 2026 | [p. 14](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p14) |
+| Title or certificate of origin, registration, warranty registration and the appliance manuals | - |
+
+*3. Exterior and running gear*
+
+| Check | Report pages |
+| --- | --- |
+| Tires set to 80 psi cold, the spare's date code read, and lug nuts torqued | [p. 41-43](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p41) |
+| Pin box, landing gear and stabilizer jacks extend and retract fully | [p. 46-47](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p46) |
+| All lights: running, brake, turn signals, marker and porch lights | [p. 47](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p47) |
+| Ramp door seals and latches, and the patio deck and its rails | [p. 75-78](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p75) |
+| Awning extends and retracts | [p. 37-39](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p37) |
+| Propane: both 20 lb tanks full, auto-changeover works, no gas smell | [p. 54-55](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p54) |
+
+*4. Systems with power on*
+
+| Check | Report pages |
+| --- | --- |
+| Shore power: converter charging; outlets and ground-fault (GFCI) outlets working | [p. 47-49](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p47) |
+| House battery charged, and its box cover screwed down | [p. 50-51](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p50) |
+| Both A/Cs cooling on shore power | [p. 66-68](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p66) |
+| Furnace and tankless water heater | [p. 63-66](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p63) |
+| Fridge, cooktop, oven and microwave | [p. 56-63](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p56) |
+| Water pump, faucets, shower and toilet; no drips under the sinks | [p. 51-53](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p51), [p. 72-74](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p72) |
+| Solar controller shows charging in sun | [p. 30](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p30) |
+| Garage fuel station pumps | [p. 82](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p82) |
+| Smoke, carbon monoxide and propane detectors; fire extinguisher charged | [p. 55-56](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p55) |
+
+*5. Interior*
+
+| Check | Report pages |
+| --- | --- |
+| Slideout runs out and in smoothly; seals and sweeps sit right | [p. 39-41](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p39) |
+| All doors, windows, emergency exits, blinds and the garage beds and lifts | [p. 36](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p36), [p. 69-74](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p69), [p. 78-86](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p78) |
+| Stains under windows, vents and the skylight; soft spots in the floor | [p. 69-74](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p69) |
+
+*6. Before driving away*
+
+| Check | Report pages |
+| --- | --- |
+| Breakaway switch tested with the trailer hitched | [p. 47](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/REF-033-323sut-inspection/#p47) |
+| Pin weight measured or estimated, and the truck's tires at 60 / 80 psi | - ([chapter 1](01-vehicle-information.md), loading rules above) |
+| Hitch height set so the trailer rides level, with at least 6 in over the closed tailgate | - ([chapter 10](10-fifth-wheel-and-towing.md)) |
 
 **Passed:** frame and axles (no rust, damage or leaks); all 12 V chassis lights, 7-pin cord and breakaway switch; 50 A / 240 V power with no hot-skin voltage, correct polarity and GFCIs tripping; converter 13.57 V on shore power; **LP leak-down test passed**; LP, CO and smoke detectors (2026) and a 10 B:C extinguisher; Furrion 12 V residential fridge (FCR11DC, -14°F / 30°F), cooktop, oven and microwave; **Suburban tankless gas water heater (ST-42)** and furnace; **both Furrion A/Cs at a 20°F temperature drop** (within the 14-22°F norm); interior with no water damage or soft spots; patio deck, screens, doors and the **3,000 lb-rated ramp**; garage fuel station; electric landing gear and Lippert leveling.
 
