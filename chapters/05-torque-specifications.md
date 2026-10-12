@@ -268,7 +268,7 @@ From the workshop manual (REF-028): "Rear Seat LH - Crew Cab" and "Rear Seat RH 
 
 | Fastener | Torque | Notes |
 | --- | --- | --- |
-| **Rear seat front bolts** (under the raised cushion, each side) | **35 lb-ft (47.5 N·m)** | **Ford: remove and discard - fit new bolts.** They are one-time-use (pre-applied thread locker). These are the bolts the [Dee Zee under-seat drawer](09-accessories-and-modifications.md) brackets share |
+| **Rear seat front bolts** (under the raised cushion, each side) | **35 lb-ft (47.5 N·m)** | **Ford: remove and discard - fit new bolts.** Ford does not say why; one-time-use bolts like these usually carry a pre-applied thread-locking patch. These are the bolts the [Dee Zee under-seat drawer](09-accessories-and-modifications.md) brackets share |
 | Rear seat rear nuts (outboard, and RH seat nuts) | **59 lb-ft (80 N·m)** | |
 | Rear center seatbelt anchor nut | **59 lb-ft (80 N·m)** | |
 | Rear outboard seatbelt anchor bolts | **30 lb-ft (40 N·m)** | |
