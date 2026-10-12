@@ -261,3 +261,18 @@ The new ½ in digital torque wrench (3.8-250.8 lb-ft) covers the 110 lb-ft pivot
 ## Not yet extracted
 
 REF-028 holds about 1,200 torque values across roughly 900 procedures for this configuration. This chapter carries the service, towing and chassis values. Still to add as needed: engine internals (cylinder heads, timing, crankshaft), transmission internals, HVAC, restraints, and interior trim. Search the WSM's single-page Repair and Diagnosis index for those.
+
+## Body - rear seats, Crew Cab
+
+From the workshop manual (REF-028): "Rear Seat LH - Crew Cab" and "Rear Seat RH - Crew Cab" removal procedures, and "Rear Seat Latch". **Ford gives torques only - no thread size or wrench size** for these fasteners; confirm the socket on the truck.
+
+| Fastener | Torque | Notes |
+| --- | --- | --- |
+| **Rear seat front bolts** (under the raised cushion, each side) | **35 lb-ft (47.5 N·m)** | **Ford: remove and discard - fit new bolts.** They are one-time-use (pre-applied thread locker). These are the bolts the [Dee Zee under-seat drawer](09-accessories-and-modifications.md) brackets share |
+| Rear seat rear nuts (outboard, and RH seat nuts) | **59 lb-ft (80 N·m)** | |
+| Rear center seatbelt anchor nut | **59 lb-ft (80 N·m)** | |
+| Rear outboard seatbelt anchor bolts | **30 lb-ft (40 N·m)** | |
+| Seat cushion latch and outboard riser bolts | **24 lb-ft (32 N·m)** | From the Rear Seat Latch procedure |
+
+When refitting, Ford notes the seat backrest striker must be in its lowest position for the latch to engage, and the seatbelt webbing must not be twisted.
+

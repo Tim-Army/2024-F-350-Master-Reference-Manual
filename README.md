@@ -87,6 +87,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | | [Electrical](chapters/05-torque-specifications.md#electrical) |
 | | [Body](chapters/05-torque-specifications.md#body) |
 | | [Not yet extracted](chapters/05-torque-specifications.md#not-yet-extracted) |
+| | [Body - rear seats, Crew Cab](chapters/05-torque-specifications.md#body---rear-seats-crew-cab) |
 | **6** | **[Fluids & Capacities](chapters/06-fluids-and-capacities.md)** |
 | | [Status](chapters/06-fluids-and-capacities.md#status) |
 | | [Capacities and specifications](chapters/06-fluids-and-capacities.md#capacities-and-specifications) |
