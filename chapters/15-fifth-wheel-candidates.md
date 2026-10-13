@@ -147,6 +147,35 @@ So the coupler height on a given trailer must be **measured after fitting**: wit
 
 Sources: [Ford Tremor forum](https://www.fordtremor.com/threads/does-anyone-have-the-gen-y-executive-gooseneck-hitch.12384/), [Brinkley owners](https://brinkleyowners.com/t/gen-y-gooseneck-on-2900-or-3100-with-f-350-shortbed/425), [HD Rams](https://hdrams.com/forum/threads/gen-y-executive-gooseneck-hitch-with-short-bed.3005/), [Ford Truck Enthusiasts - pin box measurements](https://www.ford-trucks.com/forums/1705666-reese-20k-goose-box-vs-gen-y-4-5-20k-vs-morryde-rubber-pin-box-measurements.html), [Ford Truck Enthusiasts - Gen-Y](https://www.ford-trucks.com/forums/1692574-talk-me-into-or-out-of-this-hitch-gen-y.html), [Grand Design owners](https://www.gdrvowners.com/towing-and-hitches/75190-anyone-using-a-gen-y-5th-wheel-pin-box-replacement-with-gooseneck-coupler), [etrailer Q&A](https://www.etrailer.com/question-749241.html).
 
+**Alternative: B&W fifth-wheel-to-gooseneck adapter (RVGN31XX)** - B&W's installation instructions, pn 3150-530 dated 5 June 2026 (REF-034, held locally as `imports/B&W Products/RVGN31XX_pn_3150-530_06_05_2026.pdf`). A replacement pin box with a 2-5/16 in auto-latching coupler and SumoSprings cushioning; it suits the owner's [B&W GNXA2061 ball](09-accessories-and-modifications.md). **25,000 lb maximum trailer weight.** American made, limited lifetime warranty.
+
+| Model | Fits | Max pin weight | For the 323SUT |
+| --- | --- | --- | --- |
+| RVGN3153 / **RVGN3154** | Standard adapter - Lippert 1621, 1621HD, 1116, 1716 | 3,250 / **4,500 lb** | **4,500 lb version** - the 3,250 lb one leaves only ~200 lb over the ~3,050 lb pin at GVWR before the adapter's own weight |
+| RVGN3163 / **RVGN3164** | Rhino adapter - Lippert Rhino | 3,250 / **4,500 lb** | Same, if the trailer has a Rhino box |
+
+Model-to-adapter pairing as listed on page 2 of the instructions; confirm with B&W (800-248-6564) when ordering.
+
+**Height - top of the ball to the bottom mounting hole of the trailer's pin box plates** (Adapter Hole Identification Guide, p. 4):
+
+| Pin box | Position 1 | Position 2 | Adjustment | Bolts per side |
+| --- | --- | --- | --- | --- |
+| Lippert Rhino | 17-3/4 in | 15-3/4 in | 2 in | 5 minimum |
+| Lippert 1621 / 1621HD | 18-1/2 in | 16-1/2 in | 2 in | 5 minimum |
+| Lippert 1116 / 1716 | 20-1/2 in | 18 in | 2-1/2 in | 6 minimum; needs the RVXA3140 shim kit (plates are 12-1/2 in apart instead of 12 in) |
+
+**Clearance - B&W asks for more than Ford.** The trailer should be **level when fully loaded with at least 7 in of bed rail clearance** (Ford: 6 in). At the provisional 62 in overhang, Ford's method gives the 323SUT ~6 in at the rails and ~5 in at the closed tailgate - **about 1 in short of B&W's 7 in at the rails and 2 in at the tailgate**. Set the adapter so the trailer rides an inch or two nose-high, or raise the trailer; confirm with the trailer's level measurements first. B&W also requires the **ball top at least 4 in above the bed** - the GNXA2061's ~5-3/4 in passes.
+
+**Install and upkeep.**
+
+- Tools: 15/16 in socket and box-end wrench, torque wrench, hole alignment tool.
+- Use only the supplied 5/8 in flange-head cap screws and flange nuts, **torqued to 150 lb-ft**.
+- Reattach the breakaway switch at the adapter's mounting hole; fit the supplied 42 in safety chains to the truck's chain anchors (the longer RVXA3141 chains are for Ram trucks only).
+- Couple with the latch in "Couple/Tow" and listen for the click; uncouple by pulling the cable to "Un-Couple".
+- **Before every trip:** check all bolts and look for cracks in the adapter, ball and pin box plates; grease the ball.
+- **Every 2,500 miles:** grease the four articulating joints through the angled fittings until grease purges (flexible-hose grease gun).
+- **Yearly:** grease the coupler through the straight fitting and work the latch.
+
 #### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
 
 **Front overhang measured at 62 in to the ground** (owner, 9 October 2026), **but the trailer may not have been level**, so this is provisional.
