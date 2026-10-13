@@ -176,6 +176,39 @@ Model-to-adapter pairing as listed on page 2 of the instructions; confirm with B
 - **Every 2,500 miles:** grease the four articulating joints through the angled fittings until grease purges (flexible-hose grease gun).
 - **Yearly:** grease the coupler through the straight fitting and work the latch.
 
+#### Rogue SUT 323SUT - hitched clearance on the B&W adapter, 13 October 2026
+
+**Interactive calculator: [gooseneck clearance calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/gooseneck-clearance.html)** (`tools/gooseneck-clearance.html`) - enter the truck, ball, adapter and trailer heights and it gives the rail and tailgate clearance and the trailer's nose tilt for both adapter positions.
+
+The setup: B&W **RVGN3164** adapter (Lippert Rhino), B&W **GNXA2061** ball, this truck ([chapter 10](10-fifth-wheel-and-towing.md#trailer-nose-clearance-and-hitch-height)).
+
+| Item | Height above ground | Source |
+| --- | --- | --- |
+| Bed floor | ~37 in | 58 in rail less the 21 in bed depth |
+| Ball top, unhitched | ~42.75 in | + ~5-3/4 in ball (listing figure - measure once fitted) |
+| Ball top, hitched | **~40.75 in** | less Ford's ~2 in rear squat |
+| Bed rails / closed tailgate, hitched | ~56 / ~57 in | 58 / 59 in less 2 in |
+| Adapter, ball top to the bottom pin-box mounting hole | 17-3/4 in (position 1) / 15-3/4 in (position 2) | B&W Rhino hole guide (REF-034) |
+| **Bottom mounting hole, hitched** | **~58.5 in** (position 1) / **~56.5 in** (position 2) | |
+| Front overhang underside, level | 62 in - provisional | Owner, 9 October 2026 |
+
+**The missing number is H** - the height of the bottom mounting hole on the trailer's pin box plate, with the trailer level. The nose rises or drops by about (hitched hole - H), so:
+
+> rail clearance = 62 + (hitched hole - H) - 56; tailgate clearance = 62 + (hitched hole - H) - 57
+> position 1: rails **64.5 - H**, tailgate **63.5 - H**; position 2: rails **62.5 - H**, tailgate **61.5 - H**
+
+| H, trailer level | Position 1: nose | Position 1: rails / tailgate | Position 2: nose | Position 2: rails / tailgate |
+| --- | --- | --- | --- | --- |
+| 55 in | 3.5 in high | 9.5 / 8.5 in | 1.5 in high | 7.5 / 6.5 in |
+| 56 in | 2.5 in high | 8.5 / 7.5 in | 0.5 in high | 6.5 / 5.5 in |
+| 57 in | 1.5 in high | **7.5 / 6.5 in** | 0.5 in low | 5.5 / 4.5 in |
+| 58 in | 0.5 in high | 6.5 / 5.5 in | 1.5 in low | 4.5 / 3.5 in |
+| 59 in | 0.5 in low | 5.5 / 4.5 in | 2.5 in low | 3.5 / 2.5 in |
+
+**Reading it.** B&W asks for **7 in at the rails**, trailer about level and loaded; 7 in at the closed tailgate needs about 1 in more. **Position 1 is the likely setting**: with H around **56-57 in** it gives 7.5-8.5 in at the rails and 6.5-7.5 in at the tailgate, 1.5-2.5 in nose-high (normal). **If H is 58 in or more, neither position reaches 7 in** - a taller ball or a raised trailer would be needed. Position 2 suits only an H near 55 in.
+
+**To finish:** with the trailer level on its jacks, measure **H** and the **overhang underside** again; once the ball is fitted, measure the **ball top above the bed floor**. Put the three numbers into the calculator.
+
 #### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
 
 **Front overhang measured at 62 in to the ground** (owner, 9 October 2026), **but the trailer may not have been level**, so this is provisional.

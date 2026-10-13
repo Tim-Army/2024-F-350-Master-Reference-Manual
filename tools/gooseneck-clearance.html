@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gooseneck Clearance Calculator</title>
+<meta name="description" content="Bed rail and tailgate clearance for a fifth wheel towed on a B&W fifth-wheel-to-gooseneck adapter, from truck, ball and trailer measurements.">
+<style>
+:root{--bg:#fafaf8;--surface:#f1efe8;--text:#1f1f1d;--muted:#5f5e5a;--faint:#888780;--border:rgba(0,0,0,.12);--accent:#185FA5;--ok:#3b6d11;--warn:#8a5a00;--bad:#a32d2d;--truck:#5f6b7a;--trailer:#c9c4b5}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--accent:#85B7EB;--ok:#97c459;--warn:#e0b050;--bad:#f09595;--truck:#7d8a9a;--trailer:#6d6a60}}
+:root[data-theme="dark"]{--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--accent:#85B7EB;--ok:#97c459;--warn:#e0b050;--bad:#f09595;--truck:#7d8a9a;--trailer:#6d6a60}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:780px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:22px;font-weight:600;margin:0 0 4px}
+h2{font-size:16px;font-weight:600;margin:24px 0 6px}
+p.lead,.note{color:var(--muted);font-size:13px;margin:0 0 10px}
+fieldset{border:1px solid var(--border);border-radius:8px;padding:8px 12px 10px;margin:12px 0}
+legend{font-size:13px;font-weight:600;color:var(--muted);padding:0 4px}
+.row{display:grid;grid-template-columns:minmax(0,1fr) 110px;align-items:center;gap:10px;font-size:14px;margin:6px 0}
+.row label{color:var(--text)}
+.row label small{display:block;color:var(--faint);font-size:12px}
+input[type=number],select{width:100%;font:inherit;padding:5px 7px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--text);text-align:right}
+select{text-align:left}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin:14px 0}
+.card{background:var(--surface);border-radius:8px;padding:10px 12px}
+.card .l{font-size:12px;color:var(--muted)}
+.card .v{font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.card .s{font-size:12px;color:var(--muted)}
+.ok{color:var(--ok)}.warn{color:var(--warn)}.bad{color:var(--bad)}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+th,td{padding:6px 8px;border-bottom:1px solid var(--border);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left}
+th{color:var(--muted);font-weight:600}
+tr.pick td{background:var(--surface);font-weight:600}
+svg text{fill:var(--muted);font-size:11px}
+footer{margin-top:24px;font-size:12px;color:var(--faint)}
+a{color:var(--accent)}
+</style>
+</head>
+<body>
+<main>
+<h1>Gooseneck clearance calculator</h1>
+<p class="lead">Bed rail and tailgate clearance for a fifth wheel on a B&amp;W fifth-wheel-to-gooseneck adapter. Defaults are the 2024 F-350 and the 323SUT from the <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/#c15">master reference manual, chapter 15</a>. All heights in inches above the ground.</p>
+
+<fieldset><legend>Truck (unloaded, unhitched)</legend>
+<div class="row"><label for="rail">Bed rail top<small>at the middle (gooseneck) puck</small></label><input type="number" id="rail" step="0.25" value="58"></div>
+<div class="row"><label for="gate">Closed tailgate top<small>centre peak</small></label><input type="number" id="gate" step="0.25" value="59"></div>
+<div class="row"><label for="depth">Bed depth<small>rail top to bed floor</small></label><input type="number" id="depth" step="0.25" value="21"></div>
+<div class="row"><label for="ball">Ball top above the bed floor<small>B&amp;W GNXA2061 ~5-3/4 in - measure once fitted; B&amp;W minimum 4 in</small></label><input type="number" id="ball" step="0.125" value="5.75"></div>
+<div class="row"><label for="squat">Rear squat under the pin<small>Ford's estimate 2 in (range 1-5 in)</small></label><input type="number" id="squat" step="0.25" value="2"></div>
+</fieldset>
+
+<fieldset><legend>Adapter</legend>
+<div class="row"><label for="box">Pin box series<small>sets the B&amp;W hole positions (ball top to the bottom mounting hole)</small></label>
+<select id="box"><option value="rhino" selected>Lippert Rhino - 17-3/4 / 15-3/4 in</option><option value="1621">Lippert 1621 / 1621HD - 18-1/2 / 16-1/2 in</option><option value="1116">Lippert 1116 / 1716 - 20-1/2 / 18 in</option><option value="custom">Custom</option></select></div>
+<div class="row"><label for="p1">Position 1 offset<small>ball top to the bottom mounting hole</small></label><input type="number" id="p1" step="0.125" value="17.75"></div>
+<div class="row"><label for="p2">Position 2 offset</label><input type="number" id="p2" step="0.125" value="15.75"></div>
+</fieldset>
+
+<fieldset><legend>Trailer (level, on its jacks)</legend>
+<div class="row"><label for="hole">Bottom mounting hole of the pin box plate<small>H - not yet measured; 57 is a placeholder</small></label><input type="number" id="hole" step="0.25" value="57"></div>
+<div class="row"><label for="nose">Lowest point under the front overhang<small>62 in measured 9 Oct 2026, possibly not level</small></label><input type="number" id="nose" step="0.25" value="62"></div>
+<div class="row"><label for="target">Required clearance<small>B&amp;W 7 in; Ford 6 in</small></label><input type="number" id="target" step="0.5" value="7"></div>
+</fieldset>
+
+<div class="cards">
+<div class="card"><div class="l">Best position</div><div class="v" id="best">-</div><div class="s" id="bestS"></div></div>
+<div class="card"><div class="l">Bed rail clearance</div><div class="v" id="cr">-</div><div class="s" id="crS"></div></div>
+<div class="card"><div class="l">Tailgate clearance</div><div class="v" id="cg">-</div><div class="s" id="cgS"></div></div>
+<div class="card"><div class="l">Trailer attitude</div><div class="v" id="tilt">-</div><div class="s" id="tiltS"></div></div>
+</div>
+
+<svg id="fig" viewBox="0 0 680 210" width="100%" role="img" aria-label="Side view of the bed rail, tailgate, ball and trailer overhang heights"></svg>
+
+<h2>Both positions</h2>
+<div class="tablewrap"><table id="tbl"><thead><tr><th>Position</th><th>Hole, hitched</th><th>Nose</th><th>Overhang, hitched</th><th>Rails</th><th>Tailgate</th></tr></thead><tbody></tbody></table></div>
+
+<h2>How it is worked out</h2>
+<p class="note">Bed floor = rail - bed depth. Hitched ball top = bed floor + ball height - squat. Hitched hole = hitched ball top + position offset. The trailer's nose rises (or drops) by about hitched hole - H, so hitched overhang = level overhang + (hitched hole - H). Rail clearance = hitched overhang - (rail - squat); tailgate clearance = hitched overhang - (tailgate - squat). The tilt shift is applied in full at the overhang, which sits close to the pin - a small approximation. Ratings: green meets the requirement, amber is within 1 in, red is short.</p>
+<footer>Sources: B&amp;W RVGN31XX instructions (pn 3150-530) - hole guide and 7 in minimum; Ford fifth-wheel hitch owner's manual - 6 in minimum and the 2 in squat estimate. Measure the real trailer before relying on the result.</footer>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const BOX={rhino:[17.75,15.75],1621:[18.5,16.5],1116:[20.5,18]};
+const f=n=>(Math.round(n*100)/100).toFixed(2).replace(/\.?0+$/,'')+' in';
+const v=id=>parseFloat($(id).value)||0;
+$('box').addEventListener('change',()=>{const b=BOX[$('box').value];if(b){$('p1').value=b[0];$('p2').value=b[1];}calc();});
+['p1','p2'].forEach(id=>$(id).addEventListener('input',()=>{$('box').value='custom';}));
+document.querySelectorAll('input').forEach(e=>e.addEventListener('input',calc));
+function grade(c,t){return c>=t?'ok':(c>=t-1?'warn':'bad');}
+function pos(off){
+  const floor=v('rail')-v('depth'),ballH=floor+v('ball')-v('squat'),hole=ballH+off,tilt=hole-v('hole'),
+  over=v('nose')+tilt,cr=over-(v('rail')-v('squat')),cg=over-(v('gate')-v('squat'));
+  return {ballH,hole,tilt,over,cr,cg};
+}
+function calc(){
+  const t=v('target'),P=[pos(v('p1')),pos(v('p2'))];
+  const score=p=>Math.min(p.cr,p.cg)-(Math.abs(p.tilt)>3?5:0)-(p.tilt<-0.5?3:0);
+  const bi=score(P[0])>=score(P[1])?0:1,b=P[bi];
+  $('best').textContent='Position '+(bi+1);$('bestS').textContent='hole at '+f(b.hole)+' hitched; ball top '+f(b.ballH);
+  $('cr').textContent=f(b.cr);$('cr').className='v '+grade(b.cr,t);$('crS').textContent=b.cr>=t?'meets '+f(t):'short of '+f(t)+' by '+f(t-b.cr);
+  $('cg').textContent=f(b.cg);$('cg').className='v '+grade(b.cg,t);$('cgS').textContent=b.cg>=t?'meets '+f(t):'short of '+f(t)+' by '+f(t-b.cg);
+  const a=Math.abs(b.tilt);$('tilt').textContent=a<0.25?'Level':(f(a)+(b.tilt>0?' nose-high':' nose-low'));
+  $('tilt').className='v '+(b.tilt<-0.5||a>3?'warn':'ok');
+  $('tiltS').textContent=b.tilt<-0.5?'nose-low: avoid - weight shifts to the pin':(a>3?'steep - check the trailer rides acceptably':'0-2 in nose-high is normal');
+  const tb=$('tbl').querySelector('tbody');tb.innerHTML='';
+  P.forEach((p,i)=>{const tr=document.createElement('tr');if(i===bi)tr.className='pick';
+    tr.innerHTML=`<td>Position ${i+1} (${f(i?v('p2'):v('p1'))})</td><td>${f(p.hole)}</td><td>${Math.abs(p.tilt)<0.25?'level':f(Math.abs(p.tilt))+(p.tilt>0?' high':' low')}</td><td>${f(p.over)}</td><td class="${grade(p.cr,t)}">${f(p.cr)}</td><td class="${grade(p.cg,t)}">${f(p.cg)}</td>`;tb.appendChild(tr);});
+  draw(b,t);
+}
+function draw(b,t){
+  const base=190,sc=2.6; // heights from 25 in upward
+  const Y=h=>base-(h-25)*sc;
+  const rail=v('rail')-v('squat'),gate=v('gate')-v('squat'),floor=v('rail')-v('depth')-v('squat');
+  let s='';
+  s+=`<rect x="40" y="${Y(rail)}" width="300" height="${Y(floor)-Y(rail)}" fill="none" stroke="var(--truck)" stroke-width="2"/>`;
+  s+=`<rect x="340" y="${Y(gate)}" width="10" height="${Y(floor)-Y(gate)}" fill="var(--truck)"/>`;
+  s+=`<line x1="40" y1="${Y(floor)}" x2="350" y2="${Y(floor)}" stroke="var(--truck)" stroke-width="3"/>`;
+  s+=`<circle cx="200" cy="${Y(b.ballH)}" r="6" fill="var(--accent)"/><line x1="200" y1="${Y(b.ballH)}" x2="200" y2="${Y(floor)}" stroke="var(--accent)" stroke-width="3"/>`;
+  s+=`<line x1="200" y1="${Y(b.ballH)}" x2="200" y2="${Y(b.hole)}" stroke="var(--accent)" stroke-dasharray="4 3"/>`;
+  s+=`<rect x="20" y="${Y(b.over)-34}" width="640" height="34" fill="var(--trailer)" opacity=".85"/>`;
+  s+=`<line x1="120" y1="${Y(b.over)}" x2="120" y2="${Y(rail)}" stroke="var(--text)"/><text x="126" y="${(Y(b.over)+Y(rail))/2+4}">rails ${f(b.cr)}</text>`;
+  s+=`<line x1="355" y1="${Y(b.over)}" x2="355" y2="${Y(gate)}" stroke="var(--text)"/><text x="361" y="${(Y(b.over)+Y(gate))/2+4}">tailgate ${f(b.cg)}</text>`;
+  s+=`<text x="212" y="${Y(b.ballH)+4}">ball ${f(b.ballH)}</text><text x="212" y="${Y(b.hole)+4}">hole ${f(b.hole)}</text>`;
+  s+=`<text x="420" y="${Y(b.over)-14}">trailer overhang ${f(b.over)} (hitched)</text>`;
+  s+=`<text x="44" y="${Y(rail)+14}">bed rail ${f(rail)}</text><text x="44" y="${Y(floor)+14}">bed floor ${f(floor)} (hitched)</text>`;
+  $('fig').innerHTML=s;
+}
+calc();
+</script>
+</body>
+</html>
