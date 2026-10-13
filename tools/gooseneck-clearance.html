@@ -44,6 +44,11 @@ a{color:var(--accent)}
 <h1>Gooseneck clearance calculator</h1>
 <p class="lead">Bed rail and tailgate clearance for a fifth wheel on a B&amp;W fifth-wheel-to-gooseneck adapter. Defaults are the 2024 F-350 and the 323SUT from the <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/#c15">master reference manual, chapter 15</a>. All heights in inches above the ground.</p>
 
+<fieldset><legend>Preset</legend>
+<div class="row"><label for="preset">Load a setup<small>fills every field; editing any field switches to Custom</small></label>
+<select id="preset"><option value="mine" selected>My 2024 F-350 + 323SUT (B&amp;W RVGN3164, GNXA2061)</option><option value="custom">Custom</option></select></div>
+</fieldset>
+
 <fieldset><legend>Truck (unloaded, unhitched)</legend>
 <div class="row"><label for="rail">Bed rail top<small>at the middle (gooseneck) puck</small></label><input type="number" id="rail" step="0.25" value="58"></div>
 <div class="row"><label for="gate">Closed tailgate top<small>centre peak</small></label><input type="number" id="gate" step="0.25" value="59"></div>
@@ -84,6 +89,13 @@ a{color:var(--accent)}
 <script>
 const $=id=>document.getElementById(id);
 const BOX={rhino:[17.75,15.75],1621:[18.5,16.5],1116:[20.5,18]};
+// Owner's truck and trailer: 2024 F-350 (58 in rail, 59 in tailgate, 21 in bed), B&W GNXA2061 ball (~5.75 in),
+// 323SUT on a Lippert Rhino pin box with the B&W RVGN3164 adapter. H is a placeholder until measured.
+const PRESETS={mine:{rail:58,gate:59,depth:21,ball:5.75,squat:2,box:'rhino',p1:17.75,p2:15.75,hole:57,nose:62,target:7}};
+function loadPreset(k){const s=PRESETS[k];if(!s)return;for(const id in s){$(id).value=s[id];}calc();}
+$('preset').addEventListener('change',()=>loadPreset($('preset').value));
+document.querySelectorAll('input,#box').forEach(e=>e.addEventListener('input',()=>{$('preset').value='custom';}));
+$('box').addEventListener('change',()=>{$('preset').value='custom';});
 const f=n=>(Math.round(n*100)/100).toFixed(2).replace(/\.?0+$/,'')+' in';
 const v=id=>parseFloat($(id).value)||0;
 $('box').addEventListener('change',()=>{const b=BOX[$('box').value];if(b){$('p1').value=b[0];$('p2').value=b[1];}calc();});
@@ -128,7 +140,7 @@ function draw(b,t){
   s+=`<text x="44" y="${Y(rail)+14}">bed rail ${f(rail)}</text><text x="44" y="${Y(floor)+14}">bed floor ${f(floor)} (hitched)</text>`;
   $('fig').innerHTML=s;
 }
-calc();
+loadPreset('mine');
 </script>
 </body>
 </html>

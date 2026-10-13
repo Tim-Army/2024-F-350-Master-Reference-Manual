@@ -178,7 +178,7 @@ Model-to-adapter pairing as listed on page 2 of the instructions; confirm with B
 
 #### Rogue SUT 323SUT - hitched clearance on the B&W adapter, 13 October 2026
 
-**Interactive calculator: [gooseneck clearance calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/gooseneck-clearance.html)** (`tools/gooseneck-clearance.html`) - enter the truck, ball, adapter and trailer heights and it gives the rail and tailgate clearance and the trailer's nose tilt for both adapter positions.
+**Interactive calculator: [gooseneck clearance calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/gooseneck-clearance.html)** (`tools/gooseneck-clearance.html`) - a **preset for this truck and the 323SUT** loads every height at once; or enter the truck, ball, adapter and trailer heights and it gives the rail and tailgate clearance and the trailer's nose tilt for both adapter positions.
 
 The setup: B&W **RVGN3164** adapter (Lippert Rhino), B&W **GNXA2061** ball, this truck ([chapter 10](10-fifth-wheel-and-towing.md#trailer-nose-clearance-and-hitch-height)).
 
