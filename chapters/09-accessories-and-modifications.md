@@ -9,7 +9,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 15 | **$2,367.31** |
-| **Short-term** | by 7 December 2026 (90 days) | 32 | **$7,978.28** |
+| **Short-term** | by 7 December 2026 (90 days) | 31 | **$7,968.29** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
@@ -73,7 +73,6 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | SanDisk Max Endurance microSDXC | **$112.99** (256 GB) | Electronics | Planned | [256 GB at B&H](https://www.bhphotovideo.com/c/product/1987074-REG/sandisk_sdsqqvr_256g_gn6ia_256gb_max_endurance_microsdhc.html), with SD adapter - the best value in the range, see below |
 | [VIOFO HK6 ACC hardwire kit](https://www.bestbuy.com/product/viofo-type-c-hk6-acc-hardwire-kit-with-8pcs-full-set-circuit-fuse-tap-for-a329s-series-a119m-pro-dash-cam-black/CZTG549589/sku/12177644) (Type-C, 8-pc fuse taps) | **$32.99** | Electronics | Planned | Required for parking mode. Best Buy |
 | [Sherline trailer tongue weight scale](https://www.sherline.com/product/sherline-trailer-tongue-weight-scale/) | **$200.50** | Towing | Planned | **0-5000 lb gauge** - the range Sherline specifies for fifth wheels, and the only one that covers this truck's ~3,190 lb pin allowance ([chapter 10](10-fifth-wheel-and-towing.md)). Price is for that range. Hydraulic, no electronics or batteries, 4.4 lb, one-year guarantee |
-| [5th wheel lube plate, 10 in, polyethylene](https://www.amazon.com/dp/B09BQLCNHN) | **$9.99** | Towing | Planned | 10 in diameter, 3/16 in thick. Sits between the coupler plate and the trailer's pin box in place of grease, as B&W's instructions allow (REF-030). No drilling. Grease the jaws anyway. Check that it clears the kingpin slot on the Companion coupler |
 | [Bolt It On Condor / Wheel Dock chock bracket](https://boltiton.com/products/condor-bracket) | **$69.99** | Towing | Planned | Tool-free crossbar that clamps a Condor chock to the **factory D-rings**, removable in seconds. **Requires drilling two 3/8 in holes in the chock.** Fits both chocks below. One bracket - order a second if both bikes travel at once |
 | [Condor SC-2000 trailer-only motorcycle chock](https://www.condor-lift.com/product/trailer-only-chock-part-sc-2000/) | **$187.00** | Towing | Planned | **For the large motorcycle.** Sale price; list $259.00. All-steel, 26 lb, folds to 7 in high. Fits 14-22 in wheels, 80-230 mm wide, bikes up to 3,000 lb |
 | [Condor SCC-4000 scooter chock](https://www.condor-lift.com/product/scooter-chock-part-scc-4000/) | **$175.00** | Towing | Planned | **For the Yamaha Zuma 125.** Sale price; list $215.00. Built for scooters and mopeds. **Floor adapter not included** - price it separately if the bracket isn't used |
@@ -85,7 +84,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [ICON 3/4 in drive Professional 36 in breaker bar](https://www.harborfreight.com/34-in-drive-professional-36-in-breaker-bar-63854.html) (Harbor Freight `63854`, model B436) | **$89.99** | Maintenance & security | Planned | 180-degree swivel head, chrome-vanadium, 3.75 lb, lifetime warranty. For breaking loose the 150 lb-ft lug nuts and other high-torque fasteners - set final torque with the ½ in torque wrench, not this. **Needs 3/4 in drive sockets**, or a 3/4-to-1/2 in adapter for ½ in impact sockets. No torque rating published |
 | [PITTSBURGH 6 in straight-jaw sheet metal seamer](https://www.harborfreight.com/6-inch-jaw-straight-sheet-metal-seamer-98728.html) (Harbor Freight `98728`) | **$18.99** | Maintenance & security | Planned | Regularly $24.99. Drop-forged jaws marked in 1/4 in bending increments, nickel-plated steel, 2.2 lb, lifetime warranty. Bends, seams or flattens sheet metal |
 | [IRWIN VISE-GRIP Original locking sheet metal tool, 8 in](https://www.amazon.com/dp/B0000TFGFU) (model `23`) | **$16.65** | Maintenance & security | Planned | Locking pliers with wide flat jaws for bending, forming and crimping sheet metal; turn screw sets the pressure, trigger release. Heat-treated alloy steel. Pairs with the PITTSBURGH seamer above |
-| **Phase total** | **$7,978.28** |  |  | *32 items priced* |
+| **Phase total** | **$7,968.29** |  |  | *31 items priced* |
 
 ### Long-term
 
@@ -144,6 +143,7 @@ One further decision is deferred rather than an item: the **onboard air compress
 | Black Widow `AMC-400-DLX` motorcycle carrier | - | Towing | Archived with the front receiver above |
 | [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | Immediate | Rejected: slip-on, not lace-on. Price kept for reference |
 | [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | $1,399.00 | Towing | **Not needed - the 323SUT will tow as a gooseneck** on the [B&W RVGN3164 adapter](#short-term) and GNXA2061 ball (owner, 13 October 2026). Kept for reference: 25,000 lb / 6,250 lb vertical, 161 lb, drops into the factory pucks; instructions REF-030. Revisit only for an unconverted fifth wheel |
+| [5th wheel lube plate, 10 in, polyethylene](https://www.amazon.com/dp/B09BQLCNHN) | $9.99 | Towing | **Not needed** - it sits between a fifth-wheel hitch head and the pin box, and the 323SUT will tow on a gooseneck ball (owner, 13 October 2026). Goes with the Companion above |
 
 ### Researching
 
