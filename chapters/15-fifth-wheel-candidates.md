@@ -115,7 +115,7 @@ The Rogue gives nearly 800 lb more cargo capacity and is available new. The KZ g
 | --- | --- | --- |
 | **7-7/8 in** | Lippert 1621 / 1621 HD | **GH-8055AL** |
 | **8-3/4 in** | Lippert 1116 / 1716 | **GH-8055AL** + GH-8000 shim plates ($49.95) |
-| **7-1/2 in** | LCI Rhino Box | **GH-8056AL** |
+| **7-1/2 in** | LCI Rhino Box - **the 323SUT's pin box** (owner, 13 October 2026) | **GH-8056AL** |
 | - | LCI Turning Point | **GH-8047AL** |
 
 Heavier GVWR bands (16,365-25,450 and 25,455-30,000 lb) are the GH-8075AL/8076AL and GH-8095AL/8096AL - not needed for any candidate here. **Earlier advice in this chapter's discussions named the GH-8056AL generally; that is the Rhino Box model** - order by the measured frame.
@@ -151,8 +151,8 @@ Sources: [Ford Tremor forum](https://www.fordtremor.com/threads/does-anyone-have
 
 | Model | Fits | Max pin weight | For the 323SUT |
 | --- | --- | --- | --- |
-| RVGN3153 / **RVGN3154** | Standard adapter - Lippert 1621, 1621HD, 1116, 1716 | 3,250 / **4,500 lb** | **4,500 lb version** - the 3,250 lb one leaves only ~200 lb over the ~3,050 lb pin at GVWR before the adapter's own weight |
-| RVGN3163 / **RVGN3164** | Rhino adapter - Lippert Rhino | 3,250 / **4,500 lb** | Same, if the trailer has a Rhino box |
+| RVGN3153 / RVGN3154 | Standard adapter - Lippert 1621, 1621HD, 1116, 1716 | 3,250 / 4,500 lb | Not for this trailer (Rhino box). Choose the 4,500 lb rating either way - the 3,250 lb one leaves only ~200 lb over the ~3,050 lb pin at GVWR before the adapter's own weight |
+| RVGN3163 / **RVGN3164** | Rhino adapter - Lippert Rhino | 3,250 / **4,500 lb** | **This one - RVGN3164.** The 323SUT has a Lippert Rhino pin box (owner, 13 October 2026) |
 
 Model-to-adapter pairing as listed on page 2 of the instructions; confirm with B&W (800-248-6564) when ordering.
 
@@ -160,7 +160,7 @@ Model-to-adapter pairing as listed on page 2 of the instructions; confirm with B
 
 | Pin box | Position 1 | Position 2 | Adjustment | Bolts per side |
 | --- | --- | --- | --- | --- |
-| Lippert Rhino | 17-3/4 in | 15-3/4 in | 2 in | 5 minimum |
+| **Lippert Rhino - the 323SUT** | **17-3/4 in** | **15-3/4 in** | 2 in | 5 minimum |
 | Lippert 1621 / 1621HD | 18-1/2 in | 16-1/2 in | 2 in | 5 minimum |
 | Lippert 1116 / 1716 | 20-1/2 in | 18 in | 2-1/2 in | 6 minimum; needs the RVXA3140 shim kit (plates are 12-1/2 in apart instead of 12 in) |
 
@@ -422,7 +422,7 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 | Propane | **Two 20 lb cylinders** (11/25), auto-changeover regulator - not 30 lb; chapter 16's propane costs assume two 30 lb cylinders, so expect smaller, more frequent refills (~9.4 gal for both) |
 | Ramp door / patio deck | 3,000 lb rated |
 | House battery | One sealed battery, front basement |
-| Pin box | Fixed pin; frame model not identified - measure the bolt-row spacing ([Gen-Y guide](#rogue-sut-323sut---gooseneck-conversion-21-september-2026)) |
+| Pin box | **Lippert Rhino** pin box on a Lippert frame (owner, 13 October 2026); fixed pin. Gooseneck adapters must be the **Rhino** versions: B&W **RVGN3164**, Gen-Y **GH-8056AL** |
 
 **Use it in the deal.** The front-cap damage, slideout adjustment, underbelly and shower are dealer fixes on a new unit, and the non-starting generator must be proven. Ask for **all repairs completed and the generator, roof video, water system and dump valves demonstrated before delivery**, in writing - or a price reduction to cover them. The bent front cap is the strongest lever.
 
