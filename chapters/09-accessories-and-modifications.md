@@ -8,7 +8,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
-| **Immediate** | now - truck in hand | 16 | **$3,766.31** |
+| **Immediate** | now - truck in hand | 15 | **$2,367.31** |
 | **Short-term** | by 7 December 2026 (90 days) | 32 | **$7,978.28** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
@@ -35,7 +35,6 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [Michelin Defender LTX M/S2, LT275/70R18E](https://www.samsclub.com/ip/lt275-70r18e-dltx2-50000/13606762994) (set of 4) | **$1,349.16 paid** (tires $1,315.96 at $328.99 ea + installation $80.00 + tax $103.20 + fees $10.00 - $160.00 savings) | Tires and interior | **Installed 18 Sep 2026** (38,904 mi; 2.5 hours at Sam's Club) | Sam's Club. **Size matches the factory fitment exactly**, so no speedometer recalibration or TPMS wake-up is triggered. $80 gift card back on a set of four - $1,235.96 effective, though the cash outlay is the full $1,315.96 |
 | [½ in drive digital torque wrench, 3.8-250.8 ft-lb](https://www.amazon.com/dp/B0DGGBGRJY) | **$98.76** | Maintenance & security | **Arrived and used 20 Sep 2026** | For the **150 lb-ft wheel-nut retorque due within 100 miles** of the new tires, and most chassis values in [chapter 5](05-torque-specifications.md). **Its range does not cover the whole of chapter 5.** It cannot do the 325 lb-ft hitch-to-frame bolts, 350-406 lb-ft steering fasteners, or anything under ~45 lb-in (3.8 ft-lb), such as TPMS nuts or trim screws. Those need a larger wrench or a ¼ in inch-pound wrench. **Works.** First job was the wheel-nut retorque after the 18 September tire change - all lug nuts set to **150 lb-ft** on 20 September 2026 ([service log](../logs/service-log.md)) |
 | [Sam's Club Plus membership - military](https://hosted-pages.id.me/sams-club-military-plus) | **$50.00** | Tires and interior | **Bought, 50% off** - amount paid to confirm | Military rate via ID.me verification. Purchasing channel, not a truck part. Priced and tracked separately from any item bought through it |
-| [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | **$1,399.00** | Towing | Planned - installation instructions held as REF-030 | 25,000 lb gross tow / 6,250 lb vertical load; **161 lb**; lifetime warranty. Drops into the factory prep pucks. Bundle is base `RVB3305` + coupler `RVC3006`. Deducted in the [chapter 10](10-fifth-wheel-and-towing.md) pin budget |
 | [Ames Instruments 12:1 infrared laser thermometer](https://www.harborfreight.com/121-infrared-laser-thermometer-63985.html) (Harbor Freight item `63985`) | **$22.99** | Towing | **Bought 13 Sep 2026; working 18 Sep** | Ames Instruments is Harbor Freight's instrument brand. Hub and tire temperature checks on long tows - a hot hub is the early warning for a failing bearing. Takes the 9V battery below |
 | [CURT 58272 7-pin RV blade socket tester](https://www.amazon.com/CURT-58272-Trailer-Wiring-Vehicle/dp/B0BVZYBRGM) | **$22.74** | Towing | Planned | Tests the tow vehicle socket before hitching |
 | [Amazon Basics 9V lithium batteries, 2-pack](https://www.amazon.com/dp/B082DMR8DJ) | **$15.49** | Towing | **Installed 18 Sep 2026** | $7.75 each. 10-year shelf life. Powers the infrared thermometer - installed and the thermometer confirmed working. The second battery is a spare |
@@ -48,7 +47,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | Harbor Freight [solid rubber wheel chock](https://www.harborfreight.com/solid-rubber-wheel-chock-96479.html) (`96479`) x 4 | **$19.96** ($4.99 each) | Towing | **Bought 18 Sep 2026** | Chock the trailer wheels before unhitching, and chock the truck when parked on a grade |
 | **Holt Industries locking grease coupler** - Harbor Freight [`56123`](https://www.harborfreight.com/locking-grease-coupler-56123.html) (Holt is a Harbor Freight brand) | **$19.54** (22.99 list, less 15%) | Maintenance & security | **Bought 18 Sep 2026** | Fits the grease gun already owned. For the B&W saddle zerk (every six months) and chassis fittings |
 | [Ford F-350 Super Duty workshop manual, 2023-2025, on USB](https://www.ebay.com/itm/127998926201) | **$24.99** | Documentation | **Received 15 Sep 2026** | Held locally as REF-028 (HTML manual, about 39,000 pages). First use: transmission capacity, front axle type and the rear axle fill procedure in chapter 6. GCWR is not in it. Free USPS Media Mail. Listed as covering the 7.3L V8. Unblocks the torque atlas in [chapter 5](05-torque-specifications.md), the transmission fluid capacity in [chapter 6](06-fluids-and-capacities.md), the wiring work in [chapter 7](07-electrical-atlas.md) and the whole of [Appendix A](appendix-a-workshop-manual-intake.md). Third-party USB compilation, not a Ford subscription - confirm coverage on arrival |
-| **Phase total** | **$3,766.31** |  |  | *16 items priced* |
+| **Phase total** | **$2,367.31** |  |  | *15 items priced* |
 
 ### Short-term
 
@@ -144,6 +143,7 @@ One further decision is deferred rather than an item: the **onboard air compress
 | EcoHitch front mount receiver | - | Towing | Archived - front carrier idea not pursued. **Tongue rating confirmed 1,000 lb**, comfortably above the ~340 lb load. Analysis kept in [chapter 10](10-fifth-wheel-and-towing.md) |
 | Black Widow `AMC-400-DLX` motorcycle carrier | - | Towing | Archived with the front receiver above |
 | [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | Immediate | Rejected: slip-on, not lace-on. Price kept for reference |
+| [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | $1,399.00 | Towing | **Not needed - the 323SUT will tow as a gooseneck** on the [B&W RVGN3164 adapter](#short-term) and GNXA2061 ball (owner, 13 October 2026). Kept for reference: 25,000 lb / 6,250 lb vertical, 161 lb, drops into the factory pucks; instructions REF-030. Revisit only for an unconverted fifth wheel |
 
 ### Researching
 
