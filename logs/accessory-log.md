@@ -5,6 +5,7 @@ Related chapter: [9. Accessories & Modifications](../chapters/09-accessories-and
 
 | Date | Item | Manufacturer / part no. | Vendor / cost | Installation notes | Warranty / removal |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-14 | Door handle cup protectors, all four doors | To confirm | To confirm | Clear film applied in the handle cups | Peel off; warm with a hair dryer first so the adhesive releases cleanly |
 | 2026-10-14 | Side window deflectors (rain visors), front and rear | WeatherTech 801025IM-81765IM, dark tint, SuperCrew/Crew Cab | WeatherTech / $99.95 listed (paid to confirm) | In-channel fit, no exterior tape. Leave the windows fully closed for a few days after fitting so the deflectors seat in the channels | Pull out of the window channels |
 | 2026-10-14 | Mud flaps, front and rear set | WeatherTech No-Drill DigitalFit, F-250/F-350 SRW, no fender flares | WeatherTech / $179.90 listed (paid to confirm) | No-drill mount to the wheel-well liner area; all four fitted. Photos: `imports/truck-f350/mud flaps/` (IMG_1853-1856) | Unbolt to remove; no holes drilled |
 | 2026-10-14 | Seat covers, front and rear - **returned** | Covercraft Spacer Mesh PrecisionFit (front EM / rear AU) | Covercraft / $599.98 | Fitted to both rows, then removed and returned as defective: headrest covers too tight, center console cover does not fit over the console, driver's seat cover ripped. Photos: `imports/truck-f350/covercraft seat cover 1/` (IMG_1857-1862) | Returned |
