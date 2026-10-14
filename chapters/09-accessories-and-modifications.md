@@ -9,7 +9,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 15 | **$2,367.31** |
-| **Short-term** | by 7 December 2026 (90 days) | 31 | **$7,968.29** |
+| **Short-term** | by 7 December 2026 (90 days) | 30 | **$7,368.31** |
 | **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
@@ -53,9 +53,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 
 | Item | Price | Category | Status | Notes |
 | --- | --- | --- | --- | --- |
-| [Covercraft Spacer Mesh PrecisionFit seat covers](https://www.covercraft.com/product/spacer-mesh-precisionfit-custom-seat-covers/CGT-GTSM) (front EM / rear AU) | **$599.98** | Tires and interior | Planned | **Price up from $509.98 (owner, 27 Sep 2026).** Covers **both rows** - front EM and rear AU. Must suit the 40/console/40 seat |
 | [Ford rear wheel-well liners](https://www.ford.com/product/wheelwell-liners-one-pair-for-rear-wheel-wells-p2904301081) (`PC3Z9927886A`) | **$220.00** | Protection | Planned | Charcoal black, 2-piece, 2023-2027. Non-returnable. Dealer installation +$42 optional |
-| [WeatherTech No-Drill DigitalFit MudFlaps](https://www.weathertech.com/mudflap-no-drill-digitalfit-ford-f-250f-350f-450f-550.html?year=2024&wt_779-244_superdutyclass=779-5433_F250orF350&wt_779-245_superdutydually=779-5438_No&wt_779-463_superdutyfenderflares=779-7957_No&wt_settype=FrontRearSet&ymmSearch=true) | **$179.90** | Protection | Planned | Front and rear set, configured F-250/F-350, **not dually**, **no fender flares** - both correct for this truck. No drilling. Camper guide lists flat splash guards SRW at 4 lb total |
+| [WeatherTech No-Drill DigitalFit MudFlaps](https://www.weathertech.com/mudflap-no-drill-digitalfit-ford-f-250f-350f-450f-550.html?year=2024&wt_779-244_superdutyclass=779-5433_F250orF350&wt_779-245_superdutydually=779-5438_No&wt_779-463_superdutyfenderflares=779-7957_No&wt_settype=FrontRearSet&ymmSearch=true) | **$179.90** | Protection | **Installed by 14 Oct 2026** | Front and rear set fitted - owner photos `imports/truck-f350/mud flaps/` (IMG_1853-1856) show all four mounted on the wheel-well liner brackets, no drilling. Front and rear set, configured F-250/F-350, **not dually**, **no fender flares** - both correct for this truck. No drilling. Camper guide lists flat splash guards SRW at 4 lb total |
 | Ford front wheel-well liners (`PC3Z-16F099-B`) | **$177.00** | Protection | Planned | 2-piece set. [Levittown Ford $177.00](https://www.levittownfordparts.com/sku/pc3z-16f099-b.html) vs [ford.com $200.00](https://www.ford.com/product/wheel-well-liners-2piece-set-black-front-p2878597730) - but see the Ford promotion note below |
 | [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | **$99.95** | Protection | Planned | Dark tint, front and rear set, 2024 SuperCrew/Crew Cab - matches this truck. In-channel fit, no exterior tape. See the WeatherTech shipping note below |
 | [WeatherTech SillProtector](https://www.weathertech.com/sillprotector-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_color=Black&wt_settype=4DoorSet&ymmSearch=true) | **$79.95** | Protection | Planned | Black, 4-door set, SuperCrew/Crew Cab - matches this truck |
@@ -84,7 +83,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [ICON 3/4 in drive Professional 36 in breaker bar](https://www.harborfreight.com/34-in-drive-professional-36-in-breaker-bar-63854.html) (Harbor Freight `63854`, model B436) | **$89.99** | Maintenance & security | Planned | 180-degree swivel head, chrome-vanadium, 3.75 lb, lifetime warranty. For breaking loose the 150 lb-ft lug nuts and other high-torque fasteners - set final torque with the ½ in torque wrench, not this. **Needs 3/4 in drive sockets**, or a 3/4-to-1/2 in adapter for ½ in impact sockets. No torque rating published |
 | [PITTSBURGH 6 in straight-jaw sheet metal seamer](https://www.harborfreight.com/6-inch-jaw-straight-sheet-metal-seamer-98728.html) (Harbor Freight `98728`) | **$18.99** | Maintenance & security | Planned | Regularly $24.99. Drop-forged jaws marked in 1/4 in bending increments, nickel-plated steel, 2.2 lb, lifetime warranty. Bends, seams or flattens sheet metal |
 | [IRWIN VISE-GRIP Original locking sheet metal tool, 8 in](https://www.amazon.com/dp/B0000TFGFU) (model `23`) | **$16.65** | Maintenance & security | Planned | Locking pliers with wide flat jaws for bending, forming and crimping sheet metal; turn screw sets the pressure, trigger release. Heat-treated alloy steel. Pairs with the PITTSBURGH seamer above |
-| **Phase total** | **$7,968.29** |  |  | *31 items priced* |
+| **Phase total** | **$7,368.31** |  |  | *30 items priced* |
 
 ### Long-term
 
@@ -144,6 +143,7 @@ One further decision is deferred rather than an item: the **onboard air compress
 | [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | Immediate | Rejected: slip-on, not lace-on. Price kept for reference |
 | [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | $1,399.00 | Towing | **Not needed - the 323SUT will tow as a gooseneck** on the [B&W RVGN3164 adapter](#short-term) and GNXA2061 ball (owner, 13 October 2026). Kept for reference: 25,000 lb / 6,250 lb vertical, 161 lb, drops into the factory pucks; instructions REF-030. Revisit only for an unconverted fifth wheel |
 | [5th wheel lube plate, 10 in, polyethylene](https://www.amazon.com/dp/B09BQLCNHN) | $9.99 | Towing | **Not needed** - it sits between a fifth-wheel hitch head and the pin box, and the 323SUT will tow on a gooseneck ball (owner, 13 October 2026). Goes with the Companion above |
+| [Covercraft Spacer Mesh PrecisionFit seat covers](https://www.covercraft.com/product/spacer-mesh-precisionfit-custom-seat-covers/CGT-GTSM) (front EM / rear AU) | $599.98 | Tires and interior | **Returned** (owner, 14 October 2026) - bought and fitted to both rows, then sent back. Fitted photos `imports/truck-f350/covercraft seat cover 1/` (IMG_1857-1862) |
 
 ### Researching
 
@@ -234,7 +234,7 @@ The Upromax and VViViD options are self-install and cover the cheapest, highest-
 Two Ford specifications remain worth matching when buying equivalents, because they are the only ones tied to something the truck actually needs: **washer fluid to WSS-M14P19-A** (already covered as a fluid in [chapter 6](06-fluids-and-capacities.md)), and glass cleaner to **ESR-M14P5-A**. The rest - bug and tar remover, detail wash, wheel and tire cleaner, upholstery cleaner - are ordinary consumables with no Ford-specific requirement.
 
 
-> **No leather products needed.** The build sheet records **Medium Dark Slate cloth** seats (REF-003), the selected steering wheel cover is neoprene, and the Covercraft seat covers are spacer mesh. Interior care here is cloth, plastic, screen and glass - no conditioner required.
+> **No leather products needed.** The build sheet records **Medium Dark Slate cloth** seats (REF-003), the selected steering wheel cover is neoprene, and the Covercraft seat covers (since returned) were spacer mesh. Interior care here is cloth, plastic, screen and glass - no conditioner required.
 
 Further products and prices to be recorded here once chosen.
 
