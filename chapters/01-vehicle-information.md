@@ -13,6 +13,7 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 | Model | 2024 F-350 SRW 4X4 Crew Cab, XLT, 176" wheelbase Styleside | REF-003 |
 | Overall length | **266.2 in (22 ft 2.2 in)** bumper to bumper, stock - add anything mounted beyond the bumpers | [Kelley Blue Book](https://www.kbb.com/ford/f350-super-duty-crew-cab/2024/specs/) (2024 Crew Cab 8 ft box); matches [Dimensions.com](https://www.dimensions.com/element/ford-f350-crew-cab-long-bed-p708-5th-gen) (2023, same generation) |
 | Overall height | **82.5 in (6 ft 10.5 in)** to the top of the black roof caps at the rear of the cab, the highest point; **81 in (6 ft 9 in)** to the top of the front roof clearance lights. Unloaded, not hitched; the truck sits lower under a load or a pin | Owner measurement, 23 Sep 2026 |
+| Rear receiver hitch | **2-1/2 in** receiver - factory hitch. Any ball mount, bike rack, cargo carrier or mud-flap kit needs a 2.5 in shank (or a 2.5-to-2 in reducer, which lowers the rating) | Owner, 15 Oct 2026 |
 | Bed depth | **21 in** - top of the bed rail to the bed floor, 8 ft Styleside box. Used for fifth-wheel hitch height and trailer nose clearance ([chapter 10](10-fifth-wheel-and-towing.md)) | Owner measurement, 9 Oct 2026 |
 | Bed and tailgate heights | **Bed rail top: 58 in** above the ground at the middle puck. **Tailgate top: 59 in** at its peak, centre. **Bed floor: ~37 in** (58 less the 21 in bed depth). Unloaded, not hitched - the truck squats under a pin | Owner measurement, 9 Oct 2026 |
 | Engine | 7.3L DEVCT NA PFI V8, gasoline | REF-003 |

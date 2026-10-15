@@ -196,6 +196,7 @@ Recorded from the product page:
 The $374.99 base covers the 78-inch width with side gas exhaust at 90 degrees. Four choices to settle, three of which add cost:
 
 | Choice | Options | Cost |
+| --- | --- | --- |
 | Vehicle width | 78 in / 96 in | 96 in **+$75** |
 | Exhaust routing | Side gas 90 degrees | included |
 | | Single gas 45 degrees | +$125 |
@@ -206,7 +207,7 @@ The $374.99 base covers the 78-inch width with side gas exhaust at 90 degrees. F
 
 **Three things to verify on the truck before ordering:**
 
-- **Receiver size.** The kit needs the 2-inch or 2.5-inch tube specified correctly. Measure the factory receiver rather than assuming.
+- **Receiver size - settled: 2.5 in.** The owner confirmed the factory receiver is **2-1/2 in** (15 October 2026), so order the **2.5 in ball mount tube**.
 - **Exhaust routing.** This is the largest price swing, up to $125. The 7.3L gasoline exhaust exit needs identifying; the vendor accepts photo uploads of the rear and rear quarter panel to confirm.
 - **Width.** 78 inches suits an SRW truck; 96 inches is dually territory and adds $75. This truck is SRW.
 
