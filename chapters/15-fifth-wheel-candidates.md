@@ -209,6 +209,35 @@ The setup: B&W **RVGN3164** adapter (Lippert Rhino), B&W **GNXA2061** ball, this
 
 **To finish:** with the trailer level on its jacks, measure **H** and the **overhang underside** again; once the ball is fitted, measure the **ball top above the bed floor**. Put the three numbers into the calculator.
 
+#### Rogue SUT 323SUT - pin weight at GVWR, 16 October 2026
+
+**Interactive calculator: [pin weight calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/pin-weight-calculator.html)** (`tools/pin-weight-calculator.html`) - enter the empty weight and empty pin, place the cargo by zone, and it gives the pin weight and share, trailer weight and axle load against the 3,700 lb ceiling, GVWR and the 12,000 lb axle rating. Presets load the four cases below; a gooseneck switch adds the adapter.
+
+The **Avondale unit at its 14,090 lb GVWR**, on the [loading-rules model](#rogue-sut-323sut---loading-rules-26-september-2026) (axle centre ~23 ft behind the kingpin) with this unit's estimated **~10,120 lb empty weight and ~2,370 lb empty pin** - the generator and second A/C sit forward. As a gooseneck the B&W adapter adds an assumed **~140 lb** (the Goose Box figure; B&W does not publish the RVGN3164's weight), which also comes out of the cargo to stay at GVWR.
+
+| Loading at 14,090 lb | Fifth wheel: pin (share) | Gooseneck, B&W adapter: pin (share) | Trailer axles |
+| --- | --- | --- | --- |
+| Forest River's published ratio (21.7%) | ~3,060 lb | ~3,170 lb | - |
+| **Garage-heavy** | ~2,330 lb (16.6%) | ~2,470 lb (17.6%) | ~11,620-11,760 lb |
+| **Balanced** | ~2,670 lb (18.9%) | ~2,800 lb (19.8%) | ~11,290-11,420 lb |
+| **Front-heavy** - loaded front bay, full fresh tank, heavy batteries | **~3,690 lb (26.2%)** | **~3,780 lb (26.8%)** | ~10,310-10,400 lb |
+
+Cargo placed for each case (fifth wheel; the gooseneck case is the same mix scaled down by the adapter's 140 lb):
+
+| Zone (ft behind kingpin) | Garage-heavy | Balanced | Front-heavy |
+| --- | --- | --- | --- |
+| Dealer batteries (2) | 130 | 130 | 200 |
+| Front storage and wardrobes (3) | 150 | 250 | 500 |
+| Bedroom and bath (6) | 250 | 300 | 500 |
+| Kitchen, pantry, living (16) | 400 | 600 | 900 |
+| Fresh water (17) | 0 | 100 | 800 (full) |
+| Fuel station (23) | 183 (full) | 183 | 183 |
+| Garage, front half (24.5) | 1,157 | 1,100 | 500 |
+| Garage, rear half (30) | 1,700 | 1,307 | 387 |
+| **Cargo total** | **3,970** | **3,970** | **3,970** |
+
+**Reading it.** Against the truck's ~3,625 lb rear-axle estimate and the owner's **3,700 lb ceiling**: balanced and garage-heavy loads leave **~900-1,300 lb** to spare; **front-heavy reaches the ceiling as a fifth wheel and runs ~80 lb over as a gooseneck**. The B&W RVGN3164 is rated 4,500 lb, so the adapter is never the limit. The rules in the Avondale loading section stand: keep heavy items in the garage, do not travel with a full fresh tank and a loaded front bay together, and count the dealer's batteries as front weight. **Replace the estimates** with the white label (empty weight), a scale reading of the hitch (empty pin) and the yellow cargo label, then confirm with a CAT scale weigh of the loaded rig.
+
 #### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
 
 **Front overhang measured at 62 in to the ground** (owner, 9 October 2026), **but the trailer may not have been level**, so this is provisional.

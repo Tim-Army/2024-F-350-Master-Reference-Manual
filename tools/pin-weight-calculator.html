@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pin Weight Calculator</title>
+<meta name="description" content="Fifth wheel pin weight from empty weight and cargo placed by zone, checked against the truck's pin ceiling, the trailer's GVWR and axle rating.">
+<style>
+:root{--bg:#fafaf8;--surface:#f1efe8;--text:#1f1f1d;--muted:#5f5e5a;--faint:#888780;--border:rgba(0,0,0,.12);--accent:#185FA5;--ok:#3b6d11;--warn:#8a5a00;--bad:#a32d2d;--bar:#d9d5c9}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--accent:#85B7EB;--ok:#97c459;--warn:#e0b050;--bad:#f09595;--bar:#3a3936}}
+:root[data-theme="dark"]{--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--accent:#85B7EB;--ok:#97c459;--warn:#e0b050;--bad:#f09595;--bar:#3a3936}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:820px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:22px;font-weight:600;margin:0 0 4px}
+h2{font-size:16px;font-weight:600;margin:24px 0 6px}
+p.lead,.note{color:var(--muted);font-size:13px;margin:0 0 10px}
+fieldset{border:1px solid var(--border);border-radius:8px;padding:8px 12px 10px;margin:12px 0}
+legend{font-size:13px;font-weight:600;color:var(--muted);padding:0 4px}
+.row{display:grid;grid-template-columns:minmax(0,1fr) 110px;align-items:center;gap:10px;font-size:14px;margin:6px 0}
+.row label small{display:block;color:var(--faint);font-size:12px}
+input[type=number],select{width:100%;font:inherit;padding:5px 7px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--text);text-align:right}
+select{text-align:left}
+.check{display:flex;gap:8px;align-items:center;font-size:14px;margin:6px 0}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+th,td{padding:5px 6px;border-bottom:1px solid var(--border);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left;white-space:normal}
+th{color:var(--muted);font-weight:600}
+td input{width:84px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin:14px 0}
+.card{background:var(--surface);border-radius:8px;padding:10px 12px}
+.card .l{font-size:12px;color:var(--muted)}
+.card .v{font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.card .s{font-size:12px;color:var(--muted)}
+.ok{color:var(--ok)}.warn{color:var(--warn)}.bad{color:var(--bad)}
+.meter{position:relative;height:22px;background:var(--bar);border-radius:6px;margin:6px 0 18px}
+.meter .fill{position:absolute;left:0;top:0;bottom:0;border-radius:6px;background:var(--accent)}
+.meter .tick{position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--text)}
+.meter .tl{position:absolute;top:24px;font-size:11px;color:var(--muted);transform:translateX(-50%);white-space:nowrap}
+button{font:inherit;font-size:13px;padding:5px 10px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--text);cursor:pointer}
+footer{margin-top:24px;font-size:12px;color:var(--faint)}
+a{color:var(--accent)}
+</style>
+</head>
+<body>
+<main>
+<h1>Pin weight calculator</h1>
+<p class="lead">Fifth wheel pin weight from the empty weight and where the cargo is loaded. Defaults are the Avondale 2026 Forest River Rogue SUT 323SUT and the 2024 F-350 from the <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/#c15">master reference manual, chapter 15</a>. Weights in pounds, distances in feet behind the kingpin.</p>
+
+<fieldset><legend>Preset</legend>
+<div class="row"><label for="preset">Load a setup<small>the loaded presets fill the 323SUT to its 14,090 lb GVWR (less the adapter when towed as a gooseneck); editing a weight switches to Custom</small></label>
+<select id="preset"><option value="balanced" selected>323SUT - balanced, at GVWR</option><option value="garage">323SUT - garage-heavy, at GVWR</option><option value="front">323SUT - front-heavy, at GVWR</option><option value="empty">323SUT - empty</option><option value="custom">Custom</option></select></div>
+</fieldset>
+
+<fieldset><legend>Trailer</legend>
+<div class="row"><label for="uvw">Empty weight (UVW)<small>Avondale unit ~10,120 lb estimated - use the white label</small></label><input type="number" id="uvw" step="10" value="10120"></div>
+<div class="row"><label for="epin">Empty pin weight<small>~2,370 lb estimated (generator and 2nd A/C forward)</small></label><input type="number" id="epin" step="10" value="2370"></div>
+<div class="row"><label for="gvwr">GVWR</label><input type="number" id="gvwr" step="10" value="14090"></div>
+<div class="row"><label for="axle">Kingpin to axle centre (ft)<small>~23 ft assumed - measure</small></label><input type="number" id="axle" step="0.25" value="23"></div>
+<div class="row"><label for="arate">Trailer axle rating, total</label><input type="number" id="arate" step="100" value="12000"></div>
+<div class="check"><input type="checkbox" id="goose" checked><label for="goose">Towed as a gooseneck (B&amp;W RVGN3164 adapter)</label></div>
+<div class="row"><label for="adapt">Adapter added pin weight<small>~140 lb, the Goose Box figure - B&amp;W does not publish the RVGN3164's weight</small></label><input type="number" id="adapt" step="5" value="140"></div>
+</fieldset>
+
+<fieldset><legend>Truck</legend>
+<div class="row"><label for="ceil">Owner's pin ceiling</label><input type="number" id="ceil" step="25" value="3700"></div>
+<div class="row"><label for="limit">Rear-axle pin limit (estimate)</label><input type="number" id="limit" step="25" value="3625"></div>
+</fieldset>
+
+<h2>Cargo by zone</h2>
+<div class="tablewrap"><table id="zones"><thead><tr><th>Zone</th><th>Feet behind kingpin</th><th>Weight, lb</th><th>On the pin</th><th>Pin, lb</th></tr></thead><tbody></tbody></table></div>
+<p class="note">Fresh water is 8.34 lb/gal (96 gal full = 801 lb); gasoline 6.1 lb/gal (30 gal = 183 lb). A zone's share of its weight on the pin is (axle distance - zone distance) / axle distance; zones behind the axles take weight off the pin. <button type="button" id="fill">Scale cargo to reach GVWR</button></p>
+
+<div class="cards">
+<div class="card"><div class="l">Pin weight</div><div class="v" id="pin">-</div><div class="s" id="pinS"></div></div>
+<div class="card"><div class="l">Pin share</div><div class="v" id="share">-</div><div class="s">15-25% tows steadily</div></div>
+<div class="card"><div class="l">Trailer weight</div><div class="v" id="tot">-</div><div class="s" id="totS"></div></div>
+<div class="card"><div class="l">Trailer axles</div><div class="v" id="ax">-</div><div class="s" id="axS"></div></div>
+</div>
+<div class="meter" id="meter"><div class="fill" id="mfill"></div></div>
+
+<footer>Estimates. Same method as the chapter 15 loading rules: pin = empty pin + sum of each zone's weight x (axle distance - zone distance) / axle distance, plus the adapter if towed as a gooseneck. Replace the empty weight and empty pin with the trailer's labels or a scale reading of the hitch, and confirm with a CAT scale weigh of the loaded rig.</footer>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const ZONES=[['Dealer batteries (front compartment)',2],['Front storage and wardrobes',3],['Bedroom and bath',6],['Kitchen, pantry, living',16],['Fresh water (96 gal max)',17],['Fuel station (30 gal max)',23],['Garage, front half',24.5],['Garage, rear half',30]];
+const PRESETS={
+ balanced:[130,250,300,600,100,183,1100,1307],
+ garage:[130,150,250,400,0,183,1157,1700],
+ front:[200,500,500,900,800,183,500,387],
+ empty:[0,0,0,0,0,0,0,0]};
+const n=x=>Math.round(x).toLocaleString();
+const v=id=>parseFloat($(id).value)||0;
+const tb=$('zones').querySelector('tbody');
+ZONES.forEach(([name,x],i)=>{const tr=document.createElement('tr');
+ tr.innerHTML=`<td>${name}</td><td><input type="number" id="x${i}" step="0.5" value="${x}"></td><td><input type="number" id="w${i}" step="10" value="0"></td><td id="s${i}"></td><td id="p${i}"></td>`;tb.appendChild(tr);});
+const tf=document.createElement('tr');tf.innerHTML='<td><strong>Cargo total</strong></td><td></td><td id="wt"></td><td></td><td id="pt"></td>';tb.appendChild(tf);
+function load(k){const p=PRESETS[k];if(!p)return;p.forEach((w,i)=>{$('w'+i).value=w;});if(k!=='empty')scaleTo(v('gvwr')-v('uvw')-($('goose').checked?v('adapt'):0));calc();}
+// Presets fill the trailer to GVWR; as a gooseneck the adapter's extra weight comes out of the cargo.
+function scaleTo(room){let s=0;ZONES.forEach((z,i)=>s+=v('w'+i));if(s<=0||room<=0)return;ZONES.forEach((z,i)=>{$('w'+i).value=Math.round(v('w'+i)*room/s);});}
+$('preset').addEventListener('change',()=>load($('preset').value));
+document.querySelectorAll('input').forEach(e=>e.addEventListener('input',()=>{if(/^w\d/.test(e.id))$('preset').value='custom';calc();}));
+$('goose').addEventListener('change',()=>{const k=$('preset').value;if(PRESETS[k])load(k);else calc();});
+$('fill').addEventListener('click',()=>{scaleTo(v('gvwr')-v('uvw')-($('goose').checked?v('adapt'):0));$('preset').value='custom';calc();});
+function g(c,okLim,warnLim){return c<=okLim?'ok':(c<=warnLim?'warn':'bad');}
+function calc(){
+ const A=v('axle')||23;let cargo=0,cpin=0;
+ ZONES.forEach((z,i)=>{const x=v('x'+i),w=v('w'+i),sh=(A-x)/A;cargo+=w;cpin+=w*sh;
+  $('s'+i).textContent=Math.round(sh*100)+'%';$('p'+i).textContent=n(w*sh);});
+ $('wt').textContent=n(cargo);$('pt').textContent=n(cpin);
+ const adapt=$('goose').checked?v('adapt'):0,pin=v('epin')+cpin+adapt,tot=v('uvw')+cargo+adapt,share=pin/tot*100,axl=tot-pin;
+ $('pin').textContent=n(pin)+' lb';$('pin').className='v '+g(pin,v('limit'),v('ceil'));
+ $('pinS').textContent=pin<=v('limit')?`${n(v('ceil')-pin)} lb under the ${n(v('ceil'))} lb ceiling`:(pin<=v('ceil')?`over the ~${n(v('limit'))} lb axle estimate, under ${n(v('ceil'))}`:`${n(pin-v('ceil'))} lb OVER the ${n(v('ceil'))} lb ceiling`);
+ $('share').textContent=share.toFixed(1)+'%';$('share').className='v '+(share>=15&&share<=25?'ok':'warn');
+ $('tot').textContent=n(tot)+' lb';$('tot').className='v '+(tot<=v('gvwr')?'ok':'bad');
+ $('totS').textContent=tot<=v('gvwr')?`${n(v('gvwr')-tot)} lb under GVWR`:`${n(tot-v('gvwr'))} lb OVER GVWR`;
+ $('ax').textContent=n(axl)+' lb';$('ax').className='v '+(axl<=v('arate')?'ok':'bad');
+ $('axS').textContent=axl<=v('arate')?`${n(v('arate')-axl)} lb under the ${n(v('arate'))} lb rating`:`${n(axl-v('arate'))} lb OVER the axle rating`;
+ const max=Math.max(4500,pin*1.05),pc=x=>(x/max*100).toFixed(2)+'%';
+ $('mfill').style.width=pc(pin);$('mfill').style.background=getComputedStyle(document.documentElement).getPropertyValue(pin<=v('limit')?'--ok':(pin<=v('ceil')?'--warn':'--bad'));
+ $('meter').querySelectorAll('.tick,.tl').forEach(e=>e.remove());
+ [[v('limit'),'axle ~'+n(v('limit'))],[v('ceil'),'ceiling '+n(v('ceil'))]].forEach(([x,l],k)=>{const t=document.createElement('div');t.className='tick';t.style.left=pc(x);$('meter').appendChild(t);
+  const tl=document.createElement('div');tl.className='tl';tl.style.left=pc(x);tl.style.top=k?'24px':'-18px';tl.textContent=l;$('meter').appendChild(tl);});
+}
+load('balanced');
+</script>
+</body>
+</html>
