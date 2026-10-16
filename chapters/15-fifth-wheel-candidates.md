@@ -211,7 +211,7 @@ The setup: B&W **RVGN3164** adapter (Lippert Rhino), B&W **GNXA2061** ball, this
 
 #### Rogue SUT 323SUT - pin weight at GVWR, 16 October 2026
 
-**Interactive calculator: [pin weight calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/pin-weight-calculator.html)** (`tools/pin-weight-calculator.html`) - enter the empty weight and empty pin, place the cargo by zone, and it gives the pin weight and share, trailer weight and axle load against the 3,700 lb ceiling, GVWR and the 12,000 lb axle rating. Presets load the four cases below; a gooseneck switch adds the adapter.
+**Interactive calculator: [pin weight calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/pin-weight-calculator.html)** (`tools/pin-weight-calculator.html`) - enter the empty weight and empty pin, place the cargo by zone, and it gives the pin weight and share, trailer weight and axle load against the 3,700 lb ceiling, GVWR and the 12,000 lb axle rating. Presets load the four cases below; the **Hitch** selector defaults to **gooseneck** (B&W adapter), with fifth wheel as the alternative.
 
 The **Avondale unit at its 14,090 lb GVWR**, on the [loading-rules model](#rogue-sut-323sut---loading-rules-26-september-2026) (axle centre ~23 ft behind the kingpin) with this unit's estimated **~10,120 lb empty weight and ~2,370 lb empty pin** - the generator and second A/C sit forward. As a gooseneck the B&W adapter adds an assumed **~140 lb** (the Goose Box figure; B&W does not publish the RVGN3164's weight), which also comes out of the cargo to stay at GVWR.
 

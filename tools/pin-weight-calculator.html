@@ -51,6 +51,8 @@ a{color:var(--accent)}
 <fieldset><legend>Preset</legend>
 <div class="row"><label for="preset">Load a setup<small>the loaded presets fill the 323SUT to its 14,090 lb GVWR (less the adapter when towed as a gooseneck); editing a weight switches to Custom</small></label>
 <select id="preset"><option value="balanced" selected>323SUT - balanced, at GVWR</option><option value="garage">323SUT - garage-heavy, at GVWR</option><option value="front">323SUT - front-heavy, at GVWR</option><option value="empty">323SUT - empty</option><option value="custom">Custom</option></select></div>
+<div class="row"><label for="hitch">Hitch<small>gooseneck is the plan: B&amp;W RVGN3164 adapter on the GNXA2061 ball</small></label>
+<select id="hitch"><option value="goose" selected>Gooseneck - B&amp;W adapter</option><option value="fifth">Fifth wheel - stock pin box</option></select></div>
 </fieldset>
 
 <fieldset><legend>Trailer</legend>
@@ -59,7 +61,6 @@ a{color:var(--accent)}
 <div class="row"><label for="gvwr">GVWR</label><input type="number" id="gvwr" step="10" value="14090"></div>
 <div class="row"><label for="axle">Kingpin to axle centre (ft)<small>~23 ft assumed - measure</small></label><input type="number" id="axle" step="0.25" value="23"></div>
 <div class="row"><label for="arate">Trailer axle rating, total</label><input type="number" id="arate" step="100" value="12000"></div>
-<div class="check"><input type="checkbox" id="goose" checked><label for="goose">Towed as a gooseneck (B&amp;W RVGN3164 adapter)</label></div>
 <div class="row"><label for="adapt">Adapter added pin weight<small>~140 lb, the Goose Box figure - B&amp;W does not publish the RVGN3164's weight</small></label><input type="number" id="adapt" step="5" value="140"></div>
 </fieldset>
 
@@ -73,7 +74,7 @@ a{color:var(--accent)}
 <p class="note">Fresh water is 8.34 lb/gal (96 gal full = 801 lb); gasoline 6.1 lb/gal (30 gal = 183 lb). A zone's share of its weight on the pin is (axle distance - zone distance) / axle distance; zones behind the axles take weight off the pin. <button type="button" id="fill">Scale cargo to reach GVWR</button></p>
 
 <div class="cards">
-<div class="card"><div class="l">Pin weight</div><div class="v" id="pin">-</div><div class="s" id="pinS"></div></div>
+<div class="card"><div class="l" id="pinL">Pin weight</div><div class="v" id="pin">-</div><div class="s" id="pinS"></div></div>
 <div class="card"><div class="l">Pin share</div><div class="v" id="share">-</div><div class="s">15-25% tows steadily</div></div>
 <div class="card"><div class="l">Trailer weight</div><div class="v" id="tot">-</div><div class="s" id="totS"></div></div>
 <div class="card"><div class="l">Trailer axles</div><div class="v" id="ax">-</div><div class="s" id="axS"></div></div>
@@ -96,21 +97,21 @@ const tb=$('zones').querySelector('tbody');
 ZONES.forEach(([name,x],i)=>{const tr=document.createElement('tr');
  tr.innerHTML=`<td>${name}</td><td><input type="number" id="x${i}" step="0.5" value="${x}"></td><td><input type="number" id="w${i}" step="10" value="0"></td><td id="s${i}"></td><td id="p${i}"></td>`;tb.appendChild(tr);});
 const tf=document.createElement('tr');tf.innerHTML='<td><strong>Cargo total</strong></td><td></td><td id="wt"></td><td></td><td id="pt"></td>';tb.appendChild(tf);
-function load(k){const p=PRESETS[k];if(!p)return;p.forEach((w,i)=>{$('w'+i).value=w;});if(k!=='empty')scaleTo(v('gvwr')-v('uvw')-($('goose').checked?v('adapt'):0));calc();}
+function load(k){const p=PRESETS[k];if(!p)return;p.forEach((w,i)=>{$('w'+i).value=w;});if(k!=='empty')scaleTo(v('gvwr')-v('uvw')-(($('hitch').value==='goose')?v('adapt'):0));calc();}
 // Presets fill the trailer to GVWR; as a gooseneck the adapter's extra weight comes out of the cargo.
 function scaleTo(room){let s=0;ZONES.forEach((z,i)=>s+=v('w'+i));if(s<=0||room<=0)return;ZONES.forEach((z,i)=>{$('w'+i).value=Math.round(v('w'+i)*room/s);});}
 $('preset').addEventListener('change',()=>load($('preset').value));
 document.querySelectorAll('input').forEach(e=>e.addEventListener('input',()=>{if(/^w\d/.test(e.id))$('preset').value='custom';calc();}));
-$('goose').addEventListener('change',()=>{const k=$('preset').value;if(PRESETS[k])load(k);else calc();});
-$('fill').addEventListener('click',()=>{scaleTo(v('gvwr')-v('uvw')-($('goose').checked?v('adapt'):0));$('preset').value='custom';calc();});
+$('hitch').addEventListener('change',()=>{const k=$('preset').value;if(PRESETS[k])load(k);else calc();});
+$('fill').addEventListener('click',()=>{scaleTo(v('gvwr')-v('uvw')-(($('hitch').value==='goose')?v('adapt'):0));$('preset').value='custom';calc();});
 function g(c,okLim,warnLim){return c<=okLim?'ok':(c<=warnLim?'warn':'bad');}
 function calc(){
  const A=v('axle')||23;let cargo=0,cpin=0;
  ZONES.forEach((z,i)=>{const x=v('x'+i),w=v('w'+i),sh=(A-x)/A;cargo+=w;cpin+=w*sh;
   $('s'+i).textContent=Math.round(sh*100)+'%';$('p'+i).textContent=n(w*sh);});
  $('wt').textContent=n(cargo);$('pt').textContent=n(cpin);
- const adapt=$('goose').checked?v('adapt'):0,pin=v('epin')+cpin+adapt,tot=v('uvw')+cargo+adapt,share=pin/tot*100,axl=tot-pin;
- $('pin').textContent=n(pin)+' lb';$('pin').className='v '+g(pin,v('limit'),v('ceil'));
+ const adapt=($('hitch').value==='goose')?v('adapt'):0,pin=v('epin')+cpin+adapt,tot=v('uvw')+cargo+adapt,share=pin/tot*100,axl=tot-pin;
+ $('pin').textContent=n(pin)+' lb';$('pinL').textContent=($('hitch').value==='goose')?'Pin weight - gooseneck':'Pin weight - fifth wheel';$('pin').className='v '+g(pin,v('limit'),v('ceil'));
  $('pinS').textContent=pin<=v('limit')?`${n(v('ceil')-pin)} lb under the ${n(v('ceil'))} lb ceiling`:(pin<=v('ceil')?`over the ~${n(v('limit'))} lb axle estimate, under ${n(v('ceil'))}`:`${n(pin-v('ceil'))} lb OVER the ${n(v('ceil'))} lb ceiling`);
  $('share').textContent=share.toFixed(1)+'%';$('share').className='v '+(share>=15&&share<=25?'ok':'warn');
  $('tot').textContent=n(tot)+' lb';$('tot').className='v '+(tot<=v('gvwr')?'ok':'bad');
