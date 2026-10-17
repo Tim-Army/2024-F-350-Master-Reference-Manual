@@ -540,6 +540,17 @@ Prime a dry fuel line by holding **Stop/Prime for 10 seconds** before starting. 
 
 Estimates throughout: appliance watts are typical, not nameplate; fuel is interpolated between the published zero, half and full-load rates; solar at 75% system efficiency; ~700 W into the batteries while converter charging.
 
+**Portable power: Jackery Solar Generator 1000 v2** (17 October 2026). **Interactive calculator: [Jackery 1000 v2 calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/jackery-1000v2-solar.html)** (`tools/jackery-1000v2-solar.html`) - devices on and their hours, load against the inverter, runtime, days on one charge, and the daily balance with portable solar.
+
+| Explorer 1000 v2 | Value |
+| --- | --- |
+| Battery | **1,070 Wh** LiFePO4, 4,000 cycles to 70%; ~910 Wh usable at the AC outlets (85%, inverter losses) |
+| AC output | **1,500 W** rated, 3,000 W surge; 3 AC outlets, USB-C 100 W and 30 W, USB-A, 12 V car port |
+| Charging | Wall ~1.7 hr (**~1 hr** Emergency Super Charge); solar up to **400 W** - ~7.5 hr with one 200 W SolarSaga panel (Jackery) |
+| Weight | ~23.8 lb |
+
+**What it is for.** Quiet, no-fuel power for small loads - a CPAP overnight (~800 Wh with phones, lights and a fan, about one charge), a laptop and Starlink work day, a coffee maker or kettle for a few minutes. **It cannot run an RV roof A/C** (~1,600 W running, more to start) - the NPS6000eco generator stays the A/C source. Running a 12 V fridge or cooler all day takes ~1,000 Wh on its own, so pair it with solar. Sources: [Jackery](https://www.jackery.com/products/jackery-explorer-1000-v2), [The Drive review](https://www.thedrive.com/news/jackery-explorer-1000-v2-solar-generator-hands-on-review-tested), [Solar Backup Lab](https://solarbackuplab.com/reviews/jackery-explorer-1000-v2/).
+
 
 #### Rogue SUT 323SUT - loading rules, 26 September 2026
 

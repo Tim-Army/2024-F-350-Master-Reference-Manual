@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jackery 1000 v2 Calculator</title>
+<meta name="description" content="Jackery Solar Generator 1000 v2 load against its 1,500 W inverter, runtime on 1,070 Wh, daily energy balance with solar, and recharge times.">
+<style>
+:root{--bg:#fafaf8;--surface:#f1efe8;--text:#1f1f1d;--muted:#5f5e5a;--faint:#888780;--border:rgba(0,0,0,.12);--ok:#3b6d11;--warn:#854f0b;--bad:#a32d2d;--good-fill:#1D9E75;--warn-fill:#EF9F27;--bad-fill:#E24B4A}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--ok:#97c459;--warn:#fac775;--bad:#f09595}}
+:root[data-theme="dark"]{--bg:#171716;--surface:#262624;--text:#ecebe6;--muted:#b4b2a9;--faint:#888780;--border:rgba(255,255,255,.14);--ok:#97c459;--warn:#fac775;--bad:#f09595}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:760px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:22px;font-weight:600;margin:0 0 4px}
+h2{font-size:17px;font-weight:600;margin:28px 0 6px}
+p.lead,.note{color:var(--muted);font-size:13px;margin:0 0 10px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:12px 0}
+.card{background:var(--surface);border-radius:8px;padding:10px 12px}
+.card .l{font-size:12px;color:var(--muted)}
+.card .v{font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.card .s{font-size:12px}
+.ok{color:var(--ok)}.bad{color:var(--bad)}.warn{color:var(--warn)}
+.presets{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 10px}
+button{font:inherit;font-size:13px;padding:6px 10px;border-radius:8px;border:1px solid var(--border);background:transparent;color:var(--text);cursor:pointer}
+button:hover{background:var(--surface)}
+.row{display:grid;grid-template-columns:minmax(140px,200px) minmax(0,1fr) 84px;align-items:center;gap:10px;font-size:13px;margin:6px 0}
+.row label{color:var(--muted)}
+.row output{text-align:right;font-variant-numeric:tabular-nums}
+input[type=range]{width:100%}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+th,td{padding:5px 6px;border-bottom:1px solid var(--border);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left;white-space:normal}
+th{color:var(--muted);font-weight:600}
+td input[type=number]{width:64px;font:inherit;padding:3px 5px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--text);text-align:right}
+svg text{fill:var(--muted)}
+footer{margin-top:28px;font-size:12px;color:var(--faint)}
+a{color:inherit}
+</style>
+</head>
+<body>
+<main>
+<h1>Jackery 1000 v2 calculator</h1>
+<p class="lead">Jackery Solar Generator 1000 v2: the Explorer 1000 v2 power station (1,070 Wh LiFePO4, 1,500 W inverter) with portable solar. What it can run, for how long, and whether solar keeps up. From the <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/#c15">2024 F-350 master reference manual</a>.</p>
+
+<h2>What is plugged in</h2>
+<div class="presets">
+<button data-p="night">Overnight basics</button>
+<button data-p="work">Work day</button>
+<button data-p="coffee">Coffee morning</button>
+<button data-p="camp">Full camp day</button>
+<button data-p="over">Too much at once</button>
+</div>
+<svg id="bar" viewBox="0 0 680 70" width="100%" role="img" aria-label="Running watts against the 1,500 W rated and 3,000 W surge output"></svg>
+<div class="tablewrap"><table id="tbl"><thead><tr><th>Device</th><th>On</th><th>Watts</th><th>Hours / day</th><th>Wh / day</th></tr></thead><tbody></tbody></table></div>
+<div class="cards">
+<div class="card"><div class="l">Running load, all on at once</div><div class="v" id="w">-</div><div class="s" id="wS"></div></div>
+<div class="card"><div class="l">Runtime at that load</div><div class="v" id="rt">-</div><div class="s" id="rtS"></div></div>
+<div class="card"><div class="l">Energy per day</div><div class="v" id="day">-</div><div class="s" id="dayS"></div></div>
+<div class="card"><div class="l">Days on one charge</div><div class="v" id="days">-</div><div class="s" id="daysS"></div></div>
+</div>
+
+<h2>Solar and recharging</h2>
+<div class="row"><label for="pv">Solar panels</label><input type="range" id="pv" min="0" max="400" step="50" value="200"><output id="pvO"></output></div>
+<div class="row"><label for="sun">Peak sun hours</label><input type="range" id="sun" min="1" max="7" step="0.5" value="5"><output id="sunO"></output></div>
+<div class="row"><label for="soc">Starting charge</label><input type="range" id="soc" min="0" max="100" step="5" value="100"><output id="socO"></output></div>
+<div class="cards">
+<div class="card"><div class="l">Solar harvest per day</div><div class="v" id="sh">-</div><div class="s" id="shS"></div></div>
+<div class="card"><div class="l">Daily balance</div><div class="v" id="bal">-</div><div class="s" id="balS"></div></div>
+<div class="card"><div class="l">Solar, empty to full</div><div class="v" id="sf">-</div><div class="s" id="sfS"></div></div>
+<div class="card"><div class="l">Wall outlet, empty to full</div><div class="v" id="ac">~1.7 hr</div><div class="s">~1 hr in Emergency Super Charge mode</div></div>
+</div>
+<p class="note">On the road, the truck's 12 V outlet charges it slowly - plan on the solar or a campground outlet for a full recharge. Solar input is capped at 400 W; panels beyond that add nothing.</p>
+
+<footer>Estimates. Explorer 1000 v2: 1,070 Wh LiFePO4 (4,000 cycles to 70%), 1,500 W rated and 3,000 W surge AC output, 400 W max solar input, ~23.8 lb; wall charge ~1.7 hr, ~1 hr in Emergency Super Charge mode (Jackery). Usable AC energy taken as 85% of 1,070 Wh (~910 Wh) for inverter losses; solar at 80% of panel rating into the battery. Device watts are typical, not nameplate; motors and compressors start at 2-3x their running watts, and the 3,000 W surge covers short starts only. An RV roof A/C (~1,600 W running) is beyond the 1,500 W inverter.</footer>
+</main>
+<script>
+const CAP=1070,USE=0.85,RATED=1500,SURGE=3000,PVEFF=0.80,PVMAX=400;
+const D=[
+{k:'cpap',n:'CPAP (no heated humidifier)',w:40,h:8},
+{k:'phone',n:'Phones charging',w:20,h:3},
+{k:'laptop',n:'Laptop',w:60,h:6},
+{k:'starlink',n:'Starlink Mini / router',w:40,h:8},
+{k:'lights',n:'LED lights',w:20,h:5},
+{k:'fan',n:'Fan',w:40,h:8},
+{k:'tv',n:'TV',w:80,h:3},
+{k:'cooler',n:'12 V fridge / cooler (average draw)',w:45,h:24},
+{k:'blanket',n:'Electric blanket',w:90,h:6},
+{k:'coffee',n:'Coffee maker',w:1000,h:0.25},
+{k:'kettle',n:'Electric kettle',w:1200,h:0.1},
+{k:'micro',n:'Microwave, 1,000 W cooking',w:1450,h:0.2},
+{k:'hair',n:'Hair dryer, low',w:1000,h:0.1},
+{k:'tools',n:'Drill / tool battery charger',w:150,h:1},
+{k:'ac',n:'RV roof A/C (for comparison)',w:1600,h:4}];
+const P={night:['cpap','phone','lights','fan'],work:['laptop','starlink','phone','lights','cooler'],coffee:['coffee','phone','lights'],camp:['cpap','phone','laptop','starlink','lights','fan','tv','cooler','coffee'],over:['micro','coffee']};
+const $=id=>document.getElementById(id),f=n=>Math.round(n).toLocaleString();
+const tb=$('tbl').querySelector('tbody');
+D.forEach(x=>tb.insertAdjacentHTML('beforeend',`<tr><td>${x.n}</td><td><input type="checkbox" id="c_${x.k}"></td><td><input type="number" id="w_${x.k}" value="${x.w}" step="5" min="0"></td><td><input type="number" id="h_${x.k}" value="${x.h}" step="0.25" min="0" max="24"></td><td id="e_${x.k}"></td></tr>`));
+function hrs(h){return h>=48?(h/24).toFixed(1)+' days':(h>=1?h.toFixed(1)+' hr':Math.round(h*60)+' min');}
+function calc(){
+ let w=0,e=0;D.forEach(x=>{const on=$('c_'+x.k).checked,ww=+$('w_'+x.k).value||0,hh=+$('h_'+x.k).value||0,ee=ww*hh;$('e_'+x.k).textContent=on?f(ee):'-';if(on){w+=ww;e+=ee;}});
+ const usable=CAP*USE,soc=+$('soc').value/100,avail=usable*soc;
+ $('socO').textContent=Math.round(soc*100)+'%';
+ $('w').textContent=f(w)+' W';const s=$('wS');s.className='s '+(w>RATED?'bad':w>RATED*0.85?'warn':'ok');
+ s.textContent=w>RATED?`${f(w-RATED)} W over the 1,500 W rating - it will shut off`:`${Math.round(w/RATED*100)}% of the 1,500 W rating`;
+ $('rt').textContent=w>0&&w<=RATED?hrs(avail/w):(w>RATED?'-':'-');$('rtS').textContent=w>RATED?'over the rating':`from ${Math.round(soc*100)}% (~${f(avail)} usable Wh)`;
+ $('day').textContent=f(e)+' Wh';$('dayS').textContent=`${Math.round(e/usable*100)}% of a full charge`;
+ const dd=e>0?avail/e:0;$('days').textContent=e>0?(dd>=10?'10+':dd.toFixed(1)):'-';$('daysS').className='s '+(dd>=1?'ok':'bad');$('daysS').textContent=e>0?(dd>=1?'without any charging':'runs out the same day'):'nothing selected';
+ const pv=+$('pv').value,sun=+$('sun').value;$('pvO').textContent=pv+' W';$('sunO').textContent=sun+' hr';
+ const harvest=Math.min(pv,PVMAX)*sun*PVEFF,bal=harvest-e;
+ $('sh').textContent=f(harvest)+' Wh';$('shS').textContent=`${pv} W x ${sun} hr x 80%`;
+ $('bal').textContent=(bal>=0?'+':'')+f(bal)+' Wh';const bs=$('balS');bs.className='s '+(bal>=0?'ok':'bad');
+ bs.textContent=bal>=0?'solar keeps up - runs indefinitely':(`falls ${f(-bal)} Wh a day; lasts ~${(avail/(-bal)).toFixed(1)} days`);
+ const pvW=Math.min(pv,PVMAX)*PVEFF;$('sf').textContent=pv>0?hrs(CAP/pvW):'-';$('sfS').textContent=pv>0?`~${(CAP/pvW/sun).toFixed(1)} days at ${sun} sun hours`:'no panels';
+ const px=v=>20+Math.min(v,3300)/3300*640;
+ let b=`<rect x="20" y="20" width="640" height="24" rx="4" fill="var(--surface)"/><rect x="20" y="20" width="${Math.max(0,px(w)-20)}" height="24" rx="4" fill="${w>RATED?'var(--bad-fill)':w>RATED*0.85?'var(--warn-fill)':'var(--good-fill)'}"/>`;
+ [[RATED,'1,500 W rated'],[SURGE,'3,000 W surge']].forEach(([v,l])=>{b+=`<line x1="${px(v)}" y1="14" x2="${px(v)}" y2="50" stroke="var(--text)" stroke-dasharray="3 3"/><text x="${px(v)}" y="64" text-anchor="middle" font-size="11">${l}</text>`});
+ $('bar').innerHTML=b;}
+document.querySelectorAll('[data-p]').forEach(bt=>bt.onclick=()=>{D.forEach(x=>$('c_'+x.k).checked=P[bt.dataset.p].includes(x.k));calc()});
+document.addEventListener('input',calc);
+document.querySelector('[data-p="night"]').click();
+</script>
+</body>
+</html>
