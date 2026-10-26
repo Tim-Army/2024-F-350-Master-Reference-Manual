@@ -231,7 +231,7 @@ The cases below use the **label dry weight, 10,031 lb**, with the pin at the **2
 
 *Superseded: the 16 October estimate (10,120 / 2,370 lb; front-heavy ~3,780 lb as a gooseneck) and the 26 October reading of the weigh that assumed a full 96 gal fresh tank (9,542 lb dry, ~4,548 lb cargo; front-heavy ~3,550 lb) - the label shows that assumption was too generous.*
 
-Cargo mix for each case - shown for a 4,548 lb total; the calculator keeps fresh water and gas at their tank weights and scales the rest to the cargo left on the label (3,919 lb as a gooseneck, 4,059 lb as a fifth wheel):
+Cargo mix for each case - the starting proportions (4,613 lb); the calculator keeps fresh water and gas at their tank weights and scales the rest to the cargo left on the label (3,919 lb as a gooseneck, 4,059 lb as a fifth wheel):
 
 | Zone (ft behind kingpin) | Garage-heavy | Balanced | Front-heavy |
 | --- | --- | --- | --- |
@@ -243,7 +243,7 @@ Cargo mix for each case - shown for a 4,548 lb total; the calculator keeps fresh
 | Gas station (23) | 183 (full) | 183 | 183 |
 | Garage, front half (24.5) | 1,500 | 1,250 | 600 |
 | Garage, rear half (30) | 1,800 | 1,250 | 494 |
-| **Cargo total** | **4,548** | **4,548** | **4,548** |
+| **Cargo total, before scaling** | **4,613** | **4,613** | **4,613** |
 
 **Reading it.** On the label figures **every case stays under the owner's 3,700 lb ceiling**, but **front-heavy as a gooseneck is ~3,600 lb - only ~100 lb under**, and just under the truck's ~3,625 lb rear-axle estimate. The B&W RVGN3164 is rated 4,500 lb, so the adapter is never the limit. **Keep the garage to about 2,500 lb** - more than that brings the trailer axles near 12,000 lb and the pin share down to ~15%. **Do not travel with a full fresh tank and a loaded front bay together.** And remember the cargo budget is the label's **4,021 lb (~3,880 lb as a gooseneck)**, not the larger figure the weigh first suggested. **Next weigh:** drained fresh tank, coupled and uncoupled on the same scale - it will show whether the label dry weight or the scale is right.
 
