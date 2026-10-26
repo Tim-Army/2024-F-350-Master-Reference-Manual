@@ -50,14 +50,14 @@ a{color:var(--accent)}
 
 <fieldset><legend>Preset</legend>
 <div class="row"><label for="preset">Load a setup<small>the loaded presets fill the 323SUT to its 14,090 lb GVWR (the empty weights already include the B&amp;W adapter); editing a weight switches to Custom</small></label>
-<select id="preset"><option value="balanced" selected>323SUT - balanced, at GVWR</option><option value="garage">323SUT - garage-heavy, at GVWR</option><option value="front">323SUT - front-heavy, at GVWR</option><option value="empty">323SUT - empty</option><option value="custom">Custom</option></select></div>
+<select id="preset"><option value="weighed">As weighed, 25 Oct 2026 - full fresh tank, gas 3/4</option><option value="balanced" selected>323SUT - balanced, at GVWR</option><option value="garage">323SUT - garage-heavy, at GVWR</option><option value="front">323SUT - front-heavy, at GVWR</option><option value="empty">323SUT - empty</option><option value="custom">Custom</option></select></div>
 <div class="row"><label for="hitch">Hitch<small>the 323SUT tows on the B&amp;W RVGN3164 adapter and GNXA2061 ball - and was weighed that way</small></label>
 <select id="hitch"><option value="goose" selected>Gooseneck - B&amp;W adapter (as weighed)</option><option value="fifth">Fifth wheel - stock pin box refitted</option></select></div>
 </fieldset>
 
 <fieldset><legend>Trailer</legend>
-<div class="row"><label for="uvw">Empty weight (UVW)<small>10,480 lb - CAT scale, trailer empty, 25 Oct 2026</small></label><input type="number" id="uvw" step="10" value="10480"></div>
-<div class="row"><label for="epin">Empty pin weight<small>2,240 lb - CAT scale, trailer empty, 25 Oct 2026 (21.4%)</small></label><input type="number" id="epin" step="10" value="2240"></div>
+<div class="row"><label for="uvw">Empty weight (UVW)<small>9,542 lb - the 25 Oct CAT weigh (10,480 lb) less its full fresh tank (801 lb) and 3/4 gas station (137 lb); includes the B&amp;W adapter</small></label><input type="number" id="uvw" step="10" value="9542"></div>
+<div class="row"><label for="epin">Empty pin weight<small>2,032 lb - the weighed 2,240 lb less the fresh water's ~208 lb share (21.3%)</small></label><input type="number" id="epin" step="10" value="2032"></div>
 <div class="row"><label for="gvwr">GVWR</label><input type="number" id="gvwr" step="10" value="14090"></div>
 <div class="row"><label for="axle">Kingpin to axle centre (ft)<small>~23 ft assumed - measure</small></label><input type="number" id="axle" step="0.25" value="23"></div>
 <div class="row"><label for="arate">Trailer axle rating, total</label><input type="number" id="arate" step="100" value="12000"></div>
@@ -87,6 +87,7 @@ a{color:var(--accent)}
 const $=id=>document.getElementById(id);
 const ZONES=[['Dealer batteries (front compartment)',2],['Front storage and wardrobes',3],['Bedroom and bath',6],['Kitchen, pantry, living',16],['Fresh water (96 gal max)',17],['Fuel station (30 gal max)',23],['Garage, front half',24.5],['Garage, rear half',30]];
 const PRESETS={
+ weighed:[0,0,0,0,801,137,0,0],
  balanced:[130,250,300,600,100,183,1100,1307],
  garage:[130,150,250,400,0,183,1157,1700],
  front:[200,500,500,900,800,183,500,387],
@@ -97,9 +98,11 @@ const tb=$('zones').querySelector('tbody');
 ZONES.forEach(([name,x],i)=>{const tr=document.createElement('tr');
  tr.innerHTML=`<td>${name}</td><td><input type="number" id="x${i}" step="0.5" value="${x}"></td><td><input type="number" id="w${i}" step="10" value="0"></td><td id="s${i}"></td><td id="p${i}"></td>`;tb.appendChild(tr);});
 const tf=document.createElement('tr');tf.innerHTML='<td><strong>Cargo total</strong></td><td></td><td id="wt"></td><td></td><td id="pt"></td>';tb.appendChild(tf);
-function load(k){const p=PRESETS[k];if(!p)return;p.forEach((w,i)=>{$('w'+i).value=w;});if(k!=='empty')scaleTo(v('gvwr')-v('uvw')+(($('hitch').value==='goose')?0:v('adapt')));calc();}
+function load(k){const p=PRESETS[k];if(!p)return;p.forEach((w,i)=>{$('w'+i).value=w;});if(k!=='empty'&&k!=='weighed')scaleTo(v('gvwr')-v('uvw')+(($('hitch').value==='goose')?0:v('adapt')));calc();}
 // Presets fill the trailer to GVWR; as a gooseneck the adapter's extra weight comes out of the cargo.
-function scaleTo(room){let s=0;ZONES.forEach((z,i)=>s+=v('w'+i));if(s<=0||room<=0)return;ZONES.forEach((z,i)=>{$('w'+i).value=Math.round(v('w'+i)*room/s);});}
+// Fresh water (4) and the fuel station (5) are fixed by their tanks; only the other zones scale.
+const FIXED=[4,5];
+function scaleTo(room){let s=0,fx=0;ZONES.forEach((z,i)=>{if(FIXED.includes(i))fx+=v('w'+i);else s+=v('w'+i);});const r=room-fx;if(s<=0||r<=0)return;ZONES.forEach((z,i)=>{if(!FIXED.includes(i))$('w'+i).value=Math.round(v('w'+i)*r/s);});}
 $('preset').addEventListener('change',()=>load($('preset').value));
 document.querySelectorAll('input').forEach(e=>e.addEventListener('input',()=>{if(/^w\d/.test(e.id))$('preset').value='custom';calc();}));
 $('hitch').addEventListener('change',()=>{const k=$('preset').value;if(PRESETS[k])load(k);else calc();});

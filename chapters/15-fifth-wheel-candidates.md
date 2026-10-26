@@ -213,21 +213,23 @@ The setup: B&W **RVGN3164** adapter (Lippert Rhino), B&W **GNXA2061** ball, this
 
 **Interactive calculator: [pin weight calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/pin-weight-calculator.html)** (`tools/pin-weight-calculator.html`) - enter the empty weight and empty pin, place the cargo by zone, and it gives the pin weight and share, trailer weight and axle load against the 3,700 lb ceiling, GVWR and the 12,000 lb axle rating. Presets load the four cases below; the **Hitch** selector defaults to **gooseneck** - the B&W adapter the trailer was weighed on - with the stock fifth-wheel pin box as the alternative.
 
-**Updated 26 October 2026 with the first CAT scale weigh** ([scale weights log](../logs/scale-weights.md)): the trailer weighed **10,480 lb empty with a 2,240 lb pin (21.4%)**, against the earlier estimates of ~10,120 lb and ~2,370 lb (23.4%). The empty pin is lower than estimated, so every case below improves. The truck had a **full tank and the same gear on board at both weighs**, so its own weight cancels out and the figures are good to the scale's accuracy.
+**Updated 26 October 2026 with the first CAT scale weigh** ([scale weights log](../logs/scale-weights.md)). The trailer weighed **10,480 lb with a 2,240 lb pin (21.4%)** - but with the **fresh tank full (~801 lb) and the gas station 3/4 full (~137 lb)**, gray and black empty. Taking those out gives the **dry trailer: ~9,542 lb with a ~2,032 lb pin (21.3%)**. It was weighed **on the B&W RVGN3164 gooseneck adapter**, with batteries and propane as fitted, so all of that is included. The truck had a full tank and the same gear at both weighs, so the figures are good to the scale's accuracy.
 
-The **Avondale unit at its 14,090 lb GVWR**, on the [loading-rules model](#rogue-sut-323sut---loading-rules-26-september-2026) (axle centre ~23 ft behind the kingpin), starting from the **measured 10,480 lb / 2,240 lb**. **The trailer was weighed on the B&W RVGN3164 gooseneck adapter** (owner, 26 October 2026), so those figures **already include the adapter** - the gooseneck column needs no allowance. That leaves **3,610 lb of cargo** to reach GVWR. The fifth-wheel column assumes the stock pin box refitted, ~140 lb lighter on the pin (B&W does not publish the adapter's weight).
+**Cargo capacity: ~4,548 lb** to the 14,090 lb GVWR - comfortably clear of the owner's 4,000 lb bar (the pre-purchase estimate was ~3,970 lb). The yellow label should agree within a few hundred pounds.
 
-| Loading at 14,090 lb | **Gooseneck, B&W adapter (as weighed)**: pin (share) | Fifth wheel, stock pin box: pin (share) | Trailer axles |
+The cases below start from the dry **9,542 lb / 2,032 lb** on the [loading-rules model](#rogue-sut-323sut---loading-rules-26-september-2026) (axle centre ~23 ft behind the kingpin) and load **4,548 lb of cargo** to GVWR; fresh water and gas are set by their tanks, not scaled. The fifth-wheel column assumes the stock pin box refitted, ~140 lb lighter on the pin (B&W does not publish the adapter's weight).
+
+| Loading | **Gooseneck, B&W adapter (as weighed)**: pin (share) | Fifth wheel, stock pin box: pin (share) | Trailer axles |
 | --- | --- | --- | --- |
-| **Measured, empty** (25 Oct 2026) | **2,240 lb (21.4%)** - 10,480 lb trailer | ~2,100 lb | 8,240 lb |
-| Measured share scaled to GVWR (21.4%) | ~3,010 lb | ~2,870 lb | - |
-| **Garage-heavy** | ~2,210 lb (15.7%) | ~2,070 lb (14.7%) | **~11,880-12,030 lb - at the 12,000 lb rating** |
-| **Balanced** | ~2,510 lb (17.8%) | ~2,380 lb (16.9%) | ~11,580-11,710 lb |
-| **Front-heavy** - loaded front bay, full fresh tank, heavy batteries | **~3,440 lb (24.4%)** | ~3,350 lb (23.7%) | ~10,650-10,740 lb |
+| **As weighed, 25 Oct** - full fresh, gas 3/4 (10,480 lb) | **2,240 lb (21.4%)** | ~2,100 lb | 8,240 lb |
+| Dry - no water or gas (9,542 lb) | ~2,030 lb (21.3%) | ~1,890 lb | ~7,510 lb |
+| **Garage-heavy**, at GVWR | ~1,990 lb (14.1%) | ~1,850 lb (13.1%) | **~12,100-12,240 lb - over the 12,000 lb rating** |
+| **Balanced**, at GVWR | ~2,370 lb (16.8%) | ~2,240 lb (15.9%) | ~11,720-11,850 lb |
+| **Front-heavy**, at GVWR - loaded front bay, full fresh tank, heavy batteries | **~3,570 lb (25.3%)** | ~3,480 lb (24.7%) | ~10,520-10,610 lb |
 
-*Earlier estimate (16 October, from 10,120 lb / 2,370 lb): garage-heavy ~2,330, balanced ~2,670, front-heavy ~3,690 lb as a fifth wheel; ~3,780 lb front-heavy as a gooseneck.*
+*Earlier figures: 16 October estimate from 10,120 lb / 2,370 lb - front-heavy ~3,690 lb; and the first reading of the weigh (26 October), which treated 10,480 lb as empty - front-heavy ~3,440 lb. The full fresh tank in the weigh is why the dry trailer is lighter and carries more cargo.*
 
-Cargo mix for each case - shown at the original 3,970 lb total; the calculator scales it to the 3,610 lb of cargo left after the measured empty weight:
+Cargo mix for each case - shown at the original 3,970 lb total; the calculator holds fresh water and gas at their tank weights and scales the rest to the 4,548 lb of cargo left after the dry weight:
 
 | Zone (ft behind kingpin) | Garage-heavy | Balanced | Front-heavy |
 | --- | --- | --- | --- |
@@ -241,7 +243,7 @@ Cargo mix for each case - shown at the original 3,970 lb total; the calculator s
 | Garage, rear half (30) | 1,700 | 1,307 | 387 |
 | **Cargo total** | **3,970** | **3,970** | **3,970** |
 
-**Reading it.** Against the truck's ~3,625 lb rear-axle estimate and the owner's **3,700 lb ceiling**, every case fits as the trailer is towed: balanced and garage-heavy leave **~1,200-1,500 lb** to spare, and **front-heavy stays ~260 lb under the ceiling**. The B&W RVGN3164 is rated 4,500 lb, so the adapter is never the limit. **The tighter limit is the trailer's own axles when the garage is loaded** - garage-heavy at GVWR brings them to ~11,880 lb of 12,000, so keep the garage to about 2,500 lb. Keep counting the dealer's batteries as front weight. **Next weigh:** coupled and uncoupled on the same scale, with the trailer loaded for travel - that gives the real loaded pin.
+**Reading it.** With ~4,548 lb of cargo available, **the pin stays inside the owner's 3,700 lb ceiling in every case** - front-heavy at GVWR is ~3,570 lb as towed, ~130 lb under (and just under the ~3,625 lb rear-axle estimate). The B&W RVGN3164 is rated 4,500 lb, so the adapter is never the limit. **The real limit is now the trailer's axles:** a garage-heavy load to GVWR puts ~12,100 lb on its 12,000 lb axles and drops the pin share to ~14%, below the ~15% that tows steadily. **Keep the garage to about 2,500 lb** and put the rest forward of the axles; a balanced load at GVWR runs ~11,720 lb on the axles with a 17% pin. Keep counting the dealer's batteries as front weight. **Next weigh:** coupled and uncoupled on the same scale, loaded for travel.
 
 #### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
 
