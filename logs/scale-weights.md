@@ -8,7 +8,7 @@ Related chapter: [10. Fifth-Wheel & Towing](../chapters/10-fifth-wheel-and-towin
 | 2026-09-08 | Truck only, no trailer | 4,120 lb | 3,080 lb | 0 lb | 7,200 lb | Steer 1,870 lb under its 5,990 lb GAWR; drive 4,150 lb under its 7,230 lb GAWR; 4,700 lb under GVWR |
 | 2026-09-11 | Truck only, **two people in the front seats**, no hitch, no trailer | 4,380 lb | 3,200 lb | 0 lb | 7,580 lb | Steer 1,610 lb under GAWR; drive **4,030 lb** under GAWR; 4,320 lb under GVWR. +260 steer / +120 drive / +380 gross vs 8 Sep |
 | 2026-10-25 05:15 | **Truck + 323SUT coupled, trailer empty** (trailer no. 323 on the ticket) | 4,440 lb | **5,600 lb** | **8,240 lb** | **18,280 lb** | Steer 1,550 lb under GAWR; **drive 1,630 lb under the 7,230 lb GAWR**; truck 10,040 lb, 1,860 lb under GVWR; trailer axles 3,760 lb under their 12,000 lb; 10,720 lb under the 29,000 lb GCWR |
-| 2026-10-25 21:41 | Truck only, trailer disconnected | 4,440 lb | 3,360 lb | 0 lb | 7,800 lb | Steer 1,550 lb under GAWR; drive 3,870 lb under GAWR; 4,100 lb under GVWR. +600 lb vs 8 Sep (people, gear, fuel level not recorded) |
+| 2026-10-25 21:41 | Truck only, trailer disconnected | 4,440 lb | 3,360 lb | 0 lb | 7,800 lb | Steer 1,550 lb under GAWR; drive 3,870 lb under GAWR; 4,100 lb under GVWR. **Full tank** (as on 8 Sep), so the +600 lb vs 8 Sep is people and gear in the truck |
 | | | | | | | |
 
 ## Ticket record
@@ -34,4 +34,4 @@ Ticket recorded under Derg Enterprises, tractor 1 / trailer 0, commodity "freigh
 | Truck coupled | 10,040 lb of 11,900 lb GVWR; drive 5,600 of 7,230 lb GAWR |
 | Combined | 18,280 lb of 29,000 lb GCWR |
 
-**Caveat:** the two weighs were ~16 hours and several hundred miles apart, so the truck's fuel load (and anything moved in the cab) differs. Gasoline is ~6.1 lb/gal and the tank holds 48 gal, so the derived pin and trailer weights carry roughly **±100-150 lb** of uncertainty. Weighing coupled and uncoupled on the same scale, minutes apart, removes it. Still to weigh: the trailer **loaded for travel**.
+**Fuel: full tank at both weighs** (owner, 26 October 2026), so fuel cancels out of the subtraction and the derived pin and trailer weights are good to the scale's accuracy - apart from anything moved in or out of the cab between the two weighs. Still to weigh: the trailer **loaded for travel**.
