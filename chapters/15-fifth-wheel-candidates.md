@@ -213,7 +213,7 @@ The setup: B&W **RVGN3164** adapter (Lippert Rhino), B&W **GNXA2061** ball, this
 
 **Interactive calculator: [pin weight calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/pin-weight-calculator.html)** (`tools/pin-weight-calculator.html`) - enter the empty weight and empty pin, place the cargo by zone, and it gives the pin weight and share, trailer weight and axle load against the 3,700 lb ceiling, GVWR and the 12,000 lb axle rating. Presets load the four cases below; the **Hitch** selector defaults to **gooseneck** - the B&W adapter the trailer was weighed on - with the stock fifth-wheel pin box as the alternative.
 
-**Updated 26 October 2026 with the first CAT scale weigh** ([scale weights log](../logs/scale-weights.md)). The trailer weighed **10,480 lb with a 2,240 lb pin (21.4%)** - but with the **fresh tank full (~801 lb) and the gas station 3/4 full (~137 lb)**, gray and black empty. Taking those out gives the **dry trailer: ~9,542 lb with a ~2,032 lb pin (21.3%)**. It was weighed **on the B&W RVGN3164 gooseneck adapter**, with batteries and propane as fitted, so all of that is included. The truck had a full tank and the same gear at both weighs, so the figures are good to the scale's accuracy.
+**Updated 26 October 2026 with the first CAT scale weigh** ([scale weights log](../logs/scale-weights.md)). The trailer weighed **10,480 lb with a 2,240 lb pin (21.4%)** - but with the **fresh tank full (~801 lb) and the gas station 3/4 full (~137 lb)**, gray and black empty. Taking those out gives the **dry trailer: ~9,542 lb with a ~2,032 lb pin (21.3%)**. It was weighed **on the B&W RVGN3164 gooseneck adapter**, with **one house battery** installed (owner, 26 October 2026) and the propane cylinders as fitted, so all of that is included - only *added* batteries count as cargo. The truck had a full tank and the same gear at both weighs, so the figures are good to the scale's accuracy.
 
 **Cargo capacity: ~4,548 lb** to the 14,090 lb GVWR - comfortably clear of the owner's 4,000 lb bar (the pre-purchase estimate was ~3,970 lb). The yellow label should agree within a few hundred pounds.
 
@@ -223,27 +223,27 @@ The cases below start from the dry **9,542 lb / 2,032 lb** on the [loading-rules
 | --- | --- | --- | --- |
 | **As weighed, 25 Oct** - full fresh, gas 3/4 (10,480 lb) | **2,240 lb (21.4%)** | ~2,100 lb | 8,240 lb |
 | Dry - no water or gas (9,542 lb) | ~2,030 lb (21.3%) | ~1,890 lb | ~7,510 lb |
-| **Garage-heavy**, at GVWR | ~1,990 lb (14.1%) | ~1,850 lb (13.1%) | **~12,100-12,240 lb - over the 12,000 lb rating** |
-| **Balanced**, at GVWR | ~2,370 lb (16.8%) | ~2,240 lb (15.9%) | ~11,720-11,850 lb |
-| **Front-heavy**, at GVWR - loaded front bay, full fresh tank, heavy batteries | **~3,570 lb (25.3%)** | ~3,480 lb (24.7%) | ~10,520-10,610 lb |
+| **Garage-heavy**, at GVWR - ~3,300 lb in the garage | ~1,930 lb (13.7%) | ~1,790 lb (12.7%) | **~12,160-12,300 lb - over the 12,000 lb rating** |
+| **Balanced**, at GVWR - garage held to 2,500 lb | ~2,550 lb (18.1%) | ~2,430 lb (17.2%) | ~11,540-11,660 lb |
+| **Front-heavy**, at GVWR - loaded front bay, full fresh tank, a second battery | **~3,550 lb (25.2%)** | ~3,460 lb (24.5%) | ~10,540-10,630 lb |
 
 *Earlier figures: 16 October estimate from 10,120 lb / 2,370 lb - front-heavy ~3,690 lb; and the first reading of the weigh (26 October), which treated 10,480 lb as empty - front-heavy ~3,440 lb. The full fresh tank in the weigh is why the dry trailer is lighter and carries more cargo.*
 
-Cargo mix for each case - shown at the original 3,970 lb total; the calculator holds fresh water and gas at their tank weights and scales the rest to the 4,548 lb of cargo left after the dry weight:
+Cargo placed for each case (as towed, 4,548 lb; the calculator rescales the movable zones slightly for the fifth-wheel column):
 
 | Zone (ft behind kingpin) | Garage-heavy | Balanced | Front-heavy |
 | --- | --- | --- | --- |
-| Dealer batteries (2) | 130 | 130 | 200 |
-| Front storage and wardrobes (3) | 150 | 250 | 500 |
-| Bedroom and bath (6) | 250 | 300 | 500 |
-| Kitchen, pantry, living (16) | 400 | 600 | 900 |
-| Fresh water (17) | 0 | 100 | 800 (full) |
-| Fuel station (23) | 183 (full) | 183 | 183 |
-| Garage, front half (24.5) | 1,157 | 1,100 | 500 |
-| Garage, rear half (30) | 1,700 | 1,307 | 387 |
-| **Cargo total** | **3,970** | **3,970** | **3,970** |
+| Added batteries (2) - one already in the weighed trailer | 0 | 0 | 70 |
+| Front storage and wardrobes (3) | 200 | 400 | 700 |
+| Bedroom and bath (6) | 250 | 450 | 700 |
+| Kitchen, pantry, living (16) | 615 | 815 | 1,000 |
+| Fresh water (17) | 0 | 200 | 801 (full) |
+| Gas station (23) | 183 (full) | 183 | 183 |
+| Garage, front half (24.5) | 1,500 | 1,250 | 600 |
+| Garage, rear half (30) | 1,800 | 1,250 | 494 |
+| **Cargo total** | **4,548** | **4,548** | **4,548** |
 
-**Reading it.** With ~4,548 lb of cargo available, **the pin stays inside the owner's 3,700 lb ceiling in every case** - front-heavy at GVWR is ~3,570 lb as towed, ~130 lb under (and just under the ~3,625 lb rear-axle estimate). The B&W RVGN3164 is rated 4,500 lb, so the adapter is never the limit. **The real limit is now the trailer's axles:** a garage-heavy load to GVWR puts ~12,100 lb on its 12,000 lb axles and drops the pin share to ~14%, below the ~15% that tows steadily. **Keep the garage to about 2,500 lb** and put the rest forward of the axles; a balanced load at GVWR runs ~11,720 lb on the axles with a 17% pin. Keep counting the dealer's batteries as front weight. **Next weigh:** coupled and uncoupled on the same scale, loaded for travel.
+**Reading it.** With ~4,548 lb of cargo available, **the pin stays inside the owner's 3,700 lb ceiling in every case** - front-heavy at GVWR is ~3,550 lb as towed, ~150 lb under (and under the ~3,625 lb rear-axle estimate). The B&W RVGN3164 is rated 4,500 lb, so the adapter is never the limit. **The real limit is the trailer's axles:** ~3,300 lb in the garage at GVWR puts ~12,160 lb on its 12,000 lb axles and drops the pin share to ~14%, below the ~15% that tows steadily. **Keep the garage to about 2,500 lb** and put the rest forward of the axles - the balanced case does exactly that and runs ~11,540 lb on the axles with an 18% pin. Only batteries *added* beyond the one installed count as front cargo. **Next weigh:** coupled and uncoupled on the same scale, loaded for travel.
 
 #### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
 

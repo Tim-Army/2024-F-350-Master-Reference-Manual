@@ -85,12 +85,12 @@ a{color:var(--accent)}
 </main>
 <script>
 const $=id=>document.getElementById(id);
-const ZONES=[['Dealer batteries (front compartment)',2],['Front storage and wardrobes',3],['Bedroom and bath',6],['Kitchen, pantry, living',16],['Fresh water (96 gal max)',17],['Fuel station (30 gal max)',23],['Garage, front half',24.5],['Garage, rear half',30]];
+const ZONES=[['Added batteries (one is already in the weighed trailer)',2],['Front storage and wardrobes',3],['Bedroom and bath',6],['Kitchen, pantry, living',16],['Fresh water (96 gal max)',17],['Fuel station (30 gal max)',23],['Garage, front half',24.5],['Garage, rear half',30]];
 const PRESETS={
  weighed:[0,0,0,0,801,137,0,0],
- balanced:[130,250,300,600,100,183,1100,1307],
- garage:[130,150,250,400,0,183,1157,1700],
- front:[200,500,500,900,800,183,500,387],
+ balanced:[0,400,450,815,200,183,1250,1250],
+ garage:[0,200,250,615,0,183,1500,1800],
+ front:[70,700,700,1000,801,183,600,494],
  empty:[0,0,0,0,0,0,0,0]};
 const n=x=>Math.round(x).toLocaleString();
 const v=id=>parseFloat($(id).value)||0;

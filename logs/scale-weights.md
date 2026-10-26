@@ -32,7 +32,7 @@ Ticket recorded under Derg Enterprises, tractor 1 / trailer 0, commodity "freigh
 | **Pin weight as weighed** | **2,240 lb** - drive axle 5,600 - 3,360; the steer axle read 4,440 lb both times, so no weight moved off the front |
 | **Trailer weight as weighed** | **10,480 lb** - 8,240 on its axles + 2,240 on the pin |
 | **Empty pin share** | **21.4%** - close to Forest River's 21.7% dry figure; lower than the 23.4% estimated for this unit |
-| **Dry (no water, no gas)** | **~9,542 lb with a ~2,032 lb pin (21.3%)** - less the 801 lb of water (~208 lb of it on the pin, the tank sitting ~17 ft behind the kingpin) and the 137 lb of gas (~0 on the pin, over the axles). Includes the B&W adapter, batteries and propane as fitted |
+| **Dry (no water, no gas)** | **~9,542 lb with a ~2,032 lb pin (21.3%)** - less the 801 lb of water (~208 lb of it on the pin, the tank sitting ~17 ft behind the kingpin) and the 137 lb of gas (~0 on the pin, over the axles). Includes the B&W adapter, **one house battery** and the propane cylinders as fitted |
 | **Cargo capacity at GVWR** | **~4,548 lb** (14,090 - 9,542) - clear of the owner's 4,000 lb bar |
 | Truck coupled | 10,040 lb of 11,900 lb GVWR; drive 5,600 of 7,230 lb GAWR |
 | Combined | 18,280 lb of 29,000 lb GCWR |
