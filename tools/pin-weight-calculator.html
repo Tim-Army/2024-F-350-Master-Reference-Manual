@@ -49,19 +49,19 @@ a{color:var(--accent)}
 <p class="lead">Fifth wheel pin weight from the empty weight and where the cargo is loaded. Defaults are the Avondale 2026 Forest River Rogue SUT 323SUT and the 2024 F-350 from the <a href="https://tim-army.github.io/2024-F-350-Master-Reference-Manual/#c15">master reference manual, chapter 15</a>. Weights in pounds, distances in feet behind the kingpin.</p>
 
 <fieldset><legend>Preset</legend>
-<div class="row"><label for="preset">Load a setup<small>the loaded presets fill the 323SUT to its 14,090 lb GVWR (the empty weights already include the B&amp;W adapter); editing a weight switches to Custom</small></label>
-<select id="preset"><option value="weighed">As weighed, 25 Oct 2026 - full fresh tank, gas 3/4</option><option value="balanced" selected>323SUT - balanced, at GVWR</option><option value="garage">323SUT - garage-heavy, at GVWR</option><option value="front">323SUT - front-heavy, at GVWR</option><option value="empty">323SUT - empty</option><option value="custom">Custom</option></select></div>
-<div class="row"><label for="hitch">Hitch<small>the 323SUT tows on the B&amp;W RVGN3164 adapter and GNXA2061 ball - and was weighed that way</small></label>
-<select id="hitch"><option value="goose" selected>Gooseneck - B&amp;W adapter (as weighed)</option><option value="fifth">Fifth wheel - stock pin box refitted</option></select></div>
+<div class="row"><label for="preset">Load a setup<small>the loaded presets fill the 323SUT to its 14,090 lb GVWR (less the adapter when towed as a gooseneck); editing a weight switches to Custom</small></label>
+<select id="preset"><option value="weighed">Weigh-day contents on the label weight (scale read 10,480 / 2,240)</option><option value="balanced" selected>323SUT - balanced, at GVWR</option><option value="garage">323SUT - garage-heavy, at GVWR</option><option value="front">323SUT - front-heavy, at GVWR</option><option value="empty">323SUT - empty</option><option value="custom">Custom</option></select></div>
+<div class="row"><label for="hitch">Hitch<small>the 323SUT tows on the B&amp;W RVGN3164 adapter and GNXA2061 ball</small></label>
+<select id="hitch"><option value="goose" selected>Gooseneck - B&amp;W adapter</option><option value="fifth">Fifth wheel - stock pin box</option></select></div>
 </fieldset>
 
 <fieldset><legend>Trailer</legend>
-<div class="row"><label for="uvw">Empty weight (UVW)<small>9,542 lb - the 25 Oct CAT weigh (10,480 lb) less its full fresh tank (801 lb) and 3/4 gas station (137 lb); includes the B&amp;W adapter</small></label><input type="number" id="uvw" step="10" value="9542"></div>
-<div class="row"><label for="epin">Empty pin weight<small>2,032 lb - the weighed 2,240 lb less the fresh water's ~208 lb share (21.3%)</small></label><input type="number" id="epin" step="10" value="2032"></div>
+<div class="row"><label for="uvw">Empty weight (UVW)<small>10,031 lb - the trailer's own dry-weight label (VIN 005638); factory build, stock pin box</small></label><input type="number" id="uvw" step="10" value="10031"></div>
+<div class="row"><label for="epin">Empty pin weight<small>~2,150 lb - the label dry weight at the 21.4% pin share measured on 25 Oct</small></label><input type="number" id="epin" step="10" value="2150"></div>
 <div class="row"><label for="gvwr">GVWR</label><input type="number" id="gvwr" step="10" value="14090"></div>
 <div class="row"><label for="axle">Kingpin to axle centre (ft)<small>~23 ft assumed - measure</small></label><input type="number" id="axle" step="0.25" value="23"></div>
 <div class="row"><label for="arate">Trailer axle rating, total</label><input type="number" id="arate" step="100" value="12000"></div>
-<div class="row"><label for="adapt">Adapter weight over the stock pin box<small>the empty figures were weighed <b>with the B&amp;W adapter fitted</b>; in fifth wheel mode this much comes off (~140 lb assumed - B&amp;W does not publish it)</small></label><input type="number" id="adapt" step="5" value="140"></div>
+<div class="row"><label for="adapt">Adapter weight over the stock pin box<small>added in gooseneck mode - the label dry weight is with the stock pin box (~140 lb assumed; B&amp;W does not publish it)</small></label><input type="number" id="adapt" step="5" value="140"></div>
 </fieldset>
 
 <fieldset><legend>Truck</legend>
@@ -85,12 +85,12 @@ a{color:var(--accent)}
 </main>
 <script>
 const $=id=>document.getElementById(id);
-const ZONES=[['Added batteries (one is already in the weighed trailer)',2],['Front storage and wardrobes',3],['Bedroom and bath',6],['Kitchen, pantry, living',16],['Fresh water (96 gal max)',17],['Fuel station (30 gal max)',23],['Garage, front half',24.5],['Garage, rear half',30]];
+const ZONES=[['Batteries (front compartment; the one fitted ~65 lb)',2],['Front storage and wardrobes',3],['Bedroom and bath',6],['Kitchen, pantry, living',16],['Fresh water (96 gal max)',17],['Fuel station (30 gal max)',23],['Garage, front half',24.5],['Garage, rear half',30]];
 const PRESETS={
- weighed:[0,0,0,0,801,137,0,0],
- balanced:[0,400,450,815,200,183,1250,1250],
- garage:[0,200,250,615,0,183,1500,1800],
- front:[70,700,700,1000,801,183,600,494],
+ weighed:[65,0,0,0,801,137,0,0],
+ balanced:[65,400,450,815,200,183,1250,1250],
+ garage:[65,200,250,615,0,183,1500,1800],
+ front:[135,700,700,1000,801,183,600,494],
  empty:[0,0,0,0,0,0,0,0]};
 const n=x=>Math.round(x).toLocaleString();
 const v=id=>parseFloat($(id).value)||0;
@@ -98,7 +98,7 @@ const tb=$('zones').querySelector('tbody');
 ZONES.forEach(([name,x],i)=>{const tr=document.createElement('tr');
  tr.innerHTML=`<td>${name}</td><td><input type="number" id="x${i}" step="0.5" value="${x}"></td><td><input type="number" id="w${i}" step="10" value="0"></td><td id="s${i}"></td><td id="p${i}"></td>`;tb.appendChild(tr);});
 const tf=document.createElement('tr');tf.innerHTML='<td><strong>Cargo total</strong></td><td></td><td id="wt"></td><td></td><td id="pt"></td>';tb.appendChild(tf);
-function load(k){const p=PRESETS[k];if(!p)return;p.forEach((w,i)=>{$('w'+i).value=w;});if(k!=='empty'&&k!=='weighed')scaleTo(v('gvwr')-v('uvw')+(($('hitch').value==='goose')?0:v('adapt')));calc();}
+function load(k){const p=PRESETS[k];if(!p)return;p.forEach((w,i)=>{$('w'+i).value=w;});if(k!=='empty'&&k!=='weighed')scaleTo(v('gvwr')-v('uvw')-(($('hitch').value==='goose')?v('adapt'):0));calc();}
 // Presets fill the trailer to GVWR; as a gooseneck the adapter's extra weight comes out of the cargo.
 // Fresh water (4) and the fuel station (5) are fixed by their tanks; only the other zones scale.
 const FIXED=[4,5];
@@ -106,14 +106,14 @@ function scaleTo(room){let s=0,fx=0;ZONES.forEach((z,i)=>{if(FIXED.includes(i))f
 $('preset').addEventListener('change',()=>load($('preset').value));
 document.querySelectorAll('input').forEach(e=>e.addEventListener('input',()=>{if(/^w\d/.test(e.id))$('preset').value='custom';calc();}));
 $('hitch').addEventListener('change',()=>{const k=$('preset').value;if(PRESETS[k])load(k);else calc();});
-$('fill').addEventListener('click',()=>{scaleTo(v('gvwr')-v('uvw')+(($('hitch').value==='goose')?0:v('adapt')));$('preset').value='custom';calc();});
+$('fill').addEventListener('click',()=>{scaleTo(v('gvwr')-v('uvw')-(($('hitch').value==='goose')?v('adapt'):0));$('preset').value='custom';calc();});
 function g(c,okLim,warnLim){return c<=okLim?'ok':(c<=warnLim?'warn':'bad');}
 function calc(){
  const A=v('axle')||23;let cargo=0,cpin=0;
  ZONES.forEach((z,i)=>{const x=v('x'+i),w=v('w'+i),sh=(A-x)/A;cargo+=w;cpin+=w*sh;
   $('s'+i).textContent=Math.round(sh*100)+'%';$('p'+i).textContent=n(w*sh);});
  $('wt').textContent=n(cargo);$('pt').textContent=n(cpin);
- const adapt=($('hitch').value==='goose')?0:-v('adapt'),pin=v('epin')+cpin+adapt,tot=v('uvw')+cargo+adapt,share=pin/tot*100,axl=tot-pin;
+ const adapt=($('hitch').value==='goose')?v('adapt'):0,pin=v('epin')+cpin+adapt,tot=v('uvw')+cargo+adapt,share=pin/tot*100,axl=tot-pin;
  $('pin').textContent=n(pin)+' lb';$('pinL').textContent=($('hitch').value==='goose')?'Pin weight - gooseneck':'Pin weight - fifth wheel';$('pin').className='v '+g(pin,v('limit'),v('ceil'));
  $('pinS').textContent=pin<=v('limit')?`${n(v('ceil')-pin)} lb under the ${n(v('ceil'))} lb ceiling`:(pin<=v('ceil')?`over the ~${n(v('limit'))} lb axle estimate, under ${n(v('ceil'))}`:`${n(pin-v('ceil'))} lb OVER the ${n(v('ceil'))} lb ceiling`);
  $('share').textContent=share.toFixed(1)+'%';$('share').className='v '+(share>=15&&share<=25?'ok':'warn');

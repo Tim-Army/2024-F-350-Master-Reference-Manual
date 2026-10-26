@@ -2,7 +2,7 @@
 
 Shortlist of fifth wheels under consideration, and the screening arithmetic that decides whether the truck can pull them.
 
-> **Purchased: 2026 Forest River Rogue SUT 323SUT** - Camping World, Avondale AZ (stock 2638510, VIN 5NHFVGH23TC005638), **picked up 23 October 2026** (owner). Towed home on the B&W RVGN3164 gooseneck adapter and GNXA2061 ball; first CAT weigh 25 October 2026 - **9,542 lb dry with a 2,032 lb pin, ~4,548 lb cargo capacity** ([pin weight at GVWR](#rogue-sut-323sut---pin-weight-at-gvwr-16-october-2026), [scale log](../logs/scale-weights.md)). The rest of this chapter is the shortlist and screening record that led to it.
+> **Purchased: 2026 Forest River Rogue SUT 323SUT** - Camping World, Avondale AZ (stock 2638510, VIN 5NHFVGH23TC005638), **picked up 23 October 2026** (owner). Towed home on the B&W RVGN3164 gooseneck adapter and GNXA2061 ball; its own labels: **10,031 lb dry, 4,021 lb cargo capacity**, 34 ft 10 in (photographed by the owner, IMG_1798-1800); first CAT weigh 25 October 2026 - **10,480 lb with a 2,240 lb pin** as towed ([pin weight at GVWR](#rogue-sut-323sut---pin-weight-at-gvwr-16-october-2026), [scale log](../logs/scale-weights.md)). The rest of this chapter is the shortlist and screening record that led to it.
 
 ## Requirement
 
@@ -215,27 +215,27 @@ The setup: B&W **RVGN3164** adapter (Lippert Rhino), B&W **GNXA2061** ball, this
 
 **Interactive calculator: [pin weight calculator](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/tools/pin-weight-calculator.html)** (`tools/pin-weight-calculator.html`) - enter the empty weight and empty pin, place the cargo by zone, and it gives the pin weight and share, trailer weight and axle load against the 3,700 lb ceiling, GVWR and the 12,000 lb axle rating. Presets load the four cases below; the **Hitch** selector defaults to **gooseneck** - the B&W adapter the trailer was weighed on - with the stock fifth-wheel pin box as the alternative.
 
-**Updated 26 October 2026 with the first CAT scale weigh** ([scale weights log](../logs/scale-weights.md)). The trailer weighed **10,480 lb with a 2,240 lb pin (21.4%)** - but with the **fresh tank full (~801 lb) and the gas station 3/4 full (~137 lb)**, gray and black empty. Taking those out gives the **dry trailer: ~9,542 lb with a ~2,032 lb pin (21.3%)**. It was weighed **on the B&W RVGN3164 gooseneck adapter**, with **one house battery** installed (owner, 26 October 2026) and the propane cylinders as fitted, so all of that is included - only *added* batteries count as cargo. The truck had a full tank and the same gear at both weighs, so the figures are good to the scale's accuracy.
+**The trailer's own labels** (photographed by the owner, `imports/323SUT Camping World AZ/IMG_1798-1800`; VIN 5NHFVGH23TC005638, built 04/20/2026): **dry weight 10,031 lb**, **cargo capacity 4,021 lb** ("the combined weight of cargo should never exceed 1824 kgs or 4021 lbs"), GVWR 14,090 lb, 6,000 lb axles, ST235/80R16 E tires at 80 psi, **34 ft 10 in** as manufactured. The dry weight is **418 lb over** Forest River's 9,613 lb brochure figure - the generator, second A/C and other options. **4,021 lb clears the owner's 4,000 lb bar by just 21 lb**, and as a gooseneck the B&W adapter's extra weight (~140 lb) comes out of it, leaving **~3,880 lb** of usable cargo.
 
-**Cargo capacity: ~4,548 lb** to the 14,090 lb GVWR - comfortably clear of the owner's 4,000 lb bar (the pre-purchase estimate was ~3,970 lb). The yellow label should agree within a few hundred pounds.
+**The first CAT weigh** (25 October 2026, [scale weights log](../logs/scale-weights.md)): **10,480 lb with a 2,240 lb pin (21.4%)**, towed on the B&W adapter with one battery, the gas station 3/4 full and the fresh tank reading full. **That does not add up against the label:** 10,031 lb dry + ~801 lb of water + ~137 lb of gas + ~65 lb battery + ~140 lb adapter is ~11,170 lb - about **690 lb more than the scale**. If the label is right, the fresh tank held only ~13 gal, not 96 - **tank gauges are often wrong** (the inspection read it at 2/3 two weeks earlier). Either the tank was nearly empty or the factory dry weight runs high. **Re-weigh with the fresh tank drained** (coupled and uncoupled on the same scale) to settle it. Until then, **plan on the label** - it is the legal cargo limit, and it is the conservative figure.
 
-The cases below start from the dry **9,542 lb / 2,032 lb** on the [loading-rules model](#rogue-sut-323sut---loading-rules-26-september-2026) (axle centre ~23 ft behind the kingpin) and load **4,548 lb of cargo** to GVWR; fresh water and gas are set by their tanks, not scaled. The fifth-wheel column assumes the stock pin box refitted, ~140 lb lighter on the pin (B&W does not publish the adapter's weight).
+The cases below use the **label dry weight, 10,031 lb**, with the pin at the **21.4% share measured on the scale (~2,150 lb dry)**, on the [loading-rules model](#rogue-sut-323sut---loading-rules-26-september-2026) (axle centre ~23 ft behind the kingpin), loaded to the 14,090 lb GVWR. Fresh water and gas are set by their tanks; the fitted battery counts as front cargo. As a gooseneck the adapter adds ~140 lb (B&W does not publish its weight) and comes out of the cargo.
 
-| Loading | **Gooseneck, B&W adapter (as weighed)**: pin (share) | Fifth wheel, stock pin box: pin (share) | Trailer axles |
+| Loading at 14,090 lb | **Gooseneck, B&W adapter**: pin (share) | Fifth wheel, stock pin box: pin (share) | Trailer axles |
 | --- | --- | --- | --- |
-| **As weighed, 25 Oct** - full fresh, gas 3/4 (10,480 lb) | **2,240 lb (21.4%)** | ~2,100 lb | 8,240 lb |
-| Dry - no water or gas (9,542 lb) | ~2,030 lb (21.3%) | ~1,890 lb | ~7,510 lb |
-| **Garage-heavy**, at GVWR - ~3,300 lb in the garage | ~1,930 lb (13.7%) | ~1,790 lb (12.7%) | **~12,160-12,300 lb - over the 12,000 lb rating** |
-| **Balanced**, at GVWR - garage held to 2,500 lb | ~2,550 lb (18.1%) | ~2,430 lb (17.2%) | ~11,540-11,660 lb |
-| **Front-heavy**, at GVWR - loaded front bay, full fresh tank, a second battery | **~3,550 lb (25.2%)** | ~3,460 lb (24.5%) | ~10,540-10,630 lb |
+| **Scale, 25 Oct** - as towed, fresh tank reading full, gas 3/4 | **2,240 lb (21.4%) - 10,480 lb** | - | 8,240 lb |
+| Dry, label (10,031 lb) | ~2,290 lb with the adapter | ~2,150 lb (21.4%) | ~7,880 lb |
+| **Garage-heavy** - ~3,300 lb in the garage | ~2,260 lb (16.0%) | ~2,120 lb (15.0%) | ~11,830-11,980 lb - near the 12,000 lb rating |
+| **Balanced** - garage held to 2,500 lb | ~2,780 lb (19.7%) | ~2,660 lb (18.9%) | ~11,310-11,430 lb |
+| **Front-heavy** - loaded front bay, full fresh tank, a second battery | **~3,600 lb (25.6%)** | ~3,510 lb (24.9%) | ~10,490-10,580 lb |
 
-*Earlier figures: 16 October estimate from 10,120 lb / 2,370 lb - front-heavy ~3,690 lb; and the first reading of the weigh (26 October), which treated 10,480 lb as empty - front-heavy ~3,440 lb. The full fresh tank in the weigh is why the dry trailer is lighter and carries more cargo.*
+*Superseded: the 16 October estimate (10,120 / 2,370 lb; front-heavy ~3,780 lb as a gooseneck) and the 26 October reading of the weigh that assumed a full 96 gal fresh tank (9,542 lb dry, ~4,548 lb cargo; front-heavy ~3,550 lb) - the label shows that assumption was too generous.*
 
-Cargo placed for each case (as towed, 4,548 lb; the calculator rescales the movable zones slightly for the fifth-wheel column):
+Cargo mix for each case - shown for a 4,548 lb total; the calculator keeps fresh water and gas at their tank weights and scales the rest to the cargo left on the label (3,919 lb as a gooseneck, 4,059 lb as a fifth wheel):
 
 | Zone (ft behind kingpin) | Garage-heavy | Balanced | Front-heavy |
 | --- | --- | --- | --- |
-| Added batteries (2) - one already in the weighed trailer | 0 | 0 | 70 |
+| Batteries (2) - the fitted one, ~65 lb, plus a second for front-heavy | 65 | 65 | 135 |
 | Front storage and wardrobes (3) | 200 | 400 | 700 |
 | Bedroom and bath (6) | 250 | 450 | 700 |
 | Kitchen, pantry, living (16) | 615 | 815 | 1,000 |
@@ -245,7 +245,7 @@ Cargo placed for each case (as towed, 4,548 lb; the calculator rescales the mova
 | Garage, rear half (30) | 1,800 | 1,250 | 494 |
 | **Cargo total** | **4,548** | **4,548** | **4,548** |
 
-**Reading it.** With ~4,548 lb of cargo available, **the pin stays inside the owner's 3,700 lb ceiling in every case** - front-heavy at GVWR is ~3,550 lb as towed, ~150 lb under (and under the ~3,625 lb rear-axle estimate). The B&W RVGN3164 is rated 4,500 lb, so the adapter is never the limit. **The real limit is the trailer's axles:** ~3,300 lb in the garage at GVWR puts ~12,160 lb on its 12,000 lb axles and drops the pin share to ~14%, below the ~15% that tows steadily. **Keep the garage to about 2,500 lb** and put the rest forward of the axles - the balanced case does exactly that and runs ~11,540 lb on the axles with an 18% pin. Only batteries *added* beyond the one installed count as front cargo. **Next weigh:** coupled and uncoupled on the same scale, loaded for travel.
+**Reading it.** On the label figures **every case stays under the owner's 3,700 lb ceiling**, but **front-heavy as a gooseneck is ~3,600 lb - only ~100 lb under**, and just under the truck's ~3,625 lb rear-axle estimate. The B&W RVGN3164 is rated 4,500 lb, so the adapter is never the limit. **Keep the garage to about 2,500 lb** - more than that brings the trailer axles near 12,000 lb and the pin share down to ~15%. **Do not travel with a full fresh tank and a loaded front bay together.** And remember the cargo budget is the label's **4,021 lb (~3,880 lb as a gooseneck)**, not the larger figure the weigh first suggested. **Next weigh:** drained fresh tank, coupled and uncoupled on the same scale - it will show whether the label dry weight or the scale is right.
 
 #### Rogue SUT 323SUT - nose clearance over the bed, 9 October 2026
 

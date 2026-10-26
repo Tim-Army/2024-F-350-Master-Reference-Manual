@@ -32,9 +32,11 @@ Ticket recorded under Derg Enterprises, tractor 1 / trailer 0, commodity "freigh
 | **Pin weight as weighed** | **2,240 lb** - drive axle 5,600 - 3,360; the steer axle read 4,440 lb both times, so no weight moved off the front |
 | **Trailer weight as weighed** | **10,480 lb** - 8,240 on its axles + 2,240 on the pin |
 | **Empty pin share** | **21.4%** - close to Forest River's 21.7% dry figure; lower than the 23.4% estimated for this unit |
-| **Dry (no water, no gas)** | **~9,542 lb with a ~2,032 lb pin (21.3%)** - less the 801 lb of water (~208 lb of it on the pin, the tank sitting ~17 ft behind the kingpin) and the 137 lb of gas (~0 on the pin, over the axles). Includes the B&W adapter, **one house battery** and the propane cylinders as fitted |
-| **Cargo capacity at GVWR** | **~4,548 lb** (14,090 - 9,542) - clear of the owner's 4,000 lb bar |
+| Dry (no water, no gas), *if the fresh tank really was full* | ~9,542 lb with a ~2,032 lb pin (21.3%) - less the 801 lb of water (~208 lb of it on the pin, the tank sitting ~17 ft behind the kingpin) and the 137 lb of gas (~0 on the pin, over the axles). Includes the B&W adapter, **one house battery** and the propane cylinders as fitted |
+| **Cargo capacity at GVWR** | ~4,548 lb on this arithmetic - **but see the label check below** |
 | Truck coupled | 10,040 lb of 11,900 lb GVWR; drive 5,600 of 7,230 lb GAWR |
 | Combined | 18,280 lb of 29,000 lb GCWR |
 
-**Fuel: full tank at both weighs** (owner, 26 October 2026), and **the same gear stayed in the truck for both** (owner, 26 October 2026), so the truck's own weight cancels out of the subtraction completely: the derived pin and trailer weights are good to the scale's accuracy. Still to weigh: the trailer **loaded for travel**.
+**Fuel: full tank at both weighs** (owner, 26 October 2026), and **the same gear stayed in the truck for both** (owner, 26 October 2026), so the truck's own weight cancels out of the subtraction completely: the derived pin and trailer weights are good to the scale's accuracy. **Label check (26 October 2026).** The trailer's own labels read **10,031 lb dry** and **4,021 lb cargo capacity** (owner photos IMG_1798-1800). Label dry + 801 lb water + 137 lb gas + ~65 lb battery + ~140 lb adapter is ~11,170 lb - **~690 lb more than the 10,480 lb weighed**. If the label is right, the fresh tank held ~13 gal, not the 96 gal its gauge showed. **Plan on the label** (the legal limit, and conservative) until a re-weigh with the **fresh tank drained** settles it.
+
+Still to weigh: the trailer with the fresh tank drained, then **loaded for travel**.
