@@ -34,4 +34,4 @@ Ticket recorded under Derg Enterprises, tractor 1 / trailer 0, commodity "freigh
 | Truck coupled | 10,040 lb of 11,900 lb GVWR; drive 5,600 of 7,230 lb GAWR |
 | Combined | 18,280 lb of 29,000 lb GCWR |
 
-**Fuel: full tank at both weighs** (owner, 26 October 2026), so fuel cancels out of the subtraction and the derived pin and trailer weights are good to the scale's accuracy - apart from anything moved in or out of the cab between the two weighs. Still to weigh: the trailer **loaded for travel**.
+**Fuel: full tank at both weighs** (owner, 26 October 2026), and **the same gear stayed in the truck for both** (owner, 26 October 2026), so the truck's own weight cancels out of the subtraction completely: the derived pin and trailer weights are good to the scale's accuracy. Still to weigh: the trailer **loaded for travel**.
