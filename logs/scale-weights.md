@@ -24,7 +24,7 @@ Ticket recorded under Derg Enterprises, tractor 1 / trailer 0, commodity "freigh
 
 **11 September ticket:** two people in the front seats (REF-027). The ticket is internally consistent: 4,380 + 3,200 = 7,580 lb. **Fuel: full tank assumed** (owner, 14 September 2026), the same as on 8 September. **Occupant weights and loose cargo were not recorded.** Since 8 September the cab has gained floor liners and the on-board kit (inflator, socket set, first aid kit, tool bag), so the +380 lb is not purely the two occupants.
 
-**25 October 2026 - first weigh with the 323SUT** (tickets held locally, `imports/2023 - 2025 Ford F-350 Super Duty 7.3L/images/Weigh-Tickets/`). Coupled at Sayre OK in the morning with the trailer empty; truck alone at Alorton IL that night after unhitching.
+**25 October 2026 - first weigh with the 323SUT** (tickets held locally, `imports/2023 - 2025 Ford F-350 Super Duty 7.3L/images/Weigh-Tickets/`). Coupled at Sayre OK in the morning with the trailer empty; truck alone at Alorton IL that night after unhitching. **Towed on the B&W RVGN3164 fifth-wheel-to-gooseneck adapter and B&W GNXA2061 ball** (owner, 26 October 2026), so the pin and trailer figures include the adapter.
 
 | Derived (coupled - truck alone) | Value |
 | --- | --- |
