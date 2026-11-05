@@ -10,7 +10,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 14 | **$2,236.92** |
 | **Short-term** | by 7 December 2026 (90 days) | 22 | **$5,534.68** |
-| **Long-term** | by 13 October 2027 (400 days) | 13 | **$1,217.48** |
+| **Long-term** | by 13 October 2027 (400 days) | 12 | **$1,071.49** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
 
@@ -85,17 +85,16 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [OBDLink MX+](https://www.amazon.com/OBDLink-Bluetooth-Professional-Grade-Diagnostic-Performance/dp/B07JFRFJG6) Bluetooth scanner | **$139.95** | Diagnostics | Researching | Wireless, works with iOS, Android and Windows. Twice the price; the EX is the safer choice for module programming, where a wired link is preferable |
 | Console and modular organizers |  | Storage | Planned | DIY - see [chapter 12](12-3d-printed-accessories.md) |
 | [Trimax TCL75 trailer wheel chock lock](https://trimaxlocks.com/shop/shop-now/locks/wheel-locks/tcl75-trimax-wheel-chock-lock/) | **$179.99** | Maintenance & security | Planned | Fits 7-11.25 in tires - check against the trailer's tire size, not the truck's |
-| [Trimax TFW80HD coupler lock](https://trimaxlocks.com/shop/shop-now/locks/specialty-locks/tfw80hd/) | **$145.99** | Maintenance & security | Planned | Fifth-wheel/gooseneck specialty lock |
 | [Trimax VMAX10 cable lock](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/vmax10/) | **$79.99** | Maintenance & security | Planned |  |
 | [Trimax TDL3010 dual-loop cable, 30 ft x 10 mm](https://trimaxlocks.com/shop/shop-now/locks/chains-cable-locks/tdl3010-quadra-braid-trimaflex-cable-30-feet-long-x-10mm/) | **$63.99** | Maintenance & security | Planned | Quadra-braid Trimaflex |
-| [PACLOCK 90A-PRO padlock](https://www.amazon.com/dp/B08TPBP8LM) | **$35.65** | Maintenance & security | Planned | 1/4 in hardened shackle, 7-pin cylinder |
+| [PACLOCK 90A-PRO padlock](https://www.amazon.com/dp/B08TPBP8LM) | **$35.65** | Maintenance & security | Planned | 1/4 in hardened shackle, 7-pin cylinder. **Now the coupler lock for the B&W adapter:** B&W lists the RVGN3164 as lockable - a padlock through the hole in the coupler latch keeps it from being opened to couple or uncouple. Measure the latch hole before buying; B&W gives a 5/16 in shackle for its Companion adapter, and this lock's 1/4 in shackle should pass. Pair it with the Trimax wheel chock lock when the trailer is parked unhitched |
 | Harbor Freight [dielectric tune-up grease 3 oz](https://www.harborfreight.com/3-oz-dielectric-tune-up-grease-74112.html) (`74112`) | **$15.99** | Maintenance & security | Planned | For trailer connector pins and bulb sockets |
 | Harbor Freight [electronics cleaner 11 oz](https://www.harborfreight.com/11-oz-electronics-cleaner-62228.html) (`62228`) | **$10.99** | Maintenance & security | Planned |  |
 | Harbor Freight [white lithium grease](https://www.harborfreight.com/high-performance-white-lithium-grease-56817.html) (`56817`) | **$6.99** | Maintenance & security | Planned | Hinges, latches and locks - the six-month check in [chapter 3](03-oem-parts-catalog.md) calls for lubrication |
 | [TowSmart steel hitch pin clips, 3-pack](https://www.homedepot.com/p/TowSmart-Steel-Hitch-Pin-Clips-3-Pack-739M/206798818) (`739M`) | **$4.98** | Maintenance & security | Planned | Spare clips for hitch pins |
 | Cleaning supplies |  | Maintenance & security | Planned | Ford-recommended Motorcraft products - itemized below |
 | [Chemical Guys Total Interior Cleaner, Protectant & Detailer, 16 oz](https://www.amazon.com/dp/B071ZTPRJL) | **$11.97** | Cleaning | Planned | One-step for dash, **cloth seats**, SYNC 4 screen, trim and glass - suits this truck's interior directly, and covers several categories at once |
-| **Phase total** | **$1,217.48** |  |  | *13 items priced* |
+| **Phase total** | **$1,071.49** |  |  | *12 items priced* |
 
 ### Already owned
 
@@ -136,6 +135,7 @@ One further decision is deferred rather than an item: the **onboard air compress
 | [B&W Companion OEM fifth-wheel hitch](https://www.campingworld.com/bw-rvk3305-companion-oem-5th-wheel-hitch-25k-fits-ford-puck-system-370128.html) (`RVK3305`) | $1,399.00 | Towing | **Not needed - the 323SUT will tow as a gooseneck** on the [B&W RVGN3164 adapter](#short-term) and GNXA2061 ball (owner, 13 October 2026). Kept for reference: 25,000 lb / 6,250 lb vertical, 161 lb, drops into the factory pucks; instructions REF-030. Revisit only for an unconverted fifth wheel |
 | [5th wheel lube plate, 10 in, polyethylene](https://www.amazon.com/dp/B09BQLCNHN) | $9.99 | Towing | **Not needed** - it sits between a fifth-wheel hitch head and the pin box, and the 323SUT will tow on a gooseneck ball (owner, 13 October 2026). Goes with the Companion above |
 | [Covercraft Spacer Mesh PrecisionFit seat covers](https://www.covercraft.com/product/spacer-mesh-precisionfit-custom-seat-covers/CGT-GTSM) (front EM / rear AU) | $599.98 | Tires and interior | **Returned** - bought and fitted to both rows, then sent back. **Defective - quality** (owner, 14 October 2026): the **headrest covers are too tight**; the **center console cover is not designed to fit over the console**; and the **driver's seat cover is ripped**. Do not re-buy this set. Fitted photos `imports/truck-f350/covercraft seat cover 1/` (IMG_1857-1862) |
+| [Trimax TFW80HD coupler lock](https://trimaxlocks.com/shop/shop-now/locks/specialty-locks/tfw80hd/) | $145.99 | Maintenance & security | **Not needed** (5 November 2026) - it locks a fifth-wheel kingpin, and the 323SUT now couples to a gooseneck ball through the B&W RVGN3164 adapter. **Standard gooseneck coupler locks do not fit the B&W adapter either** ([etrailer](https://www.etrailer.com/5th-Wheel-Gooseneck-Adapter/B-and-W/BW73RV.html), from B&W) - lock the adapter's latch with a padlock instead (see the PACLOCK below) |
 | [PITTSBURGH 1000 lb dirt bike stand](https://www.harborfreight.com/dirt-bike-stand-67151.html) (Harbor Freight `67151`) | $39.99 | Towing | **No longer wanted** (owner, 5 November 2026) |
 | [Condor SCC-4000 scooter chock](https://www.condor-lift.com/product/scooter-chock-part-scc-4000/) | $175.00 | Towing | **Deferred until a scooter is bought** (owner, 5 November 2026) - the owner has not bought the scooter (planned: Yamaha Zuma 125) yet. Sale price was $175.00, list $215.00; floor adapter not included |
 | [Black Widow BW-9440-HD 8 ft folding arched motorcycle ramp](https://www.discountramps.com/motorcycle/ramps/full-width/p/BW-9440-HD/) | $499.99 | Towing | **Deferred** (owner, 5 November 2026) - the 323SUT's own ramp door loads the bikes; a separate ramp is not needed for now |
