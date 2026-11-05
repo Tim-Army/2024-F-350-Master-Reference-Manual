@@ -5,6 +5,7 @@ Related chapter: [9. Accessories & Modifications](../chapters/09-accessories-and
 
 | Date | Item | Manufacturer / part no. | Vendor / cost | Installation notes | Warranty / removal |
 | --- | --- | --- | --- | --- | --- |
+| By 2026-11-05 | Stubby antenna | CravenSpeed bullet stubby (5.4 in) | Amazon / $35.00 listed (paid to confirm) | Replaces the factory mast; screws onto the base. Recorded installed 5 November 2026 (install date not given) | Unscrew; refit the factory mast |
 | 2026-10-14 | Door handle cup protectors, all four doors | To confirm | To confirm | Clear film applied in the handle cups | Peel off; warm with a hair dryer first so the adhesive releases cleanly |
 | 2026-10-14 | Side window deflectors, front and rear - **AVS Ventvisor**, replacing the WeatherTech set | Auto Ventshade 94975, 4-pc, dark smoke, outside mount (tape-on) | AutoZone listed $69.99 (paid to confirm) | Tape-on above the windows. The **WeatherTech 801025IM-81765IM in-channel set was fitted and returned** - it bound when the windows closed | Peel off; warm the tape and remove residue with adhesive remover |
 | 2026-10-14 | Mud flaps, front and rear set | WeatherTech No-Drill DigitalFit, F-250/F-350 SRW, no fender flares | WeatherTech / $179.90 listed (paid to confirm) | No-drill mount to the wheel-well liner area; all four fitted. Photos: `imports/truck-f350/mud flaps/` (IMG_1853-1856) | Unbolt to remove; no holes drilled |
