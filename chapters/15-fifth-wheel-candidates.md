@@ -193,6 +193,7 @@ The setup: B&W **RVGN3164** adapter (Lippert Rhino), B&W **GNXA2061** ball, this
 | Adapter, ball top to the bottom pin-box mounting hole | 17-3/4 in (position 1) / 15-3/4 in (position 2) | B&W Rhino hole guide (REF-034) |
 | **Bottom mounting hole, hitched** | **~58.5 in** (position 1) / **~56.5 in** (position 2) | |
 | Front overhang underside, level | 62 in - provisional | Owner, 9 October 2026 |
+| **Bed rail clearance, hitched on the B&W RVGN3164 - measured** | **9.5 in** | Owner, 10 November 2026 - supersedes the ~6 in estimate from the provisional 62 in overhang; clears B&W's 7 in and Ford's 6 in minimums |
 
 **The missing number is H** - the height of the bottom mounting hole on the trailer's pin box plate, with the trailer level. The nose rises or drops by about (hitched hole - H), so:
 

@@ -349,7 +349,7 @@ Measured by the owner, 9 October 2026, truck unloaded and unhitched ([chapter 1]
 
 **Set the gooseneck conversion so the trailer is level with its coupler on a ~40.75 in ball top.** With the trailer level on its jacks, measure ground to the coupler socket on the Goose Box or Gen-Y and adjust the drop until it reads about **40.75 in**; raise it about an inch if the tailgate clearance needs it.
 
-**Measured so far:** Rogue SUT 323SUT front overhang **62 in** (9 October 2026, trailer possibly not level) - **6 in at the rails and 5 in at the closed tailgate** by Ford's method, if 62 in is the level figure; see [chapter 15](15-fifth-wheel-candidates.md).
+**Measured so far:** Rogue SUT 323SUT front overhang **62 in** (9 October 2026, trailer possibly not level) - **6 in at the rails and 5 in at the closed tailgate** by Ford's method, if 62 in is the level figure; see [chapter 15](15-fifth-wheel-candidates.md). **Measured hitched on the B&W RVGN3164: 9.5 in of bed rail clearance** (owner, 10 November 2026) - above B&W's 7 in and Ford's 6 in, so the estimate above was conservative.
 
 ## Factory fifth-wheel and gooseneck prep - what this truck actually has
 
