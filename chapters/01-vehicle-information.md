@@ -16,6 +16,7 @@ Verified against the window sticker / build sheet (REF-003, held locally as `imp
 | Rear receiver hitch | **2-1/2 in** receiver - factory hitch. Any ball mount, bike rack, cargo carrier or mud-flap kit needs a 2.5 in shank (or a 2.5-to-2 in reducer, which lowers the rating) | Owner, 15 Oct 2026 |
 | Bed depth | **21 in** - top of the bed rail to the bed floor, 8 ft Styleside box. Used for fifth-wheel hitch height and trailer nose clearance ([chapter 10](10-fifth-wheel-and-towing.md)) | Owner measurement, 9 Oct 2026 |
 | Bed and tailgate heights | **Bed rail top: 58 in** above the ground at the middle puck. **Tailgate top: 59 in** at its peak, centre. **Bed floor: ~37 in** (58 less the 21 in bed depth). Unloaded, not hitched - the truck squats under a pin | Owner measurement, 9 Oct 2026 |
+| Bed width and layout | **Inside width 63.5 in** between the rails. **Rail cap (lip) 5.5 in wide each side**, so about **74.5 in across the outside edges of the rails**. **Inside height 20-3/4 in** (the 9 Oct reading was 21 in - measure point differs slightly). **Gooseneck ball centre: just over 4 ft (48+ in) from the front of the bed.** For a crossover toolbox: a 71-72 in box spans the rails with its bottom section needing to fit inside 63.5 in, and a ~20 in deep box leaves about 28 in to the ball | Owner measurement, 10 Nov 2026 |
 | Engine | 7.3L DEVCT NA PFI V8, gasoline | REF-003 |
 | Transmission | 10-speed automatic TorqShift | REF-003 |
 | Rear axle | **11.6 in**, 4.30 electronic-locking - tag `4E30 - 11.6` | REF-003; axle tag, 11 Sep 2026 |
