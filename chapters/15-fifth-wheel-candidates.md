@@ -576,19 +576,19 @@ Estimates throughout: appliance watts are typical, not nameplate; fuel is interp
 | Part | Source | Price | Status |
 | --- | --- | --- | --- |
 | [Renogy Reserve Mini Smart 12V 314Ah, 2-pack](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) (`RBT-L12314-C1x2-US`) | Renogy | $1,778.99 | To order - chapter 9 Short-term |
-| [Renogy Rover 2 12V/24V 30A MPPT with Bluetooth](https://www.renogy.com/collections/charge-controllers) | Renogy | from $89.99 - 30A price to confirm | To order - replaces the DRIVEN; set to **LiFePO4** |
+| ~~Renogy Rover 2 12V/24V 30A MPPT~~ | Renogy | from $89.99 | **Deferred** - the factory DRIVEN DSLR-C40 has a LiFePO4 setting; **owner to confirm on the controller in person** |
 | Shirbly 2/0 AWG cable, 3/8 in lugs, **2 ft red + black pair x 2** | Amazon | $71.98 | In cart - the four battery cables, all the same length |
 | Shirbly 2/0 AWG cable, 3/8 in lugs, **1 ft red + black pair** | Amazon | $24.99 | In cart - red for bus bar to fuse; black is a spare |
 | Blue Sea 5502 Class T fuse block, 225-400 A | Amazon (4Wheel Online) | $57.98 | In cart - fuse not included |
 | Blue Sea 5119 Class T fuse, **300 A** (not the 400 A 5121) | Amazon | $76.45 | In cart - sized to protect the 2/0 cable |
 | Joinfworld 400A bus bar pair, copper, 8 mm, 4 x 3/8 in studs, covers | Amazon | $44.98 ($4.50 off at checkout) | In cart - quantity 1 = red + black pair |
-| Blue Sea 7138 187-Series breaker, 40 A, surface mount, 5/16 in studs | Amazon | $97.15 | In cart - Rover 2 battery lead; doubles as its on/off switch |
-| Install Bay CUR838 ring lugs, 8 AWG, 3/8 in, 25-pack | Amazon | $11.08 | In cart - Rover 2 leads at the bus bars |
+| Blue Sea 7138 187-Series breaker, 40 A, surface mount, 5/16 in studs | Amazon | $97.15 | In cart - solar controller battery lead (Driven's F2/F3 fuse); doubles as its on/off switch. Ample for the 200 W panel (~15 A) |
+| Install Bay CUR838 ring lugs, 8 AWG, 3/8 in, 25-pack | Amazon | $11.08 | In cart - solar controller leads at the bus bars |
 | GOODTIMES battery box hold-down strap kit, 2 straps, stainless cam buckles and mounts | Amazon | $14.99 | Add to cart |
 | 8 AWG wire red + black (WindyNation), 8 AWG 5/16 in lugs (Install Bay CUR8516), heat shrink, crimper | Owned | - | Owner's stock |
 | Wood (mounting board and floor cleats), rubber mat | Owned | - | Owner's stock |
 
-Wiring and mounting parts total **$395.10** before the checkout discount. **Rejected along the way:** Blue Sea 2104 copper bus bars ($112.99 each - more than needed); MOFEEZ brass bus bars (250 A, brass runs warmer, would force a 250 A fuse); the 285-Series breaker (fine, but the 7138 was chosen); tray-style hold-downs (none fit a 15.1 x 8.0 x 9.6 in battery).
+Wiring and mounting parts total **$395.10** before the checkout discount. **Solar controller (11 Nov 2026):** the Rover 2 is deferred - the factory DRIVEN DSLR-C40 supports LiFePO4, so it stays, pending the owner's in-person check of its battery-type menu. **Rejected along the way:** Blue Sea 2104 copper bus bars ($112.99 each - more than needed); MOFEEZ brass bus bars (250 A, brass runs warmer, would force a 250 A fuse); the 285-Series breaker (fine, but the 7138 was chosen); tray-style hold-downs (none fit a 15.1 x 8.0 x 9.6 in battery).
 
 **Connections**
 
@@ -602,8 +602,8 @@ Wiring and mounting parts total **$395.10** before the checkout discount. **Reje
 | RV's existing main positive | Class T fuse block | Disconnect switch / RV 12 V system |
 | RV's existing main negative | RV 12 V system | Negative bus bar |
 | 8 AWG red "A" | Positive bus bar (3/8 in lug) | 7138 breaker (5/16 in lug - existing crimp) |
-| 8 AWG red "B" | 7138 breaker (new 5/16 in lug) | Rover 2 battery + (bare wire) |
-| 8 AWG black | Rover 2 battery - (bare wire) | Negative bus bar (3/8 in lug - replace the existing 5/16 in lug) |
+| 8 AWG red "B" | 7138 breaker (new 5/16 in lug) | DRIVEN battery + (bare wire; terminals take up to 6 AWG) |
+| 8 AWG black | DRIVEN battery - (bare wire) | Negative bus bar (3/8 in lug - replace the existing 5/16 in lug) |
 
 The owner's existing 8 AWG red and black leads each have a 5/16 in lug on one end and an Anderson-style 50 A quick-connect on the other; the Anderson ends are cut off. Put one battery at each end of the bus bars and take the RV's cables off the opposite ends so both batteries share the load. Nothing else connects to the battery terminals.
 
@@ -616,7 +616,7 @@ The owner's existing 8 AWG red and black leads each have a 5/16 in lug on one en
 3. **Charge each Renogy battery full on its own** before paralleling them.
 4. Mount the board, mat, cleats, batteries and straps.
 5. Wire the 2/0 cables, then the Class T fuse to the RV's main positive; flat washers under the nuts (not the bus bars' lock washers; a washer under the 3/8 in lugs on the batteries' M8 terminals).
-6. Replace the DRIVEN with the Rover 2; set it to **LiFePO4** in the app; connect its battery side before the panel.
+6. Set the DRIVEN DSLR-C40 to **LiFePO4** before it sees the new batteries: battery-type screen, long-press **+**, choose **3.2-4**, long-press **+** to save (factory default is lead-acid USR1). Reconnect its battery leads through the breaker before the panel.
 7. Disconnect switch on; confirm both batteries read the same and are charging in the Renogy app.
 8. After the first trip, feel each lug for warmth and re-tighten.
 
