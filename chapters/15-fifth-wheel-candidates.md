@@ -567,7 +567,7 @@ Estimates throughout: appliance watts are typical, not nameplate; fuel is interp
 
 #### Rogue SUT 323SUT - lithium battery upgrade, 11 November 2026
 
-**Plan, parts chosen, not yet installed.** Replace the factory house battery - one sealed **Electric World Group 27M, ~88 Ah** (~560 Wh usable) in a recessed vented box in the front basement - with **two Renogy Reserve Mini Smart 12V 314Ah LiFePO4 batteries** in parallel: **~8,000 Wh usable, ~110 lb**, about 8 summer days (or 5 cold days) of 12 V use at the ~950 Wh/day estimate above. Cold weather is not a concern for the owner; the self-heating comes with the model. Wiring diagram: [323SUT lithium wiring layout](../references/323sut-lithium-wiring.svg).
+**Plan, parts chosen, not yet installed.** Replace the factory house battery - one sealed **Electric World Group 27M, ~88 Ah** (~560 Wh usable) in a recessed vented box in the front basement - with **two Renogy Reserve Mini Smart 12V 314Ah LiFePO4 batteries** in parallel: **~8,000 Wh usable, ~110 lb**, about 8 summer days (or 5 cold days) of 12 V use at the ~950 Wh/day estimate above. Cold weather is not a concern for the owner; the self-heating comes with the model. Wiring diagram: [323SUT lithium wiring layout](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/323sut-lithium-wiring.svg).
 
 **Existing 12 V gear it ties into** (owner photos, 11 November 2026; REF-033 #048-#049): the DRIVEN solar controller (no confirmed lithium setting), the red rotary battery disconnect, the 200 W roof panel, and the **55 A converter** (13.57 V on shore power - a lead-acid setting; model still unread). The WFCO WF-T57-R in the same bay is the 50 A AC transfer switch, not part of this job.
 
