@@ -565,6 +565,63 @@ Estimates throughout: appliance watts are typical, not nameplate; fuel is interp
 **What it is for.** Quiet, no-fuel power for small loads - a CPAP overnight (~800 Wh with phones, lights and a fan, about one charge), a laptop and Starlink work day, a coffee maker or kettle for a few minutes. **It cannot run an RV roof A/C** (~1,600 W running, more to start) - the NPS6000eco generator stays the A/C source. Running a 12 V fridge or cooler all day takes ~1,000 Wh on its own, so pair it with solar. Sources: [Jackery](https://www.jackery.com/products/jackery-explorer-1000-v2), [The Drive review](https://www.thedrive.com/news/jackery-explorer-1000-v2-solar-generator-hands-on-review-tested), [Solar Backup Lab](https://solarbackuplab.com/reviews/jackery-explorer-1000-v2/).
 
 
+#### Rogue SUT 323SUT - lithium battery upgrade, 11 November 2026
+
+**Plan, parts chosen, not yet installed.** Replace the factory house battery - one sealed **Electric World Group 27M, ~88 Ah** (~560 Wh usable) in a recessed vented box in the front basement - with **two Renogy Reserve Mini Smart 12V 314Ah LiFePO4 batteries** in parallel: **~8,000 Wh usable, ~110 lb**, about 8 summer days (or 5 cold days) of 12 V use at the ~950 Wh/day estimate above. Cold weather is not a concern for the owner; the self-heating comes with the model. Wiring diagram: [323SUT lithium wiring layout](../references/323sut-lithium-wiring.svg).
+
+**Existing 12 V gear it ties into** (owner photos, 11 November 2026; REF-033 #048-#049): the DRIVEN solar controller (no confirmed lithium setting), the red rotary battery disconnect, the 200 W roof panel, and the **55 A converter** (13.57 V on shore power - a lead-acid setting; model still unread). The WFCO WF-T57-R in the same bay is the 50 A AC transfer switch, not part of this job.
+
+**Parts**
+
+| Part | Source | Price | Status |
+| --- | --- | --- | --- |
+| [Renogy Reserve Mini Smart 12V 314Ah, 2-pack](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) (`RBT-L12314-C1x2-US`) | Renogy | $1,778.99 | To order - chapter 9 Short-term |
+| [Renogy Rover 2 12V/24V 30A MPPT with Bluetooth](https://www.renogy.com/collections/charge-controllers) | Renogy | from $89.99 - 30A price to confirm | To order - replaces the DRIVEN; set to **LiFePO4** |
+| Shirbly 2/0 AWG cable, 3/8 in lugs, **2 ft red + black pair x 2** | Amazon | $71.98 | In cart - the four battery cables, all the same length |
+| Shirbly 2/0 AWG cable, 3/8 in lugs, **1 ft red + black pair** | Amazon | $24.99 | In cart - red for bus bar to fuse; black is a spare |
+| Blue Sea 5502 Class T fuse block, 225-400 A | Amazon (4Wheel Online) | $57.98 | In cart - fuse not included |
+| Blue Sea 5119 Class T fuse, **300 A** (not the 400 A 5121) | Amazon | $76.45 | In cart - sized to protect the 2/0 cable |
+| Joinfworld 400A bus bar pair, copper, 8 mm, 4 x 3/8 in studs, covers | Amazon | $44.98 ($4.50 off at checkout) | In cart - quantity 1 = red + black pair |
+| Blue Sea 7138 187-Series breaker, 40 A, surface mount, 5/16 in studs | Amazon | $97.15 | In cart - Rover 2 battery lead; doubles as its on/off switch |
+| Install Bay CUR838 ring lugs, 8 AWG, 3/8 in, 25-pack | Amazon | $11.08 | In cart - Rover 2 leads at the bus bars |
+| GOODTIMES battery box hold-down strap kit, 2 straps, stainless cam buckles and mounts | Amazon | $14.99 | Add to cart |
+| 8 AWG wire red + black (WindyNation), 8 AWG 5/16 in lugs (Install Bay CUR8516), heat shrink, crimper | Owned | - | Owner's stock |
+| Wood (mounting board and floor cleats), rubber mat | Owned | - | Owner's stock |
+
+Wiring and mounting parts total **$395.10** before the checkout discount. **Rejected along the way:** Blue Sea 2104 copper bus bars ($112.99 each - more than needed); MOFEEZ brass bus bars (250 A, brass runs warmer, would force a 250 A fuse); the 285-Series breaker (fine, but the 7138 was chosen); tray-style hold-downs (none fit a 15.1 x 8.0 x 9.6 in battery).
+
+**Connections**
+
+| Cable | From | To |
+| --- | --- | --- |
+| 2/0 red, 2 ft | Battery 1 + | Positive bus bar |
+| 2/0 red, 2 ft | Battery 2 + | Positive bus bar |
+| 2/0 black, 2 ft | Battery 1 - | Negative bus bar |
+| 2/0 black, 2 ft | Battery 2 - | Negative bus bar |
+| 2/0 red, 1 ft | Positive bus bar | Class T fuse block |
+| RV's existing main positive | Class T fuse block | Disconnect switch / RV 12 V system |
+| RV's existing main negative | RV 12 V system | Negative bus bar |
+| 8 AWG red "A" | Positive bus bar (3/8 in lug) | 7138 breaker (5/16 in lug - existing crimp) |
+| 8 AWG red "B" | 7138 breaker (new 5/16 in lug) | Rover 2 battery + (bare wire) |
+| 8 AWG black | Rover 2 battery - (bare wire) | Negative bus bar (3/8 in lug - replace the existing 5/16 in lug) |
+
+The owner's existing 8 AWG red and black leads each have a 5/16 in lug on one end and an Anderson-style 50 A quick-connect on the other; the Anderson ends are cut off. Put one battery at each end of the bus bars and take the RV's cables off the opposite ends so both batteries share the load. Nothing else connects to the battery terminals.
+
+**Mounting.** The batteries do not fit the recessed Group 27 box; they sit on the open basement floor on a rubber mat, boxed in by wood cleats around the ~16 x 15 in footprint, with the two straps across the cases (clear of the terminals) anchored into solid floor - the kit's screws are small, so use longer stainless screws or a wood backing. Renogy's clearances: **2-4 in above, 7.87 in on the terminal side**. Bus bars, Class T block and breaker on a plywood board, the fuse block and breaker within a few inches of the positive bar.
+
+**Installation sequence**
+
+1. Disconnect switch off; cover the solar panel or unplug it at the controller.
+2. Photograph the existing wiring; remove the Electric World battery.
+3. **Charge each Renogy battery full on its own** before paralleling them.
+4. Mount the board, mat, cleats, batteries and straps.
+5. Wire the 2/0 cables, then the Class T fuse to the RV's main positive; flat washers under the nuts (not the bus bars' lock washers; a washer under the 3/8 in lugs on the batteries' M8 terminals).
+6. Replace the DRIVEN with the Rover 2; set it to **LiFePO4** in the app; connect its battery side before the panel.
+7. Disconnect switch on; confirm both batteries read the same and are charging in the Renogy app.
+8. After the first trip, feel each lug for warmth and re-tighten.
+
+**Open items:** measure the basement floor space (~16 x 23 x 12 in); check the RV's main cable lug size (3/8 in fits; 5/16 in needs new lugs); read the converter's model at the power centre - with lithium it only charges to ~90% at its lead-acid voltage, which is acceptable, so replacing it (~$200-350 for a 75-100 A lithium unit) is optional. A larger solar array (Renogy 1280W kit with two Rover Lite 60A controllers) is **deferred** in chapter 9.
+
 #### Rogue SUT 323SUT - loading rules, 26 September 2026
 
 Modeled on the **Bunker Hill unit** (unit 2): 14,090 lb GVWR, 4,329 lb cargo label, 6,000 lb axles, **no inverter**, and an empty weight of ~9,760 lb implied by the cargo figure. Zone positions are measured from [Forest River's floorplan](https://forestriverinc.com/rvs/vengeance-rogue-sut/323SUT/14843), in feet behind the kingpin. The **axle center (~23 ft) and the fuel station and fresh tank positions are not on the floorplan and are assumed**. A zone's share of its weight that lands on the pin is (axle distance - zone distance) / axle distance.
