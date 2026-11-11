@@ -337,6 +337,7 @@ Nothing new came on the market. Closest available: Bunker Hill, IN ($44,995\*, s
 | Options | **6,000 W generator - a Next-Gen NPS6000, the "eco" variable-speed version** per the dealer's photos (`imports/323SUT/avondale-generator-nps6000eco.webp`): Yamaha-based pure-sine inverter, **185 lb** (Next-Gen), wireless key-fob start, 3-year / 2,000-hour warranty; fuel from the 30 gal fuel station at 0.12 gal/hr zero load, 0.39 half load and 0.64 full load (published) - roughly 77 hours at half load on a full station. Its mounting compartment is not identifiable from the photo; **ask where it sits** (front compartment adds pin weight). **Second A/C**, Premium package (listed twice), ramp patio railing, two black Euro recliners, Cappuccino interior |
 | Length / exterior height | 34.83 ft / **13 ft 4 in** - the first published height for the 323SUT |
 | Electrical | **50 amp, 120/240 V shore service - confirmed** (owner, 11 Nov 2026; the WFCO WF-T57-R transfer switch is rated 50 A). The listing's "55 amp" most likely refers to the 55 A 12 V converter, not the shore service |
+| Package - **Rogue SUT Platinum Package** (owner, 11 Nov 2026) | 200 W solar charging system; 1,000 W microwave; 3-burner cooktop with oven; Quick Set rear bed system; Rogue Stable Step at the main entry door; **tankless on-demand water heater**; solar-reflective safety-glass windows; screen wall / tent wall; seamless countertops; zebra shades (light-filtering and blackout); **12 V master battery disconnect**; **50 A electrical service with a marine-style detachable power cord**; **55 A converter**; carbon monoxide detector. **No inverter** is listed - the microwave runs only on shore power or the generator |
 | Tanks | 96 gal fresh, 44 gal black |
 | Weight | "9,575 lb" shown as GVWR and weight - a listing error. **GVWR 14,090 lb, confirmed by the owner (28 September 2026)** |
 
@@ -374,7 +375,7 @@ As a gooseneck, add ~140 lb: **front-heavy reaches ~3,710 lb - just over 3,700 l
 | Freight | ~$6,000 included | none charged |
 | Prep and doc | included (amounts not stated) | none charged |
 | Trailer before fees | **~$55,300** | **$44,995** |
-| Options beyond the Premium Package | 6,000 W generator, 2nd A/C, ramp patio railing, 2 Euro recliners | none recorded |
+| Options beyond the package (Platinum on the owner's unit) | 6,000 W generator, 2nd A/C, ramp patio railing, 2 Euro recliners | none recorded |
 | Cargo (label) | not yet seen; ~3,970 lb estimated | **4,329 lb** |
 | Getting it home (from ZIP 62222) | ~1,290 mi. **Camping World delivery ~$5,000** (owner, 28 September 2026); self-pickup, round trip (~2,580 mi), **~$1,050-1,250**: ~$850 fuel (~240-250 gal at ~$3.50) plus food; **no lodging cost** (owner, 28 September 2026); 4-6 days | ~255 mi; RV Dynasty advertises nationwide delivery |
 
@@ -540,7 +541,7 @@ Prime a dry fuel line by holding **Stop/Prime for 10 seconds** before starting. 
 - **Filling the station costs ~$105** at $3.50/gal. Campground quiet hours usually limit generator use more than fuel does.
 - Ask Camping World whether the generator's fuel pickup draws the station all the way down; some toy haulers stop it partway to keep fuel for the toys.
 
-**Solar: 200 W** (Premium Package), with a **55 A converter**. The **converter** turns 120 V from shore power or the generator into 12 V to run the 12 V systems and **charge the house batteries** - "converter charging" draws up to ~850 W from the generator when the batteries are low, tapering as they fill.
+**Solar: 200 W** (Rogue SUT Platinum Package), with a **55 A converter**. The **converter** turns 120 V from shore power or the generator into 12 V to run the 12 V systems and **charge the house batteries** - "converter charging" draws up to ~850 W from the generator when the batteries are low, tapering as they fill.
 
 | Day off-grid (5 peak sun hours) | Solar harvest | 12 V use | Balance | Generator to make it up |
 | --- | --- | --- | --- | --- |
