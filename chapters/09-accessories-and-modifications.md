@@ -9,7 +9,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 14 | **$2,236.92** |
-| **Short-term** | by 7 December 2026 (90 days) | 22 | **$5,530.64** |
+| **Short-term** | by 7 December 2026 (90 days) | 23 | **$7,130.62** |
 | **Long-term** | by 13 October 2027 (400 days) | 15 | **$2,471.49** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
@@ -74,7 +74,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [ICON 1/2 in drive Professional 25 in breaker bar](https://www.harborfreight.com/12-in-drive-25-in-professional-breaker-bar-64820.html) (Harbor Freight `64820`, model B325) | **$37.99** | Maintenance & security | **Bought** (owner, 5 November 2026) - price paid to confirm | Bought **instead of the 36 in, 3/4 in drive bar** (owner called it the 24 in; Harbor Freight's ICON 1/2 in bars are 18 in and 25 in - the TPR-grip version is `64821`, $39.99). **1/2 in drive fits the truck's 1/2 in impact sockets and the torque wrench's drive directly** - no 3/4-to-1/2 adapter needed. For breaking loose the 150 lb-ft lug nuts; set final torque with the torque wrench, not this |
 | [PITTSBURGH 6 in straight-jaw sheet metal seamer](https://www.harborfreight.com/6-inch-jaw-straight-sheet-metal-seamer-98728.html) (Harbor Freight `98728`) | **$18.99** | Maintenance & security | Planned | Regularly $24.99. Drop-forged jaws marked in 1/4 in bending increments, nickel-plated steel, 2.2 lb, lifetime warranty. Bends, seams or flattens sheet metal |
 | [IRWIN VISE-GRIP Original locking sheet metal tool, 8 in](https://www.amazon.com/dp/B0000TFGFU) (model `23`) | **$16.65** | Maintenance & security | Planned | Locking pliers with wide flat jaws for bending, forming and crimping sheet metal; turn screw sets the pressure, trigger release. Heat-treated alloy steel. Pairs with the PITTSBURGH seamer above |
-| **Phase total** | **$5,530.64** |  |  | *22 items priced* |
+| [Renogy Reserve Mini Smart 12V 314Ah LiFePO4 battery](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) x 2 - **for the 323SUT** | **$1,599.98** (2 x $799.99 on Renogy's collection page; the product page shows $899.99 each - up to 14% launch discount at checkout, and Black Friday pricing may beat both) | Electronics | Planned | **Replaces the trailer's single sealed lead-acid house battery** (front basement, REF-033) - never mix lithium and lead-acid on one bank. Each: 15.1 x 8.0 x 9.6 in, 55.1 lb, ~4,000 Wh usable, self-heating (140 W pads), Bluetooth app, 5,000+ cycles at 80% DOD, 5-year warranty. **The pair: ~8,000 Wh, ~110 lb** - about 8 summer days or 5 cold days of 12 V use (chapter 15 estimates) without charging. Wire in parallel with equal-length cables to a common bus bar, a main fuse (class T) at the positive, and charge each battery full separately before connecting. **Before buying:** measure the front-basement battery box for two; read the converter model - it measured **13.57 V on shore power** (a lead-acid setting), and the 55 A converter would take ~16+ hours to refill 8 kWh, so a lithium-profile converter is the likely companion upgrade; set the 200 W solar controller to LiFePO4. Weight: ~+50 lb net at the front, nearly all on the pin |
+| **Phase total** | **$7,130.62** |  |  | *23 items priced* |
 
 ### Long-term
 
