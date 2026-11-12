@@ -588,7 +588,7 @@ Estimates throughout: appliance watts are typical, not nameplate; fuel is interp
 | 8 AWG wire red + black (WindyNation), 8 AWG 5/16 in lugs (Install Bay CUR8516), heat shrink, crimper | Owned | - | Owner's stock |
 | Wood (mounting board and floor cleats), rubber mat | Owned | - | Owner's stock |
 
-Wiring and mounting parts total **$395.10** before the checkout discount. **Solar controller (11 Nov 2026):** the Rover 2 is deferred - the factory DRIVEN DSLR-C40 supports LiFePO4, so it stays, pending the owner's in-person check of its battery-type menu. **Rejected along the way:** Blue Sea 2104 copper bus bars ($112.99 each - more than needed); MOFEEZ brass bus bars (250 A, brass runs warmer, would force a 250 A fuse); the 285-Series breaker (fine, but the 7138 was chosen); tray-style hold-downs (none fit a 15.1 x 8.0 x 9.6 in battery).
+Wiring and mounting parts total **$395.10** after the $4.50 bus bar discount at checkout ($399.60 before). **Solar controller (11 Nov 2026):** the Rover 2 is deferred - the factory DRIVEN DSLR-C40 supports LiFePO4, so it stays, pending the owner's in-person check of its battery-type menu. **Rejected along the way:** Blue Sea 2104 copper bus bars ($112.99 each - more than needed); MOFEEZ brass bus bars (250 A, brass runs warmer, would force a 250 A fuse); the 285-Series breaker (fine, but the 7138 was chosen); tray-style hold-downs (none fit a 15.1 x 8.0 x 9.6 in battery).
 
 **Connections**
 

@@ -75,7 +75,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [PITTSBURGH 6 in straight-jaw sheet metal seamer](https://www.harborfreight.com/6-inch-jaw-straight-sheet-metal-seamer-98728.html) (Harbor Freight `98728`) | **$18.99** | Maintenance & security | Planned | Regularly $24.99. Drop-forged jaws marked in 1/4 in bending increments, nickel-plated steel, 2.2 lb, lifetime warranty. Bends, seams or flattens sheet metal |
 | [IRWIN VISE-GRIP Original locking sheet metal tool, 8 in](https://www.amazon.com/dp/B0000TFGFU) (model `23`) | **$16.65** | Maintenance & security | Planned | Locking pliers with wide flat jaws for bending, forming and crimping sheet metal; turn screw sets the pressure, trigger release. Heat-treated alloy steel. Pairs with the PITTSBURGH seamer above |
 | [Renogy Reserve Mini Smart 12V 314Ah LiFePO4 battery](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) x 2 - **for the 323SUT** | **$1,778.99** for the 2-pack (SKU `RBT-L12314-C1x2-US`, Renogy, 11 Nov 2026 - $889.50 each; up to 14% launch discount may apply at checkout, and Black Friday pricing may beat it) | Electronics | Planned | **Replaces the trailer's single sealed lead-acid house battery** (front basement, REF-033) - never mix lithium and lead-acid on one bank. Each: 15.1 x 8.0 x 9.6 in, 55.1 lb, 4,019 Wh, **charge voltage 14.4 V** (CC-CV), 220 A BMS, 215 A max continuous charge, 2,560 W continuous output, M8 terminals, IP65, self-heating (140 W pads), Bluetooth app, 5,000+ cycles at 80% DOD, 5-year warranty; up to 4P / 4S. Box includes the battery, 2 insulation sleeves and terminal bolts - **no cables, bus bar or fuse**. **Renogy's install clearances: 2-4 in above the battery and 7.87 in on the terminal/busbar side** - so the pair needs roughly 16 x 23 x 12 in of space, not just their 15.1 x 16 x 9.6 in footprint. **The pair: ~8,000 Wh, ~110 lb** - about 8 summer days or 5 cold days of 12 V use (chapter 15 estimates) without charging. Wire in parallel with equal-length cables to a common bus bar, a main fuse (class T) at the positive, and charge each battery full separately before connecting. **Before buying:** measure the front-basement battery box for two; read the converter model - it measured **13.57 V on shore power** (a lead-acid setting), and the 55 A converter would take ~16+ hours to refill 8 kWh, so a lithium-profile converter is the likely companion upgrade; set the DRIVEN DSLR-C40 solar controller to LiFePO4 (type 3.2-4). Weight: ~+50 lb net at the front, nearly all on the pin |
-| 323SUT lithium install - wiring and mounting parts (Amazon cart, 11 Nov 2026) - **for the 323SUT** | **$395.10** (before $4.50 checkout discount) | Electronics | Planned - in cart | Shirbly 2/0 cables (2 ft pair x 2, 1 ft pair), Blue Sea 5502 Class T block + 5119 300 A fuse, Joinfworld 400A copper bus bar pair, Blue Sea 7138 40 A breaker, Install Bay CUR838 8 AWG 3/8 in lugs, GOODTIMES strap kit. Itemized with the wiring plan in [chapter 15](15-fifth-wheel-candidates.md#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026); diagram in `references/323sut-lithium-wiring.svg`. 8 AWG wire, 5/16 in lugs, heat shrink, crimper, wood and rubber mat already owned |
+| 323SUT lithium install - wiring and mounting parts (Amazon cart, 11 Nov 2026) - **for the 323SUT** | **$395.10** (after the $4.50 bus bar discount; $399.60 before) | Electronics | Planned - in cart | Shirbly 2/0 cables (2 ft pair x 2, 1 ft pair), Blue Sea 5502 Class T block + 5119 300 A fuse, Joinfworld 400A copper bus bar pair, Blue Sea 7138 40 A breaker, Install Bay CUR838 8 AWG 3/8 in lugs, GOODTIMES strap kit. Itemized with the wiring plan in [chapter 15](15-fifth-wheel-candidates.md#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026); diagram in `references/323sut-lithium-wiring.svg`. 8 AWG wire, 5/16 in lugs, heat shrink, crimper, wood and rubber mat already owned |
 | Bonsicoky battery terminal anti-corrosion felt washers, 12-pack (6 red, 6 green) - **truck** | **$4.49** | Maintenance & security | Planned - in cart | For the truck's **Rural King Select group 65** top-post starting battery ([chapter 1](01-vehicle-information.md)). Disconnect negative first; red washer on +, green on -; reconnect positive first. Spares for later battery service |
 | **Phase total** | **$7,709.22** |  |  | *25 items priced* |
 
@@ -145,6 +145,7 @@ One further decision is deferred rather than an item: the **onboard air compress
 | [Renogy Rover 2 12V/24V 30A compact MPPT charge controller with Bluetooth](https://www.renogy.com/collections/charge-controllers) | $89.99 (from-price; 30A to confirm) | Electronics | **Deferred - likely not needed** (11 Nov 2026): the 323SUT's factory **DRIVEN DSLR-C40** (40 A PWM) supports LiFePO4 - battery type **3.2-4**, 14.4 V charge - per its manual. **Owner to confirm on the controller in person** before ruling it out. MPPT would add only ~75-190 Wh on a sunny day with the single 200 W panel; revisit if more solar is added (the deferred 1280W kit plans its own MPPT controllers) |
 | [Renogy 1280W solar kit - 4 x 320W N-type panels with RV tilt mounts](https://www.renogy.com/) | $1,389.99 (free freight) | Electronics | **Deferred - possible future upgrade for the 323SUT** (owner, 11 Nov 2026). Each panel 320 W, Voc 43.82 V, Isc 8.92 A, Vmp 37.85 V, Imp 8.46 A, 64.6 x 34.7 x 1.4 in, 32.9 lb; 10-year product / 25-year output warranty. ~4,800 Wh on a summer day - refills the two 314Ah batteries from empty in ~2 days with normal use, against never with the factory 200 W. Wire as **two series pairs** (87.6 V open-circuit, ~100 V on a cold morning). **Before buying:** measure ~62 sq ft of clear roof around both A/Cs, vents and skylight; ~150 lb on the roof comes off cargo capacity; ask Forest River whether the roof is walkable before relying on the tilt mounts; two new sealed roof entries. Keep the factory 200 W panel on its own controller - do not mix it with these |
 | [Renogy Rover Lite 60A MPPT controller](https://www.renogy.com/products/rover-lite-12v-24v-36v-48v-60a-mppt-solar-charge-controller) x 2 | $499.98 ($249.99 each) | Electronics | **Deferred with the 1280W kit above** - only needed if that is bought. One controller per series pair of panels: each is rated 900 W at 12 V (one alone is too small for 1,280 W) and 150 V maximum input. Cheaper than one Rover 100A ($701.99) and keeps charging if one fails. 10 AWG from the roof per pair; 6 AWG and an 80 A fuse from each controller to the bus bars. Bluetooth may need Renogy's BT-2 module - confirm |
+| 323SUT solar install - wiring and roof parts for the 1280W kit (see [323SUT power projects](#323sut-power-projects)) | ~$530 (estimate) | Electronics | **Deferred with the 1280W kit** (11 Nov 2026) - the kit ships only the 4 panels and 4 tilt brackets; these are the parts to get its power to the batteries. Prices are estimates - price them when the kit is bought |
 | [Trimax TFW80HD coupler lock](https://trimaxlocks.com/shop/shop-now/locks/specialty-locks/tfw80hd/) | $145.99 | Maintenance & security | **Not needed** (5 November 2026) - it locks a fifth-wheel kingpin, and the 323SUT now couples to a gooseneck ball through the B&W RVGN3164 adapter. **Standard gooseneck coupler locks do not fit the B&W adapter either** ([etrailer](https://www.etrailer.com/5th-Wheel-Gooseneck-Adapter/B-and-W/BW73RV.html), from B&W) - lock the adapter's latch with a padlock instead (see the PACLOCK below) |
 | [PITTSBURGH 1000 lb dirt bike stand](https://www.harborfreight.com/dirt-bike-stand-67151.html) (Harbor Freight `67151`) | $39.99 | Towing | **No longer wanted** (owner, 5 November 2026) |
 | [Condor SCC-4000 scooter chock](https://www.condor-lift.com/product/scooter-chock-part-scc-4000/) | $175.00 | Towing | **Deferred until a scooter is bought** (owner, 5 November 2026) - the owner has not bought the scooter (planned: Yamaha Zuma 125) yet. Sale price was $175.00, list $215.00; floor adapter not included |
@@ -158,6 +159,48 @@ One further decision is deferred rather than an item: the **onboard air compress
 | [CURT 58272 7-pin RV blade socket tester](https://www.amazon.com/CURT-58272-Trailer-Wiring-Vehicle/dp/B0BVZYBRGM) | $22.74 | Towing | **Not needed** (owner, 5 November 2026) - the truck has a **built-in trailer connection tester** (Ford's trailer lighting check), so a plug-in socket tester adds nothing |
 | [Lippert On-the-Go 14'6" telescopic ladder](https://www.campingworld.com/lippert-on-the-go-14%276-telescopic-ladder-107964.html) (Camping World item 107964, Lippert 2021126697) | $267.64 | Towing | **Returned** (owner, 5 November 2026) - it needs a Lippert ladder receiver on the outside of the RV to hook onto, and **the 323SUT has no such mount**. The trailer is not ladder-prepped for it after all |
 | [WeatherTech side window deflectors](https://www.weathertech.com/side-window-deflectors-ford-f-250f-350f-450f-550.html?year=2024&wt_779-438_superdutycabstyle=779-7883_SuperCrewCrewCab&wt_settype2=DarkTint&wt_settype=FrontRearSet&ymmSearch=true) (`801025IM-81765IM`) | $99.95 | Protection | **Returned** (owner, 14 October 2026) - in-channel deflectors **bound up when the windows closed**. Replaced by the tape-on AVS 94975 |
+
+### 323SUT power projects
+
+Two projects for the trailer's 12 V system, each with its full parts list. The lithium upgrade's rows sit in [Short-term](#short-term); the solar expansion's sit in [Deferred](#deferred). Install plan, connections and wiring diagram: [chapter 15](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/manual.html#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026).
+
+**1. Lithium battery upgrade - Short-term, to order (11 Nov 2026)**
+
+| Part | Source | Price | Status |
+| --- | --- | --- | --- |
+| Renogy Reserve Mini Smart 12V 314Ah LiFePO4, 2-pack (`RBT-L12314-C1x2-US`) | Renogy | $1,778.99 | To order |
+| Shirbly 2/0 AWG cable, 3/8 in lugs, 2 ft red + black pair x 2 | Amazon | $71.98 | In cart |
+| Shirbly 2/0 AWG cable, 3/8 in lugs, 1 ft red + black pair | Amazon | $24.99 | In cart |
+| Blue Sea 5502 Class T fuse block | Amazon | $57.98 | In cart |
+| Blue Sea 5119 Class T fuse, 300 A | Amazon | $76.45 | In cart |
+| Joinfworld 400A copper bus bar pair, 4 x 3/8 in studs, covers | Amazon | $44.98 | In cart |
+| Blue Sea 7138 breaker, 40 A (solar controller lead) | Amazon | $97.15 | In cart |
+| Install Bay CUR838 ring lugs, 8 AWG, 3/8 in | Amazon | $11.08 | In cart |
+| GOODTIMES hold-down strap kit | Amazon | $14.99 | Add to cart |
+| 8 AWG wire, 5/16 in lugs, heat shrink, crimper, wood, rubber mat | Owned | - | Owner's stock |
+| Renogy Rover 2 30A MPPT | Renogy | $89.99 | Deferred - DRIVEN DSLR-C40 has a LiFePO4 setting; owner to confirm |
+| **Total to buy** | | **$2,174.09** | after the $4.50 bus bar discount at checkout ($2,178.59 before) |
+
+**2. Solar expansion - Deferred, possible future upgrade (11 Nov 2026)**
+
+Four 320 W panels in two series pairs, one Rover Lite 60A per pair, into the lithium bank's bus bars. The factory 200 W panel stays on the DRIVEN.
+
+| Part | Qty | Price | Purpose |
+| --- | --- | --- | --- |
+| Renogy 1280W kit - 4 x 320W N-type panels, 4 x 50 in tilt mounts | 1 | $1,389.99 | Panels and brackets only - no cables or controllers |
+| Renogy Rover Lite 60A MPPT controller | 2 | $499.98 | One per series pair |
+| 10 AWG MC4 solar adaptor cable, ~30 ft red + black pair (Renogy) | 2 | ~$110 est. | Roof to controller, one pair per string |
+| Double cable entry gland (Renogy) | 2 | ~$30 est. | Roof penetration, one per string |
+| Dicor self-leveling lap sealant | 2 | ~$28 est. | Glands and tilt-mount screws |
+| PV disconnect breaker, 2-pole, 15-20 A DC, >=100 V (e.g. MidNite MNEPV), with enclosure | 2 | ~$140 est. | Isolates each string before its controller (string Isc 8.92 A, Voc ~100 V cold) |
+| Blue Sea 5191 MRBF terminal fuse block + 5181 80 A fuse | 2 | ~$104 est. | Controller-to-battery protection; mounts on a positive bus bar stud and gives a new stud |
+| 6 AWG cable red + black, ~10 ft each | 1 | ~$35 est. | Controllers to bus bars |
+| 6 AWG ring lugs, 3/8 in | 1 pack | ~$12 est. | Bus bar ends |
+| Roof fasteners and butyl tape for the tilt mounts | 1 | ~$25 est. | Tilt mounts to roof |
+| Larger bus bars (6+ studs) or a second pair | 1 | ~$45 est. | **The planned 4-stud bars are full after the lithium install** (positive: 2 batteries, Class T, 40 A breaker; negative: 2 batteries, RV, DRIVEN). The negative bar needs 2 more studs |
+| **Total** | | **~$2,420 est.** | $1,889.97 firm + ~$530 parts estimate |
+
+**Before buying the solar:** measure ~62 sq ft of clear roof, confirm the roof is walkable with Forest River, and plan the ~150 lb added to the roof.
 
 ### Researching
 
