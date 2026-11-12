@@ -580,7 +580,7 @@ Estimates throughout: appliance watts are typical, not nameplate; fuel is interp
 
 | Part | Source | Price | Status |
 | --- | --- | --- | --- |
-| [Renogy Reserve Mini Smart 12V 314Ah, 2-pack](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) (`RBT-L12314-C1x2-US`) | Renogy | $1,558.99 with the Early Black Friday package coupon (list $1,778.99) | To order - chapter 9 Short-term |
+| [Renogy Reserve Mini Smart 12V 314Ah, 2-pack](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) (`RBT-L12314-C1x2-US`) | Renogy | $1,614.05 paid ($1,500.05 + $114.00 tax) | **Ordered 12 Nov 2026** |
 | ~~Renogy Rover 2 12V/24V 30A MPPT~~ | Renogy | from $89.99 | **Deferred** - the factory DRIVEN DSLR-C40 has a LiFePO4 setting; **owner to confirm on the controller in person** |
 | Shirbly 2/0 AWG cable, 3/8 in lugs, **2 ft red + black pair x 2** | Amazon | $71.98 | In cart - the four battery cables, all the same length |
 | Shirbly 2/0 AWG cable, 3/8 in lugs, **1 ft red + black pair** | Amazon | $24.99 | In cart - red for bus bar to fuse; black is a spare |
