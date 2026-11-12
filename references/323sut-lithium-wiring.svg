@@ -1,32 +1,130 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="440" viewBox="0 0 680 440" font-family="Helvetica, Arial, sans-serif">
-<title>323SUT lithium battery wiring layout</title>
-<desc>Two Renogy Reserve Mini 314Ah batteries connect with equal-length 2/0 cables to a positive bus bar above and a negative bus bar below. The positive bar feeds a 300 A Class T fuse to the RV 12V system and a 40 A breaker to the DRIVEN DSLR-C40 solar controller; both return to the negative bar.</desc>
-<rect width="680" height="440" fill="#ffffff"/>
-<g font-size="14" text-anchor="middle" dominant-baseline="central">
-<rect x="40" y="60" width="170" height="44" rx="6" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/><text x="125" y="74" fill="#444441" font-weight="bold">DRIVEN DSLR-C40</text><text x="125" y="92" fill="#5F5E5A" font-size="12">Solar controller, 200 W</text>
-<rect x="450" y="60" width="190" height="44" rx="6" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/><text x="545" y="74" fill="#444441" font-weight="bold">RV 12V system</text><text x="545" y="92" fill="#5F5E5A" font-size="12">Via disconnect switch</text>
-<rect x="60" y="150" width="110" height="34" rx="6" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/><text x="115" y="167" fill="#712B13" font-weight="bold">40 A breaker</text>
-<rect x="180" y="150" width="260" height="34" rx="6" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/><text x="310" y="167" fill="#712B13" font-weight="bold">Positive bus bar 400 A</text>
-<rect x="470" y="150" width="130" height="34" rx="6" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/><text x="535" y="167" fill="#712B13" font-weight="bold">Class T 300 A</text>
-<rect x="180" y="230" width="120" height="60" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/><text x="240" y="252" fill="#085041" font-weight="bold">Battery 1</text><text x="240" y="272" fill="#0F6E56" font-size="12">Renogy 314Ah</text>
-<rect x="320" y="230" width="120" height="60" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/><text x="380" y="252" fill="#085041" font-weight="bold">Battery 2</text><text x="380" y="272" fill="#0F6E56" font-size="12">Renogy 314Ah</text>
-<rect x="180" y="340" width="260" height="34" rx="6" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/><text x="310" y="357" fill="#444441" font-weight="bold">Negative bus bar 400 A</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="760" viewBox="0 0 980 760" font-family="Helvetica, Arial, sans-serif">
+<title>323SUT lithium battery hookup diagram</title>
+<desc>Two Renogy Reserve Mini 314Ah batteries wired in parallel with equal-length 2/0 cables to a positive and a negative 400 A bus bar. The positive bar feeds a 300 A Class T fuse to the RV's existing main positive (disconnect switch, 120 A breaker, WFCO power centre) and a 40 A breaker to the DRIVEN DSLR-C40 solar controller. The RV main negative and the DRIVEN negative return to the negative bar.</desc>
+<rect width="980" height="760" fill="#ffffff"/>
+<text x="490" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#2C2C2A">323SUT lithium battery hookup</text>
+<text x="490" y="54" text-anchor="middle" font-size="12" fill="#5F5E5A">Front basement · 2 x Renogy Reserve Mini 314Ah in parallel · 12 V</text>
+
+<!-- ===== wires (drawn first so boxes sit on top) ===== -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- PV, unchanged -->
+  <line x1="380" y1="148" x2="460" y2="148" stroke="#888780" stroke-width="2" stroke-dasharray="6 4"/>
+  <!-- DRIVEN + : bar stud 3 -> breaker -> DRIVEN -->
+  <line x1="560" y1="345" x2="560" y2="284" stroke="#D85A30" stroke-width="2"/>
+  <line x1="560" y1="240" x2="560" y2="176" stroke="#D85A30" stroke-width="2"/>
+  <!-- Class T: bar stud 4 -> fuse -> RV main + -->
+  <line x1="740" y1="345" x2="740" y2="284" stroke="#D85A30" stroke-width="5"/>
+  <line x1="740" y1="240" x2="740" y2="196" stroke="#D85A30" stroke-width="4"/>
+  <!-- battery positives, 2/0 -->
+  <path d="M240 450 L240 410 L260 410 L260 359" stroke="#D85A30" stroke-width="5"/>
+  <path d="M480 450 L480 410 L400 410 L400 359" stroke="#D85A30" stroke-width="5"/>
+  <!-- battery negatives, 2/0 -->
+  <path d="M350 540 L350 575 L560 575 L560 614" stroke="#444441" stroke-width="5"/>
+  <path d="M590 540 L590 560 L740 560 L740 614" stroke="#444441" stroke-width="5"/>
+  <!-- DRIVEN negative, 8 AWG -->
+  <path d="M480 176 L480 206 L160 206 L160 690 L260 690 L260 644" stroke="#444441" stroke-width="2"/>
+  <!-- RV main negative, existing -->
+  <path d="M940 160 L955 160 L955 712 L400 712 L400 644" stroke="#444441" stroke-width="4"/>
 </g>
-<g fill="none">
-<line x1="210" y1="230" x2="210" y2="184" stroke="#D85A30" stroke-width="2.5"/>
-<line x1="350" y1="230" x2="350" y2="184" stroke="#D85A30" stroke-width="2.5"/>
-<line x1="270" y1="290" x2="270" y2="340" stroke="#5F5E5A" stroke-width="2.5"/>
-<line x1="410" y1="290" x2="410" y2="340" stroke="#5F5E5A" stroke-width="2.5"/>
-<line x1="440" y1="167" x2="470" y2="167" stroke="#D85A30" stroke-width="2.5"/>
-<line x1="535" y1="150" x2="535" y2="104" stroke="#D85A30" stroke-width="2.5"/>
-<line x1="180" y1="167" x2="170" y2="167" stroke="#D85A30" stroke-width="1.5"/>
-<line x1="115" y1="150" x2="115" y2="104" stroke="#D85A30" stroke-width="1.5"/>
-<path d="M40 82 L26 82 L26 357 L180 357" stroke="#5F5E5A" stroke-width="1.5"/>
-<path d="M620 104 L620 357 L440 357" stroke="#5F5E5A" stroke-width="2.5"/>
+
+<!-- ===== boxes ===== -->
+<g font-size="13" text-anchor="middle">
+  <!-- solar panel -->
+  <rect x="200" y="120" width="180" height="56" rx="6" fill="#F1EFE8" stroke="#888780"/>
+  <text x="290" y="143" font-weight="bold" fill="#444441">Roof solar, 200 W</text>
+  <text x="290" y="162" font-size="11" fill="#5F5E5A">existing · unchanged</text>
+  <!-- DRIVEN -->
+  <rect x="460" y="120" width="200" height="56" rx="6" fill="#FAEEDA" stroke="#BA7517"/>
+  <text x="560" y="143" font-weight="bold" fill="#633806">DRIVEN DSLR-C40</text>
+  <text x="560" y="162" font-size="11" fill="#854F0B">40 A PWM · set to 3.2-4 (LiFePO4)</text>
+  <!-- RV system -->
+  <rect x="680" y="76" width="260" height="120" rx="6" fill="#E6F1FB" stroke="#185FA5"/>
+  <text x="810" y="98" font-weight="bold" fill="#0C447C">RV 12 V system (existing)</text>
+  <text x="810" y="118" font-size="11" fill="#185FA5">Red rotary disconnect switch</text>
+  <text x="810" y="134" font-size="11" fill="#185FA5">→ 120 A OPTIFUSE main breaker</text>
+  <text x="810" y="150" font-size="11" fill="#185FA5">→ WFCO WF-8930/50 fuses → loads</text>
+  <text x="810" y="170" font-size="11" fill="#185FA5">WFCO Auto Detect converter charges</text>
+  <text x="810" y="185" font-size="11" fill="#185FA5">the batteries back through these cables</text>
+  <!-- breaker -->
+  <rect x="500" y="240" width="120" height="44" rx="6" fill="#FAECE7" stroke="#993C1D"/>
+  <text x="560" y="259" font-weight="bold" fill="#712B13">40 A breaker</text>
+  <text x="560" y="275" font-size="11" fill="#993C1D">Blue Sea 7138</text>
+  <!-- class T -->
+  <rect x="670" y="240" width="140" height="44" rx="6" fill="#FAECE7" stroke="#993C1D"/>
+  <text x="740" y="259" font-weight="bold" fill="#712B13">Class T 300 A</text>
+  <text x="740" y="275" font-size="11" fill="#993C1D">Blue Sea 5502 + 5119</text>
+  <!-- positive bar -->
+  <rect x="200" y="330" width="600" height="44" rx="4" fill="#F0997B" stroke="#993C1D"/>
+  <!-- negative bar -->
+  <rect x="200" y="600" width="600" height="44" rx="4" fill="#B4B2A9" stroke="#444441"/>
+  <!-- batteries -->
+  <rect x="200" y="450" width="190" height="90" rx="8" fill="#E1F5EE" stroke="#0F6E56"/>
+  <text x="295" y="490" font-weight="bold" fill="#085041">Battery 1</text>
+  <text x="295" y="508" font-size="11" fill="#0F6E56">Renogy Reserve Mini 314Ah</text>
+  <rect x="440" y="450" width="190" height="90" rx="8" fill="#E1F5EE" stroke="#0F6E56"/>
+  <text x="535" y="490" font-weight="bold" fill="#085041">Battery 2</text>
+  <text x="535" y="508" font-size="11" fill="#0F6E56">Renogy Reserve Mini 314Ah</text>
 </g>
-<g font-size="12" fill="#5F5E5A" dominant-baseline="central">
-<line x1="60" y1="410" x2="84" y2="410" stroke="#D85A30" stroke-width="2.5"/><text x="92" y="410">Positive</text>
-<line x1="170" y1="410" x2="194" y2="410" stroke="#5F5E5A" stroke-width="2.5"/><text x="202" y="410">Negative</text>
-<text x="290" y="410">Thick = 2/0 cable, thin = 8 AWG controller wire</text>
+
+<!-- bar labels -->
+<g font-size="12" text-anchor="end" fill="#2C2C2A">
+  <text x="190" y="348" font-weight="bold">Positive bus bar</text>
+  <text x="190" y="364" font-size="11" fill="#5F5E5A">Joinfworld 400 A</text>
+  <text x="190" y="618" font-weight="bold">Negative bus bar</text>
+  <text x="190" y="634" font-size="11" fill="#5F5E5A">Joinfworld 400 A</text>
+</g>
+
+<!-- studs -->
+<g stroke="#2C2C2A" stroke-width="1.5" fill="#D3D1C7">
+  <circle cx="260" cy="352" r="8"/><circle cx="400" cy="352" r="8"/><circle cx="560" cy="352" r="8"/><circle cx="740" cy="352" r="8"/>
+  <circle cx="260" cy="622" r="8"/><circle cx="400" cy="622" r="8"/><circle cx="560" cy="622" r="8"/><circle cx="740" cy="622" r="8"/>
+</g>
+<g font-size="10" fill="#2C2C2A" text-anchor="middle">
+  <text x="290" y="356">1</text><text x="430" y="356">2</text><text x="590" y="356">3</text><text x="770" y="356">4</text>
+  <text x="290" y="626">1</text><text x="430" y="626">2</text><text x="590" y="626">3</text><text x="770" y="626">4</text>
+</g>
+
+<!-- battery terminals -->
+<g font-size="12" font-weight="bold" text-anchor="middle">
+  <rect x="228" y="444" width="24" height="12" rx="2" fill="#D85A30"/><text x="240" y="470" fill="#993C1D">+</text>
+  <rect x="338" y="534" width="24" height="12" rx="2" fill="#444441"/><text x="350" y="528" fill="#444441">−</text>
+  <rect x="468" y="444" width="24" height="12" rx="2" fill="#D85A30"/><text x="480" y="470" fill="#993C1D">+</text>
+  <rect x="578" y="534" width="24" height="12" rx="2" fill="#444441"/><text x="590" y="528" fill="#444441">−</text>
+</g>
+
+<!-- wire labels -->
+<g font-size="11" fill="#5F5E5A">
+  <text x="420" y="140" text-anchor="middle">PV</text>
+  <text x="568" y="214">8 AWG red B</text>
+  <text x="568" y="318">8 AWG red A</text>
+  <text x="748" y="318">2/0 red, 1 ft</text>
+  <text x="748" y="222">RV main + (existing)</text>
+  <text x="300" y="404" text-anchor="middle" fill="#993C1D">2/0 red, 2 ft</text>
+  <text x="440" y="404" text-anchor="middle" fill="#993C1D">2/0 red, 2 ft</text>
+  <text x="455" y="569" text-anchor="middle">2/0 black, 2 ft</text>
+  <text x="665" y="554" text-anchor="middle">2/0 black, 2 ft</text>
+  <text x="168" y="680">8 AWG black (DRIVEN −)</text>
+  <text x="560" y="706" text-anchor="middle">RV main − (existing)</text>
+</g>
+
+<!-- notes -->
+<rect x="655" y="404" width="285" height="122" rx="6" fill="#FFFFFF" stroke="#B4B2A9"/>
+<g font-size="11" fill="#2C2C2A">
+  <text x="666" y="423" font-weight="bold">Before you connect</text>
+  <text x="666" y="441">1. Disconnect switch OFF; cover the solar panel.</text>
+  <text x="666" y="457">2. Charge each battery full on its own first.</text>
+  <text x="666" y="473">3. Set the DRIVEN to 3.2-4 before it sees lithium.</text>
+  <text x="666" y="489">4. Flat washer under each nut; torque per manual.</text>
+  <text x="666" y="505">5. Main + leaves stud 4, main − leaves stud 2:</text>
+  <text x="678" y="519">both batteries get equal cable paths.</text>
+</g>
+
+<!-- legend -->
+<g font-size="11" fill="#5F5E5A">
+  <line x1="200" y1="742" x2="230" y2="742" stroke="#D85A30" stroke-width="5"/><text x="236" y="746">2/0 positive</text>
+  <line x1="320" y1="742" x2="350" y2="742" stroke="#444441" stroke-width="5"/><text x="356" y="746">2/0 negative</text>
+  <line x1="440" y1="742" x2="470" y2="742" stroke="#D85A30" stroke-width="2"/><text x="476" y="746">8 AWG</text>
+  <line x1="530" y1="742" x2="560" y2="742" stroke="#888780" stroke-width="2" stroke-dasharray="6 4"/><text x="566" y="746">existing PV wiring</text>
+  <text x="700" y="746">Nothing else on the battery terminals.</text>
 </g>
 </svg>
