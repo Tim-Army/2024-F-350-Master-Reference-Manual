@@ -585,7 +585,7 @@ Estimates throughout: appliance watts are typical, not nameplate; fuel is interp
 | Shirbly 2/0 AWG cable, 3/8 in lugs, **2 ft red + black pair x 2** | Amazon | $61.18 | In cart - the four battery cables, all the same length |
 | Shirbly 2/0 AWG cable, 3/8 in lugs, **1 ft red + black pair** | Amazon | $21.24 | In cart - red for bus bar stud 4 to the MNEDC250; black is a spare |
 | [MidNite Solar MNEDC250](https://www.midnitesolar.com/productPhoto.php?product_ID=202&productCat_ID=16) panel-mount breaker, 250 A / 125 VDC, 50,000 A interrupt rating, 3/8 in studs | Amazon (STELLAVOLTA) | $134.99 ($119.85 + $15.14 shipping) | **Chosen 19 Nov 2026** - replaces the Blue Sea 5502 Class T block and 300 A fuse; also the main on/off switch |
-| MidNite MNBREAKER PROTECTOR + rubber boots for the breaker's two 3/8 in studs | - | to find | Handle guard; no bare live studs |
+| [MidNite MNBREAKER PROTECTOR](https://www.midnitesolar.com/productPhoto.php?product_ID=286&productCat_ID=16) + rubber boots for the breaker's two 3/8 in studs | - | to find | Handle guard; no bare live studs |
 | Joinfworld 400A bus bar pair, copper, 8 mm, 4 x 3/8 in studs, covers | Amazon | $35.98 | In cart - quantity 1 = red + black pair |
 | Blue Sea 7138 187-Series breaker, 40 A, surface mount, 5/16 in studs | Amazon | $94.42 | In cart - solar controller battery lead (Driven's F2/F3 fuse); doubles as its on/off switch. Ample for the 200 W panel (~15 A) |
 | Install Bay CUR838 ring lugs, 8 AWG, 3/8 in, 25-pack | Amazon | $11.08 | In cart - solar controller leads at the bus bars |
