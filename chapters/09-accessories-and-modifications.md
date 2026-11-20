@@ -11,7 +11,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | **Immediate** | now - truck in hand | 14 | **$2,236.92** |
 | **Short-term** | by 7 December 2026 (90 days) | 24 | **$5,620.08** |
 | **Long-term** | by 13 October 2027 (400 days) | 15 | **$2,471.49** |
-| **Lithium Battery Project** | 323SUT house batteries - see [Lithium Battery Project](#lithium-battery-project) | 14 | **$2,223.32** |
+| **Lithium Battery Project** | 323SUT house batteries - see [Lithium Battery Project](#lithium-battery-project) | 15 | **$2,237.91** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
 
@@ -115,6 +115,7 @@ Everything for the 323SUT's two-battery lithium bank, in one list: the batteries
 | [MAKERELE 1/2 in NPT nickel-plated brass cable glands](https://www.amazon.com/MAKERELE-Nickel-Plated-Adjustable-Weatherproof-Connectors/dp/B0DJ2R52LV), 4-pack, 6-12 mm | **$13.99** | Electronics | Planned - in cart | MNDC250 7/8 in knockouts - 8 AWG red A in, red B out (2 used) |
 | [MAKERELE 3/4 in NPT nickel-plated brass cable glands](https://www.amazon.com/MAKERELE-Nickel-Plated-Waterproof-Adjustable-Weather-Tight/dp/B0DJ2R7W5J), 4-pack, 13-18 mm | **$17.88** | Electronics | Planned - in cart | 2/0 in from bar stud 4 and RV main + out (2 used). **Measure the Shirbly 2/0 jacket on arrival** - over 18 mm needs 1 in glands instead |
 | GWNF zinc-plated steel reducing washer kit, 50 pieces, 6 sizes incl. 1 in x 3/4 in | **$21.99** | Electronics | Planned - in cart | Two pairs (inside and outside) to seat the 3/4 in glands in the box's 1-3/8 in knockouts |
+| [ISPINNER cushioned cable clamp kit](https://www.amazon.com/ISPINNER-Clamps-Assortment-Stainless-Cushion/dp/B07V2YBDS5), 52 pieces, 304 stainless with rubber lining, 1/4-3/4 in | **$14.59** | Electronics | Planned - in cart | P-clamps: 5/8 in on the RV main 2/0 cables near the MNDC250 and bus bar, 1/4 or 5/16 in on the DRIVEN 8 AWG leads; every 12-18 in and within 6 in of each lug |
 | Joinfworld 400A copper bus bar pair, 4 x 3/8 in studs, covers | **$35.98** | Electronics | Planned - in cart | Quantity 1 = red + black pair. Stud order on the [hookup diagram](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/323sut-lithium-wiring.svg) |
 | [MidNite Solar MNEDC40](https://www.midnitesolar.com/productPhoto.php?product_ID=197&productCat_ID=8) panel-mount breaker, 40 A / 150 VDC, 10,000 A interrupt rating | **$27.97** (Amazon, sold by Solar Energy Systems; free shipping) | Electronics | Planned - in cart | DRIVEN solar controller battery lead; doubles as its on/off switch. **Replaces the Blue Sea 7138 ($94.42, saved for later) on 19 Nov 2026** - $66.45 less, and it mounts in one of the MNDC250's panel-mount slots, inside the box. 3/4 in wide, **1/4 in studs**, torque 30 in-lb, Type 1 (indoor) |
 | RED WOLF 8 AWG ring lugs, **1/4 in** (M6) stud, 12-pack with adhesive heat shrink | **$11.99** | Electronics | Planned - in cart | Both ends of the MNEDC40 (red A and red B); the owned lugs are 5/16 in and 3/8 in |
@@ -122,7 +123,7 @@ Everything for the 323SUT's two-battery lithium bank, in one list: the batteries
 | Install Bay CUR838 ring lugs, 8 AWG, 3/8 in, 25-pack | **$11.08** | Electronics | Planned - in cart | DRIVEN leads at the bus bars |
 | GOODTIMES battery box hold-down strap kit (2 straps each) x 2 | **$29.98** (2 x $14.99) | Electronics | Planned - in cart | Two kits, owner's choice (19 Nov 2026) |
 | 8 AWG wire red + black, 8 AWG 5/16 in lugs, heat shrink, crimper, wood, rubber mat |  | Electronics | Owned | Owner's stock |
-| **Phase total** | **$2,223.32** |  |  | *13 items priced* |
+| **Phase total** | **$2,237.91** |  |  | *14 items priced* |
 
 ### Already owned
 
