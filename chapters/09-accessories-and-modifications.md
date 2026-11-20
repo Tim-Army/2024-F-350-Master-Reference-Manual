@@ -11,7 +11,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | **Immediate** | now - truck in hand | 14 | **$2,236.92** |
 | **Short-term** | by 7 December 2026 (90 days) | 24 | **$5,620.08** |
 | **Long-term** | by 13 October 2027 (400 days) | 15 | **$2,471.49** |
-| **Lithium Battery Project** | 323SUT house batteries - see [Lithium Battery Project](#lithium-battery-project) | 10 | **$2,117.48** |
+| **Lithium Battery Project** | 323SUT house batteries - see [Lithium Battery Project](#lithium-battery-project) | 12 | **$2,169.46** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
 
@@ -115,11 +115,12 @@ Everything for the 323SUT's two-battery lithium bank, in one list: the batteries
 | Cable glands or bushings for the MNDC250 knockouts |  | Electronics | Planned - to add | One per cable entering the box (2/0 in and out, 8 AWG in and out), so the aluminium edge cannot chafe the insulation |
 | Joinfworld 400A copper bus bar pair, 4 x 3/8 in studs, covers | **$35.98** | Electronics | Planned - in cart | Quantity 1 = red + black pair. Stud order on the [hookup diagram](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/323sut-lithium-wiring.svg) |
 | [MidNite Solar MNEDC40](https://www.midnitesolar.com/productPhoto.php?product_ID=197&productCat_ID=8) panel-mount breaker, 40 A / 150 VDC, 10,000 A interrupt rating | **$27.97** (Amazon, sold by Solar Energy Systems; free shipping) | Electronics | Planned - in cart | DRIVEN solar controller battery lead; doubles as its on/off switch. **Replaces the Blue Sea 7138 ($94.42, saved for later) on 19 Nov 2026** - $66.45 less, and it mounts in one of the MNDC250's panel-mount slots, inside the box. 3/4 in wide, **1/4 in studs**, torque 30 in-lb, Type 1 (indoor) |
-| 8 AWG ring lugs, **1/4 in** stud |  | Electronics | Planned - to add | Both ends of the MNEDC40 (red A and red B); the owned lugs are 5/16 in and 3/8 in |
+| RED WOLF 8 AWG ring lugs, **1/4 in** (M6) stud, 12-pack with adhesive heat shrink | **$11.99** | Electronics | Planned - in cart | Both ends of the MNEDC40 (red A and red B); the owned lugs are 5/16 in and 3/8 in |
+| Solsop 10-ton hydraulic crimper, 9 hex dies 12 AWG-2/0, with cable cutter | **$39.99** | Electronics | Planned - in cart | Crimps the 8 AWG lugs and, if the RV's main cables need new 3/8 in lugs, 2/0. **Dies are marked in mm2** - 8 AWG uses the 10 die, 2/0 about 70; a reviewer found the 2/0 die loose on Shirbly 2/0 and went one size up, so test-crimp scrap first |
 | Install Bay CUR838 ring lugs, 8 AWG, 3/8 in, 25-pack | **$11.08** | Electronics | Planned - in cart | DRIVEN leads at the bus bars |
 | GOODTIMES battery box hold-down strap kit (2 straps each) x 2 | **$29.98** (2 x $14.99) | Electronics | Planned - in cart | Two kits, owner's choice (19 Nov 2026) |
 | 8 AWG wire red + black, 8 AWG 5/16 in lugs, heat shrink, crimper, wood, rubber mat |  | Electronics | Owned | Owner's stock |
-| **Phase total** | **$2,117.48** |  |  | *8 items priced* |
+| **Phase total** | **$2,169.46** |  |  | *10 items priced* |
 
 ### Already owned
 
