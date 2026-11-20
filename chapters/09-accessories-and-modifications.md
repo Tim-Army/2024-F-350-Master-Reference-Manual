@@ -118,7 +118,7 @@ Everything for the 323SUT's two-battery lithium bank, in one list: the batteries
 | Install Bay CUR838 ring lugs, 8 AWG, 3/8 in, 25-pack | **$11.08** | Electronics | Planned - in cart | DRIVEN leads at the bus bars |
 | GOODTIMES battery box hold-down strap kit (2 straps each) x 2 | **$29.98** (2 x $14.99) | Electronics | Planned - in cart | Two kits, owner's choice (19 Nov 2026) |
 | 8 AWG wire red + black, 8 AWG 5/16 in lugs, heat shrink, crimper, wood, rubber mat |  | Electronics | Owned | Owner's stock |
-| Renogy Rover 2 12V/24V 30A MPPT | - | Electronics | Deferred | Not counted ($89.99 if ever needed). The factory DRIVEN DSLR-C40 has a LiFePO4 setting (type 3.2-4); owner to confirm at the trailer |
+| Renogy Rover 2 12V/24V 30A MPPT | $89.99 | Electronics | Deferred | Not counted in the total. The factory DRIVEN DSLR-C40 has a LiFePO4 setting (type 3.2-4); owner to confirm at the trailer |
 | **Phase total** | **$1,996.75** |  |  | *9 items priced* |
 
 ### Already owned

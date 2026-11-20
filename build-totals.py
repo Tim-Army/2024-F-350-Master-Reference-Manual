@@ -50,13 +50,17 @@ def main() -> None:
                 i += 1
             total = 0.0
             counted = 0
+            header = cells(table[0])
+            # Find the Status column by name; tables differ in layout.
+            si = header.index("Status") if "Status" in header else None
             for row in table[2:]:
                 c = cells(row)
                 if len(c) < 4 or c[0].startswith(TOTAL_LABEL):
                     continue
-                status = c[2].replace("*", "").strip()
-                if status == "Deferred":
-                    continue
+                if si is not None and si < len(c):
+                    status = c[si].replace("*", "").strip()
+                    if status.startswith("Deferred"):
+                        continue
                 p = price_of(c[1])
                 if p is not None:
                     total += p
