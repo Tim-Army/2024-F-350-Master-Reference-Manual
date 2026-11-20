@@ -25,6 +25,46 @@
 <polyline points="175.2,807.1 1282.2,807.1" stroke="#ffffff" stroke-opacity="0.18" fill="none"/>
 <polyline points="197.3,791.6 1304.3,791.6" stroke="#ffffff" stroke-opacity="0.18" fill="none"/>
 <polyline points="219.4,776.1 1326.4,776.1" stroke="#ffffff" stroke-opacity="0.18" fill="none"/>
+<g opacity="0.55">
+<polygon points="1149.5,900.0 1149.5,265.5 1348.6,126.1 1348.6,760.6" fill="#9aa3ab" stroke="#5f666d" stroke-width="1.2" stroke-linejoin="round" />
+<polyline points="1199.3,865.2 1199.3,230.7" stroke="#6b7178" stroke-width="1.2" fill="none"/>
+<polyline points="1249.0,830.3 1249.0,195.8" stroke="#6b7178" stroke-width="1.2" fill="none"/>
+<polyline points="1298.8,795.5 1298.8,161.0" stroke="#6b7178" stroke-width="1.2" fill="none"/>
+<circle cx="1155.0" cy="869.1" r="1.8" fill="#5f666d"/>
+<circle cx="1155.0" cy="572.1" r="1.8" fill="#5f666d"/>
+<circle cx="1155.0" cy="288.6" r="1.8" fill="#5f666d"/>
+<circle cx="1193.7" cy="842.0" r="1.8" fill="#5f666d"/>
+<circle cx="1193.7" cy="545.0" r="1.8" fill="#5f666d"/>
+<circle cx="1193.7" cy="261.5" r="1.8" fill="#5f666d"/>
+<circle cx="1204.8" cy="834.3" r="1.8" fill="#5f666d"/>
+<circle cx="1204.8" cy="537.3" r="1.8" fill="#5f666d"/>
+<circle cx="1204.8" cy="253.8" r="1.8" fill="#5f666d"/>
+<circle cx="1243.5" cy="807.2" r="1.8" fill="#5f666d"/>
+<circle cx="1243.5" cy="510.2" r="1.8" fill="#5f666d"/>
+<circle cx="1243.5" cy="226.7" r="1.8" fill="#5f666d"/>
+<circle cx="1254.6" cy="799.4" r="1.8" fill="#5f666d"/>
+<circle cx="1254.6" cy="502.4" r="1.8" fill="#5f666d"/>
+<circle cx="1254.6" cy="218.9" r="1.8" fill="#5f666d"/>
+<circle cx="1293.3" cy="772.3" r="1.8" fill="#5f666d"/>
+<circle cx="1293.3" cy="475.3" r="1.8" fill="#5f666d"/>
+<circle cx="1293.3" cy="191.8" r="1.8" fill="#5f666d"/>
+<circle cx="1304.3" cy="764.6" r="1.8" fill="#5f666d"/>
+<circle cx="1304.3" cy="467.6" r="1.8" fill="#5f666d"/>
+<circle cx="1304.3" cy="184.1" r="1.8" fill="#5f666d"/>
+<circle cx="1343.0" cy="737.5" r="1.8" fill="#5f666d"/>
+<circle cx="1343.0" cy="440.5" r="1.8" fill="#5f666d"/>
+<circle cx="1343.0" cy="157.0" r="1.8" fill="#5f666d"/>
+</g>
+<g opacity="0.85">
+<polygon points="1085.1,793.9 1085.1,604.9 1173.6,542.9 1173.6,731.9" fill="#e9ebee" stroke="#7d848b" stroke-width="1.2" stroke-linejoin="round" />
+<polygon points="1085.1,604.9 1166.1,604.9 1254.6,542.9 1173.6,542.9" fill="#d5d9dd" stroke="#7d848b" stroke-width="1" stroke-linejoin="round" />
+<polygon points="1085.1,793.9 1166.1,793.9 1166.1,604.9 1085.1,604.9" fill="#c4c9ce" stroke="#7d848b" stroke-width="1" stroke-linejoin="round" />
+<text x="1129.3" y="636.0" font-size="12" text-anchor="middle" fill="#3d4146" font-weight="bold" >WFCO</text>
+<text x="1129.3" y="679.2" font-size="11" text-anchor="middle" fill="#3d4146" font-weight="normal" >WF-T57-R</text>
+</g>
+<path d="M1112.5,782.3 C1113.2,791.6 1112.3,824.0 1116.6,838.2 C1121.0,852.4 1135.0,862.7 1138.7,867.6" fill="none" stroke="#e8b400" stroke-width="9" stroke-linecap="round" opacity="0.6"/>
+<path d="M1134.6,766.8 C1135.3,776.1 1138.1,805.9 1138.8,822.7 C1139.4,839.5 1138.7,860.1 1138.7,867.6" fill="none" stroke="#e8b400" stroke-width="9" stroke-linecap="round" opacity="0.6"/>
+<path d="M1162.2,747.4 C1162.9,756.7 1170.3,783.3 1166.4,803.4 C1162.5,823.4 1143.3,856.9 1138.7,867.6" fill="none" stroke="#6b6b6b" stroke-width="9" stroke-linecap="round" opacity="0.6"/>
 <polygon points="754.4,472.1 754.4,248.0 762.7,242.2 762.7,466.3" fill="#c9a771" stroke="#a88a5a" stroke-width="1" stroke-linejoin="round" />
 <polygon points="311.6,248.0 754.4,248.0 762.7,242.2 319.9,242.2" fill="#ecd6ad" stroke="#a88a5a" stroke-width="1" stroke-linejoin="round" />
 <polygon points="311.6,472.1 754.4,472.1 754.4,248.0 311.6,248.0" fill="url(#ply)" stroke="#a88a5a" stroke-width="1" stroke-linejoin="round" />
@@ -371,7 +411,13 @@
 <text x="1333.9" y="83.2" font-size="12" text-anchor="end" fill="#2C2C2A" font-weight="bold" >to disconnect switch</text>
 <text x="1333.9" y="98.2" font-size="11" text-anchor="end" fill="#5F5E5A" font-weight="normal" >→ 120 A OPTIFUSE → WFCO</text>
 <text x="1333.9" y="113.2" font-size="11" text-anchor="end" fill="#5F5E5A" font-weight="normal" >main + (existing)</text>
-<text x="1338.0" y="768.6" font-size="11" text-anchor="end" fill="#2e7d32" font-weight="normal" >chassis (optional ground)</text>
+<text x="1332.0" y="716.6" font-size="11" text-anchor="end" fill="#2e7d32" font-weight="normal" >chassis (optional ground)</text>
+<rect x="1056.0" y="782.9" width="300" height="68" rx="6" fill="#ffffff" fill-opacity="0.92" stroke="#9aa0a6"/>
+<line x1="1169.8" y1="762.9" x2="1288.0" y2="782.9" stroke="#6b6f74" stroke-width="0.9"/>
+<text x="1344.0" y="798.9" font-size="12" text-anchor="end" fill="#2C2C2A" font-weight="bold" >WFCO WF-T57-R transfer switch</text>
+<text x="1344.0" y="813.9" font-size="11" text-anchor="end" fill="#5F5E5A" font-weight="normal" >120/240 V AC, 50 A - on the steel right wall</text>
+<text x="1344.0" y="828.9" font-size="11" text-anchor="end" fill="#993C1D" font-weight="bold" >Not part of this job: keep the 12 V cables clear</text>
+<text x="1344.0" y="843.9" font-size="10.5" text-anchor="end" fill="#5F5E5A" font-weight="normal" >(right wall cut away; size approximate)</text>
 <line x1="264.1" y1="223.7" x2="202.1" y2="227.7" stroke="#6b6f74" stroke-width="0.9"/>
 <rect x="153.7" y="217.7" width="96.8" height="16" rx="8" fill="#ffffff" stroke="#9aa0a6"/>
 <text x="202.1" y="229.7" font-size="10.5" text-anchor="middle" fill="#3d4146" font-weight="bold" >P-clamp 1/4 in</text>
