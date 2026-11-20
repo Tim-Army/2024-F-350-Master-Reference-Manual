@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diagram viewer</title>
+<style>
+  :root { --bg: #f4f3ef; --bar: #ffffff; --ink: #2c2c2a; --muted: #5f5e5a; --line: #d3d1c7; --accent: #185fa5; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #1e1e1d; --bar: #2a2a28; --ink: #ecebe6; --muted: #b4b2a9; --line: #444441; --accent: #6aa8e8; }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink);
+    font-family: Helvetica, Arial, sans-serif; }
+  body { display: flex; flex-direction: column; }
+  header { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding: 8px 16px;
+    background: var(--bar); border-bottom: 1px solid var(--line); }
+  header h1 { font-size: 15px; margin: 0 auto 0 0; }
+  button, select { font: inherit; font-size: 14px; min-width: 40px; height: 36px; padding: 0 10px;
+    border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); cursor: pointer; }
+  button:hover { border-color: var(--accent); }
+  #zoom { min-width: 56px; text-align: center; color: var(--muted); font-variant-numeric: tabular-nums; }
+  #stage { flex: 1; overflow: auto; cursor: grab; touch-action: none; position: relative; }
+  #stage.drag { cursor: grabbing; }
+  #pad { padding: 16px; width: max-content; min-width: 100%; }
+  #img { display: block; margin: 0 auto; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,.15);
+    user-select: none; -webkit-user-drag: none; }
+  footer { padding: 6px 16px; font-size: 12px; color: var(--muted); background: var(--bar);
+    border-top: 1px solid var(--line); }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1 id="title">Diagram</h1>
+  <select id="pick" aria-label="Diagram"></select>
+  <button id="out" aria-label="Zoom out">−</button>
+  <span id="zoom">100%</span>
+  <button id="in" aria-label="Zoom in">+</button>
+  <button id="fit">Fit</button>
+  <button id="one">1:1</button>
+  <a id="raw" href="#">Open SVG</a>
+</header>
+<div id="stage"><div id="pad"><img id="img" alt=""></div></div>
+<footer>Scroll wheel or pinch to zoom · drag to pan · double-click to zoom in · keys + − 0 (fit) 1 (1:1). Vector drawing: sharp at any zoom.</footer>
+<script>
+const DIAGRAMS = {
+  "323sut-lithium-layout.svg": { title: "323SUT lithium install layout", w: 1400, h: 1240 },
+  "323sut-lithium-wiring.svg": { title: "323SUT lithium hookup diagram", w: 980, h: 760 },
+};
+const params = new URLSearchParams(location.search);
+let file = params.get("svg");
+if (!DIAGRAMS[file]) file = Object.keys(DIAGRAMS)[0];
+const D = DIAGRAMS[file];
+const stage = document.getElementById("stage"), img = document.getElementById("img");
+const pick = document.getElementById("pick");
+for (const [f, d] of Object.entries(DIAGRAMS)) {
+  const o = new Option(d.title, f); o.selected = f === file; pick.add(o);
+}
+pick.onchange = () => { location.search = "?svg=" + encodeURIComponent(pick.value); };
+document.title = D.title;
+document.getElementById("title").textContent = D.title;
+document.getElementById("raw").href = file;
+img.alt = D.title;
+img.src = file;
+
+const MIN = 0.1, MAX = 12;
+let z = 1;
+function fitZoom() {
+  const f = Math.min((stage.clientWidth - 32) / D.w, (stage.clientHeight - 32) / D.h);
+  return f > 0 ? f : 1;
+}
+function setZoom(nz, cx, cy) {
+  nz = Math.min(MAX, Math.max(MIN, nz));
+  const r = stage.getBoundingClientRect();
+  if (cx === undefined) { cx = r.width / 2; cy = r.height / 2; }
+  const ix = (stage.scrollLeft + cx - img.offsetLeft) / z;
+  const iy = (stage.scrollTop + cy - img.offsetTop) / z;
+  z = nz;
+  img.style.width = (D.w * z) + "px";
+  img.style.height = (D.h * z) + "px";
+  stage.scrollLeft = ix * z + img.offsetLeft - cx;
+  stage.scrollTop = iy * z + img.offsetTop - cy;
+  document.getElementById("zoom").textContent = Math.round(z * 100) + "%";
+}
+const fit = () => setZoom(fitZoom());
+document.getElementById("in").onclick = () => setZoom(z * 1.25);
+document.getElementById("out").onclick = () => setZoom(z / 1.25);
+document.getElementById("fit").onclick = fit;
+document.getElementById("one").onclick = () => setZoom(1);
+
+stage.addEventListener("wheel", e => {
+  e.preventDefault();
+  const r = stage.getBoundingClientRect();
+  setZoom(z * Math.exp(-e.deltaY * (e.deltaMode ? 0.05 : 0.0015)), e.clientX - r.left, e.clientY - r.top);
+}, { passive: false });
+stage.addEventListener("dblclick", e => {
+  const r = stage.getBoundingClientRect();
+  setZoom(z * (e.shiftKey ? 0.5 : 2), e.clientX - r.left, e.clientY - r.top);
+});
+
+// drag to pan, two fingers to pinch
+const pts = new Map();
+let pinch = null;
+stage.addEventListener("pointerdown", e => {
+  pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+  stage.setPointerCapture(e.pointerId);
+  stage.classList.add("drag");
+  if (pts.size === 2) {
+    const [a, b] = [...pts.values()];
+    pinch = { d: Math.hypot(a.x - b.x, a.y - b.y), z };
+  }
+});
+stage.addEventListener("pointermove", e => {
+  const p = pts.get(e.pointerId);
+  if (!p) return;
+  if (pts.size === 1) {
+    stage.scrollLeft -= e.clientX - p.x;
+    stage.scrollTop -= e.clientY - p.y;
+  }
+  p.x = e.clientX; p.y = e.clientY;
+  if (pts.size === 2 && pinch) {
+    const [a, b] = [...pts.values()];
+    const r = stage.getBoundingClientRect();
+    setZoom(pinch.z * Math.hypot(a.x - b.x, a.y - b.y) / pinch.d,
+            (a.x + b.x) / 2 - r.left, (a.y + b.y) / 2 - r.top);
+  }
+});
+function up(e) {
+  pts.delete(e.pointerId);
+  if (pts.size < 2) pinch = null;
+  if (!pts.size) stage.classList.remove("drag");
+}
+stage.addEventListener("pointerup", up);
+stage.addEventListener("pointercancel", up);
+
+document.addEventListener("keydown", e => {
+  if (e.target.tagName === "SELECT") return;
+  if (e.key === "+" || e.key === "=") setZoom(z * 1.25);
+  else if (e.key === "-") setZoom(z / 1.25);
+  else if (e.key === "0") fit();
+  else if (e.key === "1") setZoom(1);
+});
+img.style.width = D.w + "px"; img.style.height = D.h + "px";
+requestAnimationFrame(fit);
+</script>
+</body>
+</html>
