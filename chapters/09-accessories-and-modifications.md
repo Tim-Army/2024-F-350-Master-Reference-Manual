@@ -156,6 +156,7 @@ One further decision is deferred rather than an item: the **onboard air compress
 
 | Item | Price | Phase | Why not |
 | --- | --- | --- | --- |
+| [MidNite Solar MNBREAKER PROTECTOR](https://www.stellavolta.com/MidNite-Solar-MNBREAKER-PROTECTOR-Breaker-Protector.htm) - handle guard for the 175 A or 250 A breaker | $23.99 (StellaVolta, MSRP $33.50; shipping extra) | Electronics | **Deferred** (owner, 19 Nov 2026) - the MNDC250's 250 A breaker sits inside its enclosure, so the guard against an accidental knock is optional; add it later if the handle proves easy to bump in the battery compartment |
 | EcoHitch front mount receiver | - | Towing | Archived - front carrier idea not pursued. **Tongue rating confirmed 1,000 lb**, comfortably above the ~340 lb load. Analysis kept in [chapter 10](10-fifth-wheel-and-towing.md) |
 | Black Widow `AMC-400-DLX` motorcycle carrier | - | Towing | Archived with the front receiver above |
 | [Coverland custom-fit cover](https://coverland.com/steering-wheel-covers/ford/f-350-super-duty?year=2024) | $49.95 | Immediate | Rejected: slip-on, not lace-on. Price kept for reference |
