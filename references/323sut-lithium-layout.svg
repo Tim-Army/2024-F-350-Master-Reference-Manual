@@ -255,12 +255,18 @@
 <circle cx="455.6" cy="425.9" r="9.3" fill="#cfd2d6" stroke="#8d9196" stroke-width="1.2"/>
 <polygon points="460.5,428.7 455.6,431.6 450.6,428.7 450.6,423.0 455.6,420.1 460.5,423.0" fill="#b9bdc2" stroke="#5f6368" stroke-width="1"/>
 <circle cx="455.6" cy="425.9" r="2.2" fill="#7b7f84"/>
-<rect x="256.1" y="214.6" width="16.0" height="18.2" rx="3" fill="#b8bcc0" stroke="#6b6f74" stroke-width="1.2" opacity="0.95"/>
-<rect x="258.1" y="216.6" width="12.0" height="14.2" rx="2" fill="none" stroke="#3b3b3b" stroke-width="1.2"/>
-<circle cx="264.1" cy="209.6" r="3.2" fill="#9aa0a6" stroke="#55595e"/>
-<rect x="288.5" y="189.0" width="16.0" height="26.3" rx="3" fill="#b8bcc0" stroke="#6b6f74" stroke-width="1.2" opacity="0.95"/>
-<rect x="290.5" y="191.0" width="12.0" height="22.3" rx="2" fill="none" stroke="#3b3b3b" stroke-width="1.2"/>
-<circle cx="296.5" cy="184.0" r="3.2" fill="#9aa0a6" stroke="#55595e"/>
+<rect x="241.6" y="219.2" width="15.0" height="9.0" rx="2" fill="#c3c7cb" stroke="#6b6f74" stroke-width="1"/>
+<rect x="256.6" y="217.7" width="15.0" height="12.0" rx="4.5" fill="#2b2b2b"/>
+<rect x="257.6" y="219.2" width="13.0" height="9.0" rx="4" fill="#d3d6da" stroke="#6b6f74" stroke-width="1"/>
+<line x1="259.6" y1="222.2" x2="268.6" y2="222.2" stroke="#ffffff" stroke-opacity="0.7" stroke-width="1.2"/>
+<circle cx="246.6" cy="223.7" r="3.4" fill="#9aa0a6" stroke="#4f5358"/>
+<line x1="244.6" y1="223.7" x2="248.6" y2="223.7" stroke="#4f5358" stroke-width="1"/>
+<rect x="306.0" y="197.6" width="15.0" height="9.0" rx="2" fill="#c3c7cb" stroke="#6b6f74" stroke-width="1"/>
+<rect x="287.0" y="196.1" width="19.0" height="12.0" rx="4.5" fill="#2b2b2b"/>
+<rect x="288.0" y="197.6" width="17.0" height="9.0" rx="4" fill="#d3d6da" stroke="#6b6f74" stroke-width="1"/>
+<line x1="290.0" y1="200.6" x2="303.0" y2="200.6" stroke="#ffffff" stroke-opacity="0.7" stroke-width="1.2"/>
+<circle cx="316.0" cy="202.1" r="3.4" fill="#9aa0a6" stroke="#4f5358"/>
+<line x1="314.0" y1="202.1" x2="318.0" y2="202.1" stroke="#4f5358" stroke-width="1"/>
 <path d="M536.0,323.6 C537.0,317.5 533.0,303.0 542.1,287.0 C551.2,271.0 558.4,237.6 590.8,227.8 C623.3,217.9 702.8,217.2 736.6,227.8 C770.4,238.3 782.6,274.2 793.7,291.2 C804.8,308.3 801.5,323.7 803.0,330.2" fill="none" stroke="#7a1010" stroke-width="9.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M536.0,323.6 C537.0,317.5 533.0,303.0 542.1,287.0 C551.2,271.0 558.4,237.6 590.8,227.8 C623.3,217.9 702.8,217.2 736.6,227.8 C770.4,238.3 782.6,274.2 793.7,291.2 C804.8,308.3 801.5,323.7 803.0,330.2" fill="none" stroke="#c62828" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M536.0,323.6 C537.0,317.5 533.0,303.0 542.1,287.0 C551.2,271.0 558.4,237.6 590.8,227.8 C623.3,217.9 702.8,217.2 736.6,227.8 C770.4,238.3 782.6,274.2 793.7,291.2 C804.8,308.3 801.5,323.7 803.0,330.2" fill="none" stroke="#f08a80" stroke-width="1.5" stroke-linecap="round" opacity="0.55" transform="translate(-1.3,-1.3)"/>
@@ -270,9 +276,12 @@
 <circle cx="536.6" cy="344.9" r="6.0" fill="#cfd2d6" stroke="#8d9196" stroke-width="1.2"/>
 <polygon points="539.7,346.7 536.6,348.5 533.4,346.7 533.4,343.0 536.6,341.2 539.7,343.0" fill="#b9bdc2" stroke="#5f6368" stroke-width="1"/>
 <circle cx="536.6" cy="344.9" r="1.4" fill="#7b7f84"/>
-<rect x="661.0" y="219.8" width="16.2" height="16.0" rx="3" fill="#b8bcc0" stroke="#6b6f74" stroke-width="1.2" opacity="0.95"/>
-<rect x="663.0" y="221.8" width="12.2" height="12.0" rx="2" fill="none" stroke="#3b3b3b" stroke-width="1.2"/>
-<circle cx="656.0" cy="227.8" r="3.2" fill="#9aa0a6" stroke="#55595e"/>
+<rect x="664.6" y="205.3" width="9.0" height="15.0" rx="2" fill="#c3c7cb" stroke="#6b6f74" stroke-width="1"/>
+<rect x="663.1" y="220.3" width="12.0" height="15.0" rx="4.5" fill="#2b2b2b"/>
+<rect x="664.6" y="221.3" width="9.0" height="13.0" rx="4" fill="#d3d6da" stroke="#6b6f74" stroke-width="1"/>
+<line x1="667.6" y1="223.3" x2="667.6" y2="232.3" stroke="#ffffff" stroke-opacity="0.7" stroke-width="1.2"/>
+<circle cx="669.1" cy="210.3" r="3.4" fill="#9aa0a6" stroke="#4f5358"/>
+<line x1="667.1" y1="210.3" x2="671.1" y2="210.3" stroke="#4f5358" stroke-width="1"/>
 <path d="M820.6,330.2 C824.6,330.4 838.6,332.0 844.9,331.6 C851.2,331.1 856.1,328.2 858.4,327.5" fill="none" stroke="#7a1010" stroke-width="9.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M820.6,330.2 C824.6,330.4 838.6,332.0 844.9,331.6 C851.2,331.1 856.1,328.2 858.4,327.5" fill="none" stroke="#c62828" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M820.6,330.2 C824.6,330.4 838.6,332.0 844.9,331.6 C851.2,331.1 856.1,328.2 858.4,327.5" fill="none" stroke="#f08a80" stroke-width="1.5" stroke-linecap="round" opacity="0.55" transform="translate(-1.3,-1.3)"/>
@@ -294,9 +303,12 @@
 <circle cx="617.6" cy="344.9" r="11.9" fill="#cfd2d6" stroke="#8d9196" stroke-width="1.2"/>
 <polygon points="623.9,348.5 617.6,352.1 611.3,348.5 611.3,341.2 617.6,337.6 623.9,341.2" fill="#b9bdc2" stroke="#5f6368" stroke-width="1"/>
 <circle cx="617.6" cy="344.9" r="2.8" fill="#7b7f84"/>
-<rect x="713.7" y="353.4" width="30.4" height="16.0" rx="3" fill="#b8bcc0" stroke="#6b6f74" stroke-width="1.2" opacity="0.95"/>
-<rect x="715.7" y="355.4" width="26.4" height="12.0" rx="2" fill="none" stroke="#3b3b3b" stroke-width="1.2"/>
-<circle cx="708.7" cy="361.4" r="3.2" fill="#9aa0a6" stroke="#55595e"/>
+<rect x="724.4" y="335.4" width="9.0" height="15.0" rx="2" fill="#c3c7cb" stroke="#6b6f74" stroke-width="1"/>
+<rect x="722.9" y="350.4" width="12.0" height="22.0" rx="4.5" fill="#2b2b2b"/>
+<rect x="724.4" y="351.4" width="9.0" height="20.0" rx="4" fill="#d3d6da" stroke="#6b6f74" stroke-width="1"/>
+<line x1="727.4" y1="353.4" x2="727.4" y2="369.4" stroke="#ffffff" stroke-opacity="0.7" stroke-width="1.2"/>
+<circle cx="728.9" cy="340.4" r="3.4" fill="#9aa0a6" stroke="#4f5358"/>
+<line x1="726.9" y1="340.4" x2="730.9" y2="340.4" stroke="#4f5358" stroke-width="1"/>
 <path d="M818.9,415.1 C836.5,415.3 899.4,418.7 924.2,416.4 C949.0,414.1 959.1,410.6 968.0,401.2 C976.8,391.8 975.6,366.8 977.2,359.9" fill="none" stroke="#7a1010" stroke-width="16.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M818.9,415.1 C836.5,415.3 899.4,418.7 924.2,416.4 C949.0,414.1 959.1,410.6 968.0,401.2 C976.8,391.8 975.6,366.8 977.2,359.9" fill="none" stroke="#c62828" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M818.9,415.1 C836.5,415.3 899.4,418.7 924.2,416.4 C949.0,414.1 959.1,410.6 968.0,401.2 C976.8,391.8 975.6,366.8 977.2,359.9" fill="none" stroke="#f08a80" stroke-width="3.1" stroke-linecap="round" opacity="0.55" transform="translate(-2.5,-2.5)"/>
@@ -324,9 +336,12 @@
 <line x1="1275.2" y1="398.9" x2="1291.4" y2="398.9" stroke="#d9c98f" stroke-width="20.7"/>
 <polygon points="1286.2,405.3 1275.2,411.6 1264.2,405.3 1264.2,392.5 1275.2,386.1 1286.2,392.5" fill="#cdbb7a" stroke="#8a7a45" stroke-width="1"/>
 <circle cx="1291.4" cy="398.9" r="8.5" fill="#e6d9a8" stroke="#8a7a45"/>
-<rect x="1319.9" y="224.1" width="16.0" height="26.3" rx="3" fill="#b8bcc0" stroke="#6b6f74" stroke-width="1.2" opacity="0.95"/>
-<rect x="1321.9" y="226.1" width="12.0" height="22.3" rx="2" fill="none" stroke="#3b3b3b" stroke-width="1.2"/>
-<circle cx="1327.9" cy="219.1" r="3.2" fill="#9aa0a6" stroke="#55595e"/>
+<rect x="1303.4" y="232.7" width="15.0" height="9.0" rx="2" fill="#c3c7cb" stroke="#6b6f74" stroke-width="1"/>
+<rect x="1318.4" y="231.2" width="19.0" height="12.0" rx="4.5" fill="#2b2b2b"/>
+<rect x="1319.4" y="232.7" width="17.0" height="9.0" rx="4" fill="#d3d6da" stroke="#6b6f74" stroke-width="1"/>
+<line x1="1321.4" y1="235.7" x2="1334.4" y2="235.7" stroke="#ffffff" stroke-opacity="0.7" stroke-width="1.2"/>
+<circle cx="1308.4" cy="237.2" r="3.4" fill="#9aa0a6" stroke="#4f5358"/>
+<line x1="1306.4" y1="237.2" x2="1310.4" y2="237.2" stroke="#4f5358" stroke-width="1"/>
 <path d="M905.9,331.0 C907.7,332.8 911.3,342.7 916.7,341.8 C922.1,340.9 934.7,338.2 938.3,325.6 C941.9,313.0 938.3,279.2 938.3,266.2 C938.3,253.1 938.3,250.4 938.3,247.3" fill="none" stroke="#7a1010" stroke-width="9.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M905.9,331.0 C907.7,332.8 911.3,342.7 916.7,341.8 C922.1,340.9 934.7,338.2 938.3,325.6 C941.9,313.0 938.3,279.2 938.3,266.2 C938.3,253.1 938.3,250.4 938.3,247.3" fill="none" stroke="#c62828" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M905.9,331.0 C907.7,332.8 911.3,342.7 916.7,341.8 C922.1,340.9 934.7,338.2 938.3,325.6 C941.9,313.0 938.3,279.2 938.3,266.2 C938.3,253.1 938.3,250.4 938.3,247.3" fill="none" stroke="#f08a80" stroke-width="1.5" stroke-linecap="round" opacity="0.55" transform="translate(-1.3,-1.3)"/>
@@ -357,6 +372,21 @@
 <text x="1333.9" y="98.2" font-size="11" text-anchor="end" fill="#5F5E5A" font-weight="normal" >→ 120 A OPTIFUSE → WFCO</text>
 <text x="1333.9" y="113.2" font-size="11" text-anchor="end" fill="#5F5E5A" font-weight="normal" >main + (existing)</text>
 <text x="1338.0" y="768.6" font-size="11" text-anchor="end" fill="#2e7d32" font-weight="normal" >chassis (optional ground)</text>
+<line x1="264.1" y1="223.7" x2="202.1" y2="227.7" stroke="#6b6f74" stroke-width="0.9"/>
+<rect x="153.7" y="217.7" width="96.8" height="16" rx="8" fill="#ffffff" stroke="#9aa0a6"/>
+<text x="202.1" y="229.7" font-size="10.5" text-anchor="middle" fill="#3d4146" font-weight="bold" >P-clamp 1/4 in</text>
+<line x1="296.5" y1="202.1" x2="322.5" y2="188.1" stroke="#6b6f74" stroke-width="0.9"/>
+<rect x="295.8" y="178.1" width="53.4" height="16" rx="8" fill="#ffffff" stroke="#9aa0a6"/>
+<text x="322.5" y="190.1" font-size="10.5" text-anchor="middle" fill="#3d4146" font-weight="bold" >P-clamp</text>
+<line x1="669.1" y1="227.8" x2="571.1" y2="211.8" stroke="#6b6f74" stroke-width="0.9"/>
+<rect x="522.7" y="201.8" width="96.8" height="16" rx="8" fill="#ffffff" stroke="#9aa0a6"/>
+<text x="571.1" y="213.8" font-size="10.5" text-anchor="middle" fill="#3d4146" font-weight="bold" >P-clamp 1/4 in</text>
+<line x1="728.9" y1="361.4" x2="736.9" y2="321.4" stroke="#6b6f74" stroke-width="0.9"/>
+<rect x="688.5" y="311.4" width="96.8" height="16" rx="8" fill="#ffffff" stroke="#9aa0a6"/>
+<text x="736.9" y="323.4" font-size="10.5" text-anchor="middle" fill="#3d4146" font-weight="bold" >P-clamp 5/8 in</text>
+<line x1="1327.9" y1="237.2" x2="1255.9" y2="241.2" stroke="#6b6f74" stroke-width="0.9"/>
+<rect x="1229.2" y="231.2" width="53.4" height="16" rx="8" fill="#ffffff" stroke="#9aa0a6"/>
+<text x="1255.9" y="243.2" font-size="10.5" text-anchor="middle" fill="#3d4146" font-weight="bold" >P-clamp</text>
 <line x1="238.8" y1="785.0" x2="88.8" y2="855.0" stroke="#2C2C2A" stroke-width="1.2"/>
 <circle cx="238.8" cy="785.0" r="3" fill="#2C2C2A"/>
 <circle cx="88.8" cy="855.0" r="13" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
@@ -405,10 +435,10 @@
 <circle cx="1327.9" cy="304.7" r="3" fill="#2C2C2A"/>
 <circle cx="1372.9" cy="274.7" r="13" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
 <text x="1372.9" y="279.2" font-size="12.5" text-anchor="middle" fill="#ffffff" font-weight="bold" >12</text>
-<line x1="669.1" y1="227.8" x2="659.1" y2="157.8" stroke="#2C2C2A" stroke-width="1.2"/>
+<line x1="669.1" y1="227.8" x2="699.1" y2="157.8" stroke="#2C2C2A" stroke-width="1.2"/>
 <circle cx="669.1" cy="227.8" r="3" fill="#2C2C2A"/>
-<circle cx="659.1" cy="157.8" r="13" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
-<text x="659.1" y="162.3" font-size="12.5" text-anchor="middle" fill="#ffffff" font-weight="bold" >13</text>
+<circle cx="699.1" cy="157.8" r="13" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
+<text x="699.1" y="162.3" font-size="12.5" text-anchor="middle" fill="#ffffff" font-weight="bold" >13</text>
 <line x1="1201.5" y1="457.5" x2="1276.5" y2="497.5" stroke="#2C2C2A" stroke-width="1.2"/>
 <circle cx="1201.5" cy="457.5" r="3" fill="#2C2C2A"/>
 <circle cx="1276.5" cy="497.5" r="13" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
@@ -469,7 +499,7 @@
 <circle cx="735.0" cy="1080.0" r="11" fill="#185FA5"/>
 <text x="735.0" y="1084.5" font-size="11.5" text-anchor="middle" fill="#ffffff" font-weight="bold" >13</text>
 <text x="755.0" y="1080.0" font-size="12.5" text-anchor="start" fill="#2C2C2A" font-weight="bold" >Cushioned P-clamps</text>
-<text x="755.0" y="1095.0" font-size="11" text-anchor="start" fill="#5F5E5A" font-weight="normal" >ISPINNER stainless; every run held to the wall against vibration</text>
+<text x="755.0" y="1095.0" font-size="11" text-anchor="start" fill="#5F5E5A" font-weight="normal" >ISPINNER stainless, rubber-lined; 5/8 in on 2/0, 1/4-5/16 in on 8 AWG; one screw each into the wall</text>
 <circle cx="735.0" cy="1111.0" r="11" fill="#185FA5"/>
 <text x="735.0" y="1115.5" font-size="11.5" text-anchor="middle" fill="#ffffff" font-weight="bold" >14</text>
 <text x="755.0" y="1111.0" font-size="12.5" text-anchor="start" fill="#2C2C2A" font-weight="bold" >Box negative + ground bar</text>
