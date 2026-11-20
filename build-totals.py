@@ -15,7 +15,7 @@ import sys
 
 CHAPTER = pathlib.Path(__file__).parent / "chapters" / "09-accessories-and-modifications.md"
 # Purchase windows, plus the two tables totalled the same way.
-PHASES = ["Immediate", "Short-term", "Long-term", "Researching"]
+PHASES = ["Immediate", "Short-term", "Long-term", "Lithium Battery Project", "Researching"]
 TOTAL_LABEL = "**Phase total**"
 MONEY = re.compile(r"\$([\d,]+\.\d{2})")
 

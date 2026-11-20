@@ -9,8 +9,9 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
 | **Immediate** | now - truck in hand | 14 | **$2,236.92** |
-| **Short-term** | by 7 December 2026 (90 days) | 26 | **$7,629.23** |
+| **Short-term** | by 7 December 2026 (90 days) | 24 | **$5,620.08** |
 | **Long-term** | by 13 October 2027 (400 days) | 15 | **$2,471.49** |
+| **Lithium Battery Project** | 323SUT house batteries - see [Lithium Battery Project](#lithium-battery-project) | 9 | **$1,996.75** |
 | | | | |
 | Researching | unscheduled - see [Researching](#researching) | 7 | $929.98 |
 
@@ -74,11 +75,9 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [ICON 1/2 in drive Professional 25 in breaker bar](https://www.harborfreight.com/12-in-drive-25-in-professional-breaker-bar-64820.html) (Harbor Freight `64820`, model B325) | **$37.99** | Maintenance & security | **Bought** (owner, 5 November 2026) - price paid to confirm | Bought **instead of the 36 in, 3/4 in drive bar** (owner called it the 24 in; Harbor Freight's ICON 1/2 in bars are 18 in and 25 in - the TPR-grip version is `64821`, $39.99). **1/2 in drive fits the truck's 1/2 in impact sockets and the torque wrench's drive directly** - no 3/4-to-1/2 adapter needed. For breaking loose the 150 lb-ft lug nuts; set final torque with the torque wrench, not this |
 | [PITTSBURGH 6 in straight-jaw sheet metal seamer](https://www.harborfreight.com/6-inch-jaw-straight-sheet-metal-seamer-98728.html) (Harbor Freight `98728`) | **$18.99** | Maintenance & security | Planned | Regularly $24.99. Drop-forged jaws marked in 1/4 in bending increments, nickel-plated steel, 2.2 lb, lifetime warranty. Bends, seams or flattens sheet metal |
 | [IRWIN VISE-GRIP Original locking sheet metal tool, 8 in](https://www.amazon.com/dp/B0000TFGFU) (model `23`) | **$16.65** | Maintenance & security | Planned | Locking pliers with wide flat jaws for bending, forming and crimping sheet metal; turn screw sets the pressure, trigger release. Heat-treated alloy steel. Pairs with the PITTSBURGH seamer above |
-| [Renogy Reserve Mini Smart 12V 314Ah LiFePO4 battery](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) x 2 - **for the 323SUT** | **$1,614.05** paid (Renogy, ordered 12 Nov 2026): 2-pack `RBT-L12314-C1x2-US` at list, less the New Launch Offer ($200) and code WELCOME5 (5%, -$78.94) = $1,500.05 + $114.00 tax; free shipping. An earlier Core Mini 300Ah 2-pack order was refunded. The Early Black Friday $9.99 coupon package was not used and was refunded (owner, 12 Nov 2026) | Electronics | **Ordered 12 Nov 2026** | **Replaces the trailer's single sealed lead-acid house battery** (front basement, REF-033) - never mix lithium and lead-acid on one bank. Each: 15.1 x 8.0 x 9.6 in, 55.1 lb, 4,019 Wh, **charge voltage 14.4 V** (CC-CV), 220 A BMS, 215 A max continuous charge, 2,560 W continuous output, M8 terminals, IP65, self-heating (140 W pads), Bluetooth app, 5,000+ cycles at 80% DOD, 5-year warranty; up to 4P / 4S. Box includes the battery, 2 insulation sleeves and terminal bolts - **no cables, bus bar or fuse**. **Renogy's install clearances: 2-4 in above the battery and 7.87 in on the terminal/busbar side** - so the pair needs roughly 16 x 23 x 12 in of space, not just their 15.1 x 16 x 9.6 in footprint. **The pair: ~8,000 Wh, ~110 lb** - about 8 summer days or 5 cold days of 12 V use (chapter 15 estimates) without charging. Wire in parallel with equal-length cables to a common bus bar, a main fuse (class T) at the positive, and charge each battery full separately before connecting. **Before buying:** measure the front-basement battery box for two; read the converter's amp rating - it is a **WFCO Lithium / Lead Acid Auto Detect** unit (owner photos, 11 Nov 2026), so it should charge lithium at 14.6 V with no replacement; at ~55 A a full 8 kWh refill takes ~12-16 hours on shore power; set the DRIVEN DSLR-C40 solar controller to LiFePO4 (type 3.2-4). Weight: ~+50 lb net at the front, nearly all on the pin |
-| 323SUT lithium install - wiring and mounting parts (Amazon cart, 11 Nov 2026) - **for the 323SUT** | **$395.10** (after the $4.50 bus bar discount) | Electronics | Planned - in cart | Shirbly 2/0 cables (2 ft pair x 2, 1 ft pair), Blue Sea 5502 Class T block + 5119 300 A fuse, Joinfworld 400A copper bus bar pair, Blue Sea 7138 40 A breaker, Install Bay CUR838 8 AWG 3/8 in lugs, GOODTIMES strap kit. Itemized with the wiring plan in [chapter 15](15-fifth-wheel-candidates.md#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026); diagram in `references/323sut-lithium-wiring.svg`. 8 AWG wire, 5/16 in lugs, heat shrink, crimper, wood and rubber mat already owned |
 | Bonsicoky battery terminal anti-corrosion felt washers, 12-pack (6 red, 6 green) - **truck** | **$4.49** | Maintenance & security | Planned - in cart | For the truck's new **Super Start 65EXT group 65** top-post starting battery ([chapter 1](01-vehicle-information.md)). Disconnect negative first; red washer on +, green on -; reconnect positive first. Spares for later battery service |
 | [Easy Peasy Access Screen](https://easypeasyrvsolutions.com/) - custom zippered upper screen for the entry screen door - **for the 323SUT** | **$84.95** + shipping with spline and spline tool ($79.95 screen only) | Towing | Planned | Replaces the upper mesh panel of the screen door with a screen that has a zipper around its edge, so the door blind or shade can be reached from inside. Made to order: measure the door's screen opening **width and height, spline to spline**, and submit it on the order form; a flipped version exists for bottom-mounted blinds. Fit questions: info@easypeasyrvsolutions.com. Patent pending |
-| **Phase total** | **$7,629.23** |  |  | *26 items priced* |
+| **Phase total** | **$5,620.08** |  |  | *24 items priced* |
 
 ### Long-term
 
@@ -102,6 +101,25 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | Cleaning supplies |  | Maintenance & security | Planned | Ford-recommended Motorcraft products - itemized below |
 | [Chemical Guys Total Interior Cleaner, Protectant & Detailer, 16 oz](https://www.amazon.com/dp/B071ZTPRJL) | **$11.97** | Cleaning | Planned | One-step for dash, **cloth seats**, SYNC 4 screen, trim and glass - suits this truck's interior directly, and covers several categories at once |
 | **Phase total** | **$2,471.49** |  |  | *15 items priced* |
+
+### Lithium Battery Project
+
+Everything for the 323SUT's two-battery lithium bank, in one list: the batteries (ordered) and the Amazon wiring and mounting parts (cart of 19 Nov 2026, Black Friday prices, before tax). Wiring plan and install steps in [chapter 15](15-fifth-wheel-candidates.md#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026); stud order and every cable on the [hookup diagram](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/323sut-lithium-wiring.svg).
+
+| Item | Price | Category | Status | Notes |
+| --- | --- | --- | --- | --- |
+| [Renogy Reserve Mini Smart 12V 314Ah LiFePO4 battery](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) x 2 - **for the 323SUT** | **$1,614.05** paid (Renogy, ordered 12 Nov 2026): 2-pack `RBT-L12314-C1x2-US` at list, less the New Launch Offer ($200) and code WELCOME5 (5%, -$78.94) = $1,500.05 + $114.00 tax; free shipping. An earlier Core Mini 300Ah 2-pack order was refunded. The Early Black Friday $9.99 coupon package was not used and was refunded (owner, 12 Nov 2026) | Electronics | **Ordered 12 Nov 2026** | **Replaces the trailer's single sealed lead-acid house battery** (front basement, REF-033) - never mix lithium and lead-acid on one bank. Each: 15.1 x 8.0 x 9.6 in, 55.1 lb, 4,019 Wh, **charge voltage 14.4 V** (CC-CV), 220 A BMS, 215 A max continuous charge, 2,560 W continuous output, M8 terminals, IP65, self-heating (140 W pads), Bluetooth app, 5,000+ cycles at 80% DOD, 5-year warranty; up to 4P / 4S. Box includes the battery, 2 insulation sleeves and terminal bolts - **no cables, bus bar or fuse**. **Renogy's install clearances: 2-4 in above the battery and 7.87 in on the terminal/busbar side** - so the pair needs roughly 16 x 23 x 12 in of space, not just their 15.1 x 16 x 9.6 in footprint. **The pair: ~8,000 Wh, ~110 lb** - about 8 summer days or 5 cold days of 12 V use (chapter 15 estimates) without charging. Wire in parallel with equal-length cables to a common bus bar, a main fuse (class T) at the positive, and charge each battery full separately before connecting. **Before buying:** measure the front-basement battery box for two; read the converter's amp rating - it is a **WFCO Lithium / Lead Acid Auto Detect** unit (owner photos, 11 Nov 2026), so it should charge lithium at 14.6 V with no replacement; at ~55 A a full 8 kWh refill takes ~12-16 hours on shore power; set the DRIVEN DSLR-C40 solar controller to LiFePO4 (type 3.2-4). Weight: ~+50 lb net at the front, nearly all on the pin |
+| Shirbly 2/0 AWG cable, 3/8 in lugs, **2 ft red + black pair** x 2 | **$61.18** (2 x $30.59) | Electronics | Planned - in cart | The four battery-to-bus-bar cables, all the same length |
+| Shirbly 2/0 AWG cable, 3/8 in lugs, **1 ft red + black pair** | **$21.24** | Electronics | Planned - in cart | Red runs positive bus bar stud 4 to the Class T fuse; black is a spare |
+| Blue Sea 5502 Class T fuse block, 225-400 A | **$60.45** | Electronics | Planned - in cart | Sold by 4Wheel Online; fuse not included |
+| Blue Sea 5119 Class T fuse, **300 A** | **$68.37** | Electronics | Planned - in cart | Sized to protect the 2/0 cable |
+| Joinfworld 400A copper bus bar pair, 4 x 3/8 in studs, covers | **$35.98** | Electronics | Planned - in cart | Quantity 1 = red + black pair. Stud order on the [hookup diagram](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/323sut-lithium-wiring.svg) |
+| Blue Sea 7138 187-Series breaker, 40 A, surface mount | **$94.42** | Electronics | Planned - in cart | DRIVEN solar controller battery lead; doubles as its on/off switch |
+| Install Bay CUR838 ring lugs, 8 AWG, 3/8 in, 25-pack | **$11.08** | Electronics | Planned - in cart | DRIVEN leads at the bus bars |
+| GOODTIMES battery box hold-down strap kit (2 straps each) x 2 | **$29.98** (2 x $14.99) | Electronics | Planned - in cart | Two kits, owner's choice (19 Nov 2026) |
+| 8 AWG wire red + black, 8 AWG 5/16 in lugs, heat shrink, crimper, wood, rubber mat |  | Electronics | Owned | Owner's stock |
+| Renogy Rover 2 12V/24V 30A MPPT | - | Electronics | Deferred | Not counted ($89.99 if ever needed). The factory DRIVEN DSLR-C40 has a LiFePO4 setting (type 3.2-4); owner to confirm at the trailer |
+| **Phase total** | **$1,996.75** |  |  | *9 items priced* |
 
 ### Already owned
 
@@ -163,24 +181,9 @@ One further decision is deferred rather than an item: the **onboard air compress
 
 ### 323SUT power projects
 
-Two projects for the trailer's 12 V system, each with its full parts list. The lithium upgrade's rows sit in [Short-term](#short-term); the solar expansion's sit in [Deferred](#deferred). Install plan, connections and wiring diagram: [chapter 15](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/manual.html#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026).
+Two projects for the trailer's 12 V system, each with its full parts list. The lithium upgrade has its own list, [Lithium Battery Project](#lithium-battery-project); the solar expansion's sit in [Deferred](#deferred). Install plan, connections and wiring diagram: [chapter 15](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/manual.html#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026).
 
-**1. Lithium battery upgrade - Short-term, to order (11 Nov 2026)**
-
-| Part | Source | Price | Status |
-| --- | --- | --- | --- |
-| Renogy Reserve Mini Smart 12V 314Ah LiFePO4, 2-pack (`RBT-L12314-C1x2-US`) | Renogy | $1,614.05 | **Ordered 12 Nov 2026** - $1,500.05 + $114.00 tax |
-| Shirbly 2/0 AWG cable, 3/8 in lugs, 2 ft red + black pair x 2 | Amazon | $71.98 | In cart |
-| Shirbly 2/0 AWG cable, 3/8 in lugs, 1 ft red + black pair | Amazon | $24.99 | In cart |
-| Blue Sea 5502 Class T fuse block | Amazon | $57.98 | In cart |
-| Blue Sea 5119 Class T fuse, 300 A | Amazon | $76.45 | In cart |
-| Joinfworld 400A copper bus bar pair, 4 x 3/8 in studs, covers | Amazon | $44.98 | In cart |
-| Blue Sea 7138 breaker, 40 A (solar controller lead) | Amazon | $97.15 | In cart |
-| Install Bay CUR838 ring lugs, 8 AWG, 3/8 in | Amazon | $11.08 | In cart |
-| GOODTIMES hold-down strap kit | Amazon | $14.99 | Add to cart |
-| 8 AWG wire, 5/16 in lugs, heat shrink, crimper, wood, rubber mat | Owned | - | Owner's stock |
-| Renogy Rover 2 30A MPPT | Renogy | $89.99 | Deferred - DRIVEN DSLR-C40 has a LiFePO4 setting; owner to confirm |
-| **Total** | | **$2,009.15** | batteries paid with tax; Amazon parts after the $4.50 bus bar discount, before tax |
+**1. Lithium battery upgrade** - parts, prices and status are in the [Lithium Battery Project](#lithium-battery-project) list.
 
 **2. Solar expansion - Deferred, possible future upgrade (11 Nov 2026)**
 
