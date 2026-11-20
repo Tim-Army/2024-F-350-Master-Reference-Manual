@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="760" viewBox="0 0 980 760" font-family="Helvetica, Arial, sans-serif">
 <title>323SUT lithium battery hookup diagram</title>
-<desc>Two Renogy Reserve Mini 314Ah batteries wired in parallel with equal-length 2/0 cables to a positive and a negative 400 A bus bar. The positive bar feeds the MidNite MNDC250 enclosed 250 A breaker to the RV's existing main positive (disconnect switch, 120 A breaker, WFCO power centre) and a 40 A breaker to the DRIVEN DSLR-C40 solar controller. The RV main negative and the DRIVEN negative return to the negative bar.</desc>
+<desc>Two Renogy Reserve Mini 314Ah batteries wired in parallel with equal-length 2/0 cables to a positive and a negative 400 A bus bar. The positive bar feeds a MidNite MNEDC250 250 A breaker (50,000 A interrupt) to the RV's existing main positive (disconnect switch, 120 A breaker, WFCO power centre) and a 40 A breaker to the DRIVEN DSLR-C40 solar controller. The RV main negative and the DRIVEN negative return to the negative bar.</desc>
 <rect width="980" height="760" fill="#ffffff"/>
 <text x="490" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#2C2C2A">323SUT lithium battery hookup</text>
 <text x="490" y="54" text-anchor="middle" font-size="12" fill="#5F5E5A">Front basement · 2 x Renogy Reserve Mini 314Ah in parallel · 12 V</text>
@@ -12,7 +12,7 @@
   <!-- DRIVEN + : bar stud 3 -> breaker -> DRIVEN -->
   <line x1="560" y1="345" x2="560" y2="284" stroke="#D85A30" stroke-width="2"/>
   <line x1="560" y1="240" x2="560" y2="176" stroke="#D85A30" stroke-width="2"/>
-  <!-- MNDC250: bar stud 4 -> 250 A breaker -> RV main + -->
+  <!-- MNEDC250: bar stud 4 -> 250 A breaker -> RV main + -->
   <line x1="740" y1="345" x2="740" y2="288" stroke="#D85A30" stroke-width="5"/>
   <line x1="740" y1="236" x2="740" y2="196" stroke="#D85A30" stroke-width="4"/>
   <!-- battery positives, 2/0 -->
@@ -49,10 +49,10 @@
   <rect x="500" y="240" width="120" height="44" rx="6" fill="#FAECE7" stroke="#993C1D"/>
   <text x="560" y="259" font-weight="bold" fill="#712B13">40 A breaker</text>
   <text x="560" y="275" font-size="11" fill="#993C1D">Blue Sea 7138</text>
-  <!-- MNDC250 -->
+  <!-- MNEDC250 -->
   <rect x="660" y="236" width="160" height="52" rx="6" fill="#FAECE7" stroke="#993C1D"/>
-  <text x="740" y="256" font-weight="bold" fill="#712B13">MidNite MNDC250</text>
-  <text x="740" y="273" font-size="11" fill="#993C1D">250 A breaker, enclosed</text>
+  <text x="740" y="256" font-weight="bold" fill="#712B13">MidNite MNEDC250</text>
+  <text x="740" y="273" font-size="11" fill="#993C1D">250 A breaker · 50 kA</text>
   <!-- positive bar -->
   <rect x="200" y="330" width="600" height="44" rx="4" fill="#F0997B" stroke="#993C1D"/>
   <!-- negative bar -->
@@ -97,7 +97,7 @@
   <text x="420" y="140" text-anchor="middle">PV</text>
   <text x="568" y="214">8 AWG red B</text>
   <text x="568" y="318">8 AWG red A</text>
-  <text x="748" y="318">2/0 red, length TBD</text>
+  <text x="748" y="318">2/0 red, 1 ft</text>
   <text x="748" y="222">RV main + (existing)</text>
   <text x="300" y="404" text-anchor="middle" fill="#993C1D">2/0 red, 2 ft</text>
   <text x="440" y="404" text-anchor="middle" fill="#993C1D">2/0 red, 2 ft</text>
@@ -111,7 +111,7 @@
 <rect x="655" y="404" width="285" height="122" rx="6" fill="#FFFFFF" stroke="#B4B2A9"/>
 <g font-size="11" fill="#2C2C2A">
   <text x="666" y="423" font-weight="bold">Before you connect</text>
-  <text x="666" y="441">1. MNDC250 + disconnect OFF; cover the panel.</text>
+  <text x="666" y="441">1. MNEDC250 + disconnect OFF; cover the panel.</text>
   <text x="666" y="457">2. Charge each battery full on its own first.</text>
   <text x="666" y="473">3. Set the DRIVEN to 3.2-4 before it sees lithium.</text>
   <text x="666" y="489">4. Flat washer under each nut; torque per manual.</text>
