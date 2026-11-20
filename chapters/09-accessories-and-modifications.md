@@ -104,7 +104,7 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 
 ### Lithium Battery Project
 
-Everything for the 323SUT's two-battery lithium bank, in one list: the batteries (ordered) and the Amazon wiring and mounting parts (cart of 19 Nov 2026, Black Friday prices, before tax). Wiring plan and install steps in [chapter 15](15-fifth-wheel-candidates.md#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026); stud order and every cable on the [hookup diagram](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/323sut-lithium-wiring.svg).
+Everything for the 323SUT's two-battery lithium bank, in one list: the batteries (ordered) and the Amazon wiring and mounting parts (cart of 19 Nov 2026, Black Friday prices, before tax). Wiring plan and install steps in [chapter 15](15-fifth-wheel-candidates.md#rogue-sut-323sut---lithium-battery-upgrade-11-november-2026); stud order and every cable on the [hookup diagram](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/323sut-lithium-wiring.svg); how it all sits in the compartment on the [install layout](https://tim-army.github.io/2024-F-350-Master-Reference-Manual/references/323sut-lithium-layout.svg).
 
 | Item | Price | Category | Status | Notes |
 | --- | --- | --- | --- | --- |
