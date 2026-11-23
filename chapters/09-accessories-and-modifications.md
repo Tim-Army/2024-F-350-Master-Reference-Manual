@@ -8,7 +8,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
-| **Immediate** | now - truck in hand | 15 | **$2,380.41** |
+| **Immediate** | now - truck in hand | 16 | **$2,399.40** |
 | **Short-term** | by 7 December 2026 (90 days) | 24 | **$5,620.08** |
 | **Long-term** | by 13 October 2027 (400 days) | 15 | **$2,471.49** |
 | **Lithium Battery Project** | 323SUT house batteries - see [Lithium Battery Project](#lithium-battery-project) | 15 | **$2,237.91** |
@@ -48,7 +48,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | **Holt Industries locking grease coupler** - Harbor Freight [`56123`](https://www.harborfreight.com/locking-grease-coupler-56123.html) (Holt is a Harbor Freight brand) | **$19.54** (22.99 list, less 15%) | Maintenance & security | **Bought 18 Sep 2026** | Fits the grease gun already owned. For the B&W saddle zerk (every six months) and chassis fittings |
 | [Ford F-350 Super Duty workshop manual, 2023-2025, on USB](https://www.ebay.com/itm/127998926201) | **$24.99** | Documentation | **Received 15 Sep 2026** | Held locally as REF-028 (HTML manual, about 39,000 pages). First use: transmission capacity, front axle type and the rear axle fill procedure in chapter 6. GCWR is not in it. Free USPS Media Mail. Listed as covering the 7.3L V8. Unblocks the torque atlas in [chapter 5](05-torque-specifications.md), the transmission fluid capacity in [chapter 6](06-fluids-and-capacities.md), the wiring work in [chapter 7](07-electrical-atlas.md) and the whole of [Appendix A](appendix-a-workshop-manual-intake.md). Third-party USB compilation, not a Ford subscription - confirm coverage on arrival |
 | **Tailgate cap** - Ford [`PC3Z-2841018-AC`](https://www.ford.com/product/parts?partNumber=PC3Z2841018AC&sectionId=779790716&make=Ford&model=F-350+Super+Duty&year=2024) tailgate molding, genuine Ford | **$143.49** ([FordPartsGiant](https://www.fordpartsgiant.com/parts/ford-moulding_pc3z-2841018-ac.html) sale price) | Tires and interior | Planned | Molding along the top of the tailgate. MSRP $209.78. Supersedes `PC3Z-2841018-AA`; listed for 2023-2025 F-250/F-350 Super Duty. **Confirm the suffix with a Ford dealer using the VIN** - another variant, `-AB`, exists for a different trim and tailgate step setup. Ford.com's own page for the number redirected to an unrelated part on 23 Nov 2026 |
-| **Phase total** | **$2,380.41** |  |  | *15 items priced* |
+| [PITTSBURGH automotive plastic fastener kit, 240-piece](https://www.harborfreight.com/automotive-plastic-fastener-kit-240-piece-57671.html) (Harbor Freight `57671`) - **for the 1/4 in barbed fasteners** | **$18.99** | Tires and interior | Planned | Wanted for its **1/4 in barbed push fasteners**; the rest of the assortment is spare trim clips. Inside Track Club member deal **$9.98** until 25 Nov 2026. 4.8 stars from 2,607 reviews. Harbor Freight's page does not list the kit's contents, so check the count of 1/4 in barbed pieces in store |
+| **Phase total** | **$2,399.40** |  |  | *16 items priced* |
 
 ### Short-term
 
