@@ -25,7 +25,7 @@ Equipment bought for the trailer. Prices as paid, before tax unless noted. Model
 
 | Date | Change | Why | Notes / next step |
 | --- | --- | --- | --- |
-| 2026-11-23 | **Removed the bathroom wall cabinet** above the sink | The owner kept hitting his head on it while brushing his teeth | **Plan: build a replacement, mounted higher.** The bare wall (photo `imports/323SUT Camping World AZ/bathroom/bathroom-cabinet-removed.jpg`) shows the old screw holes - they mark where the wall has framing or backing behind the thin paneling, so reuse those lines for the new cabinet's screws rather than relying on the paneling. Also visible: notches in the panel edge at the left, a short trim strip at the ceiling, and a little discoloration near the left corner. Keep the new cabinet clear of the GFCI outlet and the ceiling vent fan, and build it light (RV-grade plywood or similar). Fill or cover the old holes the new cabinet won't hide |
+| 2026-11-23 | **Removed the bathroom wall cabinet** above the sink | Kept hitting heads on it while brushing teeth (owner) | **Plan: build a replacement, mounted higher.** The bare wall (photo `imports/323SUT Camping World AZ/bathroom/bathroom-cabinet-removed.jpg`) shows the old screw holes - they mark where the wall has framing or backing behind the thin paneling, so reuse those lines for the new cabinet's screws rather than relying on the paneling. Also visible: notches in the panel edge at the left, a short trim strip at the ceiling, and a little discoloration near the left corner. Keep the new cabinet clear of the GFCI outlet and the ceiling vent fan, and build it light (RV-grade plywood or similar). Fill or cover the old holes the new cabinet won't hide |
 
 ## Warranty claims
 
