@@ -1,7 +1,19 @@
 # RV Service Log
 
-Repairs, parts and warranty claims for the **2026 Forest River Rogue SUT 323SUT** (VIN `5NHFVGH23TC005638`, picked up 23 October 2026).
+Purchases, repairs, parts and warranty claims for the **2026 Forest River Rogue SUT 323SUT** (VIN `5NHFVGH23TC005638`, picked up 23 October 2026).
 Related chapter: [15. Fifth-Wheel Candidates](../chapters/15-fifth-wheel-candidates.md)
+
+## Purchases
+
+Equipment bought for the trailer. Prices as paid, before tax unless noted. Model numbers are left blank where they weren't given; take them from the boxes or receipts.
+
+| Date | Item | Vendor | Cost | Notes |
+| --- | --- | --- | --- | --- |
+| 2026-11-23 | **Furrion Vision S+ side camera with marker light** (RV observation system) | Midwest RV Center, St. Louis MO | **$359.95** | Replaces a side marker light; pairs with the Vision S+ display below. Model no. to record |
+| 2026-11-23 | **Furrion Vision S+ backup camera system, 7 in display, infrared night vision** | Midwest RV Center, St. Louis MO | **$539.95** | Rear camera and 7 in monitor for the truck cab. Model no. to record. Check whether the trailer is pre-wired for Furrion (a rear-cap mount plate) |
+| 2026-11-23 | **Zero-G drinking water hose, 1/2 in x 50 ft** | Midwest RV Center, St. Louis MO | **$53.99** | Fresh-water hookup hose |
+| 2026-11-24 | Spare slide room controller | Midwest RV Center, St. Louis MO | $192.47 | See *Parts and repairs* |
+| | **Total** | | **$1,146.36** | 4 items |
 
 ## Parts and repairs
 

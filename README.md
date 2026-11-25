@@ -171,6 +171,7 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | **L4** | **[Scale Weights](logs/scale-weights.md)** |
 | | [Ticket record](logs/scale-weights.md#ticket-record) |
 | **L5** | **[RV Service Log](logs/rv-service-log.md)** |
+| | [Purchases](logs/rv-service-log.md#purchases) |
 | | [Parts and repairs](logs/rv-service-log.md#parts-and-repairs) |
 | | [Warranty claims](logs/rv-service-log.md#warranty-claims) |
 
