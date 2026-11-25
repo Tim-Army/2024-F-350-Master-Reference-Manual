@@ -21,6 +21,12 @@ Equipment bought for the trailer. Prices as paid, before tax unless noted. Model
 | --- | --- | --- | --- | --- |
 | 2026-11-24 | **Spare slide room controller** | Bought at Midwest RV Center, St. Louis MO / **$192.47** (model not recorded; the factory unit is a **BAL Exact-Slide** controller in the bedroom cabinet, photos `IMG_1965-1966`) | The factory controller is malfunctioning | Fit as a stand-in until the warranty replacement arrives. Keep the receipt. Once the warranty unit arrives, keep this one as a spare |
 
+## Modifications
+
+| Date | Change | Why | Notes / next step |
+| --- | --- | --- | --- |
+| 2026-11-23 | **Removed the bathroom wall cabinet** above the sink | The owner kept hitting his head on it while brushing his teeth | **Plan: build a replacement, mounted higher.** The bare wall (photo `imports/323SUT Camping World AZ/bathroom/bathroom-cabinet-removed.jpg`) shows the old screw holes - they mark where the wall has framing or backing behind the thin paneling, so reuse those lines for the new cabinet's screws rather than relying on the paneling. Also visible: notches in the panel edge at the left, a short trim strip at the ceiling, and a little discoloration near the left corner. Keep the new cabinet clear of the GFCI outlet and the ceiling vent fan, and build it light (RV-grade plywood or similar). Fill or cover the old holes the new cabinet won't hide |
+
 ## Warranty claims
 
 | Opened | Item | Claimed with | Claim / RO no. | Status |
