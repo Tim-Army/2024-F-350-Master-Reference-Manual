@@ -45,6 +45,7 @@ SECTIONS = [
     ("logs/module-change-log.md",                     "log-module",    "L2", "Module Change Log"),
     ("logs/accessory-log.md",                         "log-accessory", "L3", "Accessory Record"),
     ("logs/scale-weights.md",                         "log-scale",     "L4", "Scale Weights"),
+    ("logs/rv-service-log.md",                        "log-rv",        "L5", "RV Service Log"),
 ]
 
 # Markdown file -> on-page anchor, for rewriting cross-references.

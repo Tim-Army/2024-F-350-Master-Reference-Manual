@@ -170,6 +170,9 @@ VIN-specific ownership, towing, and service reference for a 2024 Ford F-350 Supe
 | **L3** | **[Accessory Installation Record](logs/accessory-log.md)** |
 | **L4** | **[Scale Weights](logs/scale-weights.md)** |
 | | [Ticket record](logs/scale-weights.md#ticket-record) |
+| **L5** | **[RV Service Log](logs/rv-service-log.md)** |
+| | [Parts and repairs](logs/rv-service-log.md#parts-and-repairs) |
+| | [Warranty claims](logs/rv-service-log.md#warranty-claims) |
 
 <!--/CONTENTS-->
 
@@ -209,7 +212,7 @@ It sums the Price column per phase and for the Researching table, skipping `Defe
 
 ```
 chapters/     One Markdown file per manual chapter
-logs/         Fillable running records (service, modules, accessories, scale weights)
+logs/         Fillable running records (service, modules, accessories, scale weights, RV service)
 references/   Notes on the REF-0NN source library
 source/       The compiled PDF this repository was scaffolded from
 imports/      Local-only staging for uploaded material (gitignored)

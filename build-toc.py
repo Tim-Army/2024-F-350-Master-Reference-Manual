@@ -39,6 +39,7 @@ LOGS = [
     ("logs/module-change-log.md",  "L2"),
     ("logs/accessory-log.md",      "L3"),
     ("logs/scale-weights.md",      "L4"),
+    ("logs/rv-service-log.md",     "L5"),
 ]
 
 
