@@ -8,7 +8,7 @@ Three windows, measured from the purchase date of **8 September 2026**. The road
 
 | Window | Target | Items | Cost |
 | --- | --- | --- | --- |
-| **Immediate** | now - truck in hand | 18 | **$3,036.13** |
+| **Immediate** | now - truck in hand | 19 | **$3,058.61** |
 | **Short-term** | by 7 December 2026 (90 days) | 24 | **$5,620.08** |
 | **Long-term** | by 13 October 2027 (400 days) | 15 | **$2,471.49** |
 | **Lithium Battery Project** | 323SUT house batteries - see [Lithium Battery Project](#lithium-battery-project) | 15 | **$2,237.91** |
@@ -51,7 +51,8 @@ Price cells are left blank for real quotes. The only priced items in this chapte
 | [soikoi 7 mm (1/4 in) hole push-clip plastic rivets, 200 pcs](https://www.amazon.com/s?k=soikoi+7mm+push+clip+plastic+rivets+200pcs) (DazzyD store) | **$9.99 paid** (Amazon, ordered 22 Nov 2026) | Tires and interior | **Installed 23 Nov 2026** | Used to fit the tailgate cap - **worked perfectly** (owner). Black nylon push-type rivets: 7 mm stem, 18.6 mm (~3/4 in) head, 23 mm tall; fit a 7 mm (1/4 in) hole. 4.6 stars from 147 ratings. Plenty left over as spares; reviews say they're one-use, so fit new ones if the cap comes off |
 | [Tractor Supply 11.3 cu ft aluminum low-profile crossover truck tool box, 73 in, matte black](https://www.tractorsupply.com/) (TSC item `1649155`) | **$535.99** (Black Friday sale price - paid to confirm) | Storage | **Installed by 24 Nov 2026** (owner photos) | Regular price $669.99. 73 x 20 x 18 in, sits across the bed rails behind the cab. Lockable latches both sides, gas-strut lid, weather stripping. 4.4 stars from 249 reviews. Held by the J-hooks below. Photos: `imports/truck-f350/toolbox/`. **Check trailer clearance before towing** - see the note under this table |
 | Tractor Supply truck tool box J-hook mounting kit (TSC part `1342065`), **2 sets of 2 hooks** | **$39.98** (2 sets at $19.99 - per set assumed; confirm on the receipt) | Storage | **Installed by 24 Nov 2026** | A threaded J-rod hooks under the bed-rail flange; an aluminum block on the toolbox floor takes a bolt down through the box floor and clamps it. Two per side. Snug them evenly and recheck after the first few hundred miles - the rail lip is the only thing holding the box |
-| **Phase total** | **$3,036.13** |  |  | *18 items priced* |
+| [Kobalt 10 oz dual-thrust caulk gun](https://www.lowes.com/search?searchTerm=6536038) (Lowe's item `6536038`) | **$22.48 paid** (Lowe's, 24 Nov 2026) | Maintenance & security | **Bought 24 Nov 2026** | Standard 10 oz cartridges. For resealing - the 323SUT's front-cap corner had a hole in the sealant ([chapter 15](15-fifth-wheel-candidates.md)); use a self-leveling lap sealant on the roof and a non-sag one on the walls and cap, matched to the roof material |
+| **Phase total** | **$3,058.61** |  |  | *19 items priced* |
 
 **Tool box and the trailer (24 Nov 2026).** The crossover box sits **on top of the bed rails** at the front of the bed - the same space the 323SUT's front overhang passes over. Chapter 15 puts that overhang only **about 6 in above the rails when hitched** (provisional, [nose clearance](15-fifth-wheel-candidates.md#rogue-sut-323sut---nose-clearance-over-the-bed-9-october-2026)). **Before the next tow:** measure the lid's height above the rail, and with the trailer hitched, check the gap from the overhang to the lid straight ahead and at a full turn each way. If it's under a few inches, raise the hitch, or remove the box for towing.
 
