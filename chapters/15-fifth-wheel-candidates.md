@@ -583,7 +583,7 @@ Estimates throughout: appliance watts are typical, not nameplate; fuel is interp
 
 | Part | Source | Price | Status |
 | --- | --- | --- | --- |
-| [Renogy Reserve Mini Smart 12V 314Ah, 2-pack](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) (`RBT-L12314-C1x2-US`) | Renogy | $1,614.05 paid ($1,500.05 + $114.00 tax) | **Ordered 12 Nov 2026** |
+| [Renogy Reserve Mini Smart 12V 314Ah, 2-pack](https://www.renogy.com/products/reserve-mini-smart-12v-200ah-300ah-lifepo4-battery) (`RBT-L12314-C1x2-US`) | Renogy | $1,614.05 paid ($1,500.05 + $114.00 tax) | **Ordered 12 Nov 2026**; received, **both charged to 100% 26 Nov 2026** |
 | ~~[Renogy Rover 2 12V/24V 30A MPPT](https://www.renogy.com/products/rover-2-20a-30a-40a-50a-mppt-solar-charge-controller)~~ | Renogy | $119.99 (20A from $89.99) | **Deferred** - the factory DRIVEN DSLR-C40 has a LiFePO4 setting; **owner to confirm on the controller in person** |
 | Shirbly 2/0 AWG cable, 3/8 in lugs, **2 ft red + black pair x 2** | Amazon | $61.18 | In cart - the four battery cables, all the same length |
 | Shirbly 2/0 AWG cable, 3/8 in lugs, **1 ft red + black pair** | Amazon | $21.24 | In cart - red for bus bar stud 4 to the MNDC250; black is a spare |
@@ -625,7 +625,7 @@ The owner's existing 8 AWG red and black leads each have a 5/16 in lug on one en
 
 1. Disconnect switch off; cover the solar panel or unplug it at the controller.
 2. Photograph the existing wiring; remove the Electric World battery.
-3. **Charge each Renogy battery full on its own** before paralleling them.
+3. **Charge each Renogy battery full on its own** before paralleling them. **Done: both at 100% (owner, 26 Nov 2026).**
 4. Mount the board, mat, cleats, batteries and straps.
 5. Wire the 2/0 cables with both MNDC250 breakers **off**, then the 250 A breaker to the RV's main positive (250 A studs **220 in-lb** per the box label, MNEDC40 studs 30 in-lb; then the box cover); flat washers under the nuts (not the bus bars' lock washers; a washer under the 3/8 in lugs on the batteries' M8 terminals).
 6. Set the DRIVEN DSLR-C40 to **LiFePO4** before it sees the new batteries: battery-type screen, long-press **+**, choose **3.2-4**, long-press **+** to save (factory default is lead-acid USR1). Reconnect its battery leads through the breaker before the panel.
