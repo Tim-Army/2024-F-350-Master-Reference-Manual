@@ -10398,8 +10398,10 @@ the same day</td>
 <td><strong>Furrion FCR11DCGTA-BG-RHH</strong>, 12 V DC compressor
 fridge-freezer: <strong>11 A rated, 132 W input</strong>, 100 W defrost
 heater, minimum circuit 15 A, maximum fuse 27 A, R600a refrigerant (1.52
-oz / 43 g), 115 lb (52 kg). The biggest steady 12 V load - about 600 Wh
-a summer day. <strong>Rating label re-photographed 26 Nov 2026</strong>
+oz / 43 g), 115 lb (52 kg). The biggest steady 12 V load - <strong>about
+1,000 Wh a day at 75 °F and 1,500 Wh at 95 °F</strong> (Furrion spec
+sheet; corrected from an earlier ~600 Wh estimate). <strong>Rating label
+re-photographed 26 Nov 2026</strong>
 (<code>imports/323SUT Camping World AZ/fridge/furrion-fcr11-rating-label.jpg</code>),
 same figures, plus: CSA C/US certificate 264971; design pressure 158 psi
 high side, 6 psi low side; cyclopentane-blown insulation; made in
@@ -10408,7 +10410,19 @@ the compressor motor driver</strong>, resettable PTC fuses on the 5 V
 supply (F1) and defrost heater (F2), and a <strong>chassis ground
 lead</strong> besides 12 V + and -. Since the R600a refrigerant
 (isobutane) is flammable, refrigerant work is for a qualified technician
-only</td>
+only. <strong>Furrion spec sheet</strong> CCD-0009663, rev 01.30.2025
+(<code>imports/323SUT Camping World AZ/fridge/ccd-0009663.pdf</code>,
+owner, 26 Nov 2026) - covers the <strong>-B</strong> revision (Lippert
+PN <strong>2024120714</strong> for BG-RHH-B; this unit's label reads
+FCR11DCGTA-BG-RHH without the -B, so confirm the PN before ordering
+parts): <strong>10.6 cu ft</strong> (7.4 fridge + 3.2 freezer); average
+draw <strong>3.4 A at 75 °F, 5.2 A at 95 °F</strong>; compressor 11 A
+max, defrost 8 A, standby 0.05 A; fridge 33.8-44.6 °F, freezer -0.4 to
+10.4 °F; climate class N/ST/T (61-109 °F ambient); cool-down 145 min
+from 90 °F to 5 °F; 42 dBA; <strong>low/high-voltage alarm below 10.4 V
+or above 14.6 V</strong>; battery monitor and fault codes; 23 3/8 W x 59
+5/8 H x 25 3/4 D in, 121 lb. Support: Lippert, 432-547-7378,
+support.lci1.com/furrion</td>
 </tr>
 <tr>
 <td>Other 12 V controls (owner photos, 11 Nov 2026)</td>
@@ -10638,32 +10652,52 @@ low, tapering as they fill.</p>
 </thead>
 <tbody>
 <tr>
-<td>200 W, summer (fridge ~600 Wh + ~350 Wh other)</td>
+<td>200 W, mild day, 75 °F (fridge ~1,000 Wh + ~350 Wh other)</td>
 <td>~750 Wh</td>
-<td>~950 Wh</td>
-<td><strong>~-200 Wh</strong></td>
-<td><strong>~20 min/day</strong></td>
+<td>~1,350 Wh</td>
+<td>~-600 Wh</td>
+<td>~50 min/day</td>
+</tr>
+<tr>
+<td>200 W, hot day, 95 °F (fridge ~1,500 Wh + ~350 Wh other)</td>
+<td>~750 Wh</td>
+<td>~1,850 Wh</td>
+<td><strong>~-1,100 Wh</strong></td>
+<td><strong>~1.6 hr/day</strong></td>
 </tr>
 <tr>
 <td>200 W, cold night (+6 hr furnace blower)</td>
 <td>~750 Wh</td>
-<td>~1,550 Wh</td>
-<td>~-800 Wh</td>
-<td>~1.1 hr/day</td>
+<td>~1,950 Wh</td>
+<td>~-1,200 Wh</td>
+<td>~1.7 hr/day</td>
 </tr>
 <tr>
-<td>400 W, summer</td>
+<td>400 W, hot day</td>
 <td>~1,500 Wh</td>
-<td>~950 Wh</td>
-<td><strong>~+550 Wh</strong></td>
+<td>~1,850 Wh</td>
+<td>~-350 Wh</td>
+<td>~30 min/day</td>
+</tr>
+<tr>
+<td>600 W, hot day</td>
+<td>~2,250 Wh</td>
+<td>~1,850 Wh</td>
+<td><strong>~+400 Wh</strong></td>
 <td>none</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>200 W nearly covers a summer day</strong> but not the 12 V
-fridge plus the furnace in cold weather; <strong>400-600 W</strong> plus
-a lithium bank is the usual boondocking upgrade. The generator is needed
-for the A/Cs in any case.</p>
+<p><strong>Corrected 26 Nov 2026 from Furrion's spec sheet</strong>
+(CCD-0009663, below): the fridge averages <strong>3.4 A at 75 °F and 5.2
+A at 95 °F</strong> - about <strong>1,000-1,500 Wh a day</strong>, not
+the ~600 Wh first assumed. So <strong>200 W of solar does not cover even
+a mild day</strong>; about <strong>600 W</strong> is needed to break
+even in hot weather. With the planned ~8,000 Wh lithium bank, a hot day
+with 200 W of solar runs about <strong>7 days</strong> before the
+generator is needed (about 4 days with no sun at all). The generator is
+needed for the A/Cs in any case. The generator is needed for the A/Cs in
+any case.</p>
 <p>Estimates throughout: appliance watts are typical, not nameplate;
 fuel is interpolated between the published zero, half and full-load
 rates; solar at 75% system efficiency; ~700 W into the batteries while
